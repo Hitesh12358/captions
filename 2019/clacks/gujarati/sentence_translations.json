@@ -1,0 +1,370 @@
+[
+ {
+  "translatedText": "ક્યારેક, ગણિત અને ભૌતિકશાસ્ત્ર  એવું  ષડયંત્ર રચે છે જે સાચું હોવું ખૂબ જ સારું લાગે.",
+  "input": "Sometimes, math and physics conspire in ways that just feel too good to be true.",
+  "time_range": [
+   4.0,
+   8.0
+  ]
+ },
+ {
+  "translatedText": "ચાલો એક અજીબ પ્રકારનું ગાણિતિક ક્રોકેટ રમીએ.",
+  "input": "Let's play a strange sort of mathematical croquet.",
+  "time_range": [
+   8.64,
+   10.78
+  ]
+ },
+ {
+  "translatedText": "આપણી  પાસે બે સ્લાઇડિંગ બ્લોક્સ અને દિવાલ હશે.",
+  "input": "We're going to have two sliding blocks and a wall.",
+  "time_range": [
+   11.28,
+   13.54
+  ]
+ },
+ {
+  "translatedText": "પહેલો બ્લોક જમણી બાજુથી અમુક વેગથી અંદર આવે છે, જ્યારે બીજો સ્થિર છે.",
+  "input": "The first block starts by coming in at some velocity from the right, while the second one starts out stationary.",
+  "time_range": [
+   14.08,
+   19.18
+  ]
+ },
+ {
+  "translatedText": "અતિશય આદર્શવાદી ભૌતિકશાસ્ત્રીઓ હોવાને કારણે, ચાલો માની લઈએ કે ત્યાં કોઈ ઘર્ષણ નથી અને બધી અથડામણો સંપૂર્ણ સ્થિતિસ્થાપક છે, જેનો અર્થ છે કે કોઈ ઊર્જા ગુમાવાતી  નથી.",
+  "input": "Being overly idealistic physicists, let's assume there's no friction and all of the collisions are perfectly elastic, which means no energy is lost.",
+  "time_range": [
+   19.92,
+   27.78
+  ]
+ },
+ {
+  "translatedText": "તમારામાંના હોશિયાર લોકો ફરિયાદ કરી શકે છે કે આવી અથડામણોથી કોઈ અવાજ નથી આવતો, પરંતુ અહીં તમારું લક્ષ્ય કેટલી અથડામણો થાય છે તેની ગણતરી કરવાનો છે.",
+  "input": "The astute among you might complain that such collisions would make no sound, but your goal here is to count how many collisions take place.",
+  "time_range": [
+   28.4,
+   35.68
+  ]
+ },
+ {
+  "translatedText": "તેથી તે ધારણા સાથે સહેજ અસહમતી થી , હું તે ગણતરી તરફ તમારું ધ્યાન વધુ સારી રીતે દોરવા માટે થોડોક ક્લૅક અવાજ રાખું છું.",
+  "input": "So in slight conflict with that assumption, I want to leave a little clack sound to better draw your attention to that count.",
+  "time_range": [
+   36.04,
+   41.68
+  ]
+ },
+ {
+  "translatedText": "સૌથી સરળ કેસ એ છે કે જ્યારે બંને બ્લોકનું દળ સમાન  હોય.",
+  "input": "The simplest case is when both blocks have the same mass.",
+  "time_range": [
+   42.32,
+   44.92
+  ]
+ },
+ {
+  "translatedText": "પ્રથમ બ્લોક બીજાને અથડાય, ત્યારે  પોતાનો વેગ બીજા બ્લોક ને  વિનિમય કરે છે, પછી બીજો એક દિવાલથી ટકરાય  છે, અને પછી તેના તમામ વેગને પ્રથમમાં સ્થાનાંતરિત કરે છે, જે પછી અનંત તરફ પ્રયાણ કરે છે.",
+  "input": "The first block hits the second, transferring all of its momentum, then the second one bounces off the wall, and then transfers all of its momentum back to the first, which then sails off towards infinity.",
+  "time_range": [
+   45.38,
+   55.28
+  ]
+ },
+ {
+  "translatedText": "કુલ ત્રણ ક્લેક્સ",
+  "input": "Three total clacks.",
+  "time_range": [
+   55.86,
+   56.8
+  ]
+ },
+ {
+  "translatedText": "જો પ્રથમ બ્લોક બીજા બ્લોકના દળના 100 ગણો હોય તો શું થાય ?",
+  "input": "What about if the first block was 100 times the mass of the second one?",
+  "time_range": [
+   57.44,
+   61.18
+  ]
+ },
+ {
+  "translatedText": "હું પ્રૉમિશ  કરું છું કે હું તમને યોગ્ય સમયે તમામ સંબંધિત ભૌતિકશાસ્ત્ર સમજાવીશ, તમે અહીં ગતિશીલતાની આગાહી કેવી રીતે કરશો તે સંપૂર્ણ રીતે સ્પષ્ટ નથી, પરંતુ પંચલાઇન પર જવાના ઉત્સાહ થી , ચાલો જોઈએ કે શું થાય છે.",
+  "input": "I promise I will explain to you all the relevant physics in due course, it's not entirely obvious how you would predict the dynamics here, but in the spirit of getting to the punchline, let's watch what happens.",
+  "time_range": [
+   61.84,
+   71.28
+  ]
+ },
+ {
+  "translatedText": "બીજો બ્લોક  દિવાલ અને પ્રથમ બ્લોકની વચ્ચે આગળ-પાછળ અથડાતો રહેશે, તેના દળ કરતાં 100 ગણો, બ્રેકઆઉટ જેવી આનંદદાયક રમતની જેમ, ધીમે ધીમે અને  વિવેકપૂર્વક તે પ્રથમ બ્લોકની ગતિને વિરુદ્ધ દિશામાં નિર્દેશિત કરવા માટે પ્રયત્ન કરશે.",
+  "input": "The second one will keep bouncing back and forth between the wall and the first block, 100 times its mass, like a satisfying game of Breakout, slowly and discreetly redirecting that first block's momentum to point in the opposite direction.",
+  "time_range": [
+   71.9,
+   83.84
+  ]
+ },
+ {
+  "translatedText": "કુલ મળીને, દરેક બ્લોક અનંત તરફ સરકતા પહેલા 31 અથડામણ કરશે અને  ફરી ક્યારેય સ્પર્શી શકશે નહીં.",
+  "input": "In total, there will be 31 collisions before each block is sliding off towards infinity, never to be touched again.",
+  "time_range": [
+   83.84,
+   90.62
+  ]
+ },
+ {
+  "translatedText": "જો પ્રથમ બ્લોક બીજા બ્લોકના દળના 10,000 ગણા હોય તો શું?",
+  "input": "What if the first block was 10,000 times the mass of the second one?",
+  "time_range": [
+   91.58,
+   95.18
+  ]
+ },
+ {
+  "translatedText": "તે કિસ્સામાં, ત્યાં ઘણા વધુ ક્લેક્સ થશે, જે એક જ સમયે ખૂબ જ ઝડપથી થાય છે, કુલ  313 અથડામણો થશે.",
+  "input": "In that case, there would be quite a few more clacks, all happening very rapidly at one point, adding up to 313 total collisions.",
+  "time_range": [
+   95.86,
+   109.0
+  ]
+ },
+ {
+  "translatedText": "સારું, રાહ જુઓ, રાહ જુઓ...  હજુ રાહ જુઓ... ઓકે , 314 ક્લેક્સ.",
+  "input": "Well, hang on, wait for it…wait for it… Okay, 314 clacks.",
+  "time_range": [
+   109.22,
+   118.48
+  ]
+ },
+ {
+  "translatedText": "જો પ્રથમ બ્લોક બીજાના દળના 1,000,000 ગણો હોત , તો ફરીથી, આપણી બધી ઉન્મત્ત આદર્શવાદી પરિસ્થિતિઓ સાથે, લગભગ તમામ ક્લેક્સ એક મોટા વિસ્ફોટમાં થાય છે, આ વખતે કુલ 3,141 અથડામણો થાય છે.",
+  "input": "If the first block was 1,000,000 times the mass of the other, then again, with all of our crazy idealistic conditions, almost all of the clacks happen in one big burst, this time resulting in a total of 3,141 collisions.",
+  "time_range": [
+   119.3,
+   132.68
+  ]
+ },
+ {
+  "translatedText": "કદાચ તમે અહીં પેટર્ન જોશો , જો કે તમે તે જોઈ ન શકો તો કોઈ સમસ્યા નથી, કારણ કે તે બધી અપેક્ષાઓને અવગણે છે.",
+  "input": "Perhaps you see the pattern here, though it's forgivable if you don't, since it defies all expectation.",
+  "time_range": [
+   133.76,
+   138.6
+  ]
+ },
+ {
+  "translatedText": "જ્યારે તે પ્રથમ બ્લોકનું  દળ બીજાના દળના 100 ગણાની કોઈ ઘાત હોય છે, ત્યારે અથડામણની કુલ સંખ્યા પાઈ જેવા જ અંકો સમાન હોય  છે.",
+  "input": "When the mass of that first block is some power of 100 times the mass of the second, the total number of collisions have the same digits as pi.",
+  "time_range": [
+   138.6,
+   147.2
+  ]
+ },
+ {
+  "translatedText": "જ્યારે આ  મારી સાથે પહેલીવાર શેર કરવામાં આવ્યું ત્યારે આનાથી મને અત્યંત આશ્ચર્ય થયું .",
+  "input": "This absolutely blew my mind when it was first shared with me.",
+  "time_range": [
+   148.24,
+   151.26
+  ]
+ },
+ {
+  "translatedText": "મને આ હકીકતનો પરિચય કરાવવા નો  શ્રેય  દર્શક હેનરી કેવિલને જાય છે , જે મૂળ ગણિતશાસ્ત્રી ગ્રેગરી ગેલપરિન દ્વારા 1995 માં શોધાયેલ અને 2003 માં પ્રકાશિત થયું હતું.",
+  "input": "Credit to the viewer Henry Cavill for introducing me to this fact, which was originally discovered by the mathematician Gregory Galperin in 1995 and published in 2003.",
+  "time_range": [
+   151.66,
+   160.96
+  ]
+ },
+ {
+  "translatedText": "આના વિશે મને જે ગમે છે તેનો એક ભાગ એ છે કે જો ક્યારેય પાઈની ગણતરી કરતા અલ્ગોરિધમ્સ માટે ઓલિમ્પિક ગેમ્સ હોત , તો આને સૌથી ભવ્ય અને સૌથી હાસ્યજનક રીતે બિનકાર્યક્ષમ હોવા માટે મેડલ મળત.",
+  "input": "Part of what I love about this is that if ever there were Olympic Games for algorithms that compute pi, this one would have to win medals both for being the most elegant, and for being the most comically inefficient.",
+  "time_range": [
+   161.92,
+   173.36
+  ]
+ },
+ {
+  "translatedText": "મારો મતલબ, અહીં વાસ્તવિક અલ્ગોરિધમ વિશે વિચારો.",
+  "input": "I mean, think about the actual algorithm here.",
+  "time_range": [
+   174.06,
+   176.22
+  ]
+ },
+ {
+  "translatedText": "ચરણ  1, ભૌતિક એન્જિન બનાવો.",
+  "input": "Step 1, implement a physics engine.",
+  "time_range": [
+   176.52,
+   178.42
+  ]
+ },
+ {
+  "translatedText": "ચરણ  2, તમે ગણતરી કરવા માંગતા હો તે પાઇ ના d અંકોની સંખ્યા પસંદ કરો.",
+  "input": "Step 2, choose the number of digits d of pi you'd like to compute.",
+  "time_range": [
+   178.88,
+   183.0
+  ]
+ },
+ {
+  "translatedText": "ચરણ  3, એક બ્લોકના દળને 100 ની ઘાત  d -1 પર સેટ કરો, પછી તેને ઘર્ષણ રહિત સપાટી પર દળ 1 ના બ્લોક તરફ મોકલો.",
+  "input": "Step 3, set the mass of one of the blocks to be 100 to the power d-1, then send it travelling on a frictionless surface towards a block of mass 1.",
+  "time_range": [
+   183.68,
+   192.28
+  ]
+ },
+ {
+  "translatedText": "ચરણ 4, બધી અથડામણોની ગણતરી કરો.",
+  "input": "Step 4, count all collisions.",
+  "time_range": [
+   192.82,
+   194.98
+  ]
+ },
+ {
+  "translatedText": "ઉદાહરણ તરીકે, માત્ર 20 અંકોની ગણતરી કરવા માટે, જે આ સ્ક્રીન પર આટલી સ્વચ્છ રીતે ફિટ બેસે છે, એક બ્લોકમાં બીજાના દળના 100 અબજ અબજ અબજ ગણુ  દળ હોવું જરૂરી છે, જો તે નાનો બ્લોક 1 કિલોગ્રામ હોય, તો તેનો અર્થ એ કે મોટો બ્લોક, આકાશગંગાના કેન્દ્રમાં આવેલા સુપરમાસિવ બ્લેક હોલ કરતાં લગભગ 10 ગણું દળ ધરાવે છે.",
+  "input": "For example, to calculate only 20 digits of pi, which fits so cleanly on this screen, one block would have to have 100 billion billion billion billion times the mass of the other, which if that small block was 1 kilogram, means the big one has a mass about 10 times that of the supermassive black hole at the center of the Milky Way.",
+  "time_range": [
+   196.42000000000002,
+   214.98
+  ]
+ },
+ {
+  "translatedText": "તેનો અર્થ એ કે તમારે 31 બિલિયન બિલિયન અથડામણોની ગણતરી કરવાની જરૂર પડશે.",
+  "input": "That means you would need to count 31 billion billion collisions.",
+  "time_range": [
+   215.64,
+   218.92
+  ]
+ },
+ {
+  "translatedText": "આ આભાસી  પ્રક્રિયાના એક તબક્કે, ક્લેક્સની આવૃત્તિ  લગભગ 100 બિલિયન બિલિયન બિલિયન બિલિયન ક્લેક્સ પ્રતિ સેકન્ડ હશે.",
+  "input": "At one point in this virtual process, the frequency of clacks would be around 100 billion billion billion billion clacks per second.",
+  "time_range": [
+   218.92,
+   225.9
+  ]
+ },
+ {
+  "translatedText": "તો માંની લો કો  કે આને  સચોટ રીતે કાર્ય કરવા માટે તમારે ખૂબ સારી સંખ્યાત્મક ચોકસાઈની જરૂર પડશે, અને અલ્ગોરિધમને પૂર્ણ કરવામાં ઘણો સમય લાગશે.",
+  "input": "So let's just say you would need very good numerical precision to get this working accurately, and it would take a very long time for the algorithm to complete.",
+  "time_range": [
+   226.38,
+   233.48
+  ]
+ },
+ {
+  "translatedText": "હું ફરીથી ભારપૂર્વક કહીશ કે આ પ્રક્રિયા ખૂબ જ આદર્શ છે, જે વાસ્તવિક ભૌતિકશાસ્ત્રમાં સંભવતઃ થઈ શકે તેવી કોઈપણ વસ્તુથી એકદમ અલગ છે.",
+  "input": "I'll emphasize again that this process is way over-idealized, quickly departing from anything that could possibly happen in real physics.",
+  "time_range": [
+   234.3,
+   240.96
+  ]
+ },
+ {
+  "translatedText": "પરંતુ નિશ્ચિતરૂપે, તમે બધા જાણો છો કે વાસ્તવિક પાઇ કમ્પ્યૂટિંગ એલ્ગોરિધમ અથવા વૈચારિક ભૌતિકશાસ્ત્રીય પ્રદર્શન તરીકે તેની ક્ષમતા ના કારણ તે રસપ્રદ નથી.",
+  "input": "But of course, you all know this is not interesting because of its potential as an actual pi computing algorithm, or as a pragmatic physics demonstration.",
+  "time_range": [
+   241.76,
+   248.7
+  ]
+ },
+ {
+  "translatedText": "આ હૈરાન કરવા વાળી વાત છે કેમ કે આખરે અહીંયા પાઇ શા માટે આવે છે?",
+  "input": "It's mind-boggling because why on earth would pi show up here?",
+  "time_range": [
+   249.12,
+   254.44
+  ]
+ },
+ {
+  "translatedText": "અને તે પણ આવી  વિચિત્ર રીતે.",
+  "input": "And it's in such a weird way too.",
+  "time_range": [
+   254.92,
+   257.38
+  ]
+ },
+ {
+  "translatedText": "તેના દશાંશ અંકો કંઈક ગણી રહ્યા છે, પરંતુ સામાન્ય રીતે પાઇ ત્યારે દેખાય છે જ્યારે તેનું ચોક્કસ મૂલ્ય કંઈક સતત વસ્તુ નું વર્ણન કરતું હોય.",
+  "input": "Its decimal digits are counting something, but usually pi shows up when its precise value is describing something continuous.",
+  "time_range": [
+   257.46,
+   263.94
+  ]
+ },
+ {
+  "translatedText": "હું તમને બતાવિશ કે તે સાચું કેમ છે.",
+  "input": "I will show you why this is true.",
+  "time_range": [
+   264.8,
+   266.2
+  ]
+ },
+ {
+  "translatedText": "જ્યાં પાઇ હોય, ત્યાં એક છુપાયેલ વર્તુળ હોય જ , અને આ કિસ્સામાં, તે છુપાયેલ વર્તુળ ઊર્જાના સંરક્ષણથી આવે છે.",
+  "input": "Where there is pi, there is a hidden circle, and in this case, that hidden circle comes from the conservation of energy.",
+  "time_range": [
+   266.58,
+   271.62
+  ]
+ },
+ {
+  "translatedText": "વાસ્તવમાં, તમે બે અલગ-અલગ પદ્ધતિઓથી જોશો, જે આ હકીકત જેટલી જ અદભૂત અને આશ્ચર્યજનક છે.",
+  "input": "In fact, you're going to see two separate methods, which are each as stunning and surprising as the fact itself.",
+  "time_range": [
+   272.06,
+   277.38
+  ]
+ },
+ {
+  "translatedText": "જો કે પ્રસન્નતામાં થોડો  વિલંબ, હું તમને શું થઈ રહ્યું છે તે જોવા માટે આગામી વિડિયો સુધી રાહ જોવડાવીશ.",
+  "input": "Delaying gratification though, I will make you wait until the next video to see what's going on.",
+  "time_range": [
+   278.16,
+   282.24
+  ]
+ },
+ {
+  "translatedText": "આ દરમિયાન, હું તમને ખૂબ જ પ્રોત્સાહિત કરું છું કે તમે તેને જાતે જ તેના પર વિચારો અને સામાજિક બનાઓ.",
+  "input": "In the meantime, I highly encourage you to take a stab at it yourself, and be social about it.",
+  "time_range": [
+   282.52,
+   287.64
+  ]
+ },
+ {
+  "translatedText": "આ એક મુશ્કેલ કોયડો છે, તેથી તે કાર્ય માટે કેટલાક અન્ય સ્માર્ટ દિમાગની ભરતી કરવામાં કોઈ વાંધો નથી.",
+  "input": "It's a hard puzzle, so it never hurts to recruit some other smart minds to the task.",
+  "time_range": [
+   287.72,
+   291.64
+  ]
+ },
+ {
+  "translatedText": "જોવા માટે આભાર.",
+  "input": "Thanks for watching.",
+  "time_range": [
+   301.62,
+   291.64
+  ]
+ },
+ {
+  "translatedText": "આગળ ના વિડિઓ માં મળીશું.",
+  "input": "I'll see you next time.",
+  "time_range": [
+   301.62,
+   312.24
+  ]
+ },
+ {
+  "translatedText": "આવજો .",
+  "input": "Bye.",
+  "time_range": [
+   312.24,
+   312.24
+  ]
+ }
+]
