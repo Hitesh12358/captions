@@ -17,9 +17,9 @@
  },
  {
   "input": "In this video, I want to talk about integrals, and the thing I want to become almost obvious is that they are an inverse of derivatives. ",
-  "translatedText": "Trong video này, tôi muốn nói về tích phân, và điều tôi muốn trở nên rõ ràng nhất là chúng là nghịch đảo của đạo hàm. ",
+  "translatedText": "Trong video này, tôi muốn nói về tích phân, và điều tôi muốn trở nên rõ ràng nhất là chúng là đảo ngược của đạo hàm. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 31.26,
   "end": 38.86
  },
@@ -32,7 +32,7 @@
   "end": 48.14
  },
  {
-  "input": "Then in the next video we'll see how this same idea generalizes, but to a couple other contexts. ",
+  "input": "Then in the next video we're going to see how this same idea generalizes, but to a couple other contexts. ",
   "translatedText": "Sau đó, trong video tiếp theo, chúng ta sẽ thấy ý tưởng này được khái quát hóa như thế nào nhưng trong một số bối cảnh khác. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -97,33 +97,33 @@
  },
  {
   "input": "There I showed how the derivative of a distance vs. ",
-  "translatedText": "Ở đó tôi đã chỉ ra đạo hàm của khoảng cách so với đạo hàm như thế nào. ",
+  "translatedText": "Ở đó tôi đã chỉ ra đạo hàm của khoảng cách so với đạo hàm thế nào,",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 119.74,
   "end": 122.5
  },
  {
   "input": "time function gives you a velocity vs. ",
-  "translatedText": "hàm thời gian cung cấp cho bạn vận tốc so với chức năng thời gian. ",
+  "translatedText": "hàm thời gian cung cấp cho bạn vận tốc so với ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 122.56,
   "end": 124.86
  },
  {
   "input": "time function. ",
-  "translatedText": "",
+  "translatedText": "hàm thời gian. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 124.92,
   "end": 125.6
  },
  {
   "input": "So in our current situation, where all we know is velocity, it should make sense that finding a distance vs. ",
-  "translatedText": "Vì vậy, trong tình huống hiện tại của chúng ta, nơi mà tất cả những gì chúng ta biết là vận tốc, việc tìm khoảng cách so với vận tốc sẽ có ý nghĩa. ",
+  "translatedText": "Vậy, trong tình huống hiện tại của chúng ta, nơi mà tất cả những gì chúng ta biết là vận tốc, việc tìm khoảng cách so với vận tốc sẽ có ý nghĩa. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 126.36,
   "end": 132.22
  },
@@ -145,9 +145,9 @@
  },
  {
   "input": "But first, I want to spend the bulk of this video showing how this question is related to finding the area bounded by the velocity graph, because that helps to build an intuition for a whole class of problems, things called integral problems in math and science. ",
-  "translatedText": "Nhưng trước tiên, tôi muốn dành phần lớn thời gian của video này để chỉ ra câu hỏi này liên quan như thế nào đến việc tìm diện tích giới hạn bởi đồ thị vận tốc, bởi vì điều đó giúp xây dựng trực giác cho cả một lớp bài toán, những thứ gọi là bài toán tích phân trong toán học và khoa học . ",
+  "translatedText": "Nhưng trước tiên, tôi muốn dành phần lớn thời gian của video này để chỉ ra câu hỏi này liên quan như thế nào đến việc tìm diện tích giới hạn bởi đồ thị vận tốc, bởi vì điều đó giúp tạo trực quan cho cả một lớp bài toán, những thứ gọi là bài toán tích phân trong toán học và khoa học . ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 147.9,
   "end": 162.18
  },
@@ -169,9 +169,9 @@
  },
  {
   "input": "And notice, you can visualize that product, that distance, as an area. ",
-  "translatedText": "Và để ý, bạn có thể hình dung sản phẩm đó, khoảng cách đó, như một khu vực. ",
+  "translatedText": "Và để ý, bạn có thể hình dung tích đó, khoảng cách đó, như một diện tích. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 180.02,
   "end": 184.16
  },
@@ -180,7 +180,7 @@
   "translatedText": "Và nếu việc hình dung khoảng cách dưới dạng diện tích có vẻ kỳ lạ thì tôi đồng ý với bạn. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 185.0,
+  "start": 185,
   "end": 188.82
  },
  {
@@ -225,9 +225,9 @@
  },
  {
   "input": "So what we're going to do is approximate the velocity function as if it was constant on a bunch of intervals, and then, as is common in calculus, we'll see how refining that approximation leads us to something more precise. ",
-  "translatedText": "Vì vậy, những gì chúng ta sắp làm là ước chừng hàm vận tốc như thể nó không đổi trong một loạt các khoảng, và sau đó, như thường thấy trong phép tính, chúng ta sẽ thấy việc tinh chỉnh phép tính gần đúng đó dẫn chúng ta đến điều gì đó chính xác hơn như thế nào. ",
+  "translatedText": "Vì vậy, những gì chúng ta sắp làm là ước chừng hàm vận tốc như thể nó không đổi trong một loạt các khoảng, và sau đó, như thường thấy trong giải tích, ta sẽ thấy cách tinh chỉnh phép tính gần đúng đó đưa ta đến điều gì đó chính xác hơn. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 249.02,
   "end": 261.58
  },
@@ -297,9 +297,9 @@
  },
  {
   "input": "That treating this car's journey as a bunch of discontinuous jumps in speed between portions of constant velocity becomes a less wrong reflection of reality as we decrease the time between those jumps. ",
-  "translatedText": "Việc coi hành trình của chiếc xe này như một loạt các bước nhảy tốc độ không liên tục giữa các phần có vận tốc không đổi sẽ trở thành sự phản ánh thực tế ít sai lầm hơn khi chúng ta giảm thời gian giữa những lần nhảy đó. ",
+  "translatedText": "Việc coi hành trình của chiếc xe này như một loạt các bước nhảy tốc độ không liên tục giữa các phần có vận tốc không đổi sẽ trở thành sự phản ánh thực tế ít sai lầm hơn khi ta giảm thời gian giữa những lần nhảy đó. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 328.74,
   "end": 339.98
  },
@@ -361,30 +361,30 @@
  },
  {
   "input": "Take this symbol here, which looks like a stretched s for sum, and put a 0 at its bottom and an 8 at its top, to indicate that we'll be ranging over time steps between 0 and 8 seconds. ",
-  "translatedText": "Lấy biểu tượng này ở đây, trông giống như một chữ s kéo dài để biểu thị tổng và đặt số 0 ở dưới cùng và số 8 ở trên cùng, để biểu thị rằng chúng ta sẽ thay đổi theo các bước thời gian từ 0 đến 8 giây. ",
+  "translatedText": "Lấy ký hiệu này ở đây, trông giống như một chữ s kéo dài để biểu thị tổng và đặt số 0 ở dưới cùng và số 8 ở trên cùng, để biểu thị rằng chúng ta sẽ thay đổi theo các bước thời gian từ 0 đến 8 giây. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 396.02,
-  "end": 408.0
+  "end": 408
  },
  {
   "input": "And as I said, the amount we're adding up at each time step is v of t times dt. ",
-  "translatedText": "Và như tôi đã nói, số tiền chúng ta cộng ở mỗi bước thời gian là v nhân t nhân dt. ",
+  "translatedText": "Và như tôi đã nói, tổng mà chúng ta cộng ở mỗi bước thời gian là v nhân t nhân dt. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 408.9,
   "end": 414.4
  },
  {
   "input": "Two things are implicit in this notation. ",
-  "translatedText": "Có hai điều tiềm ẩn trong ký hiệu này. ",
+  "translatedText": "Có hai điều ẩn trong ký hiệu này. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 415.46,
   "end": 417.46
  },
  {
-  "input": "That value dt plays two separate roles. ",
+  "input": "First of all, that value dt plays two separate roles. ",
   "translatedText": "Giá trị đó dt đóng hai vai trò riêng biệt. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -401,9 +401,9 @@
  },
  {
   "input": "So when you make dt smaller and smaller, even though it decreases the area of each rectangle, it increases the total number of rectangles whose areas we're adding up, because if they're thinner, it takes more of them to fill that space. ",
-  "translatedText": "Vì vậy, khi bạn làm cho dt ngày càng nhỏ hơn, mặc dù nó làm giảm diện tích của mỗi hình chữ nhật, nhưng nó sẽ làm tăng tổng số hình chữ nhật có diện tích mà chúng ta đang cộng lại, bởi vì nếu chúng mỏng hơn, sẽ cần nhiều hình chữ nhật hơn để lấp đầy không gian đó . ",
+  "translatedText": "Vậy khi bạn làm cho dt ngày càng nhỏ hơn, dù nó làm giảm diện tích của mỗi hình chữ nhật, nhưng nó sẽ làm tăng tổng số hình chữ nhật có diện tích mà ta đang cộng lại, bởi vì nếu chúng mỏng hơn, sẽ cần nhiều hình chữ nhật hơn để lấp đầy không gian đó . ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 429.38,
   "end": 441.74
  },
@@ -457,9 +457,9 @@
  },
  {
   "input": "We had this pretty complicated idea of approximations that can involve adding up a huge number of very tiny things. ",
-  "translatedText": "Chúng tôi có một ý tưởng khá phức tạp về các phép tính gần đúng có thể liên quan đến việc cộng một số lượng lớn những thứ rất nhỏ. ",
+  "translatedText": "Chúng ta có một ý tưởng khá phức tạp về các phép tính gần đúng có thể liên quan đến việc cộng một số lượng lớn những thứ rất nhỏ. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 486.06,
   "end": 492.76
  },
@@ -529,25 +529,25 @@
  },
  {
   "input": "But finding the area between a function's graph and the horizontal axis is somewhat of a common language for many disparate problems that can be broken down and approximated as the sum of a large number of small things. ",
-  "translatedText": "Nhưng việc tìm diện tích giữa đồ thị của hàm số và trục hoành là ngôn ngữ chung cho nhiều vấn đề khác nhau có thể được chia nhỏ và tính gần đúng bằng tổng của một số lượng lớn các phần tử nhỏ. ",
+  "translatedText": "Nhưng việc tìm diện tích giữa đồ thị của hàm số và trục hoành là ngôn ngữ chung cho nhiều bài toán khác nhau có thể được chia nhỏ và tính gần đúng bằng tổng của một số lượng lớn các phần tử nhỏ. ",
   "model": "google_nmt",
-  "n_reviews": 0,
-  "start": 538.0,
+  "n_reviews": 1,
+  "start": 538,
   "end": 551.24
  },
  {
   "input": "You'll see more in the next video, but for now I'll just say in the abstract that understanding how to interpret and how to compute the area under a graph is a very general problem-solving tool. ",
-  "translatedText": "Bạn sẽ thấy nhiều hơn trong video tiếp theo, nhưng bây giờ tôi sẽ chỉ nói tóm tắt rằng hiểu cách diễn giải và cách tính diện tích dưới biểu đồ là một công cụ giải quyết vấn đề rất tổng quát. ",
+  "translatedText": "Bạn sẽ thấy nhiều hơn trong video tiếp theo, nhưng bây giờ tôi sẽ chỉ nói tóm tắt rằng hiểu cách diễn giải và cách tính diện tích dưới đồ thị là một công cụ giải quyết bài toán rất tổng quát. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 552.34,
   "end": 562.94
  },
  {
   "input": "In fact, the first video of this series already covered the basics of how this works, but now that we have more of a background with derivatives, we can take this idea to its completion. ",
-  "translatedText": "Trên thực tế, video đầu tiên của loạt bài này đã trình bày những kiến thức cơ bản về cách thức hoạt động của nó, nhưng giờ đây khi đã có kiến thức nền tảng hơn về phái sinh, chúng ta có thể hoàn thiện ý tưởng này. ",
+  "translatedText": "Trên thực tế, video đầu tiên của loạt bài này đã trình bày những kiến thức cơ bản về cách thức hoạt động của nó, nhưng giờ đây khi đã có kiến thức nền tảng hơn về đạo hàm, ta có thể hoàn thiện ý tưởng này. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 563.6,
   "end": 573.32
  },
@@ -561,9 +561,9 @@
  },
  {
   "input": "So we're thinking of this integral of the velocity function between 0 and t, the area under this curve between those inputs, as a function where the upper bound is the variable. ",
-  "translatedText": "Vì vậy, chúng ta đang nghĩ tích phân này của hàm vận tốc giữa 0 và t, diện tích dưới đường cong này giữa các đầu vào đó, là một hàm trong đó giới hạn trên là biến. ",
+  "translatedText": "Vì vậy, ta đang nghĩ tích phân này của hàm vận tốc giữa 0 và t, diện tích dưới đường cong này giữa các đầu vào đó, là một hàm trong đó giới hạn trên là biến. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 581.68,
   "end": 591.22
  },
@@ -577,9 +577,9 @@
  },
  {
   "input": "So in reality this is a distance vs. ",
-  "translatedText": "Vì vậy, trong thực tế đây là một khoảng cách so với . ",
+  "translatedText": "Vậy trong thực tế đây là một khoảng cách so với ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 597.38,
   "end": 599.3
  },
@@ -609,17 +609,17 @@
  },
  {
   "input": "But there's another way to see this, purely in terms of this graph and this area, which generalizes a lot better to other integral problems. ",
-  "translatedText": "Nhưng có một cách khác để thấy điều này, hoàn toàn dựa trên biểu đồ và diện tích này, nó khái quát hóa tốt hơn nhiều cho các bài toán tích phân khác. ",
+  "translatedText": "Nhưng có một cách khác để thấy điều này, hoàn toàn dựa trên đồ thị và diện tích này, nó tổng quát hóa tốt hơn nhiều các bài toán tích phân khác. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 614.84,
   "end": 622.18
  },
  {
   "input": "A slight nudge of dt to the input causes that area to increase, some little ds represented by the area of this sliver. ",
-  "translatedText": "Một cú huých nhẹ của dt vào đầu vào sẽ làm cho diện tích đó tăng lên, một số ds nhỏ được biểu thị bằng diện tích của cúi này. ",
+  "translatedText": "Một tác động nhẹ của dt vào đầu vào sẽ làm cho diện tích đó tăng lên, một số ds nhỏ được biểu thị bằng diện tích của mảnh này. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 623.3,
   "end": 631.7
  },
@@ -633,9 +633,9 @@
  },
  {
   "input": "And for small enough dt, we can basically consider that sliver to be a rectangle, so this little bit of added area, ds, is approximately equal to v of t times dt. ",
-  "translatedText": "Và với dt đủ nhỏ, về cơ bản chúng ta có thể coi mảnh cúi đó là một hình chữ nhật, vậy nên một chút diện tích được thêm vào này, ds, xấp xỉ bằng v(t nhân dt). ",
+  "translatedText": "Và với dt đủ nhỏ, về cơ bản chúng ta có thể coi mảnh đó là một hình chữ nhật, vậy nên một chút diện tích được thêm vào này, ds, xấp xỉ bằng v(t nhân dt). ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 639.78,
   "end": 650.68
  },
@@ -721,9 +721,9 @@
  },
  {
   "input": "So if we just scale that down by a third, the derivative of 1 third t cubed is exactly t squared. ",
-  "translatedText": "Vì vậy, nếu chúng ta chỉ giảm tỷ lệ đó xuống một phần ba, thì đạo hàm của 1 phần ba t lập phương chính xác là t bình phương. ",
+  "translatedText": "Vậy nếu ta chỉ giảm tỷ lệ đó xuống một phần ba, thì đạo hàm của 1 phần ba t lập phương chính xác là t bình phương. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 728.48,
   "end": 734.22
  },
@@ -809,9 +809,9 @@
  },
  {
   "input": "So as we found, the area as a function of capital T is an antiderivative for the stuff inside. ",
-  "translatedText": "Vì vậy, như chúng tôi đã tìm thấy, diện tích dưới dạng hàm của chữ T là nguyên hàm của những thứ bên trong. ",
+  "translatedText": "Vì vậy, như ta đã thấy, diện tích dưới dạng hàm của chữ T là nguyên hàm của những thứ bên trong. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 811.58,
   "end": 817.72
  },
@@ -841,9 +841,9 @@
  },
  {
   "input": "So in this specific case, you don't need to subtract anything off. ",
-  "translatedText": "Vì vậy, trong trường hợp cụ thể này, bạn không cần phải trừ đi bất cứ điều gì. ",
+  "translatedText": "Vậy trong trường hợp cụ thể này, bạn không cần phải trừ đi bất cứ điều gì. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 843.92,
   "end": 847.22
  },
@@ -873,9 +873,9 @@
  },
  {
   "input": "That's the area pictured here, and it represents the distance travelled between 1 second and 7 seconds. ",
-  "translatedText": "Đó là khu vực được minh họa ở đây và nó biểu thị khoảng cách di chuyển trong khoảng từ 1 giây đến 7 giây. ",
+  "translatedText": "Đó là diện tích được minh họa ở đây và nó biểu thị khoảng cách di chuyển trong khoảng từ 1 giây đến 7 giây. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 868.2,
   "end": 874.02
  },
@@ -900,14 +900,14 @@
   "translatedText": "Tổng quát hơn, bất cứ khi nào bạn muốn tích phân một số hàm, và hãy nhớ rằng, bạn nghĩ về điều đó như việc cộng các giá trị f của x nhân dx cho các đầu vào trong một phạm vi nhất định, và sau đó hỏi cách tiếp cận tổng đó là gì khi dx tiến đến 0. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 898.0,
+  "start": 898,
   "end": 912.84
  },
  {
   "input": "The first step to evaluating that integral is to find an antiderivative, some other function, capital F, whose derivative is the thing inside the integral. ",
-  "translatedText": "Bước đầu tiên để tính tích phân đó là tìm nguyên hàm, một hàm khác, viết hoa F, có đạo hàm là vật bên trong tích phân. ",
+  "translatedText": "Bước đầu tiên để tính tích phân đó là tìm nguyên hàm, một hàm khác, viết hoa F, có đạo hàm là thứ bên trong tích phân. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 913.66,
   "end": 923.54
  },
@@ -921,9 +921,9 @@
  },
  {
   "input": "And this fact right here that you're staring at is the fundamental theorem of calculus. ",
-  "translatedText": "Và thực tế mà bạn đang nhìn thấy ở đây là định lý cơ bản của phép tính. ",
+  "translatedText": "Và thực tế mà bạn đang nhìn thấy ở đây là định lý cơ bản của giải tích. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 932.82,
   "end": 937.46
  },
@@ -945,9 +945,9 @@
  },
  {
   "input": "That's why we use the word integrate, it brings them all together. ",
-  "translatedText": "Đó là lý do tại sao chúng tôi sử dụng từ tích hợp, nó mang tất cả lại với nhau. ",
+  "translatedText": "Đó là lý do tại sao chúng ta sử dụng từ tích phân, nó mang tất cả lại với nhau. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 952.28,
   "end": 955.84
  },
@@ -961,9 +961,9 @@
  },
  {
   "input": "It almost feels like cheating. ",
-  "translatedText": "Nó gần như cảm thấy như gian lận. ",
+  "translatedText": "Nó có cảm giác gần như gian lận. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 965.42,
   "end": 966.56
  },
@@ -985,17 +985,17 @@
  },
  {
   "input": "This idea is deep, and there's a lot packed into this whole concept, so let's recap everything that just happened, shall we? ",
-  "translatedText": "Ý tưởng này rất sâu sắc và có rất nhiều điều được gói gọn trong toàn bộ khái niệm này, vì vậy chúng ta hãy tóm tắt lại mọi thứ vừa xảy ra nhé? ",
+  "translatedText": "Ý tưởng này rất sâu sắc và có rất nhiều điều được gói gọn trong toàn bộ khái niệm này, vậy ta cùng tóm tắt lại mọi thứ vừa xảy ra nhé? ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 978.68,
   "end": 985.4
  },
  {
   "input": "We wanted to figure out how far a car goes just by looking at the speedometer. ",
-  "translatedText": "Chúng tôi muốn biết một chiếc ô tô đã đi được bao xa chỉ bằng cách nhìn vào đồng hồ tốc độ. ",
+  "translatedText": "Chúng ta muốn biết một chiếc ô tô đã đi được bao xa chỉ bằng cách nhìn vào đồng hồ tốc độ. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 986.22,
   "end": 990.58
  },
@@ -1008,7 +1008,7 @@
   "end": 994.22
  },
  {
-  "input": "If you approximate velocity to be constant on multiple intervals, you could figure out how far the car goes on each interval with multiplication, and then add all of those up. ",
+  "input": "If you approximate velocity to be constant on multiple different intervals, you could figure out how far the car goes on each interval with multiplication, and then add all of those up. ",
   "translatedText": "Nếu bạn ước chừng vận tốc không đổi trong nhiều khoảng thời gian, bạn có thể tính ra quãng đường ô tô đi được trong mỗi khoảng thời gian bằng phép nhân, rồi cộng tất cả những khoảng đó lại. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1124,22 +1124,22 @@
   "translatedText": "Điều bạn thường nghe là tích phân không đo diện tích thực chất, chúng đo diện tích có dấu giữa đồ thị và trục hoành. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 1126.0,
+  "start": 1126,
   "end": 1134.18
  },
  {
   "input": "Next up, I'll bring up more context where this idea of an integral and area under curves comes up, along with some other intuitions for this fundamental theorem of calculus. ",
-  "translatedText": "Tiếp theo, tôi sẽ đưa ra nhiều bối cảnh hơn trong đó ý tưởng về tích phân và diện tích dưới các đường cong xuất hiện, cùng với một số trực giác khác cho định lý cơ bản này của phép tính. ",
+  "translatedText": "Tiếp đó, tôi sẽ đưa ra nhiều bối cảnh hơn trong đó ý tưởng về tích phân và diện tích dưới các đường cong xuất hiện, cùng vài trực quan khác với định lý cơ bản này của giải tích. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1135.68,
   "end": 1144.76
  },
  {
   "input": "Maybe you remember, chapter 2 of this series introducing the derivative was sponsored by the Art of Problem Solving, so I think there's something elegant to the fact that this video, which is kind of a duel to that one, was also supported in part by the Art of Problem Solving. ",
-  "translatedText": "Có thể bạn còn nhớ, chương 2 của loạt bài giới thiệu đạo hàm này được tài trợ bởi Nghệ thuật giải quyết vấn đề, vì vậy tôi nghĩ có điều gì đó tao nhã khi thực tế là video này, giống như một cuộc đấu tay đôi với video đó, cũng được hỗ trợ một phần bởi Nghệ thuật giải quyết vấn đề. ",
+  "translatedText": "Có thể bạn còn nhớ, chương 2 của loạt bài giới thiệu đạo hàm này được tài trợ bởi Nghệ thuật giải Toán, vì vậy tôi nghĩ có điều gì đó tao nhã khi thực tế là video này, giống như một cuộc đấu tay đôi với video đó, cũng được hỗ trợ một phần bởi Nghệ thuật giải Toán. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1146.48,
   "end": 1161.42
  },
@@ -1153,17 +1153,17 @@
  },
  {
   "input": "They were highly influential to me when I was a student developing a love for creative math, so if you're a parent looking to foster your own child's love for the subject, or if you're a student who wants to see what math has to offer beyond rote schoolwork, I can't recommend the Art of Problem Solving enough. ",
-  "translatedText": "Chúng có ảnh hưởng lớn đối với tôi khi tôi còn là một học sinh đang phát triển niềm yêu thích với toán học sáng tạo, vì vậy nếu bạn là phụ huynh đang muốn nuôi dưỡng tình yêu của con mình đối với môn học này hoặc nếu bạn là học sinh muốn xem toán học có những gì để cung cấp ngoài bài tập học vẹt, tôi không thể giới thiệu đủ Nghệ thuật giải quyết vấn đề. ",
+  "translatedText": "Họ có ảnh hưởng lớn đối với tôi khi tôi còn là một học sinh đang phát triển niềm yêu thích với toán học sáng tạo, Vậy nếu bạn là phụ huynh đang muốn nuôi dưỡng tình yêu của con mình đối với môn học này hoặc nếu bạn là học sinh muốn xem toán học có những gì để cung cấp ngoài bài tập học vẹt, tôi không thể không giới thiệu Nghệ thuật giải Toán ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1169.76,
   "end": 1186.12
  },
  {
   "input": "Whether that's their newest development to build the right intuitions in elementary school kids, called Beast Academy, or their courses in higher level topics and contest preparation, going to aops.com slash 3blue1brown, or clicking on the link in the description, lets them know you came from this channel, which may encourage them to support future projects like this one. ",
-  "translatedText": "Cho dù đó là sự phát triển mới nhất của họ nhằm xây dựng trực giác đúng đắn cho học sinh tiểu học, được gọi là Học viện Quái vật, hay các khóa học của họ về các chủ đề cấp cao hơn và chuẩn bị cho cuộc thi, đều sẽ rất thành công. com gạch chéo 3blue1 brown hoặc nhấp vào liên kết trong mô tả, cho họ biết bạn đến từ kênh này, điều này có thể khuyến khích họ hỗ trợ các dự án tương tự như dự án này trong tương lai. ",
+  "translatedText": "Cho dù đó là sự phát triển mới nhất của họ nhằm xây dựng trực quan đúng đắn cho học sinh tiểu học, được gọi là Học viện Quái Thú, hay các khóa học của họ về các chủ đề cấp cao hơn và chuẩn bị cho cuộc thi, aops.com/3blue1brown hoặc nhấp vào liên kết trong mô tả, cho họ biết bạn đến từ kênh này, điều này có thể khuyến khích họ hỗ trợ các dự án tương tự như dự án này trong tương lai. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1186.74,
   "end": 1208.2
  },
@@ -1177,9 +1177,9 @@
  },
  {
   "input": "And the Art of Problem Solving is among the few great places to actually do that exploration. ",
-  "translatedText": "Và Nghệ thuật Giải quyết Vấn đề là một trong số ít nơi tuyệt vời để thực sự khám phá điều đó. ",
+  "translatedText": "Và Nghệ thuật Giải Toán là một trong số ít nơi tuyệt vời để thực sự khám phá điều đó. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1220.56,
   "end": 1225.42
  }

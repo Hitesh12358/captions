@@ -3,7 +3,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -21,7 +20,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -46,6 +44,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -186,26 +186,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
   },
   "arabic": {
     "Calculus": {
-      "essence-of-calculus": 0,
+      "essence-of-calculus": 0.14912280701754385,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -220,14 +222,13 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.00932017543859649
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0,
-      "span": 0,
-      "linear-transformations": 0,
-      "matrix-multiplication": 0,
+      "vectors": 0.20833333333333334,
+      "span": 0.2222222222222222,
+      "linear-transformations": 0.32142857142857145,
+      "matrix-multiplication": 0.4050632911392405,
       "3d-transformations": 0,
       "determinant": 0,
       "inverse-matrices": 0,
@@ -240,7 +241,7 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0
+      "total": 0.07231546363271046
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -248,6 +249,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -271,14 +274,14 @@
       "total": 0
     },
     "Why Pi": {
-      "clacks": 0,
+      "clacks": 0.043478260869565216,
       "clacks-solution": 0,
       "clacks-via-light": 0,
       "basel-problem": 0,
       "leibniz-formula": 0,
       "wallis-product": 0,
-      "pi-was-628": 0,
-      "total": 0
+      "pi-was-628": 0.047619047619047616,
+      "total": 0.013013901212658977
     },
     "Geometry": {
       "sphere-area": 0,
@@ -388,26 +391,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0
+    "total": 0.009253427375029962
   },
   "bangla": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -425,7 +430,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -450,6 +454,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -590,17 +596,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -609,7 +618,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -627,7 +635,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0.49295774647887325,
       "span": 0,
       "linear-transformations": 0,
@@ -644,7 +651,7 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0.02899751449875725
+      "total": 0.030809859154929578
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -652,6 +659,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -792,26 +801,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.008765578193012363
+    "total": 0.00859142763288629
   },
   "bulgarian": {
     "Calculus": {
-      "essence-of-calculus": 0,
+      "essence-of-calculus": 0.6491228070175439,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -826,10 +837,9 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.04057017543859649
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -854,6 +864,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -994,26 +1006,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0
+    "total": 0.0042988265365400255
   },
   "catalan": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -1031,7 +1045,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -1056,6 +1069,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -1196,26 +1211,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
   },
   "chinese": {
     "Calculus": {
-      "essence-of-calculus": 0,
+      "essence-of-calculus": 0.7192982456140351,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -1230,10 +1247,9 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.044956140350877194
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -1253,12 +1269,14 @@
       "total": 0
     },
     "Neural Networks": {
-      "neural-networks": 0,
-      "gradient-descent": 0,
+      "neural-networks": 0.014925373134328358,
+      "gradient-descent": 0.008,
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0,
+      "attention": 0,
+      "total": 0.0032750533049040512
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -1335,10 +1353,10 @@
       "gaussian-convolution": 0,
       "bayes-theorem": 0,
       "bayes-theorem-quick": 0,
-      "better-bayes": 0,
+      "better-bayes": 0.16243654822335024,
       "binomial-distributions": 0,
       "pdfs": 0,
-      "total": 0
+      "total": 0.018048505358150026
     },
     "Computer Science": {
       "convolutions": 0,
@@ -1398,26 +1416,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
-      "cube-shadow-puzzle": 0.6666666666666666,
-      "mandelbrot": 0,
+      "harvey-mudd-speech": 0,
+      "cube-shadow-puzzle": 0.8888888888888888,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0.03508771929824561
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.0404040404040404
     },
-    "total": 0.0045045045045045045
+    "total": 0.011877808316957634
   },
   "croatian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -1435,7 +1455,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -1460,6 +1479,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -1600,17 +1621,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -1619,7 +1643,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -1637,7 +1660,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0.2638888888888889,
       "span": 0,
       "linear-transformations": 0,
@@ -1654,7 +1676,7 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0.015522875816993464
+      "total": 0.016493055555555556
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -1662,6 +1684,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -1802,26 +1826,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.0017830330330330332
+    "total": 0.001747608535688006
   },
   "danish": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -1839,7 +1865,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -1864,6 +1889,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -2004,26 +2031,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
   },
   "dutch": {
     "Calculus": {
-      "essence-of-calculus": 0.9649122807017544,
-      "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
+      "essence-of-calculus": 1,
+      "derivatives": 1,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -2038,10 +2067,9 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0.05675954592363261
+      "total": 0.125
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -2066,6 +2094,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -2152,12 +2182,12 @@
       "convolutions": 0,
       "wordle": 0,
       "wordle-2": 0,
-      "bitcoin": 0,
-      "256-bit-security": 0,
+      "bitcoin": 1,
+      "256-bit-security": 1,
       "hamming-codes": 0,
       "hamming-codes-2": 0,
       "hanoi-and-sierpinski": 0,
-      "total": 0
+      "total": 0.25
     },
     "Topology": {
       "inscribed-rectangle-problem": 0,
@@ -2206,26 +2236,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 1,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.045454545454545456
     },
-    "total": 0.006519677572309151
+    "total": 0.033112582781456956
   },
   "estonian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -2243,7 +2275,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -2268,6 +2299,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -2408,17 +2441,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -2427,7 +2463,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -2445,7 +2480,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -2470,6 +2504,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -2610,17 +2646,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -2628,8 +2667,7 @@
   "french": {
     "Calculus": {
       "essence-of-calculus": 0.017543859649122806,
-      "derivatives": 0.007462686567164179,
-      "derivative-formulas-geometrically": 0,
+      "derivatives": 0.1791044776119403,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0.009009009009009009,
@@ -2644,12 +2682,11 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0.0020009150132527056
+      "total": 0.012853584141879506
     },
     "Linear Algebra": {
-      "eola-preview": 0.06451612903225806,
-      "vectors": 0,
-      "span": 0,
+      "vectors": 0.2222222222222222,
+      "span": 0.027777777777777776,
       "linear-transformations": 0,
       "matrix-multiplication": 0,
       "3d-transformations": 0,
@@ -2664,7 +2701,7 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0.003795066413662239
+      "total": 0.015625
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -2672,7 +2709,9 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0.024390243902439025,
+      "attention": 0,
+      "total": 0.003484320557491289
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -2749,10 +2788,10 @@
       "gaussian-convolution": 0,
       "bayes-theorem": 0,
       "bayes-theorem-quick": 0,
-      "better-bayes": 0,
+      "better-bayes": 1,
       "binomial-distributions": 0,
       "pdfs": 0,
-      "total": 0.02324263038548753
+      "total": 0.13435374149659862
     },
     "Computer Science": {
       "convolutions": 0,
@@ -2812,26 +2851,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0.5306122448979592,
+      "harvey-mudd-speech": 0.013888888888888888,
       "cube-shadow-puzzle": 0.7777777777777778,
-      "mandelbrot": 0.8333333333333334,
       "subset-sum": 0.4444444444444444,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0.8333333333333334,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0.375,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0.15585093686597445
+      "newton-art-puzzle": 0.375,
+      "eola-preview": 0.06451612903225806,
+      "visual-proofs": 0.5306122448979592,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.13816240083521192
     },
-    "total": 0.030823463352499154
+    "total": 0.03987942715235747
   },
   "georgian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -2849,7 +2890,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -2874,6 +2914,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -3014,26 +3056,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
   },
   "german": {
     "Calculus": {
-      "essence-of-calculus": 0,
-      "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
+      "essence-of-calculus": 0.4649122807017544,
+      "derivatives": 0.04477611940298507,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -3048,11 +3092,10 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.03185552500654622
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0,
+      "vectors": 0.013888888888888888,
       "span": 0,
       "linear-transformations": 0,
       "matrix-multiplication": 0,
@@ -3068,15 +3111,17 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0
+      "total": 0.0008680555555555555
     },
     "Neural Networks": {
-      "neural-networks": 0,
+      "neural-networks": 0.05343511450381679,
       "gradient-descent": 0,
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0,
+      "attention": 0,
+      "total": 0.007633587786259542
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -3109,7 +3154,7 @@
       "total": 0.08823529411764706
     },
     "Geometry": {
-      "sphere-area": 0,
+      "sphere-area": 1,
       "dandelin-spheres": 0,
       "higher-dimensions": 0,
       "pythagorean-triples": 0,
@@ -3117,7 +3162,7 @@
       "quaternions-and-3d-rotation": 0,
       "eulers-characteristic-formula": 0,
       "hyperdarts": 0,
-      "total": 0
+      "total": 0.125
     },
     "Analysis": {
       "fourier-transforms": 0,
@@ -3175,9 +3220,9 @@
       "total": 0
     },
     "Group Theory": {
-      "groups-and-monsters": 0.6079545454545454,
+      "groups-and-monsters": 0.6306818181818182,
       "eulers-formula-via-group-theory": 0,
-      "total": 0.3039772727272727
+      "total": 0.3153409090909091
     },
     "Epidemics": {
       "exponential-and-epidemics": 0,
@@ -3216,26 +3261,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0.5555555555555556,
-      "mandelbrot": 1,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 1,
       "ego-and-math": 0.4827586206896552,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0.10727969348659003
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.0926506443747823
     },
-    "total": 0.043857614862588386
+    "total": 0.05358057401250197
   },
   "greek": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -3253,7 +3300,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -3278,6 +3324,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -3418,17 +3466,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -3437,7 +3488,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -3455,7 +3505,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -3480,6 +3529,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -3620,26 +3671,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.006756756756756757
+    "total": 0.006622516556291391
   },
   "hebrew": {
     "Calculus": {
-      "essence-of-calculus": 0,
-      "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
+      "essence-of-calculus": 0.8771929824561403,
+      "derivatives": 0.40298507462686567,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -3654,10 +3707,9 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.08001112856768787
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -3677,21 +3729,23 @@
       "total": 0
     },
     "Neural Networks": {
-      "neural-networks": 0,
-      "gradient-descent": 0,
+      "neural-networks": 0.7835820895522388,
+      "gradient-descent": 0.808,
       "neural-network-analysis": 0,
-      "backpropagation": 0,
+      "backpropagation": 0.6901408450704225,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0.6951219512195121,
+      "attention": 0.7692307692307693,
+      "total": 0.5351536650104204
     },
     "Differential Equations": {
-      "differential-equations": 0,
+      "differential-equations": 0.6102564102564103,
       "pdes": 0,
       "heat-equation": 0,
       "fourier-series": 0,
       "eulers-formula-dynamically": 0,
       "matrix-exponents": 0,
-      "total": 0
+      "total": 0.10170940170940172
     },
     "Puzzles": {
       "subsets-puzzle": 0,
@@ -3711,8 +3765,8 @@
       "basel-problem": 0,
       "leibniz-formula": 0,
       "wallis-product": 0,
-      "pi-was-628": 0,
-      "total": 0
+      "pi-was-628": 0.2619047619047619,
+      "total": 0.03741496598639456
     },
     "Geometry": {
       "sphere-area": 0,
@@ -3741,8 +3795,8 @@
       "total": 0.02170138888888889
     },
     "Physics": {
-      "barber-pole-1": 0,
-      "barber-pole-2": 0,
+      "barber-pole-1": 0.8539325842696629,
+      "barber-pole-2": 0.8309859154929577,
       "prism": 0,
       "refractive-index-questions": 0,
       "light-quantum-mechanics": 0,
@@ -3750,19 +3804,19 @@
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0
+      "total": 0.1872131666402912
     },
     "Probability": {
-      "clt": 0.39035087719298245,
+      "clt": 0.7149122807017544,
       "gaussian-integral": 0,
-      "convolutions2": 0,
-      "gaussian-convolution": 0,
+      "convolutions2": 0.9595959595959596,
+      "gaussian-convolution": 0.8947368421052632,
       "bayes-theorem": 0,
       "bayes-theorem-quick": 0,
       "better-bayes": 0,
       "binomial-distributions": 0,
       "pdfs": 0,
-      "total": 0.04337231968810916
+      "total": 0.28547167582255306
     },
     "Computer Science": {
       "convolutions": 0,
@@ -3822,26 +3876,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.0043970779990516835
+    "total": 0.0689602326698635
   },
   "hindi": {
     "Calculus": {
-      "essence-of-calculus": 0,
-      "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
+      "essence-of-calculus": 0.05263157894736842,
+      "derivatives": 0.12030075187969924,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -3856,10 +3912,9 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.010808270676691729
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -3884,6 +3939,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -4024,26 +4081,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0.4444444444444444,
-      "mandelbrot": 0,
       "subset-sum": 0.4444444444444444,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0.04678362573099415
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.0404040404040404
     },
-    "total": 0.006712069212069212
+    "total": 0.007723964067637821
   },
   "hungarian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -4061,7 +4120,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -4081,12 +4139,14 @@
       "total": 0
     },
     "Neural Networks": {
-      "neural-networks": 0.07633587786259542,
-      "gradient-descent": 0,
+      "neural-networks": 1,
+      "gradient-descent": 0.992,
       "neural-network-analysis": 0,
-      "backpropagation": 0,
-      "backpropagation-calculus": 0,
-      "total": 0.015267175572519085
+      "backpropagation": 1,
+      "backpropagation-calculus": 1,
+      "gpt": 0,
+      "attention": 0,
+      "total": 0.5702857142857143
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -4102,11 +4162,11 @@
       "hardest-problem": 0,
       "windmills": 0,
       "prime-spirals": 0,
-      "moser-reboot": 0.38461538461538464,
+      "moser-reboot": 1,
       "chessboard-puzzle": 0,
       "shadows": 0,
       "three-utilities": 0,
-      "total": 0.04807692307692308
+      "total": 0.125
     },
     "Why Pi": {
       "clacks": 0,
@@ -4145,7 +4205,7 @@
       "total": 0
     },
     "Physics": {
-      "barber-pole-1": 0.7738095238095238,
+      "barber-pole-1": 1,
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
@@ -4154,7 +4214,7 @@
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.08597883597883599
+      "total": 0.1111111111111111
     },
     "Probability": {
       "clt": 0,
@@ -4175,9 +4235,9 @@
       "bitcoin": 0,
       "256-bit-security": 0,
       "hamming-codes": 1,
-      "hamming-codes-2": 0.788135593220339,
+      "hamming-codes-2": 1,
       "hanoi-and-sierpinski": 0,
-      "total": 0.2235169491525424
+      "total": 0.25
     },
     "Topology": {
       "inscribed-rectangle-problem": 0,
@@ -4226,26 +4286,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.020424975537215156
+    "total": 0.052927152317880796
   },
   "indonesian": {
     "Calculus": {
-      "essence-of-calculus": 0,
-      "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
+      "essence-of-calculus": 0.2894736842105263,
+      "derivatives": 0.20300751879699247,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -4260,12 +4322,11 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.030780075187969925
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0,
-      "span": 0,
+      "vectors": 0.7605633802816901,
+      "span": 0.09722222222222222,
       "linear-transformations": 0,
       "matrix-multiplication": 0,
       "3d-transformations": 0,
@@ -4280,7 +4341,7 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0
+      "total": 0.05361160015649452
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -4288,6 +4349,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -4300,7 +4363,7 @@
       "total": 0
     },
     "Puzzles": {
-      "subsets-puzzle": 0,
+      "subsets-puzzle": 0.11363636363636363,
       "hardest-problem": 0,
       "windmills": 0,
       "prime-spirals": 0,
@@ -4308,7 +4371,7 @@
       "chessboard-puzzle": 0,
       "shadows": 0,
       "three-utilities": 0,
-      "total": 0
+      "total": 0.014204545454545454
     },
     "Why Pi": {
       "clacks": 0,
@@ -4428,46 +4491,47 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.0005790131007728729
+    "total": 0.010262232503723046
   },
   "italian": {
     "Calculus": {
-      "essence-of-calculus": 0,
-      "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
+      "essence-of-calculus": 1,
+      "derivatives": 1,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
-      "chain-rule-and-product-rule": 0,
-      "eulers-number": 0,
-      "implicit-differentiation": 0,
-      "limits": 0,
+      "chain-rule-and-product-rule": 1,
+      "eulers-number": 1,
+      "implicit-differentiation": 1,
+      "limits": 1,
       "epsilon-delta": 0,
       "l-hopitals-rule": 0,
-      "integration": 0,
-      "area-and-slope": 0,
-      "higher-order-derivatives": 0,
-      "taylor-series": 0,
+      "integration": 1,
+      "area-and-slope": 1,
+      "higher-order-derivatives": 1,
+      "taylor-series": 0.007874015748031496,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.562992125984252
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0,
-      "span": 0,
+      "vectors": 0.4583333333333333,
+      "span": 0.16666666666666666,
       "linear-transformations": 0,
       "matrix-multiplication": 0,
       "3d-transformations": 0,
@@ -4482,15 +4546,17 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0
+      "total": 0.0390625
     },
     "Neural Networks": {
-      "neural-networks": 0.2748091603053435,
-      "gradient-descent": 0,
+      "neural-networks": 0.816793893129771,
+      "gradient-descent": 0.528,
       "neural-network-analysis": 0,
-      "backpropagation": 0,
+      "backpropagation": 0.43661971830985913,
       "backpropagation-calculus": 0,
-      "total": 0.05496183206106871
+      "gpt": 0,
+      "attention": 0,
+      "total": 0.25448765877709
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -4507,20 +4573,20 @@
       "windmills": 0,
       "prime-spirals": 0,
       "moser-reboot": 0,
-      "chessboard-puzzle": 0,
+      "chessboard-puzzle": 0.916083916083916,
       "shadows": 0,
       "three-utilities": 0,
-      "total": 0
+      "total": 0.1145104895104895
     },
     "Why Pi": {
-      "clacks": 0,
+      "clacks": 0.9782608695652174,
       "clacks-solution": 0,
       "clacks-via-light": 0,
       "basel-problem": 0,
       "leibniz-formula": 0,
       "wallis-product": 0,
       "pi-was-628": 0,
-      "total": 0
+      "total": 0.13975155279503107
     },
     "Geometry": {
       "sphere-area": 0,
@@ -4565,23 +4631,23 @@
       "gaussian-integral": 0,
       "convolutions2": 0,
       "gaussian-convolution": 0,
-      "bayes-theorem": 0,
+      "bayes-theorem": 0.0423728813559322,
       "bayes-theorem-quick": 0,
       "better-bayes": 0,
-      "binomial-distributions": 0,
+      "binomial-distributions": 0.2826086956521739,
       "pdfs": 0,
-      "total": 0.008284600389863547
+      "total": 0.04439366450187534
     },
     "Computer Science": {
       "convolutions": 0.0125,
       "wordle": 0,
       "wordle-2": 0,
-      "bitcoin": 0,
-      "256-bit-security": 0,
-      "hamming-codes": 0,
+      "bitcoin": 0.796875,
+      "256-bit-security": 0.9444444444444444,
+      "hamming-codes": 0.08280254777070063,
       "hamming-codes-2": 0,
       "hanoi-and-sierpinski": 0,
-      "total": 0.0015625
+      "total": 0.22957774902689312
     },
     "Topology": {
       "inscribed-rectangle-problem": 0,
@@ -4589,9 +4655,9 @@
       "total": 0
     },
     "Group Theory": {
-      "groups-and-monsters": 0,
+      "groups-and-monsters": 0.12790697674418605,
       "eulers-formula-via-group-theory": 0.1111111111111111,
-      "total": 0.05555555555555555
+      "total": 0.11950904392764858
     },
     "Epidemics": {
       "exponential-and-epidemics": 0,
@@ -4630,26 +4696,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 1,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.045454545454545456
     },
-    "total": 0.006011137443188467
+    "total": 0.1139104777489456
   },
   "japanese": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -4667,9 +4735,8 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0,
-      "span": 0,
+      "vectors": 0.9014084507042254,
+      "span": 0.8194444444444444,
       "linear-transformations": 0,
       "matrix-multiplication": 0,
       "3d-transformations": 0,
@@ -4684,7 +4751,7 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0
+      "total": 0.10755330594679186
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -4692,6 +4759,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -4832,26 +4901,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0
+    "total": 0.011396376789064038
   },
   "korean": {
     "Calculus": {
-      "essence-of-calculus": 0.06140350877192982,
+      "essence-of-calculus": 0.24561403508771928,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -4866,10 +4937,9 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0.003611971104231166
+      "total": 0.015350877192982455
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -4889,12 +4959,14 @@
       "total": 0
     },
     "Neural Networks": {
-      "neural-networks": 0,
-      "gradient-descent": 0,
+      "neural-networks": 0.2366412213740458,
+      "gradient-descent": 0.056,
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0.524390243902439,
+      "attention": 0,
+      "total": 0.11671878075378354
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -4953,7 +5025,7 @@
       "total": 0
     },
     "Physics": {
-      "barber-pole-1": 0.8539325842696629,
+      "barber-pole-1": 1,
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
@@ -4962,7 +5034,7 @@
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.09488139825218476
+      "total": 0.1111111111111111
     },
     "Probability": {
       "clt": 0,
@@ -5034,26 +5106,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 1,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
+      "how-they-fool-ya": 0,
+      "on-shorts": 1,
       "newton-art-puzzle": 0,
-      "on-shorts": 0,
-      "total": 0.05263157894736842
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.09090909090909091
     },
-    "total": 0.012941460088118868
+    "total": 0.026904937088504662
   },
   "lithuanian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -5071,7 +5145,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -5096,6 +5169,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -5236,17 +5311,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -5255,7 +5333,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -5273,7 +5350,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -5298,6 +5374,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -5438,26 +5516,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
   },
   "marathi": {
     "Calculus": {
-      "essence-of-calculus": 0,
+      "essence-of-calculus": 0.008771929824561403,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -5467,15 +5547,14 @@
       "epsilon-delta": 0,
       "l-hopitals-rule": 0,
       "integration": 0,
-      "area-and-slope": 0,
+      "area-and-slope": 0.03896103896103896,
       "higher-order-derivatives": 0,
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.0029833105491000227
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -5500,6 +5579,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -5640,26 +5721,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.002598752598752599
+    "total": 0.0028632341284833443
   },
   "norwegian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -5677,7 +5760,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -5702,6 +5784,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -5842,17 +5926,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -5861,7 +5948,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -5879,7 +5965,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -5904,6 +5989,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -6044,26 +6131,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.002353477072578196
+    "total": 0.0023067192499441926
   },
   "polish": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -6081,8 +6170,7 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0,
+      "vectors": 1,
       "span": 0,
       "linear-transformations": 0,
       "matrix-multiplication": 0,
@@ -6098,7 +6186,7 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0
+      "total": 0.0625
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -6106,6 +6194,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -6246,26 +6336,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0
+    "total": 0.006622516556291391
   },
   "portuguese": {
     "Calculus": {
       "essence-of-calculus": 0.008771929824561403,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -6280,10 +6372,9 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0.034129441250184286
+      "total": 0.0362625313283208
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -6303,12 +6394,14 @@
       "total": 0
     },
     "Neural Networks": {
-      "neural-networks": 0,
+      "neural-networks": 0.44274809160305345,
       "gradient-descent": 0,
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0.2621951219512195,
+      "attention": 0,
+      "total": 0.10070617336489615
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -6321,24 +6414,24 @@
     },
     "Puzzles": {
       "subsets-puzzle": 0,
-      "hardest-problem": 0,
+      "hardest-problem": 0.989247311827957,
       "windmills": 0,
       "prime-spirals": 0,
       "moser-reboot": 0,
       "chessboard-puzzle": 0,
       "shadows": 0,
       "three-utilities": 0,
-      "total": 0
+      "total": 0.12365591397849462
     },
     "Why Pi": {
-      "clacks": 0,
+      "clacks": 1,
       "clacks-solution": 0,
       "clacks-via-light": 0,
       "basel-problem": 0,
       "leibniz-formula": 0,
       "wallis-product": 0,
       "pi-was-628": 0,
-      "total": 0
+      "total": 0.14285714285714285
     },
     "Geometry": {
       "sphere-area": 0,
@@ -6367,7 +6460,7 @@
       "total": 0.0022281639928698753
     },
     "Physics": {
-      "barber-pole-1": 0,
+      "barber-pole-1": 0.2247191011235955,
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
@@ -6376,7 +6469,7 @@
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0
+      "total": 0.024968789013732832
     },
     "Probability": {
       "clt": 0,
@@ -6392,14 +6485,14 @@
     },
     "Computer Science": {
       "convolutions": 0,
-      "wordle": 0,
-      "wordle-2": 0,
+      "wordle": 0.1890909090909091,
+      "wordle-2": 1,
       "bitcoin": 0,
       "256-bit-security": 0,
       "hamming-codes": 0,
       "hamming-codes-2": 0,
       "hanoi-and-sierpinski": 0,
-      "total": 0
+      "total": 0.14863636363636362
     },
     "Topology": {
       "inscribed-rectangle-problem": 0,
@@ -6448,26 +6541,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0.35374149659863946,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0.01861797350519155
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0.35374149659863946,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.016079158936301793
     },
-    "total": 0.006491080849771695
+    "total": 0.033567420538827455
   },
   "romanian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -6485,7 +6580,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -6510,6 +6604,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -6650,29 +6746,31 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
   },
   "russian": {
     "Calculus": {
-      "essence-of-calculus": 0,
-      "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
+      "essence-of-calculus": 1,
+      "derivatives": 1,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
-      "chain-rule-and-product-rule": 0,
+      "chain-rule-and-product-rule": 0.6310679611650486,
       "eulers-number": 0,
       "implicit-differentiation": 0,
       "limits": 0,
@@ -6684,27 +6782,26 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.16444174757281554
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
       "matrix-multiplication": 0,
       "3d-transformations": 0,
-      "determinant": 0,
+      "determinant": 0.1625,
       "inverse-matrices": 0,
       "nonsquare-matrices": 0,
       "dot-products": 0,
-      "cross-products": 0,
-      "cross-products-extended": 0,
+      "cross-products": 0.36619718309859156,
+      "cross-products-extended": 0.2857142857142857,
       "cramers-rule": 0,
       "change-of-basis": 0,
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0.26732673267326734,
-      "total": 0.0157251019219569
+      "total": 0.06760863759288405
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -6712,7 +6809,9 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0.024390243902439025,
+      "attention": 0,
+      "total": 0.003484320557491289
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -6822,7 +6921,7 @@
       "total": 0
     },
     "Lockdown Math": {
-      "lockdown-math-announcement": 0,
+      "lockdown-math-announcement": 1,
       "ldm-quadratic": 0,
       "ldm-trigonometry": 0,
       "ldm-complex-numbers": 0,
@@ -6833,7 +6932,7 @@
       "ldm-power-towers": 0,
       "ldm-i-to-i": 0,
       "ldm-tips-to-problem-solving": 0,
-      "total": 0
+      "total": 0.09090909090909091
     },
     "Summer of Math Exposition": {
       "some1": 0,
@@ -6852,26 +6951,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.010420782683878053
+    "total": 0.03981553318605508
   },
   "serbian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -6889,7 +6990,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -6914,6 +7014,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7054,17 +7156,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -7073,7 +7178,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -7091,7 +7195,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -7116,6 +7219,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7256,17 +7361,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -7275,7 +7383,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -7293,7 +7400,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -7318,6 +7424,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7458,26 +7566,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
   },
   "spanish": {
     "Calculus": {
-      "essence-of-calculus": 0,
+      "essence-of-calculus": 0.11403508771929824,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -7492,11 +7602,10 @@
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.00712719298245614
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0.5833333333333334,
+      "vectors": 0.625,
       "span": 0.7222222222222222,
       "linear-transformations": 0.7058823529411765,
       "matrix-multiplication": 0.810126582278481,
@@ -7512,7 +7621,7 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0.16597438181030663
+      "total": 0.1789519473401175
     },
     "Neural Networks": {
       "neural-networks": 0,
@@ -7520,6 +7629,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7606,12 +7717,12 @@
       "convolutions": 0,
       "wordle": 0,
       "wordle-2": 0,
-      "bitcoin": 0,
+      "bitcoin": 0.3489583333333333,
       "256-bit-security": 0,
       "hamming-codes": 0.3057324840764331,
       "hamming-codes-2": 0,
       "hanoi-and-sierpinski": 0,
-      "total": 0.03821656050955414
+      "total": 0.0818363521762208
     },
     "Topology": {
       "inscribed-rectangle-problem": 0,
@@ -7660,26 +7771,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0.5,
       "subset-sum": 0.1111111111111111,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0.5,
       "ego-and-math": 0.12643678160919541,
-      "newton-art-puzzle": 0.375,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0.0632335148215366
+      "newton-art-puzzle": 0.375,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.05461076280041797
     },
-    "total": 0.036206825466634944
+    "total": 0.038829604349544834
   },
   "swedish": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -7697,7 +7810,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -7722,6 +7834,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7862,17 +7976,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -7881,7 +7998,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -7899,7 +8015,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -7924,6 +8039,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -8064,17 +8181,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -8083,7 +8203,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -8101,7 +8220,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -8126,6 +8244,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -8266,26 +8386,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
   },
   "telugu": {
     "Calculus": {
-      "essence-of-calculus": 0,
+      "essence-of-calculus": 0.017543859649122806,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -8296,14 +8418,13 @@
       "l-hopitals-rule": 0,
       "integration": 0,
       "area-and-slope": 0,
-      "higher-order-derivatives": 0,
+      "higher-order-derivatives": 0.15151515151515152,
       "taylor-series": 0,
       "taylor-series-geometric-view": 0,
       "derivatives-and-transforms": 0,
-      "total": 0
+      "total": 0.010566188197767145
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -8328,6 +8449,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -8468,26 +8591,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0
+    "total": 0.0011195961004256579
   },
   "thai": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -8505,7 +8630,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -8530,7 +8654,9 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0,
+      "attention": 0.0989010989010989,
+      "total": 0.014128728414442699
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -8546,11 +8672,11 @@
       "hardest-problem": 0,
       "windmills": 0,
       "prime-spirals": 0,
-      "moser-reboot": 0,
+      "moser-reboot": 0.15178571428571427,
       "chessboard-puzzle": 0,
       "shadows": 0,
       "three-utilities": 0,
-      "total": 0
+      "total": 0.018973214285714284
     },
     "Why Pi": {
       "clacks": 0,
@@ -8584,9 +8710,9 @@
       "hilbert-curve": 0,
       "fractal-dimension": 0,
       "winding-numbers": 0,
-      "inventing-math": 0.9375,
+      "inventing-math": 0.9791666666666666,
       "music-and-measure-theory": 0,
-      "total": 0.078125
+      "total": 0.08159722222222222
     },
     "Physics": {
       "barber-pole-1": 0,
@@ -8670,26 +8796,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.00633445945945946
+    "total": 0.008144725032142251
   },
   "turkish": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -8707,7 +8835,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -8732,6 +8859,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -8803,8 +8932,8 @@
       "total": 0
     },
     "Probability": {
-      "clt": 0,
-      "gaussian-integral": 0.4030612244897959,
+      "clt": 0.0043859649122807015,
+      "gaussian-integral": 0.5153061224489796,
       "convolutions2": 0,
       "gaussian-convolution": 0,
       "bayes-theorem": 0,
@@ -8812,7 +8941,7 @@
       "better-bayes": 0,
       "binomial-distributions": 0,
       "pdfs": 0,
-      "total": 0.04478458049886622
+      "total": 0.057743565262362254
     },
     "Computer Science": {
       "convolutions": 0,
@@ -8872,26 +9001,28 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.0027233866519580804
+    "total": 0.003441669452723578
   },
   "ukrainian": {
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -8909,7 +9040,6 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
       "vectors": 0,
       "span": 0,
       "linear-transformations": 0,
@@ -8934,6 +9064,8 @@
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
+      "gpt": 0,
+      "attention": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -9074,17 +9206,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
     "total": 0
@@ -9093,7 +9228,6 @@
     "Calculus": {
       "essence-of-calculus": 0,
       "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
       "chain-rule-and-product-rule": 0,
@@ -9111,8 +9245,7 @@
       "total": 0
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0,
+      "vectors": 0.014084507042253521,
       "span": 0,
       "linear-transformations": 0,
       "matrix-multiplication": 0,
@@ -9128,15 +9261,17 @@
       "eigenvalues": 0,
       "quick-eigen": 0,
       "abstract-vector-spaces": 0,
-      "total": 0
+      "total": 0.0008802816901408451
     },
     "Neural Networks": {
-      "neural-networks": 0,
+      "neural-networks": 0.029850746268656716,
       "gradient-descent": 0,
       "neural-network-analysis": 0,
       "backpropagation": 0,
       "backpropagation-calculus": 0,
-      "total": 0
+      "gpt": 0,
+      "attention": 0,
+      "total": 0.0042643923240938165
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -9276,182 +9411,185 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
+      "newton-art-puzzle": 0,
+      "eola-preview": 0,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
       "total": 0
     },
-    "total": 0.0006077506077506078
+    "total": 0.0008866380348211933
   },
   "vietnamese": {
     "Calculus": {
-      "essence-of-calculus": 0,
-      "derivatives": 0,
-      "derivative-formulas-geometrically": 0,
+      "essence-of-calculus": 0.2719298245614035,
+      "derivatives": 0.3082706766917293,
       "derivatives-power-rule": 0,
       "derivatives-trig-functions": 0,
-      "chain-rule-and-product-rule": 0,
-      "eulers-number": 0,
-      "implicit-differentiation": 0,
-      "limits": 0,
+      "chain-rule-and-product-rule": 0.30097087378640774,
+      "eulers-number": 0.2857142857142857,
+      "implicit-differentiation": 0.21212121212121213,
+      "limits": 0.38095238095238093,
       "epsilon-delta": 0,
       "l-hopitals-rule": 0,
-      "integration": 0,
-      "area-and-slope": 0,
-      "higher-order-derivatives": 0,
-      "taylor-series": 0,
+      "integration": 0.21621621621621623,
+      "area-and-slope": 0.19480519480519481,
+      "higher-order-derivatives": 0.30303030303030304,
+      "taylor-series": 0.2366412213740458,
       "taylor-series-geometric-view": 0,
-      "derivatives-and-transforms": 0,
-      "total": 0
+      "derivatives-and-transforms": 0.34,
+      "total": 0.1906657618283237
     },
     "Linear Algebra": {
-      "eola-preview": 0,
-      "vectors": 0,
-      "span": 0,
-      "linear-transformations": 0,
-      "matrix-multiplication": 0,
-      "3d-transformations": 0,
-      "determinant": 0,
-      "inverse-matrices": 0,
-      "nonsquare-matrices": 0,
-      "dot-products": 0,
-      "cross-products": 0,
-      "cross-products-extended": 0,
-      "cramers-rule": 0,
-      "change-of-basis": 0,
-      "eigenvalues": 0,
-      "quick-eigen": 0,
-      "abstract-vector-spaces": 0,
-      "total": 0
+      "vectors": 0.18055555555555555,
+      "span": 0.16666666666666666,
+      "linear-transformations": 0.44047619047619047,
+      "matrix-multiplication": 0.32098765432098764,
+      "3d-transformations": 0.32142857142857145,
+      "determinant": 0.3,
+      "inverse-matrices": 0.30337078651685395,
+      "nonsquare-matrices": 0.3076923076923077,
+      "dot-products": 0.4423076923076923,
+      "cross-products": 0.4507042253521127,
+      "cross-products-extended": 0.5324675324675324,
+      "cramers-rule": 0.6144578313253012,
+      "change-of-basis": 0.14942528735632185,
+      "eigenvalues": 0.17647058823529413,
+      "quick-eigen": 0.16842105263157894,
+      "abstract-vector-spaces": 0.16831683168316833,
+      "total": 0.3152342983760084
     },
     "Neural Networks": {
-      "neural-networks": 0,
-      "gradient-descent": 0,
+      "neural-networks": 0.5038167938931297,
+      "gradient-descent": 0.248,
       "neural-network-analysis": 0,
-      "backpropagation": 0.5211267605633803,
-      "backpropagation-calculus": 0,
-      "total": 0.10422535211267606
+      "backpropagation": 0.5492957746478874,
+      "backpropagation-calculus": 0.2898550724637681,
+      "gpt": 0.2621951219512195,
+      "attention": 0.3076923076923077,
+      "total": 0.30869358152118753
     },
     "Differential Equations": {
-      "differential-equations": 0,
-      "pdes": 0,
-      "heat-equation": 0,
-      "fourier-series": 0,
-      "eulers-formula-dynamically": 0,
-      "matrix-exponents": 0,
-      "total": 0
+      "differential-equations": 0.46808510638297873,
+      "pdes": 0.27611940298507465,
+      "heat-equation": 0.11224489795918367,
+      "fourier-series": 0.16875,
+      "eulers-formula-dynamically": 0.37037037037037035,
+      "matrix-exponents": 0.20555555555555555,
+      "total": 0.26685422220886046
     },
     "Puzzles": {
-      "subsets-puzzle": 0,
-      "hardest-problem": 0,
-      "windmills": 0,
-      "prime-spirals": 0,
-      "moser-reboot": 0,
-      "chessboard-puzzle": 0,
-      "shadows": 0,
-      "three-utilities": 0,
-      "total": 0
+      "subsets-puzzle": 0.12337662337662338,
+      "hardest-problem": 0.13978494623655913,
+      "windmills": 0.08196721311475409,
+      "prime-spirals": 0.026143790849673203,
+      "moser-reboot": 0.1875,
+      "chessboard-puzzle": 0.0979020979020979,
+      "shadows": 0.14285714285714285,
+      "three-utilities": 0.06872852233676977,
+      "total": 0.10853254208420254
     },
     "Why Pi": {
       "clacks": 0,
-      "clacks-solution": 0,
-      "clacks-via-light": 0,
+      "clacks-solution": 0.15384615384615385,
+      "clacks-via-light": 0.16981132075471697,
       "basel-problem": 0,
-      "leibniz-formula": 0,
-      "wallis-product": 0,
+      "leibniz-formula": 0.18719211822660098,
+      "wallis-product": 0.2261904761904762,
       "pi-was-628": 0,
-      "total": 0
+      "total": 0.10529143843113542
     },
     "Geometry": {
       "sphere-area": 0,
       "dandelin-spheres": 0,
       "higher-dimensions": 0,
-      "pythagorean-triples": 0,
-      "quaternions": 0,
-      "quaternions-and-3d-rotation": 0,
-      "eulers-characteristic-formula": 0,
+      "pythagorean-triples": 0.11764705882352941,
+      "quaternions": 0.1111111111111111,
+      "quaternions-and-3d-rotation": 0.21951219512195122,
+      "eulers-characteristic-formula": 0.46153846153846156,
       "hyperdarts": 0,
-      "total": 0
+      "total": 0.11372610332438166
     },
     "Analysis": {
-      "fourier-transforms": 0,
-      "uncertainty-principle": 0,
-      "newtons-fractal": 0,
-      "holomorphic-dynamics": 0,
-      "zeta": 0,
-      "divergence-and-curl": 0,
+      "fourier-transforms": 0.20270270270270271,
+      "uncertainty-principle": 0.13043478260869565,
+      "newtons-fractal": 0.058823529411764705,
+      "holomorphic-dynamics": 0.19387755102040816,
+      "zeta": 0.24324324324324326,
+      "divergence-and-curl": 0.2777777777777778,
       "borwein": 0,
       "hilbert-curve": 0,
       "fractal-dimension": 0,
-      "winding-numbers": 0,
+      "winding-numbers": 0.1402439024390244,
       "inventing-math": 0,
       "music-and-measure-theory": 0,
-      "total": 0
+      "total": 0.10392529076696803
     },
     "Physics": {
-      "barber-pole-1": 0,
-      "barber-pole-2": 0,
-      "prism": 0,
-      "refractive-index-questions": 0,
-      "light-quantum-mechanics": 0,
-      "feynmans-lost-lecture": 0,
-      "brachistochrone": 0,
+      "barber-pole-1": 0.29213483146067415,
+      "barber-pole-2": 0.18309859154929578,
+      "prism": 0.15873015873015872,
+      "refractive-index-questions": 0.14814814814814814,
+      "light-quantum-mechanics": 0.1527777777777778,
+      "feynmans-lost-lecture": 0.05,
+      "brachistochrone": 0.08571428571428572,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0
+      "total": 0.11895597704226003
     },
     "Probability": {
-      "clt": 0,
-      "gaussian-integral": 0,
-      "convolutions2": 0,
-      "gaussian-convolution": 0.08333333333333333,
-      "bayes-theorem": 0,
-      "bayes-theorem-quick": 0,
+      "clt": 0.08333333333333333,
+      "gaussian-integral": 0.1377551020408163,
+      "convolutions2": 0.21212121212121213,
+      "gaussian-convolution": 0.20833333333333334,
+      "bayes-theorem": 0.09322033898305085,
+      "bayes-theorem-quick": 0.21739130434782608,
       "better-bayes": 0.09137055837563451,
       "binomial-distributions": 0,
-      "pdfs": 0,
-      "total": 0.01941154352321865
+      "pdfs": 0.2537313432835821,
+      "total": 0.1441396139798654
     },
     "Computer Science": {
       "convolutions": 0.35,
       "wordle": 0,
       "wordle-2": 0,
-      "bitcoin": 0,
-      "256-bit-security": 0,
-      "hamming-codes": 0,
-      "hamming-codes-2": 0,
-      "hanoi-and-sierpinski": 0,
-      "total": 0.04375
+      "bitcoin": 0.8697916666666666,
+      "256-bit-security": 1,
+      "hamming-codes": 0.050955414012738856,
+      "hamming-codes-2": 0.15789473684210525,
+      "hanoi-and-sierpinski": 0.04132231404958678,
+      "total": 0.3087455164463872
     },
     "Topology": {
-      "inscribed-rectangle-problem": 0,
-      "borsuk-ulam": 0,
-      "total": 0
+      "inscribed-rectangle-problem": 0.2903225806451613,
+      "borsuk-ulam": 0.1791044776119403,
+      "total": 0.2347135291285508
     },
     "Group Theory": {
-      "groups-and-monsters": 0,
-      "eulers-formula-via-group-theory": 0,
-      "total": 0
+      "groups-and-monsters": 0.09883720930232558,
+      "eulers-formula-via-group-theory": 0.13071895424836602,
+      "total": 0.11477808177534579
     },
     "Epidemics": {
-      "exponential-and-epidemics": 0,
+      "exponential-and-epidemics": 0.12962962962962962,
       "epidemic-simulations": 0,
       "dp3t": 0,
-      "total": 0
+      "total": 0.043209876543209874
     },
     "Lockdown Math": {
       "lockdown-math-announcement": 0,
-      "ldm-quadratic": 0,
+      "ldm-quadratic": 0.05567010309278351,
       "ldm-trigonometry": 0,
-      "ldm-complex-numbers": 0,
+      "ldm-complex-numbers": 0.04666666666666667,
       "ldm-eulers-formula": 0,
       "ldm-imaginary-interest": 0,
       "ldm-logarithms": 0,
@@ -9459,7 +9597,7 @@
       "ldm-power-towers": 0,
       "ldm-i-to-i": 0,
       "ldm-tips-to-problem-solving": 0,
-      "total": 0
+      "total": 0.009303342705404562
     },
     "Summer of Math Exposition": {
       "some1": 0,
@@ -9474,23 +9612,26 @@
       "qa2": 0,
       "qa3": 0,
       "tattoos-on-math": 0,
-      "triangle-of-power": 0,
+      "triangle-of-power": 0.017543859649122806,
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "qa4": 0,
-      "fourier-series-montage": 0,
-      "moser": 0,
-      "visual-proofs": 0,
+      "harvey-mudd-speech": 0,
       "cube-shadow-puzzle": 0,
-      "mandelbrot": 0,
       "subset-sum": 0,
-      "how-they-fool-ya": 0,
+      "mandelbrot": 0,
       "ego-and-math": 0,
-      "newton-art-puzzle": 0,
+      "how-they-fool-ya": 0,
       "on-shorts": 0,
-      "total": 0
+      "newton-art-puzzle": 0,
+      "eola-preview": 0.1935483870967742,
+      "visual-proofs": 0,
+      "derivative-formulas-geometrically": 0.23008849557522124,
+      "fourier-series-montage": 0,
+      "qa4": 0,
+      "moser": 0,
+      "total": 0.020053670105505374
     },
-    "total": 0.007066423326164514
+    "total": 0.14455992650959765
   }
 }

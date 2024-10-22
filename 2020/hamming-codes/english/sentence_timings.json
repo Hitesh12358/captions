@@ -15,12 +15,12 @@
   36.66
  ],
  [
-  "Well, actually it doesn't take that much cleverness to come up with a way to do this.",
+  "Well, okay, actually it doesn't take that much cleverness to come up with a way to do this.",
   37.52,
   41.6
  ],
  [
-  "Any file, whether it's a video, sound, text, code, image, whatever, is ultimately some sequence of 1s and 0s.",
+  "Any file, whether it's a video or sound or text, some code, an image, whatever, is ultimately some sequence of 1s and 0s.",
   42.06,
   50.38
  ],
@@ -50,13 +50,8 @@
   84.02
  ],
  [
-  "For example, using the method you'll learn about this video, you could store your data in 256-bit blocks, where each block uses 9 bits, 9!",
+  "For example, using the method you'll learn about this video, you could store your data in 256-bit blocks, where each block uses 9 bits, 9(!), to act as a kind of redundancy, and the other 247 bits are free to carry whatever meaningful message or data you want.",
   84.52,
-  93.36
- ],
- [
-  "to act as a kind of redundancy, and the other 247 bits are free to carry whatever meaningful message or data you want.",
-  93.76,
   100.3
  ],
  [
@@ -120,7 +115,7 @@
   202.18
  ],
  [
-  "As an analogy, think about correctly spelled words versus incorrectly spelled words.",
+  "As an analogy, think about correctly spelled words vs incorrectly spelled words.",
   202.8,
   206.94
  ],
@@ -130,7 +125,7 @@
   217.34
  ],
  [
-  "Coming up with a concrete algorithm to efficiently categorize messages like this, though, take a certain cleverness.",
+  "Coming up with a concrete algorithm to efficiently categorize messages like this, though, takes a certain cleverness.",
   218.22,
   224.06
  ],
@@ -165,7 +160,7 @@
   264.74
  ],
  [
-  "The actual data we want to store is only going to make up 12 of these bits, while 4 of the positions are going to be reserved as a kind of redundancy.",
+  "The actual data we want to store is only going to make up 12 of these bits, while 4 of the positions are reserved as a kind of redundancy.",
   265.62,
   273.0
  ],
@@ -190,27 +185,27 @@
   303.54
  ],
  [
-  "Also, technically it ends up being only 11 bits of data, you'll find there's a mild nuance for what goes on at position 0, but don't worry about that for now.",
+  "Also technically it ends up being only 11 bits of data, you'll find there's a mild nuance for what goes on at position 0, but don't worry about that for now.",
   304.9,
   313.26
  ],
  [
-  "Like any error correction algorithm, this will involve two players, a sender, who's responsible for setting these 4 special bits, and then a receiver, who's responsible for performing some kind of check and then correcting the errors.",
+  "Like any error correction algorithm, this will involve two players, a sender who's responsible for setting these 4 special bits, and a receiver who's responsible for performing some kind of check and correcting the errors.",
   314.14,
   325.54
  ],
  [
-  "Of course, the words sender and receiver really refer to machines or software that's doing checks, and the idea of a message is meant really broadly, to include things like storage.",
+  "Of course, the words sender and receiver really refer to machines or software that's doing all the checks, and the idea of a message is meant really broadly, to include things like storage.",
   326.3,
   334.74
  ],
  [
-  "After all, storing data is the same thing as sending a message, just from the past to the future, instead of from one place to another.",
+  "After all, storing data is the same thing as sending a message just from the past to the future instead of from one place to another.",
   335.34,
   341.68
  ],
  [
-  "So that's the setup, but before we can dive in, we need to talk about a related idea which was fresh on Hamming's mind in the time of his discovery, a method which lets you detect any single bit errors, but not to correct them, known in the business as a parity check.",
+  "So that's the setup, but before we can dive in we need to talk about a related idea which was fresh on Hamming's mind in the time of his discovery, a method which lets you detect any single bit errors, but not to correct them, known in the business as a parity check.",
   342.56,
   356.3
  ],
@@ -250,17 +245,22 @@
   417.46
  ],
  [
-  "In the jargon, whether a group of bits has an even or an odd number of 1s is known as its parity.",
+  "In the jargon, whether a group of bits has an even or odd number of 1s is known as its parity.",
   418.5,
   423.34
  ],
  [
-  "You could also use numbers and say the parity is 0 or 1, which is typically more helpful once you start doing math with the idea, and this special bit that the sender uses to control the parity is called the parity bit.",
+  "You could also use numbers and say the parity is 0 or 1, which is typically more helpful once you start doing math with the idea.",
   424.86,
+  430.72
+ ],
+ [
+  "And this special bit that the sender uses to control the parity is called the parity bit.",
+  431.22,
   435.52
  ],
  [
-  "And actually, we should be clear, if the receiver sees an odd parity, it doesn't necessarily mean there was just one error, there might have been 3 errors or 5 or any other odd number, but they can know for sure that it wasn't 0.",
+  "And actually, we should be clear, if the receiver sees an odd parity, it doesn't necessarily mean there was just one error, there might have been 3 errors, or 5, or any other odd number, but they can know for sure that it wasn't 0.",
   437.56,
   449.26
  ],
@@ -310,7 +310,7 @@
   539.38
  ],
  [
-  "Then, if an error is detected, it gives the receiver a little more information about where specifically the error is, namely that it's in an odd position.",
+  "Then if an error is detected, it gives the receiver a little more information about where specifically the error is, namely that it's in an odd position.",
   540.1,
   548.24
  ],
@@ -320,7 +320,7 @@
   556.24
  ],
  [
-  "You might think that limiting a parity check to half the bits makes it less effective, but when it's done in conjunction with other well-chosen checks, it counter-intuitively gives us something a lot more powerful.",
+  "You might think that limiting a parity check to half the bits makes it less effective, but when it's done in conjunction with other well-chosen checks, it counterintuitively gives us something a lot more powerful.",
   557.18,
   567.2
  ],
@@ -350,13 +350,8 @@
   596.3
  ],
  [
-  "This time we might use position 2 as a parity bit.",
+  "This time we might use position 2 as a parity bit, so these 8 bits already have an even parity, and the sender can feel good leaving that bit number 2 unchanged.",
   596.68,
-  599.58
- ],
- [
-  "So these 8 bits already have an even parity, and the sender can feel good leaving that bit number 2 unchanged.",
-  600.02,
   606.06
  ],
  [
@@ -365,7 +360,7 @@
   615.38
  ],
  [
-  "Otherwise, it means either there's no error, or the error is somewhere on the left half.",
+  "Otherwise it means either there's no error, or the error is somewhere on the left half.",
   615.82,
   620.58
  ],
@@ -385,7 +380,7 @@
   635.1
  ],
  [
-  "Let's say you detect an error among the odd columns and among the right half.",
+  "Let's say you detect an error among the odd columns, and among the right half.",
   635.8,
   639.66
  ],
@@ -400,12 +395,12 @@
   649.7
  ],
  [
-  "Likewise, if there is an error in the odd columns but not in the right half, you know that it's somewhere in the second column.",
+  "Likewise if there is an error in the odd columns but not in the right half, you know it's somewhere in the second column.",
   650.44,
   656.02
  ],
  [
-  "And then if neither of those two parity checks detects anything, it means the only place that an error could be is in that leftmost column.",
+  "And if neither of those two parity checks detects anything, it means the only place that an error could be is in that leftmost column.",
   656.02,
   663.12
  ],
@@ -435,12 +430,12 @@
   680.9
  ],
  [
-  "So in this example, that group already has an even parity, so bit 4 would be set to a 0.",
+  "So in this example that group already has an even parity, so bit 4 would be set to a 0.",
   681.38,
   685.82
  ],
  [
-  "And finally, there's a parity check on the bottom two rows, using position 8 as a parity bit.",
+  "And finally there's a parity check on the bottom two rows, using position 8 as a parity bit.",
   686.56,
   691.58
  ],
@@ -460,7 +455,7 @@
   707.54
  ],
  [
-  "Well, this affects the first parity group, and it also affects the second parity group, so the receiver knows that there's an error somewhere in that right column.",
+  "Well this affects the first parity group, and it also affects the second parity group, so the receiver knows that there's an error somewhere in that right column.",
   708.18,
   715.56
  ],
@@ -535,12 +530,12 @@
   813.66
  ],
  [
-  "Everything except for those eight highlighted parity bits can be whatever you want it to be, carrying whatever message or data you want.",
+  "The first thing, except for those eight highlighted parity bits, can be whatever you want it to be, carrying whatever message or data you want.",
   813.66,
   821.0
  ],
  [
-  "The eight bits are redundant in the sense that they're completely determined by the rest of the message, but it's in a much smarter way than simply copying the message as a whole.",
+  "The 8 bits are redundant in the sense that they're completely determined by the rest of the message, but it's in a much smarter way than simply copying the message as a whole.",
   821.72,
   830.02
  ],
@@ -555,23 +550,18 @@
   840.4
  ],
  [
-  "Okay, so the one problem here is that if none of the four parity checks detect an error, meaning that the specially selected subsets of eight bits all have even parities, just like the sender intended, then it either means there was no error at all, or it narrows us down into position zero.",
+  "Okay, so the one problem here is that if none of the four parity checks detect an error, meaning that the specially selected subsets of 8 bits all have even parities, just like the sender intended, then it either means there was no error at all, or it narrows us down into position 0.",
   840.96,
   856.86
  ],
  [
-  "You see, with four yes or no questions, we have 16 possible outcomes for our parity checks, and at first that feels perfect for pinpointing one out of 16 positions in the block, but you also need to communicate a 17th outcome, the no error condition.",
+  "You see, with four yes or no questions, we have 16 possible outcomes for our parity checks, and at first that feels perfect for pinpointing 1 out of 16 positions in the block, but you also need to communicate a 17th outcome, the no error condition.",
   857.74,
   871.9
  ],
  [
-  "The solution here is actually pretty simple.",
+  "The solution here is actually pretty simple, just forget about that 0th bit entirely.",
   873.02,
-  874.86
- ],
- [
-  "Just forget about that zeroth bit entirely.",
-  875.28,
   877.3
  ],
  [
@@ -580,7 +570,7 @@
   883.46
  ],
  [
-  "What that means is rather than working with a 16-bit block, we work with a 15-bit block, where 11 of the bits are free to carry a message and four of them are there for redundancy.",
+  "What that means is rather than working with a 16-bit block, we work with a 15-bit block, where 11 of the bits are free to carry a message and 4 of them are there for redundancy.",
   884.24,
   893.22
  ],
@@ -590,12 +580,12 @@
   898.8
  ],
  [
-  "That said, it is nice to have a block size that's a clean power of two, and there's a clever way that we can keep that zeroth bit around and get it to do a little extra work for us.",
+  "That said, it's nice to have a block size that's a clean power of 2, and there's a clever way we can keep that 0th bit around and get it to do a little extra work for us.",
   899.86,
   908.14
  ],
  [
-  "If we use it as a parity bit across the whole block, it lets us actually detect, even though we can't correct, two-bit errors.",
+  "If we use it as a parity bit across the whole block, it lets us actually detect, even though we can't correct, 2-bit errors.",
   908.7,
   915.54
  ],
@@ -605,17 +595,17 @@
   916.82
  ],
  [
-  "After setting those four special error correcting bits, we set that zeroth one so that the parity of the full block is even, just like a normal parity check.",
+  "After setting those four special error-correcting bits, we set that 0th one so that the parity of the full block is even, just like a normal parity check.",
   917.18,
   924.94
  ],
  [
-  "Now, if there's a single bit error, then the parity of the full block toggles to be odd, but we would catch that anyway, thanks to the four error correcting checks.",
+  "Now, if there's a single bit error, then the parity of the full block toggles to be odd, but we would catch that anyway thanks to the four error-correcting checks.",
   925.7,
   933.6
  ],
  [
-  "However, if there's two errors, then the overall parity is going to toggle back to being even, but the receiver would still see that there's been at least some error because of what's going on with those four usual parity checks.",
+  "However, if there's two errors, then the overall parity is going to toggle back to being even, but the receiver would still see that there's been at least some error because of what's going on with those four parity checks.",
   934.16,
   945.18
  ],
@@ -630,7 +620,7 @@
   954.0
  ],
  [
-  "Even though we can't correct those two-bit errors, just by putting that one little bothersome zeroth bit back to work, it lets us detect them.",
+  "Even though we can't correct those 2-bit errors, just by putting that one little bothersome 0th bit back to work, it lets us detect them.",
   954.3,
   961.26
  ],
@@ -640,8 +630,13 @@
   965.22
  ],
  [
-  "Technically speaking, you now have a full description of what a Hamming code does, at least for the example of a 16-bit block, but I think you'll find it more satisfying to check your understanding and solidify everything up to this point by doing one full example from start to finish yourself.",
+  "Technically speaking, you now have a full description of what a Hamming code does, at least for the example of a 16-bit block.",
   966.54,
+  972.88
+ ],
+ [
+  "But I think you'll find it more satisfying to check your understanding and solidify everything up to this point by doing one full example from start to finish yourself.",
+  972.88,
   981.32
  ],
  [
@@ -650,7 +645,7 @@
   984.3
  ],
  [
-  "To set up a message, whether that's a literal message that you're translating over space, or some data that you want to store over time, the first step is to divide it up into 11-bit chunks.",
+  "To set up a message, whether that's a literal message you're translating over space or some data you want to store over time, the first step is to divide it up into 11-bit chunks.",
   985.12,
   994.66
  ],
@@ -670,7 +665,7 @@
   1004.94
  ],
  [
-  "Pause and try putting together this block.",
+  "Let's pause and try putting together this block.",
   1005.22,
   1007.02
  ],
@@ -705,7 +700,7 @@
   1050.06
  ],
  [
-  "And then as the final step, the full block now has an even parity, meaning that you can set that bit number 0, the overarching parity bit, to be 0.",
+  "And then as the final step, the full block now has an even parity, meaning you can set that bit number 0, the overarching parity bit, to be 0.",
   1051.3,
   1060.32
  ],
@@ -720,13 +715,8 @@
   1072.18
  ],
  [
-  "Of course, that would mean you don't already know what this message is.",
+  "Of course, that would mean you don't already know what this message is, maybe some of you memorized it, but let's assume that you haven't.",
   1073.48,
-  1076.82
- ],
- [
-  "Maybe some of you memorized it, but let's assume that you haven't.",
-  1077.08,
   1079.78
  ],
  [
@@ -740,7 +730,7 @@
   1090.81
  ],
  [
-  "Okay, so you as the receiver now check the first parity group, and you can see that it's even, so any error that exists would have to be in an even column.",
+  "Okay, so you as the receiver now check the first parity group and you can see that it's even, so any error that exists would have to be in an even column.",
   1098.79,
   1107.91
  ],
@@ -785,7 +775,7 @@
   1178.75
  ],
  [
-  "To see what I mean, come join me in part two.",
+  "To see what I mean, come join me in part 2.",
   1179.43,
   1181.31
  ]

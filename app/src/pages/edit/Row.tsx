@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react";
+import { FaExclamationTriangle } from "react-icons/fa";
 import {
   FaArrowsRotate,
   FaFlag,
@@ -7,12 +8,12 @@ import {
   FaStop,
   FaThumbsUp,
 } from "react-icons/fa6";
-import { FaExclamationTriangle } from 'react-icons/fa';
+import { LuBraces } from "react-icons/lu";
 import { Link, useParams } from "react-router-dom";
 import classNames from "classnames";
 import { useAtom, useAtomValue } from "jotai";
-import { cloneDeep } from "lodash";
-import { issueLink } from "@/api";
+import { cloneDeep, truncate } from "lodash";
+import { issueLink, repoFull } from "@/api";
 import { playing, playSegment, stopVideo, time } from "@/components/Player";
 import Textarea from "@/components/Textarea";
 import { isEdited, originalMax, translationMax } from "@/data/data";
@@ -21,20 +22,24 @@ import {
   captions,
   completion,
   description,
+  meta,
   showLegacy,
   title,
 } from "@/pages/Edit";
+import { legacyTooltip } from "@/pages/edit/Footer";
 import { glow, scrollIntoView } from "@/util/dom";
+import { isRtl } from "@/util/language";
 import { formatTime } from "@/util/string";
 import classes from "./Row.module.css";
 
 type Props = {
   index: number;
   entries: typeof title | typeof captions | typeof description;
+  file: string;
 };
 
 /** editable entry row */
-function Row({ index, entries }: Props) {
+function Row({ index, entries, file }: Props) {
   /** get/set entry from list of entries and index */
   const [getEntries, setEntries] = useAtom(entries);
   const entry = getEntries[index]!;
@@ -62,6 +67,7 @@ function Row({ index, entries }: Props) {
   const { lesson = "", language = "" } = useParams();
 
   /** page state */
+  const getMeta = useAtomValue(meta);
   const getTime = useAtomValue(time);
   const getPlaying = useAtomValue(playing);
   const getShowLegacy = useAtomValue(showLegacy);
@@ -84,20 +90,40 @@ function Row({ index, entries }: Props) {
     currentTranslation.length >= translationMax(entry, language);
   const originalWarning = currentOriginal.length >= originalMax(entry);
 
+  /** right to left languages need special styling */
+  const rtlLanguage = isRtl(language);
+
+  /** get (rough) line number in raw json */
+  const lineNumber = 1 + index * (6 + 2) + 2;
+  /** get first few words in original english, url-encoded */
+  const firstFewWords = window.encodeURIComponent(
+    startingOriginal.split(/\s+/).slice(0, 20).join(" "),
+  );
+
   /** issue url params */
   const issueTitle = `${lesson}/${language}`;
   const issueBody = [
-    `**Line**:\n`,
-    `${startingOriginal.slice(0, 100)}...\n`,
-    "\n",
-    ...(start && end ? ["**Time**:\n", `${start} - ${end}\n`, "\n"] : []),
-    `**Describe the issue**:\n`,
-  ];
+    ["**Original**", truncate(startingOriginal, { length: 300 })],
+    ["**Translation**:", truncate(startingTranslation, { length: 300 })],
+    start && end ? ["**Time**:", `${start} - ${end}`] : [],
+    ["**Line**", `Entry # ${index}`, `Line # ~${lineNumber}`],
+    ["**Describe the issue**"],
+  ]
+    .filter((line) => line.length)
+    .map((line) => line.join("\n"))
+    .join("\n\n")
+    .concat("\n");
+
+  /** get full path to file and line number */
+  const path = `${repoFull}/tree/main/${getMeta?.path}/${language}/${file}#:~:text=${firstFewWords}`;
 
   return (
     <div
       ref={ref}
-      className={classNames(classes.row, (edited || upvoted || reviews > 0) && classes.edited)}
+      className={classNames(
+        classes.row,
+        (edited || upvoted || reviews > 0) && classes.edited,
+      )}
     >
       {/* actions */}
       <div className={classes.actions}>
@@ -109,10 +135,10 @@ function Row({ index, entries }: Props) {
           <span>{edited ? 1 : reviews + Number(upvoted)}</span>
         </button>
 
-        <div className={classes.playWarningWrapper}>
+        <div className={classes.playWrapper}>
           {translationWarning && (
-            <FaExclamationTriangle 
-              className={classes.warningTriangle}
+            <FaExclamationTriangle
+              className={classes.warningIcon}
               data-tooltip="This translation may be too long to fit in the time slot"
             />
           )}
@@ -132,7 +158,9 @@ function Row({ index, entries }: Props) {
 
                   /** expand header */
                   const expand = innerHeight / 3;
-                  if (parseFloat(window.getComputedStyle(header).height) < expand)
+                  if (
+                    parseFloat(window.getComputedStyle(header).height) < expand
+                  )
                     header.style.height = expand + "px";
                 }
               }}
@@ -150,6 +178,7 @@ function Row({ index, entries }: Props) {
           classes.edit,
           translationWarning && classes.warning,
         )}
+        dir={rtlLanguage ? "rtl" : "ltr"}
         value={currentTranslation}
         onChange={(value) => setEntry({ currentTranslation: value })}
         data-tooltip={"Edit translated text"}
@@ -163,7 +192,9 @@ function Row({ index, entries }: Props) {
         )}
         value={entry.currentOriginal}
         onChange={(value) => setEntry({ currentOriginal: value })}
-        data-tooltip={"Original English text. If you see a significant problem, click to edit."}
+        data-tooltip={
+          "Original English text. If you see a significant problem, click to edit."
+        }
       />
 
       {/* secondary actions */}
@@ -182,9 +213,17 @@ function Row({ index, entries }: Props) {
         </button>
 
         <Link
+          to={path}
+          target="_blank"
+          data-tooltip="See raw JSON for this entry"
+        >
+          <LuBraces />
+        </Link>
+
+        <Link
           to={issueLink(issueTitle, issueBody)}
           target="_blank"
-          data-tooltip="Create an issue about this translation"
+          data-tooltip="Create an issue about this entry"
         >
           <FaFlag />
         </Link>
@@ -192,9 +231,17 @@ function Row({ index, entries }: Props) {
 
       {/* legacy translation */}
       {legacyTranslation && getShowLegacy && getCompletion < 1 && (
-        <div className={classes.legacy}>
-          <strong>Legacy translation</strong>: {legacyTranslation}
-        </div>
+        <>
+          <strong className={classes.legacyLabel} data-tooltip={legacyTooltip}>
+            Legacy:
+          </strong>
+          <span
+            className={classes.legacyText}
+            dir={rtlLanguage ? "rtl" : "ltr"}
+          >
+            {legacyTranslation}
+          </span>
+        </>
       )}
     </div>
   );

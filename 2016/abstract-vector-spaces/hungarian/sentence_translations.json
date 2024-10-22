@@ -136,7 +136,7 @@
   "end": 153.14
  },
  {
-  "input": "The output of this new function at any given input, like negative four, is the sum of the same input, negative four.",
+  "input": "The output of this new function at any given input, like negative four, is the sum of the outputs of f and g when you evaluate them each at that same input, negative four.",
   "translatedText": "Ennek az új függvénynek a kimenete egy adott bemenet, például negatív négy, az ugyanezen bemenet, negatív négy összege.",
   "model": "DeepL",
   "n_reviews": 0,
@@ -789,22 +789,6 @@
   "model": "DeepL",
   "n_reviews": 0,
   "start": 956.66,
-  "end": 960.0
- },
- {
-  "input": "Thank you.",
-  "translatedText": "Köszönöm.",
-  "model": "DeepL",
-  "n_reviews": 0,
-  "start": 960.0,
-  "end": 960.0
- },
- {
-  "input": ".",
-  "translatedText": ".",
-  "model": "DeepL",
-  "n_reviews": 0,
-  "start": 960.0,
   "end": 960.0
  }
 ]

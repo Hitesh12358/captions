@@ -1,10 +1,10 @@
 [
  {
   "input": "The setup here starts with a cylinder full of sugar water, basically, and we're about to shine some white light into it, but before it gets there, it passes through a linearly polarizing filter. ",
-  "translatedText": "Về cơ bản, quá trình thiết lập ở đây bắt đầu với một hình trụ chứa đầy nước đường và chúng tôi sắp chiếu một ít ánh sáng trắng vào nó, nhưng trước khi nó đến đó, nó sẽ đi qua một bộ lọc phân cực tuyến tính. ",
+  "translatedText": "Về cơ bản, quá trình thiết lập ở đây bắt đầu với một hình trụ chứa đầy nước đường và chúng ta sắp chiếu một ít ánh sáng trắng vào nó, nhưng trước khi nó đến đó, nó sẽ đi qua một bộ lọc phân cực tuyến tính. ",
   "model": "google_nmt",
-  "n_reviews": 0,
-  "start": 0.0,
+  "n_reviews": 1,
+  "start": 0,
   "end": 10.2
  },
  {
@@ -17,33 +17,33 @@
  },
  {
   "input": "And don't worry, in a few minutes we're going to go into much more detail about what specifically is wiggling and what the significance of that wiggling direction is, but skipping to the punchline first, the demo also includes a second linearly polarizing filter coming out the other end, and I want you to predict what we're going to see once we turn the light on. ",
-  "translatedText": "Và đừng lo lắng, trong vài phút nữa chúng ta sẽ đi vào chi tiết hơn về cụ thể sự lắc lư là gì và tầm quan trọng của hướng lắc lư đó là gì, nhưng bỏ qua phần mấu chốt trước tiên, bản demo cũng bao gồm một phân cực tuyến tính thứ hai bộ lọc đi ra ở đầu bên kia và tôi muốn bạn dự đoán những gì chúng ta sẽ thấy khi chúng ta bật đèn lên. ",
+  "translatedText": "Và đừng lo lắng, trong vài phút nữa ta sẽ đi vào chi tiết hơn về cụ thể sự lắc lư là gì và tầm quan trọng của hướng lắc lư đó là gì, nhưng bỏ qua phần mấu chốt trước tiên, thử nghiệm cũng bao gồm một phân cực tuyến tính thứ hai bộ lọc đi ra ở đầu bên kia và tôi muốn bạn dự đoán những gì chúng ta sẽ thấy khi ta bật đèn lên. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 20.78,
   "end": 38.42
  },
  {
   "input": "Now I suspect some viewers might already have a little bit of a sense for what's going on, because a few years ago, Steve Mould made a really excellent video about this phenomenon of shining polarized light through sugar water. ",
-  "translatedText": "Bây giờ tôi nghi ngờ rằng một số khán giả có thể đã hiểu được một chút về những gì đang diễn ra, bởi vì vài năm trước, Steve Mold đã làm một video thực sự xuất sắc về hiện tượng chiếu ánh sáng phân cực qua nước đường. ",
+  "translatedText": "Bây giờ tôi nghi ngờ rằng một số khán giả có thể đã hiểu chút về những gì đang diễn ra, bởi vì vài năm trước, Steve Mold đã làm một video thực sự xuất sắc về hiện tượng chiếu ánh sáng phân cực qua nước đường. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 39.04,
   "end": 50.02
  },
  {
   "input": "It was really well done, which is no surprise because everything Steve makes is, but even if you watched that, this is a rich enough phenomenon that there's still more to be explained. ",
-  "translatedText": "Nó thực sự được thực hiện rất tốt, điều này không có gì ngạc nhiên vì mọi thứ Steve làm đều như vậy, nhưng ngay cả khi bạn đã xem nó, đây là một hiện tượng đủ phong phú đến mức vẫn còn nhiều điều cần giải thích. ",
+  "translatedText": "Nó thực sự được làm rất tốt, không ngạc nhiên vì mọi thứ Steve làm đều vậy, nhưng ngay cả khi bạn đã xem, đây là một hiện tượng đủ phong phú mà vẫn phải giải thích thêm. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 50.5,
   "end": 58.96
  },
  {
   "input": "In fact, even if you made that video, this is a rich enough phenomenon that there's more to be explained. ",
-  "translatedText": "Trên thực tế, ngay cả khi bạn làm video đó, thì đây vẫn là một hiện tượng đủ phong phú để có nhiều điều cần giải thích hơn. ",
+  "translatedText": "Thực tế ngay cả khi bạn làm video đó, đây vẫn là một hiện tượng đủ phong phú có nhiều điều cần giải thích. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 59.22,
   "end": 64.32
  },
@@ -81,17 +81,17 @@
  },
  {
   "input": "So given the setup that we're looking at now, once we turn off the room lights and turn on the lamp, I'm curious if you have a prediction for what you might see. ",
-  "translatedText": "Vì vậy, với cách bố trí mà chúng ta đang xem xét bây giờ, khi chúng ta tắt đèn trong phòng và bật đèn lên, tôi tò mò liệu bạn có dự đoán nào về những gì bạn có thể nhìn thấy không. ",
+  "translatedText": "Vậy với cách bố trí mà ta đang xét bây giờ, khi ta tắt đèn trong phòng và bật đèn lên, tôi tò mò liệu bạn có dự đoán nào về những gì bạn có thể thấy không. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 78.22,
   "end": 86.14
  },
  {
   "input": "Well, there will be some scattering, I suppose. ",
-  "translatedText": "Chà, tôi cho là sẽ có một số sự phân tán. ",
+  "translatedText": "Chà, tôi cho là sẽ có một số tán xạ. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 86.76,
   "end": 89.92
  },
@@ -209,9 +209,9 @@
  },
  {
   "input": "As we rotate the first filter, you rotate through a family of distinct hues. ",
-  "translatedText": "Khi chúng tôi xoay bộ lọc đầu tiên, bạn sẽ xoay qua một nhóm màu sắc riêng biệt. ",
+  "translatedText": "Khi chúng ta xoay bộ lọc đầu tiên, bạn sẽ xoay qua một nhóm màu sắc riêng biệt. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 147.1,
   "end": 151.3
  },
@@ -233,17 +233,17 @@
  },
  {
   "input": "That's Quinn, by the way, who kindly set up this whole demo. ",
-  "translatedText": "Nhân tiện, đó là Quinn, người đã vui lòng thiết lập toàn bộ bản demo này. ",
+  "translatedText": "Nhân tiện đó là Quinn, người thiết lập toàn bộ thử nghiệm này. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 158.8,
   "end": 161.5
  },
  {
   "input": "And what I love about this setup is that if you want to really understand what you're looking at, with that deep to your bones satisfying sense of what's going on, it requires having very solid intuitions for a number of different fundamental concepts about light, like polarization, how scattering works, and how an index of refraction works. ",
-  "translatedText": "Và điều tôi thích ở thiết lập này là nếu bạn muốn thực sự hiểu những gì bạn đang nhìn, với cảm giác thỏa mãn sâu sắc về những gì đang diễn ra, nó đòi hỏi bạn phải có trực giác rất vững chắc về một số khái niệm cơ bản khác nhau về ánh sáng , như sự phân cực, cách hoạt động của sự tán xạ và cách hoạt động của chỉ số khúc xạ. ",
+  "translatedText": "Và điều tôi thích ở thiết lập này là nếu bạn muốn thực sự hiểu những gì bạn đang nhìn, với cảm giác thỏa mãn sâu sắc về những gì đang diễn ra, nó đòi hỏi bạn phải có trực quan rất vững chắc về một số khái niệm cơ bản khác nhau về ánh sáng, như sự phân cực, cách hoạt động của sự tán xạ và cách hoạt động của chỉ số khúc xạ. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 162.32,
   "end": 180.8
  },
@@ -257,9 +257,9 @@
  },
  {
   "input": "And along the way, record various questions that we still need to answer. ",
-  "translatedText": "Và trên đường đi, hãy ghi lại nhiều câu hỏi khác nhau mà chúng ta vẫn cần trả lời. ",
+  "translatedText": "Và theo cách đó, ghi lại nhiều câu hỏi khác nhau mà ta vẫn cần trả lời. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 186.6,
   "end": 189.86
  },
@@ -273,17 +273,17 @@
  },
  {
   "input": "And I suppose question number zero is for us to be clear about what exactly is wiggling. ",
-  "translatedText": "Và tôi cho rằng câu hỏi số 0 là để chúng ta làm rõ chính xác thì cái gì đang ngọ nguậy. ",
+  "translatedText": "Và tôi cho rằng câu hỏi số 0 là để chúng ta làm rõ chính xác thì cái gì đang lắc qua lại. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 197.7,
   "end": 202.86
  },
  {
   "input": "Postponing that for the moment, we'll just say if we think about it as propagating in one direction, say along an x-axis, the wiggling happens perpendicular to that, say in the z direction. ",
-  "translatedText": "Tạm hoãn điều đó vào lúc này, chúng ta sẽ chỉ nói nếu chúng ta nghĩ về nó như truyền theo một hướng, chẳng hạn dọc theo trục x, sự dao động xảy ra vuông góc với hướng đó, chẳng hạn theo hướng z. ",
+  "translatedText": "Tạm hoãn điều đó vào lúc này, ta sẽ chỉ nói nếu ta nghĩ về nó như truyền theo một hướng, chẳng hạn dọc theo trục x, sự dao động xảy ra vuông góc với hướng đó, chẳng hạn theo hướng z. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 203.42,
   "end": 213.04
  },
@@ -345,25 +345,25 @@
  },
  {
   "input": "Whatever explanation we come to for why the twisting happens in the first place, it should offer some intuition for where the dependence on frequency would come from. ",
-  "translatedText": "Dù chúng ta đưa ra lời giải thích nào cho lý do tại sao sự xoắn lại xảy ra ngay từ đầu, nó sẽ đưa ra một số trực giác về sự phụ thuộc vào tần số sẽ đến từ đâu. ",
+  "translatedText": "Dù chúng ta đưa ra lời giải thích nào cho lý do tại sao sự xoắn lại xảy ra ngay từ đầu, nó sẽ đưa ra một số trực quan về sự phụ thuộc vào tần số sẽ đến từ đâu. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 264.24,
   "end": 272.42
  },
  {
   "input": "Let's take a moment to think about what it means that different colors of light are getting twisted at different rates. ",
-  "translatedText": "Chúng ta hãy dành một chút thời gian để suy nghĩ xem việc các màu sắc khác nhau của ánh sáng đang bị xoắn với tốc độ khác nhau có nghĩa là gì. ",
+  "translatedText": "Ta dành chút thời gian để nghĩ về ý nghĩa việc ánh sáng có màu khác nhau đang bị xoắn với tốc độ khác nhau. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 273.66,
   "end": 278.84
  },
  {
   "input": "In the demo we're shining in white light, and white light is not a clean pure sine wave, it's something more complicated. ",
-  "translatedText": "Trong bản demo, chúng ta chiếu ánh sáng trắng và ánh sáng trắng không phải là sóng hình sin thuần túy, nó phức tạp hơn. ",
+  "translatedText": "Trong bản thử nghiệm, chúng ta chiếu ánh sáng trắng và ánh sáng trắng không phải là sóng hình sin thuần túy, nó phức tạp hơn. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 278.84,
   "end": 285.46
  },
@@ -409,9 +409,9 @@
  },
  {
   "input": "If you were to put your eye at the end of the tube and look towards the lamp, it wouldn't look colored in any way, because even if the wiggling directions are all different, there's still the same amount of each color as there was at the start. ",
-  "translatedText": "Nếu bạn đặt mắt vào đầu ống và nhìn về phía ngọn đèn, nó sẽ không có màu sắc gì cả, bởi vì ngay cả khi các hướng ngọ nguậy khác nhau thì vẫn có cùng một lượng mỗi màu như trước đây. lúc bắt đầu. ",
+  "translatedText": "Nếu bạn đặt mắt vào đầu ống và nhìn về phía ngọn đèn, nó sẽ không có màu sắc gì cả, bởi vì ngay cả khi các hướng dao động khác nhau thì vẫn có cùng một lượng mỗi màu như trước đây. lúc bắt đầu. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 326.42,
   "end": 338.06
  },
@@ -441,9 +441,9 @@
  },
  {
   "input": "So the light coming out the other end of this filter is some imbalanced combination of all of the pure frequencies, which is why what we see coming out the other end is no longer white, but some other color. ",
-  "translatedText": "Vì vậy, ánh sáng phát ra ở đầu bên kia của bộ lọc này là sự kết hợp không cân bằng của tất cả các tần số thuần túy, đó là lý do tại sao những gì chúng ta nhìn thấy ở đầu bên kia không còn là màu trắng mà là một số màu khác. ",
+  "translatedText": "Vậy ánh sáng phát ra ở đầu bên kia của bộ lọc này là sự kết hợp không cân bằng của tất cả các tần số thuần túy, đó là lý do tại sao những gì ta nhìn thấy ở đầu bên kia không còn là màu trắng mà là một số màu khác. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 370.48,
   "end": 380.96
  },
@@ -457,9 +457,9 @@
  },
  {
   "input": "And this is something you can do at home, by the way. ",
-  "translatedText": "Và nhân tiện, đây là điều bạn có thể làm ở nhà. ",
+  "translatedText": "Và nhân tiện đây là điều bạn có thể làm ở nhà. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 399.9,
   "end": 401.56
  },
@@ -469,13 +469,13 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 401.58,
-  "end": 403.0
+  "end": 403
  },
  {
   "input": "Start by creating a pretty dense mixture of sugar water, and then you'll need to get your hands on some polarizing filters so that you can pass light first through one of those filters, then through the sugar water, and then through a second filter. ",
-  "translatedText": "Bắt đầu bằng cách tạo ra một hỗn hợp nước đường khá đậm đặc, sau đó bạn sẽ cần sử dụng một số bộ lọc phân cực để có thể truyền ánh sáng trước tiên qua một trong những bộ lọc đó, sau đó qua nước đường, rồi qua bộ lọc thứ hai. . ",
+  "translatedText": "Bắt đầu bằng cách tạo ra một hỗn hợp nước đường khá đậm đặc, sau đó bạn sẽ cần dùng một số bộ lọc phân cực để có thể truyền ánh sáng trước tiên qua một trong những bộ lọc đó, sau đó qua nước đường, rồi qua bộ lọc thứ hai. . ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 403.4,
   "end": 414.68
  },
@@ -489,17 +489,17 @@
  },
  {
   "input": "But even if you understand this, the thing that really had me scratching my head when Quinn showed me this demo was why you would see diagonal stripes when you view the cylinder from the side. ",
-  "translatedText": "Nhưng ngay cả khi bạn hiểu điều này, điều thực sự khiến tôi phải gãi đầu khi Quinn cho tôi xem bản demo này là tại sao bạn lại nhìn thấy các sọc chéo khi nhìn hình trụ từ bên cạnh. ",
+  "translatedText": "Nhưng ngay cả khi bạn hiểu điều này, điều thực sự khiến tôi phải gãi đầu khi Quinn cho tôi xem thử nghiệm này là tại sao bạn lại nhìn thấy các sọc chéo khi nhìn hình trụ từ bên cạnh. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 421.78,
   "end": 431.48
  },
  {
   "input": "I mean, take a moment to think about this. ",
-  "translatedText": "Ý tôi là, hãy dành một chút thời gian để suy nghĩ về điều này. ",
+  "translatedText": "Nghĩa là dành chút thời gian nghĩ về điều này. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 432.18,
   "end": 433.86
  },
@@ -537,25 +537,25 @@
  },
  {
   "input": "The way I've made this animation, I've just left a faint shadow representing the wiggling direction for each color along the way down the tube. ",
-  "translatedText": "Theo cách tôi thực hiện hoạt hình này, tôi chỉ để lại một bóng mờ tượng trưng cho hướng lắc lư của mỗi màu dọc theo đường ống. ",
+  "translatedText": "Theo cách tôi thực hiện hoạt ảnh này, tôi chỉ để lại một bóng mờ tượng trưng cho hướng lắc lư của mỗi màu dọc theo đường ống. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 452.06,
   "end": 458.28
  },
  {
   "input": "But that's just a cartoon. ",
-  "translatedText": "Nhưng đó chỉ là phim hoạt hình. ",
+  "translatedText": "Nhưng đó chỉ là một hoạt hình. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 458.46,
   "end": 460.22
  },
  {
   "input": "It's a schematic representation. ",
-  "translatedText": "Đó là một biểu diễn sơ đồ. ",
+  "translatedText": "Đó là một sơ đồ biểu diễn. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 460.38,
   "end": 461.9
  },
@@ -585,9 +585,9 @@
  },
  {
   "input": "So these are the main questions we need to answer. ",
-  "translatedText": "Vì vậy đây là những câu hỏi chính mà chúng ta cần phải trả lời. ",
+  "translatedText": "Vậy đây là những câu hỏi chính mà ta cần phải trả lời. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 477.28,
   "end": 479.72
  },
@@ -617,17 +617,17 @@
  },
  {
   "input": "You can answer these questions if you have a handful of key intuitions about optics. ",
-  "translatedText": "Bạn có thể trả lời những câu hỏi này nếu bạn có một số trực giác quan trọng về quang học. ",
+  "translatedText": "Bạn có thể trả lời những câu hỏi này nếu bạn có một số trực quan quan trọng về quang học. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 493.8,
   "end": 498.12
  },
  {
   "input": "The first question requires understanding circularly polarized light, since the key is that sucrose is a chiral molecule, which is to say there's a handedness to it. ",
-  "translatedText": "Câu hỏi đầu tiên đòi hỏi phải hiểu ánh sáng phân cực tròn, vì điều quan trọng là sucrose là một phân tử bất đối, nghĩa là có sự thuận tay đối với nó. ",
+  "translatedText": "Câu hỏi đầu tiên đòi hỏi phải hiểu ánh sáng phân cực tròn, vì điều quan trọng là saccarozơ là một phân tử bất đối xứng, nghĩa là có một sự thuận tay đối với nó. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 498.58,
   "end": 508.06
  },
@@ -641,9 +641,9 @@
  },
  {
   "input": "And the slightly different effects that it has on right-handed versus left-handed circularly polarized light ends up explaining the twist. ",
-  "translatedText": "Và những hiệu ứng hơi khác nhau mà nó gây ra đối với ánh sáng phân cực tròn thuận tay phải và thuận tay trái cuối cùng giải thích cho sự xoắn. ",
+  "translatedText": "Và những hiệu ứng hơi khác nhau mà nó gây ra đối với ánh sáng phân cực tròn thuận tay phải và thuận tay trái cuối cùng giải thích cho hiện tượng xoắn. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 509.48,
   "end": 517.16
  },

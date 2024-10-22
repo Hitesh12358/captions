@@ -1,14 +1,14 @@
 1
-00:00:03,979 --> 00:00:05,540
+00:00:03,980 --> 00:00:05,540
 Được rồi, tôi nghĩ bạn sẽ thích điều này.
 
 2
-00:00:05,840 --> 00:00:09,076
-Tôi muốn cho bạn thấy một kết quả tuyệt vời tiết lộ mối liên hệ đáng 
+00:00:05,840 --> 00:00:09,145
+Tôi muốn trình bày một kết quả tuyệt vời tiết lộ quan hệ đáng ngạc 
 
 3
-00:00:09,076 --> 00:00:12,500
-ngạc nhiên giữa một chuỗi phân số đơn giản và hình học của các vòng tròn.
+00:00:09,145 --> 00:00:12,500
+nhiên giữa một chuỗi phân số đơn giản và hình học của các vòng tròn.
 
 4
 00:00:12,900 --> 00:00:17,369
@@ -20,11 +20,11 @@ trước đây, kết quả này liên quan đến việc nhân các thứ thay 
 
 6
 00:00:22,180 --> 00:00:25,903
-Video bạn sắp xem đặc biệt thú vị đối với chúng tôi tại 3Blue1Brown vì 
+Video bạn sắp xem đặc biệt thú vị đối với chúng ta tại 3Blue1Brown vì 
 
 7
 00:00:25,903 --> 00:00:29,680
-nó có hơi khác một chút so với hầu hết các video chúng tôi đã thực hiện.
+nó có hơi khác một chút so với hầu hết các video chúng ta đã thực hiện.
 
 8
 00:00:30,240 --> 00:00:33,804
@@ -39,1462 +39,1434 @@ trình bày toán học nào đều đến từ sự kết hợp giữa toán h�
 bản và tất cả các lựa chọn liên quan đến cách truyền đạt nó.
 
 11
-00:00:40,700 --> 00:00:45,006
+00:00:40,700 --> 00:00:44,620
 Và đối với hầu hết nội dung trên kênh này, toán học cơ bản là thứ đã được 
 
 12
-00:00:45,006 --> 00:00:49,196
+00:00:44,620 --> 00:00:48,434
 biết đến rộng rãi trong lĩnh vực này, dựa trên lý thuyết tổng quát hoặc 
 
 13
-00:00:49,196 --> 00:00:53,620
+00:00:48,434 --> 00:00:52,460
 một số bài báo cụ thể, và tôi hy vọng rằng tính mới sẽ đến từ nửa giao tiếp.
 
 14
-00:00:53,620 --> 00:00:55,909
-Với video này, kết quả mà chúng ta đang thảo luận, 
+00:00:53,140 --> 00:00:56,594
+Với video này, kết quả mà ta đang thảo luận, một tích vô hạn rất nổi 
 
 15
-00:00:55,909 --> 00:00:58,873
-một tích vô hạn rất nổi tiếng của số pi được gọi là tích Wallace, 
+00:00:56,594 --> 00:01:00,400
+tiếng của số pi được gọi là tích Wallace, thực sự là một môn toán nổi tiếng.
 
 16
-00:00:58,873 --> 00:01:00,400
-thực sự là một môn toán nổi tiếng.
+00:01:00,800 --> 00:01:03,364
+Tuy nhiên, theo hiểu biết của chúng ta, những gì ta sắp 
 
 17
-00:01:00,800 --> 00:01:03,367
-Tuy nhiên, theo hiểu biết của chúng tôi, những gì chúng tôi 
+00:01:03,364 --> 00:01:06,020
+trình bày là một bằng chứng nguyên vẹn hơn về kết quả này.
 
 18
-00:01:03,367 --> 00:01:06,020
-sắp trình bày là một bằng chứng nguyên bản hơn về kết quả này.
-
-19
 00:01:06,860 --> 00:01:10,841
 Về bối cảnh, sau khi xem video của chúng tôi về bài toán Basel, Sweeter, 
 
-20
+19
 00:01:10,841 --> 00:01:14,986
 thành viên mới của 3B1B mà một số bạn có thể nhớ từ video về màu sắc và các 
 
-21
+20
 00:01:14,986 --> 00:01:19,131
 con số quanh co, à, anh ấy cũng đã dành thời gian suy nghĩ về cách tiếp cận 
 
-22
+21
 00:01:19,131 --> 00:01:23,331
 trong video đó. khi nghĩ về mối liên hệ giữa bài toán Basel và tích Wallace, 
 
-23
+22
 00:01:23,331 --> 00:01:27,640
 và anh ấy rơi vào một bằng chứng mới về mối quan hệ giữa tích Wallace và số pi.
 
+23
+00:01:28,580 --> 00:01:31,930
+Nghĩa là, tôi sẽ để ngỏ khả năng một lập luận kiểu này ẩn giấu ở đâu đó 
+
 24
-00:01:28,580 --> 00:01:32,105
-Ý tôi là, tôi sẽ để ngỏ khả năng một lập luận kiểu này ẩn giấu ở đâu đó trong 
+00:01:31,930 --> 00:01:35,420
+trong tài liệu ngoài những gì mà ta tìm được, nhưng ít nhất tôi có thể nói 
 
 25
-00:01:32,105 --> 00:01:34,319
-tài liệu ngoài những gì chúng tôi tìm kiếm được, 
+00:01:35,420 --> 00:01:38,957
+rằng nó được tìm thấy một cách độc lập, và rằng nếu nó tồn tại ở ngoài kia, 
 
 26
-00:01:34,319 --> 00:01:37,437
-nhưng ít nhất tôi có thể nói rằng nó được tìm thấy một cách độc lập, 
+00:01:38,957 --> 00:01:42,680
+nó đã thực hiện một công việc tuyệt vời để ẩn mình khỏi tầm nhìn của công chúng.
 
 27
-00:01:37,437 --> 00:01:41,007
-và rằng nếu nó tồn tại ở ngoài kia, nó đã thực hiện một công việc tuyệt vời để 
+00:01:43,580 --> 00:01:46,100
+Vậy không dài dòng nữa, hãy đi sâu vào toán học.
 
 28
-00:01:41,007 --> 00:01:42,680
-ẩn mình khỏi tầm nhìn của công chúng.
-
-29
-00:01:43,580 --> 00:01:46,100
-Vì vậy, không dài dòng nữa, hãy đi sâu vào toán học.
-
-30
-00:01:48,979 --> 00:01:53,726
+00:01:48,980 --> 00:01:53,726
 Hãy xem xét tích 2 trên 1 nhân 4 trên 3 nhân 6 trên 5, cứ lặp đi lặp lại, 
 
-31
+29
 00:01:53,726 --> 00:01:59,242
 trong đó những gì chúng ta đang làm là bao gồm tất cả các số chẵn làm tử số và các số 
 
-32
+30
 00:01:59,242 --> 00:02:00,140
 lẻ làm mẫu số.
 
-33
+31
 00:02:00,840 --> 00:02:05,930
 Tất nhiên, tất cả các thừa số ở đây đều lớn hơn 1, vì vậy khi bạn thực hiện chuỗi này, 
 
-34
+32
 00:02:05,930 --> 00:02:09,500
 nhân từng thừa số mới với nhau, kết quả sẽ ngày càng lớn hơn.
 
-35
+33
 00:02:10,280 --> 00:02:13,940
 Trên thực tế, hóa ra cuối cùng nó sẽ lớn hơn bất kỳ giới hạn hữu hạn nào.
 
-36
+34
 00:02:14,500 --> 00:02:17,840
 Vì vậy, theo nghĩa đó, nó không quá thú vị, nó chỉ bùng nổ đến vô tận.
 
-37
+35
 00:02:18,680 --> 00:02:21,815
 Và mặt khác, nếu bạn thay đổi mọi thứ một chút, 
 
-38
+36
 00:02:21,815 --> 00:02:26,323
 nhìn vào 2 chia cho 3 lần 4 chia cho 5 lần 6 chia cho 7, cứ như vậy, 
 
-39
+37
 00:02:26,323 --> 00:02:31,614
 tất cả các thừa số đó đều nhỏ hơn 1, do đó kết quả ngày càng nhỏ hơn và nhỏ hơn, 
 
-40
+38
 00:02:31,614 --> 00:02:33,640
 và lần này chuỗi tiến tới số 0.
 
-41
+39
 00:02:34,540 --> 00:02:36,120
 Nhưng, nếu chúng ta trộn lẫn cả hai thì sao?
 
-42
+40
 00:02:37,040 --> 00:02:41,911
 Nếu bạn nhìn vào 2 trên 1 nhân 2 trên 3 nhân 4 trên 3 nhân 4 trên 5, cứ như thế này, 
 
-43
+41
 00:02:41,911 --> 00:02:46,439
 nơi mà bây giờ các tích một phần trong quá trình tiếp tục đi lên rồi đi xuống, 
 
-44
+42
 00:02:46,439 --> 00:02:50,566
 rồi lên rồi đi xuống, rồi lên một chút, rồi giảm xuống ít hơn một chút, 
 
-45
+43
 00:02:50,566 --> 00:02:54,980
 cho đến khi tất cả những lần nhảy và rơi này hầu như không có thay đổi gì cả.
 
-46
+44
 00:02:55,640 --> 00:02:59,140
 Vì vậy, bây giờ, nó phải hội tụ về một loại giá trị hữu hạn dương nào đó.
 
-47
+45
 00:02:59,580 --> 00:03:01,200
 Nhưng giá trị đó là gì?
 
-48
+46
 00:03:02,240 --> 00:03:05,980
 Dù bạn có tin hay không, chúng ta sẽ khám phá ra rằng cái này bằng pi chia cho 2.
 
-49
-00:03:06,760 --> 00:03:10,896
-Và để hiểu được mối liên hệ giữa tích số này, dường như không liên quan đến hình tròn, 
+47
+00:03:06,760 --> 00:03:10,601
+Và để hiểu quan hệ giữa tích này, dường như không liên quan đến hình tròn, 
 
-50
-00:03:10,896 --> 00:03:14,700
+48
+00:03:10,601 --> 00:03:14,700
 và số pi, chúng ta sẽ cần tìm hiểu sâu hơn một chút về một vài công cụ hình học.
 
+49
+00:03:15,200 --> 00:03:18,162
+Sự lạc đề sẽ hữu ích vì đây là một số ý tưởng hữu ích nên có 
+
+50
+00:03:18,162 --> 00:03:21,320
+trong bộ công cụ giải toán của bạn cho tất cả các loại toán khác.
+
 51
-00:03:15,200 --> 00:03:18,279
-Tuy nhiên, đây là một sự lạc đề hữu ích vì đây là một số ý tưởng hữu ích nên 
-
-52
-00:03:18,279 --> 00:03:21,320
-có trong bộ công cụ giải quyết vấn đề của bạn cho tất cả các loại toán khác.
-
-53
 00:03:25,920 --> 00:03:29,441
 Việc thiết lập ở đây bao gồm một vòng tròn, với nhiều điểm khác nhau 
 
-54
+52
 00:03:29,441 --> 00:03:32,860
 cách đều nhau xung quanh nó và sau đó là một điểm đặc biệt bổ sung.
 
+53
+00:03:33,180 --> 00:03:36,071
+Điều này tương tự với những gì ta có trong video về bài toán Basel, 
+
+54
+00:03:36,071 --> 00:03:38,665
+trong đó ta hình dung những điểm cách đều nhau này như những 
+
 55
-00:03:33,180 --> 00:03:36,150
-Điều này tương tự với những gì chúng tôi có trong video về bài toán Basel, 
-
-56
-00:03:36,150 --> 00:03:38,843
-trong đó chúng tôi hình dung những điểm cách đều nhau này như những 
-
-57
-00:03:38,843 --> 00:03:41,260
+00:03:38,665 --> 00:03:41,260
 ngọn hải đăng và coi điểm đặc biệt đó như một người quan sát.
 
-58
+56
 00:03:42,160 --> 00:03:45,876
 Hồi đó, đại lượng mà chúng ta quan tâm liên quan đến việc xét khoảng 
 
-59
+57
 00:03:45,876 --> 00:03:48,408
 cách giữa người quan sát và mỗi ngọn hải đăng, 
 
-60
+58
 00:03:48,408 --> 00:03:52,880
 sau đó lấy bình phương nghịch đảo của từng khoảng cách đó và cộng tất cả chúng lại.
 
+59
+00:03:53,200 --> 00:03:57,201
+Đây là lý do tại sao ngay từ đầu ta đã có toàn bộ câu chuyện về những ngọn hải đăng, 
+
+60
+00:03:57,201 --> 00:04:01,014
+vì định luật bình phương nghịch đảo đã đưa ra một cách giải thích vật lý thực sự 
+
 61
-00:03:53,200 --> 00:03:57,105
-Đây là lý do tại sao ngay từ đầu chúng ta đã có toàn bộ câu chuyện về những ngọn hải 
+00:04:01,014 --> 00:04:04,780
+tốt cho đại lượng này, đó là tổng lượng ánh sáng mà người quan sát đó nhận được.
 
 62
-00:03:57,105 --> 00:04:00,965
-đăng, vì định luật bình phương nghịch đảo đã đưa ra một cách giải thích vật lý thực 
-
-63
-00:04:00,965 --> 00:04:04,780
-sự tốt cho đại lượng này, đó là tổng lượng ánh sáng mà người quan sát đó nhận được.
-
-64
-00:04:05,579 --> 00:04:10,571
+00:04:05,580 --> 00:04:10,125
 Nhưng bất chấp cách giải thích vật lý tốt đó, không có gì kỳ diệu khi cộng khoảng 
 
-65
-00:04:10,571 --> 00:04:15,320
-cách bình phương nghịch đảo, điều đó tình cờ lại hữu ích cho vấn đề cụ thể đó.
+63
+00:04:10,125 --> 00:04:14,560
+cách bình phương nghịch đảo, điều đó tình cờ lại hữu ích cho bài toán cụ thể đó.
 
-66
-00:04:15,320 --> 00:04:19,797
+64
+00:04:15,280 --> 00:04:19,777
 Để giải quyết vấn đề mới của chúng ta, về 2 trên 1 lần 2 trên 3 lần 4 trên 3 lần 
 
-67
-00:04:19,797 --> 00:04:24,220
+65
+00:04:19,777 --> 00:04:24,220
 4 trên 5, v. v. , chúng ta sẽ làm một cái gì đó tương tự nhưng khác về chi tiết.
 
-68
+66
 00:04:24,840 --> 00:04:28,082
 Thay vì sử dụng nghịch đảo khoảng cách bình phương, 
 
-69
+67
 00:04:28,082 --> 00:04:32,196
 chỉ cần nhìn trực tiếp vào khoảng cách và thay vì cộng chúng lại, 
 
-70
+68
 00:04:32,196 --> 00:04:36,623
 chúng ta sẽ nhân chúng, đưa ra một đại lượng mà tôi gọi là tích khoảng 
 
-71
+69
 00:04:36,623 --> 00:04:38,120
 cách cho người quan sát.
 
-72
-00:04:39,259 --> 00:04:44,171
+70
+00:04:39,260 --> 00:04:44,171
 Và mặc dù tích số khoảng cách này không còn có sự tương đồng vật lý tốt đẹp nữa, 
 
-73
-00:04:44,171 --> 00:04:48,597
+71
+00:04:44,171 --> 00:04:48,598
 tôi vẫn muốn minh họa nó bằng những ngọn hải đăng và một người quan sát, 
 
-74
-00:04:48,597 --> 00:04:52,600
+72
+00:04:48,598 --> 00:04:52,600
 bởi vì, nó đẹp, và cũng thú vị hơn những điểm hình học trừu tượng.
 
-75
+73
 00:04:53,560 --> 00:04:56,250
 Để chứng minh tích Wallace này, chúng ta sẽ cần hai sự 
 
-76
+74
 00:04:56,250 --> 00:04:58,940
 thật quan trọng về tích khoảng cách này, hai bổ đề nhỏ.
 
-77
+75
 00:04:59,520 --> 00:05:04,993
 Đầu tiên, nếu người quan sát được đặt ở giữa hai ngọn hải đăng trên vòng tròn, 
 
-78
+76
 00:05:04,993 --> 00:05:10,466
 thì tích khoảng cách này, kết quả bạn có được bằng cách nhân độ dài của tất cả 
 
-79
+77
 00:05:10,466 --> 00:05:15,940
 các đường này với nhau, sẽ chính xác bằng 2, bất kể có bao nhiêu ngọn hải đăng.
 
-80
+78
 00:05:20,280 --> 00:05:24,373
 Và thứ hai, nếu bạn loại bỏ một trong những ngọn hải đăng đó và đặt 
 
-81
+79
 00:05:24,373 --> 00:05:28,526
 người quan sát vào vị trí của nó, tích khoảng cách này từ tất cả các 
 
-82
+80
 00:05:28,526 --> 00:05:32,860
 ngọn hải đăng còn lại bằng với số lượng ngọn hải đăng mà bạn đã bắt đầu.
 
-83
+81
 00:05:34,560 --> 00:05:37,600
 Một lần nữa, dù có bao nhiêu ngọn hải đăng đi chăng nữa.
 
-84
+82
 00:05:43,220 --> 00:05:45,880
 Và nếu hai sự thật đó có vẻ điên rồ, tôi đồng ý!
 
-85
-00:05:46,360 --> 00:05:48,802
-Ý tôi là, thậm chí còn không rõ ràng rằng tích khoảng 
+83
+00:05:46,360 --> 00:05:48,660
+Nghĩa là thậm chí còn không rõ rằng tích khoảng 
 
-86
-00:05:48,802 --> 00:05:51,200
+84
+00:05:48,660 --> 00:05:51,200
 cách ở đây phải là số nguyên trong cả hai trường hợp.
 
-87
+85
 00:05:51,580 --> 00:05:54,921
 Ngoài ra, có vẻ rất khó để tính toán tất cả các khoảng 
 
-88
+86
 00:05:54,921 --> 00:05:58,020
 cách và sau đó nhân chúng lại với nhau như thế này.
 
-89
+87
 00:05:58,720 --> 00:06:01,300
 Nhưng hóa ra có một thủ thuật để thực hiện phép 
 
-90
+88
 00:06:01,300 --> 00:06:03,880
 tính phức tạp này khiến nó trở nên khá đơn giản.
 
-91
+89
 00:06:04,420 --> 00:06:08,210
 Ý tưởng chính là tính chất hình học của những điểm này có khoảng cách 
 
-92
+90
 00:06:08,210 --> 00:06:11,947
 đều nhau xung quanh một vòng tròn tương ứng với một tính chất đại số 
 
-93
+91
 00:06:11,947 --> 00:06:16,659
 thực sự thú vị nếu chúng ta tưởng tượng đây là đường tròn đơn vị trong mặt phẳng phức, 
 
-94
+92
 00:06:16,659 --> 00:06:19,800
 với mỗi ngọn hải đăng đó hiện nằm trên một số phức cụ thể.
 
+93
+00:06:20,380 --> 00:06:23,486
+Một số bạn có thể nhận ra đây là nguồn gốc của sự hợp nhất, 
+
+94
+00:06:23,486 --> 00:06:26,800
+nhưng tôi sẽ trình bày nhanh ý tưởng này với những ai chưa quen.
+
 95
-00:06:20,380 --> 00:06:22,852
-Một số bạn có thể nhận ra đây là nguồn gốc của sự thống nhất, 
+00:06:27,640 --> 00:06:29,640
+Hãy nghĩ về việc bình phương một trong những số này.
 
 96
-00:06:22,852 --> 00:06:26,082
-nhưng hãy để tôi trình bày nhanh ý tưởng này trong trường hợp bất kỳ ai trong số 
-
-97
-00:06:26,082 --> 00:06:26,800
-các bạn chưa quen.
-
-98
-00:06:27,640 --> 00:06:29,640
-Hãy suy nghĩ về việc bình phương một trong những con số này.
-
-99
 00:06:30,100 --> 00:06:33,272
 Nó có độ lớn bằng 1, vì vậy nó sẽ giữ nguyên, 
 
-100
+97
 00:06:33,272 --> 00:06:36,720
 nhưng góc nó tạo với phương ngang sẽ tăng gấp đôi.
 
-101
+98
 00:06:37,040 --> 00:06:38,920
 Đó là cách bình phương số phức hoạt động.
 
-102
-00:06:39,560 --> 00:06:45,467
+99
+00:06:39,560 --> 00:06:44,936
 Tương tự, lập phương của số này sẽ nhân ba góc mà nó tạo với phương ngang, 
 
-103
-00:06:45,467 --> 00:06:49,800
+100
+00:06:44,936 --> 00:06:48,880
 và nói chung, nâng nó lên lũy thừa n sẽ nhân góc với n.
 
-104
-00:06:49,880 --> 00:06:56,830
+101
+00:06:49,550 --> 00:06:56,664
 Ví dụ: trên màn hình hiện tại có 7 điểm cách đều nhau xung quanh vòng tròn đơn vị mà tôi 
 
-105
-00:06:56,830 --> 00:07:03,780
+102
+00:06:56,664 --> 00:07:03,780
 sẽ gọi là l0, l1, l2, v. v. và chúng được xoay sao cho l0 nằm ở số 1 ở phía bên tay phải.
 
-106
+103
 00:07:04,580 --> 00:07:10,497
 Vì vậy, vì góc mà mỗi số này tạo với phương ngang là bội số nguyên của 1/7 một lượt, 
 
-107
+104
 00:07:10,497 --> 00:07:14,604
 nên việc nâng bất kỳ số nào trong số này lên lũy thừa 7 sẽ 
 
-108
+105
 00:07:14,604 --> 00:07:17,180
 khiến bạn quay vòng để tiếp cận số 1.
 
-109
+106
 00:07:18,880 --> 00:07:25,920
 Nói cách khác, đây đều là nghiệm của phương trình đa thức x lũy thừa 7 trừ 1 bằng 0.
 
-110
+107
 00:07:29,260 --> 00:07:35,534
 Nhưng mặt khác, chúng ta có thể xây dựng một đa thức có các số này là nghiệm theo 
 
-111
+108
 00:07:35,534 --> 00:07:41,580
 một cách hoàn toàn khác, bằng cách lấy x trừ l0 nhân x trừ l1 lên đến x trừ l6.
 
-112
+109
 00:07:42,060 --> 00:07:45,740
 Ý tôi là, bạn thay vào bất kỳ một trong những số này, và tích đó sẽ phải bằng 0.
 
-113
+110
 00:07:46,300 --> 00:07:52,588
 Và bởi vì hai đa thức bậc 7 này có cùng 7 nghiệm riêng biệt, và cùng số hạng dẫn đầu, 
 
-114
+111
 00:07:52,588 --> 00:07:58,000
 chỉ có x mũ 7 trong cả hai trường hợp, thực tế chúng là một và giống nhau.
 
-115
+112
 00:07:58,840 --> 00:08:01,720
 Bây giờ hãy dành một chút thời gian để đánh giá sự thật tuyệt vời đó là gì.
 
-116
+113
 00:08:02,140 --> 00:08:05,820
 Phía bên phải này có vẻ như sẽ là một cơn ác mộng nếu mở rộng.
 
-117
-00:08:06,400 --> 00:08:11,439
-Không chỉ có rất nhiều thuật ngữ, mà việc viết ra chính xác từng số phức đó là gì, 
+114
+00:08:06,400 --> 00:08:11,390
+Không chỉ có rất nhiều số hạng, mà việc viết ra chính xác từng số phức đó là gì, 
 
-118
-00:08:11,439 --> 00:08:14,840
+115
+00:08:11,390 --> 00:08:14,840
 sẽ khiến chúng ta rơi vào một mớ hỗn độn của sin và cos.
 
-119
-00:08:15,280 --> 00:08:19,808
-Nhưng do tính đối xứng của sự sắp xếp, chúng ta biết rằng khi tất 
+116
+00:08:15,280 --> 00:08:19,569
+Nhưng do tính đối xứng của sự sắp xếp, ta biết rằng khi tất cả 
 
-120
-00:08:19,808 --> 00:08:24,200
-cả bụi đại số lắng xuống, nó sẽ đơn giản hóa thành x mũ 7 trừ 1.
+117
+00:08:19,569 --> 00:08:24,200
+phần tử đại số được giản ước, nó sẽ đơn giản hóa thành x mũ 7 trừ 1.
 
-121
+118
 00:08:24,660 --> 00:08:26,380
-Tất cả các điều khoản khác sẽ bị hủy bỏ.
+Tất cả các số hạng khác sẽ bị triệt tiêu.
 
-122
+119
 00:08:27,140 --> 00:08:29,320
 Và tất nhiên, số 7 ở đây không có gì đặc biệt cả.
 
-123
+120
 00:08:29,600 --> 00:08:33,921
 Nếu bạn có n điểm cách đều nhau xung quanh một đường tròn như thế này, 
 
-124
+121
 00:08:33,921 --> 00:08:36,600
 thì chúng là nghiệm của x mũ n trừ 1 bằng 0.
 
-125
-00:08:37,700 --> 00:08:40,710
-Và bây giờ, bạn có thể hiểu tại sao điều này sẽ đưa ra một thủ thuật 
+122
+00:08:37,700 --> 00:08:40,648
+Và bây giờ, bạn có thể hiểu tại sao điều này sẽ cho một thủ 
 
-126
-00:08:40,710 --> 00:08:43,940
-đơn giản hóa hay để tính tích khoảng cách mà chúng ta đã xác định vừa rồi.
+123
+00:08:40,648 --> 00:08:43,940
+thuật đơn giản hóa hay để tính tích khoảng cách mà ta vừa xác định.
 
-127
+124
 00:08:44,530 --> 00:08:48,369
 Nếu bạn coi người quan sát là bất kỳ số phức nào khác, 
 
-128
+125
 00:08:48,369 --> 00:08:53,604
 không nhất thiết phải nằm trên đường tròn, và sau đó bạn thay số đó vào x, 
 
-129
+126
 00:08:53,604 --> 00:08:59,607
 thì vế phải đó sẽ cho bạn một số phức mới nào đó có độ lớn bằng tích khoảng cách giữa 
 
-130
+127
 00:08:59,607 --> 00:09:02,120
 người quan sát và mỗi ngọn hải đăng.
 
-131
-00:09:03,100 --> 00:09:06,429
+128
+00:09:03,100 --> 00:09:06,800
 Nhưng hãy nhìn vào phía bên trái, đó là một cách đơn giản hơn đáng 
 
-132
-00:09:06,429 --> 00:09:09,560
+129
+00:09:06,800 --> 00:09:10,280
 kể để hiểu sản phẩm đó cuối cùng sẽ được đơn giản hóa thành gì.
 
-133
-00:09:09,560 --> 00:09:12,730
+130
+00:09:10,800 --> 00:09:13,566
 Điều đáng ngạc nhiên là, điều này có nghĩa là nếu người quan 
 
-134
-00:09:12,730 --> 00:09:16,421
+131
+00:09:13,566 --> 00:09:16,785
 sát của chúng ta ngồi trên cùng một vòng tròn với những ngọn hải đăng, 
 
-135
-00:09:16,421 --> 00:09:19,280
+132
+00:09:16,785 --> 00:09:19,280
 thì số lượng ngọn hải đăng thực sự sẽ không quan trọng.
 
-136
+133
 00:09:19,760 --> 00:09:22,674
 Chỉ một phần nhỏ quãng đường giữa các ngọn hải đăng liền kề 
 
-137
+134
 00:09:22,674 --> 00:09:25,540
 mới mô tả người quan sát của chúng ta sẽ phát huy tác dụng.
 
-138
-00:09:28,219 --> 00:09:31,843
+135
+00:09:28,220 --> 00:09:31,843
 Nếu phân số này là f thì người quan sát lũy thừa 
 
-139
+136
 00:09:31,843 --> 00:09:35,540
 n sẽ đạt được đường đi quanh một vòng tròn đầy đủ.
 
-140
-00:09:35,980 --> 00:09:41,196
-Vì vậy, độ lớn của người quan sát số phức đối với n trừ 1 là khoảng 
+137
+00:09:35,980 --> 00:09:41,040
+Vậy độ lớn của người quan sát số phức đối với n trừ 1 là khoảng 
 
-141
-00:09:41,196 --> 00:09:46,260
+138
+00:09:41,040 --> 00:09:46,260
 cách giữa số 1 và điểm f trên đường đi quanh một vòng tròn đơn vị.
 
-142
+139
 00:09:47,160 --> 00:09:50,945
 Ví dụ: trên màn hình hiện tại chúng ta có 7 ngọn hải đăng và người quan sát 
 
-143
+140
 00:09:50,945 --> 00:09:54,980
 đang ngồi ở 1/3 quãng đường giữa ngọn hải đăng thứ nhất và ngọn hải đăng thứ hai.
 
-144
+141
 00:09:55,760 --> 00:10:00,800
 Vì vậy, khi bạn nâng số phức liên quan đến người quan sát đó lên lũy thừa thứ 7, 
 
-145
+142
 00:10:00,800 --> 00:10:04,160
 họ sẽ đi được 1/3 quãng đường quanh toàn bộ vòng tròn.
 
-146
+143
 00:10:04,690 --> 00:10:10,446
 Vậy độ lớn của người quan sát đối với 7 trừ 1 sẽ là độ dài của sợi dây ở đây, 
 
-147
+144
 00:10:10,446 --> 00:10:14,580
 mà trong 1/3 quãng đường quanh vòng tròn là khoảng 1.73.
 
-148
+145
 00:10:15,380 --> 00:10:18,581
 Và hãy nhớ rằng, giá trị này khá đáng chú ý, giống 
 
-149
+146
 00:10:18,581 --> 00:10:21,720
 với tích toàn bộ khoảng cách mà chúng ta quan tâm.
 
-150
+147
 00:10:22,320 --> 00:10:26,205
 Chúng ta có thể tăng hoặc giảm số lượng ngọn hải đăng, và bất kể thế nào, 
 
-151
+148
 00:10:26,205 --> 00:10:30,301
 miễn là người quan sát đó ở cách nhau 1/3 quãng đường giữa các ngọn hải đăng, 
 
-152
+149
 00:10:30,301 --> 00:10:34,660
 chúng ta sẽ luôn có được độ dài của sợi dây này bằng tích khoảng cách của chúng ta.
 
-153
+150
 00:10:36,840 --> 00:10:41,097
 Nói chung, chúng ta hãy định nghĩa một hàm đặc biệt cho chính chúng ta, 
 
-154
+151
 00:10:41,097 --> 00:10:43,994
 dây của f, có nghĩa là với bất kỳ phân số f nào, 
 
-155
+152
 00:10:43,994 --> 00:10:47,660
 độ dài của dây tương ứng với phân số đó của đường tròn đơn vị.
 
-156
+153
 00:10:48,340 --> 00:10:51,820
 Ví dụ, cái chúng ta vừa thấy là sợi dây 1/3.
 
-157
+154
 00:10:52,660 --> 00:10:59,891
 Thực ra, không quá khó để thấy dây f bằng 2 nhân sin nửa nhân 2 pi, 
 
-158
+155
 00:10:59,891 --> 00:11:08,080
 bằng 2 nhân sin f pi, nhưng đôi khi chỉ cần coi nó là dây sẽ dễ dàng hơn tắt.
 
-159
+156
 00:11:09,260 --> 00:11:13,472
 Vì vậy, kết quả mà chúng ta vừa chỉ ra là đối với một người quan sát, 
 
-160
+157
 00:11:13,472 --> 00:11:17,143
 f khoảng cách giữa hai ngọn hải đăng, tích tổng khoảng cách, 
 
-161
+158
 00:11:17,143 --> 00:11:20,753
 dù có vẻ phức tạp đến mức nào, cũng chính xác là dây của f, 
 
-162
+159
 00:11:20,753 --> 00:11:22,800
 bất kể có bao nhiêu ngọn hải đăng.
 
-163
+160
 00:11:23,280 --> 00:11:27,380
 Vì vậy, cụ thể, hãy nghĩ về dây 1 nửa, đây là khoảng cách giữa 
 
-164
+161
 00:11:27,380 --> 00:11:31,220
 hai điểm ở hai đầu đối diện của một vòng tròn đơn vị, là 2.
 
-165
+162
 00:11:31,940 --> 00:11:35,311
 Vì vậy, chúng ta thấy rằng cho dù có bao nhiêu ngọn hải đăng, 
 
-166
+163
 00:11:35,311 --> 00:11:39,227
 trải đều xung quanh vòng tròn đơn vị, việc đặt một người quan sát chính 
 
-167
+164
 00:11:39,227 --> 00:11:43,360
 xác ở nửa đường tròn giữa hai kết quả sẽ có tích khoảng cách chính xác là 2.
 
-168
+165
 00:11:44,580 --> 00:11:46,500
 Và đó là thông tin quan trọng đầu tiên của chúng ta, vậy nên hãy bỏ nó đi.
 
-169
-00:11:47,120 --> 00:11:49,233
-Đối với thông tin quan trọng tiếp theo, hãy tưởng tượng 
+166
+00:11:47,120 --> 00:11:49,309
+Đối với thông tin quan trọng tiếp theo, tưởng tượng đặt 
 
-170
-00:11:49,233 --> 00:11:51,460
-đặt người quan sát ngay trên một trong những ngọn hải đăng.
+167
+00:11:49,309 --> 00:11:51,460
+người quan sát ngay trên một trong những ngọn hải đăng.
 
-171
-00:11:52,079 --> 00:11:55,411
+168
+00:11:52,080 --> 00:11:55,380
 Vậy thì tất nhiên tích khoảng cách là 0, khoảng cách 
 
-172
-00:11:55,411 --> 00:11:58,680
-0 ngọn hải đăng sẽ tiêu diệt tất cả các yếu tố khác.
+169
+00:11:55,380 --> 00:11:58,680
+0 ngọn hải đăng sẽ tiêu diệt tất cả các thừa số khác.
 
-173
+170
 00:11:59,400 --> 00:12:03,506
 Nhưng giả sử chúng ta vừa loại bỏ ngọn hải đăng rắc rối đó và chỉ xem xét sự 
 
-174
+171
 00:12:03,506 --> 00:12:07,880
 đóng góp của tất cả những ngọn hải đăng khác, tích khoảng cách đó sẽ là bao nhiêu?
 
-175
+172
 00:12:08,940 --> 00:12:12,943
 Chà, bây giờ thay vì xét người quan sát đa thức của n-1, 
 
-176
+173
 00:12:12,943 --> 00:12:18,633
 có nghiệm ở tất cả n nghiệm đơn vị này, chúng ta đang xét người quan sát đa thức 
 
-177
+174
 00:12:18,633 --> 00:12:24,393
 theo n-1 chia cho người quan sát-1, có một gốc của tất cả các nghiệm của sự thống 
 
-178
+175
 00:12:24,393 --> 00:12:26,220
 nhất ngoại trừ chính số 1.
 
-179
+176
 00:12:26,880 --> 00:12:31,524
 Và một chút đại số cho thấy rằng phân số này bằng với 1 cộng quan 
 
-180
+177
 00:12:31,524 --> 00:12:36,520
 sát viên cộng quan sát viên bình phương, cho đến quan sát viên đến n-1.
 
-181
+178
 00:12:37,480 --> 00:12:40,125
 Và vì vậy nếu bạn thay người quan sát bằng 1, vì đó là 
 
-182
+179
 00:12:40,125 --> 00:12:42,820
 con số mà anh ấy đang ngồi trên đó, bạn sẽ nhận được gì?
 
-183
+180
 00:12:43,880 --> 00:12:48,141
 Tất cả các số hạng ở đây trở thành 1, vì vậy nó có kết quả là n, 
 
-184
+181
 00:12:48,141 --> 00:12:53,780
 có nghĩa là tổng khoảng cách tích cho thiết lập này bằng với số ngọn hải đăng ban đầu.
 
-185
+182
 00:12:54,580 --> 00:12:58,720
 Điều này phụ thuộc vào tổng số ngọn hải đăng, nhưng chỉ một cách rất đơn giản.
 
-186
+183
 00:12:59,240 --> 00:13:03,195
 Hãy nghĩ về điều này, điều này thật khó tin, tổng khoảng cách mà một người quan sát 
 
-187
+184
 00:13:03,195 --> 00:13:07,056
 ngồi tại một trong những ngọn hải đăng nhận được từ tất cả các ngọn hải đăng khác 
 
-188
+185
 00:13:07,056 --> 00:13:11,200
 chính xác là n, trong đó n là tổng số ngọn hải đăng, bao gồm cả ngọn hải đăng bị bỏ qua.
 
-189
+186
 00:13:12,000 --> 00:13:13,560
-Đó là sự thật quan trọng thứ hai của chúng tôi.
+Đó là sự thật quan trọng thứ hai của chúng ta.
 
-190
-00:13:14,520 --> 00:13:18,459
+187
+00:13:14,520 --> 00:13:18,507
 Và nhân tiện, việc chứng minh các sự kiện hình học với các đa thức phức tạp như 
 
-191
-00:13:18,459 --> 00:13:22,398
+188
+00:13:18,507 --> 00:13:22,495
 thế này khá chuẩn trong toán học, và nếu bạn đến gặp nhà toán học địa phương và 
 
-192
-00:13:22,398 --> 00:13:25,451
+189
+00:13:22,495 --> 00:13:25,585
 chỉ cho họ hai sự kiện này, hoặc những sự kiện khác tương tự, 
 
-193
-00:13:25,451 --> 00:13:29,538
+190
+00:13:25,585 --> 00:13:29,723
 họ sẽ nhận ra cả hai sự thật là đúng và cách chứng minh chúng bằng các phương pháp 
 
-194
-00:13:29,538 --> 00:13:30,720
-chúng tôi vừa trình bày.
+191
+00:13:29,723 --> 00:13:30,720
+mà ta vừa trình bày.
 
-195
+192
 00:13:31,260 --> 00:13:32,360
 Và bây giờ, bạn cũng có thể như vậy!
 
-196
+193
 00:13:32,880 --> 00:13:36,544
 Vì vậy, tiếp theo, với cả hai kiến thức này, hãy xem cách sử dụng chúng 
 
-197
+194
 00:13:36,544 --> 00:13:40,260
 để hiểu sản phẩm mà chúng ta quan tâm và nó liên quan như thế nào đến pi.
 
-198
-00:13:45,340 --> 00:13:49,725
-Hãy thực hiện thiết lập này, với n ngọn hải đăng cách đều nhau xung quanh một vòng tròn 
+195
+00:13:45,340 --> 00:13:49,825
+Thực hiện thiết lập này, với n ngọn hải đăng cách đều nhau xung quanh một vòng tròn đơn 
 
-199
-00:13:49,725 --> 00:13:52,366
-đơn vị và tưởng tượng hai người quan sát riêng biệt, 
+196
+00:13:49,825 --> 00:13:54,260
+vị và tưởng tượng hai người quan sát riêng biệt, tôi sẽ gọi người canh giữ và thủy thủ.
 
-200
-00:13:52,366 --> 00:13:54,260
-tôi sẽ gọi người canh giữ và thủy thủ.
-
-201
-00:13:54,720 --> 00:13:57,437
+197
+00:13:54,720 --> 00:13:57,670
 Đặt người canh giữ trực tiếp trên một trong những ngọn hải 
 
-202
-00:13:57,437 --> 00:14:00,340
+198
+00:13:57,670 --> 00:14:00,820
 đăng và đặt thủy thủ ở giữa điểm đó và ngọn hải đăng tiếp theo.
 
-203
-00:14:00,340 --> 00:14:06,633
+199
+00:14:01,480 --> 00:14:07,085
 Ý tưởng ở đây là lấy tích khoảng cách của thủ môn chia cho tích khoảng cách của thủy thủ, 
 
-204
-00:14:06,633 --> 00:14:10,760
+200
+00:14:07,085 --> 00:14:10,760
 sau đó chúng ta sẽ tính tỷ lệ này theo hai cách riêng biệt.
 
-205
+201
 00:14:11,580 --> 00:14:13,827
 Từ thực tế quan trọng đầu tiên, chúng ta biết 
 
-206
+202
 00:14:13,827 --> 00:14:16,320
 rằng tích tổng khoảng cách của người thủy thủ là 2.
 
-207
+203
 00:14:17,980 --> 00:14:19,240
-Và tích khoảng cách cho thủ môn?
+Và tích khoảng cách cho người canh giữ?
 
-208
+204
 00:14:20,040 --> 00:14:22,820
 Chà, nó bằng 0, vì anh ấy đang đứng ngay trên một.
 
-209
-00:14:23,160 --> 00:14:26,978
-Nhưng nếu chúng ta loại bỏ ngọn hải đăng đó, thì theo thực tế quan trọng thứ hai, 
+205
+00:14:23,160 --> 00:14:26,865
+Nhưng nếu ta loại bỏ ngọn hải đăng đó, thì theo thực tế quan trọng thứ hai, 
 
-210
-00:14:26,978 --> 00:14:29,400
+206
+00:14:26,865 --> 00:14:29,400
 tích khoảng cách còn lại của người canh giữ đó là n.
 
-211
-00:14:31,120 --> 00:14:33,627
+207
+00:14:31,120 --> 00:14:33,706
 Và tất nhiên, bằng cách loại bỏ ngọn hải đăng đó, 
 
-212
-00:14:33,627 --> 00:14:37,439
-chúng ta cũng loại bỏ sự đóng góp của nó vào tích khoảng cách của thủy thủ, 
+208
+00:14:33,706 --> 00:14:37,327
+ta cũng loại bỏ sự đóng góp của nó vào tích khoảng cách của thủy thủ, 
 
-213
-00:14:37,439 --> 00:14:41,000
+209
+00:14:37,327 --> 00:14:41,000
 do đó mẫu số bây giờ phải chia cho khoảng cách giữa hai người quan sát.
 
-214
+210
 00:14:42,100 --> 00:14:47,420
 Và đơn giản hóa điều này một chút, nó có nghĩa là tỉ số giữa tích khoảng cách của người 
 
-215
+211
 00:14:47,420 --> 00:14:52,500
 giữ và của thủy thủ là n lần khoảng cách giữa hai người quan sát, tất cả chia cho 2.
 
-216
+212
 00:14:53,360 --> 00:14:56,781
 Nhưng chúng ta cũng có thể tính tỷ lệ này theo một cách khác, 
 
-217
+213
 00:14:56,781 --> 00:14:59,320
 bằng cách xem xét từng ngọn hải đăng riêng lẻ.
 
-218
+214
 00:15:00,040 --> 00:15:03,890
 Với mỗi ngọn hải đăng, hãy nghĩ về sự đóng góp của nó vào tích khoảng cách của 
 
-219
+215
 00:15:03,890 --> 00:15:07,009
 người canh giữ, nghĩa là khoảng cách của nó với người canh giữ, 
 
-220
+216
 00:15:07,009 --> 00:15:10,080
 chia cho sự đóng góp của nó vào tích khoảng cách của thủy thủ, 
 
-221
+217
 00:15:10,080 --> 00:15:11,640
 khoảng cách của nó với thủy thủ.
 
-222
+218
 00:15:12,480 --> 00:15:16,191
 Và khi chúng ta nhân tất cả các hệ số này lên trên mỗi ngọn hải đăng, 
 
-223
+219
 00:15:16,191 --> 00:15:20,645
 cuối cùng chúng ta phải có cùng tỷ lệ, n lần khoảng cách giữa những người quan sát, 
 
-224
+220
 00:15:20,645 --> 00:15:21,600
 tất cả chia cho 2.
 
-225
+221
 00:15:22,460 --> 00:15:25,983
 Bây giờ điều đó có vẻ giống như một phép tính cực kỳ lộn xộn, nhưng khi n lớn hơn, 
 
-226
+222
 00:15:25,983 --> 00:15:29,720
 việc tính toán này thực sự trở nên đơn giản hơn đối với bất kỳ ngọn hải đăng cụ thể nào.
 
-227
+223
 00:15:30,300 --> 00:15:33,356
 Ví dụ, hãy nghĩ về ngọn hải đăng đầu tiên sau người canh giữ, 
 
-228
+224
 00:15:33,356 --> 00:15:35,920
 theo nghĩa ngược chiều kim đồng hồ tính từ người đó.
 
-229
+225
 00:15:36,600 --> 00:15:38,900
-Điều này gần với thủy thủ hơn một chút so với thủ môn.
+Nó gần với thủy thủ hơn một chút so với người canh giữ.
 
-230
+226
 00:15:39,540 --> 00:15:42,880
 Cụ thể, góc từ ngọn hải đăng này đến người canh giữ đúng 
 
-231
+227
 00:15:42,880 --> 00:15:46,220
 bằng hai lần góc từ ngọn hải đăng này đến người thủy thủ.
 
-232
+228
 00:15:47,100 --> 00:15:51,381
 Và những góc đó không tỷ lệ chính xác với khoảng cách của đường thẳng, 
 
-233
+229
 00:15:51,381 --> 00:15:55,120
 nhưng khi n càng lớn hơn, sự tương ứng càng ngày càng tốt hơn.
 
-234
+230
 00:15:55,480 --> 00:15:59,261
 Và với n rất lớn, khoảng cách từ ngọn hải đăng đến người canh giữ 
 
-235
+231
 00:15:59,261 --> 00:16:03,100
 gần như gấp đôi khoảng cách từ ngọn hải đăng đó đến người thủy thủ.
 
-236
+232
 00:16:04,900 --> 00:16:09,334
 Và theo cách tương tự, nhìn vào ngọn hải đăng thứ hai sau người canh giữ, 
 
-237
+233
 00:16:09,334 --> 00:16:14,547
 nó có góc giữa người giữ được chia cho tỷ lệ góc với người giữ chính xác là 4 phần ba, 
 
-238
+234
 00:16:14,547 --> 00:16:17,543
 rất gần giống với khoảng cách chia cho người giữ. 
 
-239
+235
 00:16:17,543 --> 00:16:20,540
 theo tỷ lệ khoảng cách với thủy thủ khi n lớn hơn.
 
-240
+236
 00:16:21,140 --> 00:16:24,977
 Và ngọn hải đăng thứ ba đó, L3, sẽ đóng góp một phần 
 
-241
+237
 00:16:24,977 --> 00:16:28,960
 ngày càng gần hơn tới 6 phần năm khi n tiến đến vô cực.
 
-242
-00:16:31,880 --> 00:16:34,962
-Bây giờ đối với bằng chứng này, chúng ta sẽ muốn xem xét tất cả 
+238
+00:16:31,880 --> 00:16:36,373
+Bây giờ với bằng chứng này, ta sẽ xét tất cả các ngọn hải đăng ở dưới cùng của vòng 
 
-243
-00:16:34,962 --> 00:16:37,997
-các ngọn hải đăng ở dưới cùng của vòng tròn hơi khác một chút, 
+239
+00:16:36,373 --> 00:16:41,080
+tròn hơi khác một chút, đó là lý do tại sao tôi liệt kê chúng là âm 1, âm 2, âm 3, v. v.
 
-244
-00:16:37,997 --> 00:16:41,080
-đó là lý do tại sao tôi liệt kê chúng là âm 1, âm 2, âm 3, v. v.
-
-245
+240
 00:16:41,580 --> 00:16:45,479
 Nếu bạn nhìn vào ngọn hải đăng đầu tiên ở phía trước người canh giữ, 
 
-246
+241
 00:16:45,479 --> 00:16:50,339
 nó có tỷ lệ khoảng cách giữa người giữ và khoảng cách với thủy thủ gần bằng 2/3 khi n 
 
-247
+242
 00:16:50,339 --> 00:16:51,300
 tiến đến vô cùng.
 
-248
+243
 00:16:52,100 --> 00:16:55,836
 Và rồi ngọn hải đăng thứ hai trước nó, L-2 ở đây, 
 
-249
+244
 00:16:55,836 --> 00:16:59,797
 đóng góp một tỷ lệ ngày càng gần hơn tới 4 phần năm, 
 
-250
+245
 00:16:59,797 --> 00:17:06,300
 và ngọn hải đăng thứ ba, L-3, đóng góp một phần ngày càng gần hơn đến 6 phần bảy, v. v.
 
-251
+246
 00:17:07,540 --> 00:17:11,142
 Kết hợp điều này với tất cả các ngọn hải đăng, 
 
-252
+247
 00:17:11,142 --> 00:17:17,350
 chúng ta có được tích 2 trên 1 lần 2 trên 3 lần 4 trên 3 lần 4 trên 5 lần 6 trên 
 
-253
+248
 00:17:17,350 --> 00:17:19,880
 5 lần 6 trên 7, cứ thế và cứ thế.
 
+249
+00:17:20,260 --> 00:17:24,539
+Đây là tích mà chúng ta quan tâm nghiên cứu, và trong bối cảnh này, 
+
+250
+00:17:24,539 --> 00:17:29,573
+mỗi số hạng trong số đó phản ánh sự đóng góp cho một ngọn hải đăng cụ thể khi n 
+
+251
+00:17:29,573 --> 00:17:30,580
+tiến tới vô cực.
+
+252
+00:17:31,880 --> 00:17:35,649
+Và khi tôi nói về sự đóng góp, nghĩa là sự đóng góp vào tỷ lệ này của tích 
+
+253
+00:17:35,649 --> 00:17:38,966
+khoảng cách của người canh giữ với tích khoảng cách của thủy thủ, 
+
 254
-00:17:20,260 --> 00:17:24,630
-Đây là sản phẩm mà chúng ta quan tâm nghiên cứu, và trong bối cảnh này, 
+00:17:38,966 --> 00:17:42,886
+mà ta biết rằng ở mỗi bước, phải bằng n lần khoảng cách giữa những người quan 
 
 255
-00:17:24,630 --> 00:17:29,912
-mỗi thuật ngữ trong số đó phản ánh sự đóng góp cho một ngọn hải đăng cụ thể khi n tiến 
+00:17:42,886 --> 00:17:43,640
+sát chia cho 2.
 
 256
-00:17:29,912 --> 00:17:30,580
-tới vô cực.
-
-257
-00:17:31,880 --> 00:17:35,867
-Và khi tôi nói sự đóng góp, ý tôi là sự đóng góp vào tỷ lệ này của tích khoảng 
-
-258
-00:17:35,867 --> 00:17:39,753
-cách của người canh giữ với tích khoảng cách của thủy thủ, mà chúng ta biết, 
-
-259
-00:17:39,753 --> 00:17:43,640
-ở mỗi bước, phải bằng n lần khoảng cách giữa những người quan sát chia cho 2.
-
-260
 00:17:44,500 --> 00:17:47,780
 Vậy giá trị đó tiến tới bao nhiêu khi n tiến đến vô cùng?
 
-261
+257
 00:17:48,740 --> 00:17:53,900
 Khoảng cách giữa những người quan sát là một nửa của 1 trên n của một vòng 
 
-262
+258
 00:17:53,900 --> 00:17:59,061
 quay hoàn toàn quanh vòng tròn, và vì đây là một vòng tròn đơn vị nên tổng 
 
-263
+259
 00:17:59,061 --> 00:18:04,291
 chu vi của nó là 2 pi, do đó khoảng cách giữa những người quan sát tiến tới 
 
-264
+260
 00:18:04,291 --> 00:18:10,140
 pi chia cho n, và do đó n lần khoảng cách này chia cho 2 cách tiếp cận pi chia cho 2.
 
-265
+261
 00:18:10,660 --> 00:18:12,220
 Vì vậy, bạn có nó!
 
-266
+262
 00:18:12,520 --> 00:18:17,008
 Tích của chúng ta, 2 trên 1 nhân 2 trên 3 nhân 4 trên 3 nhân 4 trên 5, 
 
-267
+263
 00:18:17,008 --> 00:18:19,980
 cứ lặp đi lặp lại, phải tiếp cận pi chia cho 2.
 
-268
+264
 00:18:21,040 --> 00:18:24,569
 Đây thực sự là một kết quả tuyệt vời, và nó được gọi là tích Wallace, 
 
-269
+265
 00:18:24,569 --> 00:18:27,342
 được đặt theo tên nhà toán học thế kỷ 17 John Wallace, 
 
-270
+266
 00:18:27,342 --> 00:18:30,720
 người đầu tiên phát hiện ra thực tế này theo một cách phức tạp hơn.
 
-271
+267
 00:18:31,320 --> 00:18:35,030
 Ngoài ra, có một chút chuyện nhỏ, đây chính là người đã phát hiện ra, 
 
-272
+268
 00:18:35,030 --> 00:18:37,680
 hay đúng hơn là đã phát minh ra biểu tượng vô cực.
 
+269
+00:18:43,060 --> 00:18:46,146
+Và thực ra, nếu nhìn lại lập luận này, ta đã khéo léo tính 
+
+270
+00:18:46,146 --> 00:18:49,389
+không chính thức một chút ở đây, điều mà những người đặc biệt 
+
+271
+00:18:49,389 --> 00:18:52,580
+cầu toàn về mặt toán học trong số các bạn có thể đã nắm được.
+
+272
+00:18:53,460 --> 00:18:56,714
+Những gì có ở đây là một loạt các thừa số mà ta đã biết nhân với 
+
 273
-00:18:43,060 --> 00:18:46,142
-Và thực ra, nếu bạn nhìn lại lập luận này, chúng tôi đã sử dụng một 
+00:18:56,714 --> 00:19:00,020
+nhau để có n lần khoảng cách giữa những người quan sát chia cho 2.
 
 274
-00:18:46,142 --> 00:18:48,364
-chút khéo léo trong tính không chính thức ở đây, 
+00:19:00,580 --> 00:19:04,908
+Và sau đó, chúng ta xét giới hạn của từng thừa số riêng lẻ khi n tiến đến vô 
 
 275
-00:18:48,364 --> 00:18:51,537
-điều mà những người đặc biệt tinh vi về mặt toán học trong số các bạn 
-
-276
-00:18:51,537 --> 00:18:52,580
-có thể đã nắm bắt được.
-
-277
-00:18:53,460 --> 00:18:56,626
-Những gì chúng ta có ở đây là một loạt các yếu tố mà chúng ta đã biết 
-
-278
-00:18:56,626 --> 00:19:00,020
-nhân với nhau để có n lần khoảng cách giữa những người quan sát chia cho 2.
-
-279
-00:19:00,580 --> 00:19:05,058
-Và sau đó, chúng tôi xem xét giới hạn của từng yếu tố riêng lẻ khi n tiến đến vô 
-
-280
-00:19:05,058 --> 00:19:09,426
+00:19:04,908 --> 00:19:09,350
 cùng và kết luận rằng tích của tất cả các số hạng giới hạn đó phải bằng bất kể 
 
-281
-00:19:09,426 --> 00:19:13,960
+276
+00:19:09,350 --> 00:19:13,960
 giới hạn của n nhân khoảng cách giữa những người quan sát chia cho 2 là bao nhiêu.
 
-282
+277
 00:19:14,680 --> 00:19:19,551
 Nhưng điều đó giả định rằng tích của các giới hạn bằng giới hạn của tích, 
 
-283
+278
 00:19:19,551 --> 00:19:21,460
 ngay cả khi có vô số thừa số.
 
-284
+279
 00:19:22,340 --> 00:19:26,012
 Và kiểu hoán đổi giới hạn này trong số học diện tích vô hạn, 
 
-285
+280
 00:19:26,012 --> 00:19:28,120
 à, nó không phải lúc nào cũng đúng.
 
-286
+281
 00:19:28,500 --> 00:19:30,780
 Nó thường giữ được, nhưng đôi khi nó thất bại.
 
-287
-00:19:31,660 --> 00:19:34,178
-Ở đây, hãy để tôi chỉ cho bạn một ví dụ đơn giản về trường 
+282
+00:19:31,660 --> 00:19:34,089
+Ở đây, để tôi chỉ cho bạn một ví dụ đơn giản về trường 
 
-288
-00:19:34,178 --> 00:19:36,740
+283
+00:19:34,089 --> 00:19:36,740
 hợp việc chuyển đổi các giới hạn này không thực sự hiệu quả.
 
-289
+284
 00:19:37,080 --> 00:19:39,659
 Vì vậy, chúng ta có một lưới ở đây trong đó mỗi 
 
-290
+285
 00:19:39,659 --> 00:19:42,240
 hàng có một số 7 và sau đó là một loạt các số 1.
 
-291
+286
 00:19:42,420 --> 00:19:46,940
 Vì vậy, nếu bạn lấy tích vô hạn của mỗi hàng, bạn chỉ nhận được 7 cho mỗi hàng.
 
-292
+287
 00:19:47,420 --> 00:19:52,560
-Vì vậy, vì mỗi sản phẩm này là 7 nên giới hạn của sản phẩm cũng là 7.
+Vì vậy, vì mỗi tích này là 7 nên giới hạn của tích cũng là 7.
 
-293
+288
 00:19:53,100 --> 00:19:55,040
-Nhưng hãy xem điều gì sẽ xảy ra nếu bạn vượt qua giới hạn trước.
+Nhưng hãy xem điều gì xảy ra nếu lấy giới hạn trước.
 
-294
+289
 00:19:55,320 --> 00:19:59,700
 Nếu bạn nhìn vào từng cột, giới hạn của một cột nhất định sẽ là 1, 
 
-295
+290
 00:19:59,700 --> 00:20:02,120
 vì tại một số điểm, nó chỉ là 1 giây.
 
-296
+291
 00:20:02,120 --> 00:20:04,823
 Nhưng sau đó, nếu bạn lấy tích của những giới hạn đó, 
 
-297
+292
 00:20:04,823 --> 00:20:09,179
 thì bạn chỉ lấy tích của một loạt các số 1, nên bạn sẽ nhận được một câu trả lời khác, 
 
-298
+293
 00:20:09,179 --> 00:20:09,780
 cụ thể là 1.
 
+294
+00:20:13,240 --> 00:20:16,358
+May mắn thay, các nhà toán học đã dành nhiều thời gian để nghĩ về hiện 
+
+295
+00:20:16,358 --> 00:20:19,565
+tượng này và họ đã phát triển các công cụ để nhanh chóng nhìn thấy những 
+
+296
+00:20:19,565 --> 00:20:22,640
+điều kiện nhất định mà việc hoán đổi các giới hạn này thực sự diễn ra.
+
+297
+00:20:23,320 --> 00:20:27,433
+Trong trường hợp này, một kết quả tiêu chuẩn cụ thể được gọi là sự hội tụ ưu thế 
+
+298
+00:20:27,433 --> 00:20:31,700
+nhanh chóng đảm bảo với ta rằng lập luận mà ta vừa trình bày sẽ hoàn toàn chính xác.
+
 299
-00:20:13,240 --> 00:20:16,258
-May mắn thay, các nhà toán học đã dành nhiều thời gian để suy nghĩ về 
-
-300
-00:20:16,258 --> 00:20:19,362
-hiện tượng này và họ đã phát triển các công cụ để nhanh chóng nhìn thấy 
-
-301
-00:20:19,362 --> 00:20:22,640
-những điều kiện nhất định mà việc hoán đổi các giới hạn này thực sự diễn ra.
-
-302
-00:20:23,320 --> 00:20:27,438
-Trong trường hợp này, một kết quả tiêu chuẩn cụ thể được gọi là sự hội tụ ưu thế nhanh 
-
-303
-00:20:27,438 --> 00:20:31,700
-chóng đảm bảo với chúng ta rằng lập luận mà chúng ta vừa trình bày sẽ hoàn toàn chính xác.
-
-304
 00:20:32,260 --> 00:20:35,946
 Đối với những ai quan tâm, Sridhar đã viết một bài đăng blog bổ sung 
 
-305
+300
 00:20:35,946 --> 00:20:39,900
 cho video này để trình bày những chi tiết đó cùng với nhiều nội dung khác.
 
-306
-00:20:40,740 --> 00:20:42,724
+301
+00:20:40,740 --> 00:20:42,898
 Và tôi cũng nên nói rằng chúng ta cần cẩn thận 
 
-307
-00:20:42,724 --> 00:20:44,920
-một chút về cách diễn giải một sản phẩm như thế này.
+302
+00:20:42,898 --> 00:20:44,920
+một chút về cách diễn giải một tích như này.
 
-308
-00:20:45,400 --> 00:20:47,951
-Hãy nhớ rằng, chúng tôi có sự đóng góp từ những ngọn hải đăng ngược 
+303
+00:20:45,400 --> 00:20:49,475
+Nhớ rằng ta có đóng góp từ những ngọn hải đăng ngược chiều kim đồng hồ từ người canh giữ, 
 
-309
-00:20:47,951 --> 00:20:50,540
-chiều kim đồng hồ từ người quản lý, cũng như những đóng góp từ những 
+304
+00:20:49,475 --> 00:20:52,781
+cũng như đóng góp từ những ngọn hải đăng theo chiều kim đồng hồ từ người 
 
-310
-00:20:50,540 --> 00:20:53,016
-ngọn hải đăng theo chiều kim đồng hồ từ người quản lý và những gì 
+305
+00:20:52,781 --> 00:20:55,680
+canh giữ và những gì ta làm là xếp lại để có được tích của mình.
 
-311
-00:20:53,016 --> 00:20:55,680
-chúng tôi đã làm là xen kẽ những điều này để có được sản phẩm của mình.
-
-312
+306
 00:20:55,680 --> 00:21:00,235
 Các ngọn hải đăng ngược chiều kim đồng hồ tính từ thủ môn đóng góp 2 trên 1, 
 
-313
+307
 00:21:00,235 --> 00:21:04,555
 4 trên 3, 6 trên 5, cứ lặp đi lặp lại, và những ngọn hải đăng theo chiều 
 
-314
+308
 00:21:04,555 --> 00:21:08,460
 kim đồng hồ tính từ thủ môn đóng góp 2 trên 3, 4 trên 5, 6 trên 7.
 
-315
+309
 00:21:09,080 --> 00:21:12,985
 Và như tôi đã nói trước đây, nếu bạn thử xem từng chuỗi riêng lẻ đó, 
 
-316
+310
 00:21:12,985 --> 00:21:17,116
 bạn sẽ thấy rằng chuỗi đầu tiên ngày càng lớn hơn và bùng nổ đến vô tận, 
 
-317
+311
 00:21:17,116 --> 00:21:20,060
 còn chuỗi thứ hai thì ngày càng nhỏ hơn, gần bằng 0.
 
-318
-00:21:20,660 --> 00:21:24,701
-Vì vậy, thực sự khá khó khăn để hiểu được sản phẩm tổng thể này 
+312
+00:21:20,660 --> 00:21:24,572
+Vì vậy, thực sự khá khó khăn để hiểu được tích tổng thể này 
 
-319
-00:21:24,701 --> 00:21:28,680
+313
+00:21:24,572 --> 00:21:28,680
 bằng cách tính toán hai nửa riêng biệt và sau đó kết hợp chúng.
 
+314
+00:21:29,240 --> 00:21:33,089
+Và thực sự, ta sẽ thấy rằng nếu kết hợp hai nửa này theo cách khác nhau, 
+
+315
+00:21:33,089 --> 00:21:37,677
+chẳng hạn như lấy gấp đôi số thừa số từ một trong số chúng cho mỗi thừa số từ nửa kia, 
+
+316
+00:21:37,677 --> 00:21:40,420
+bạn có thể nhận được kết quả khác cho tích tổng thể.
+
+317
+00:21:40,740 --> 00:21:43,797
+Chỉ khi bạn kết hợp chúng một cách cụ thể theo cách riêng 
+
+318
+00:21:43,797 --> 00:21:46,960
+lẻ này thì bạn mới có được một tích hội tụ thành hai nửa pi.
+
+319
+00:21:47,620 --> 00:21:50,510
+Đây là điều gì đó nằm ngoài cách mà sự hội tụ chi phối giúp ta 
+
 320
-00:21:29,240 --> 00:21:33,382
-Và thực sự, chúng ta sẽ thấy rằng nếu bạn kết hợp hai nửa này theo cách khác nhau, 
+00:21:50,510 --> 00:21:53,997
+giải thích các giới hạn tính toán theo cách chúng ta đã làm và một lần nữa, 
 
 321
-00:21:33,382 --> 00:21:37,625
-chẳng hạn như lấy gấp đôi số yếu tố từ một trong số chúng cho mỗi yếu tố từ nửa kia, 
-
-322
-00:21:37,625 --> 00:21:40,420
-bạn có thể nhận được kết quả khác cho sản phẩm tổng thể.
-
-323
-00:21:40,740 --> 00:21:43,850
-Chỉ khi bạn kết hợp chúng một cách cụ thể theo cách riêng lẻ 
-
-324
-00:21:43,850 --> 00:21:46,960
-này thì bạn mới có được một sản phẩm hội tụ thành hai nửa pi.
-
-325
-00:21:47,620 --> 00:21:50,524
-Đây là điều gì đó nằm ngoài cách mà sự hội tụ chi phối giúp chúng 
-
-326
-00:21:50,524 --> 00:21:54,088
-tôi giải thích các giới hạn tính toán theo cách chúng tôi đã làm và một lần nữa, 
-
-327
-00:21:54,088 --> 00:21:56,200
+00:21:53,997 --> 00:21:56,200
 để biết thêm chi tiết, hãy xem bài đăng bổ sung.
 
-328
+322
 00:21:57,140 --> 00:21:58,800
 Tuy nhiên, đó chỉ là những vấn đề kỹ thuật.
 
-329
-00:21:59,140 --> 00:22:01,007
-Ý chính mang tính khái niệm về những gì đang diễn ra 
+323
+00:21:59,140 --> 00:22:01,027
+Ý chính mang tính khái niệm về những gì đang diễn 
 
-330
-00:22:01,007 --> 00:22:02,840
-ở đây chính xác là những gì chúng tôi vừa trình bày.
+324
+00:22:01,027 --> 00:22:02,840
+ra ở đây chính xác là những gì ta vừa trình bày.
 
-331
+325
 00:22:07,660 --> 00:22:10,347
 Và trên thực tế, sau khi thực hiện tất cả những công việc đó, 
 
-332
+326
 00:22:10,347 --> 00:22:13,902
 sẽ thật đáng tiếc nếu không dành chút thời gian để nói về một kết quả rõ ràng hơn 
 
-333
+327
 00:22:13,902 --> 00:22:14,900
 nằm ngoài lập luận này.
 
-334
+328
 00:22:14,900 --> 00:22:17,680
 Có thể cho rằng đây là phần thú vị nhất của toàn bộ bằng chứng.
 
-335
+329
 00:22:18,240 --> 00:22:20,420
-Bạn thấy đấy, chúng ta có thể khái quát toàn bộ cuộc thảo luận này.
+Bạn thấy đấy, ta có thể khái quát toàn bộ cuộc thảo luận này.
 
-336
-00:22:21,100 --> 00:22:24,435
-Hãy nghĩ lại khi chúng tôi phát hiện ra sự thật quan trọng đầu tiên, 
+330
+00:22:21,100 --> 00:22:24,332
+Hãy nghĩ lại khi ta phát hiện ra sự thật quan trọng đầu tiên, 
 
-337
-00:22:24,435 --> 00:22:28,399
-khi chúng tôi thấy rằng bạn không chỉ có thể cân nhắc việc đặt thủy thủ chính xác 
+331
+00:22:24,332 --> 00:22:28,399
+khi ta thấy rằng không chỉ có thể cân nhắc việc đặt thủy thủ chính xác ở giữa 
 
-338
-00:22:28,399 --> 00:22:30,913
-ở giữa các ngọn hải đăng mà còn bất kỳ phần nào, f, 
+332
+00:22:28,399 --> 00:22:33,040
+các ngọn hải đăng mà còn bất kỳ phần nào, f, của đường đi giữa các ngọn hải đăng liền kề.
 
-339
-00:22:30,913 --> 00:22:33,040
-của đường đi giữa các ngọn hải đăng liền kề.
-
-340
+333
 00:22:33,720 --> 00:22:36,802
 Trong bối cảnh tổng quát hơn đó, tích khoảng cách đối với 
 
-341
+334
 00:22:36,802 --> 00:22:40,417
 người thủy thủ không nhất thiết phải là 2, mà nó là dây cung của f, 
 
-342
+335
 00:22:40,417 --> 00:22:43,500
 trong đó f là một phần khoảng cách giữa các ngọn hải đăng.
 
-343
-00:22:44,200 --> 00:22:49,527
-Và nếu chúng ta tiến hành lập luận tương tự như chúng ta vừa làm với người thủy thủ ở 
+336
+00:22:44,200 --> 00:22:49,651
+Và nếu chúng ta tiến hành lập luận tương tự như ta vừa làm với người thủy thủ ở vị trí 
 
-344
-00:22:49,527 --> 00:22:54,916
-vị trí này và không thay đổi gì khác, thì chúng ta sẽ thấy rằng tỷ số giữa tích khoảng 
+337
+00:22:49,651 --> 00:22:54,977
+này và không thay đổi gì khác, thì chúng ta sẽ thấy rằng tỷ số giữa tích khoảng cách 
 
-345
-00:22:54,916 --> 00:23:00,305
-cách của người giữ và tích khoảng cách của người thủy thủ bây giờ là n lần khoảng cách 
+338
+00:22:54,977 --> 00:23:00,428
+của người canh giữ và tích khoảng cách của người thủy thủ bây giờ là n lần khoảng cách 
 
-346
-00:23:00,305 --> 00:23:05,880
-giữa chúng chia cho dây cung f, nó tiến tới f nhân 2 pi chia cho dây cung f khi n lớn hơn.
+339
+00:23:00,428 --> 00:23:05,880
+giữa họ chia cho dây cung f, nó tiến tới f nhân 2 pi chia cho dây cung f khi n lớn hơn.
 
-347
-00:23:08,800 --> 00:23:12,103
+340
+00:23:08,800 --> 00:23:12,211
 Và theo cách tương tự như trước đây, bạn có thể tính toán điều 
 
-348
-00:23:12,103 --> 00:23:15,460
-này bằng cách xem xét sự đóng góp từ mỗi ngọn hải đăng riêng lẻ.
+341
+00:23:12,211 --> 00:23:15,460
+này bằng cách xét sự đóng góp từ mỗi ngọn hải đăng riêng lẻ.
 
-349
-00:23:16,340 --> 00:23:20,815
-Nếu bạn dành thời gian để tính toán điều này, ngọn hải đăng thứ 
+342
+00:23:16,340 --> 00:23:20,885
+Nếu bạn dành thời gian để tính toán điều này, ngọn hải đăng thứ k 
 
-350
-00:23:20,815 --> 00:23:25,500
-k sau người canh giữ sẽ đóng góp hệ số k chia cho kf vào tỷ lệ này.
+343
+00:23:20,885 --> 00:23:25,500
+sau người canh giữ sẽ đóng góp thừa số k chia cho kf vào tỷ lệ này.
 
-351
+344
 00:23:26,240 --> 00:23:28,376
 Và tất cả các ngọn hải đăng trước người canh giữ, 
 
-352
+345
 00:23:28,376 --> 00:23:31,880
 chúng đóng góp những điều giống nhau, nhưng bạn chỉ thay các giá trị âm vào cho k.
 
-353
+346
 00:23:32,720 --> 00:23:37,737
 Nếu bạn kết hợp tất cả những đóng góp đó trên tất cả các số nguyên khác 0 k, 
 
-354
+347
 00:23:37,737 --> 00:23:42,689
 trong đó theo cách tương tự như trước, bạn phải cẩn thận về cách gộp các số 
 
-355
+348
 00:23:42,689 --> 00:23:47,707
 hạng k dương và âm lại với nhau, thì bạn sẽ nhận được tích của k chia bởi kf 
 
-356
+349
 00:23:47,707 --> 00:23:52,920
 trên tất cả các số nguyên khác 0, k sẽ bằng f nhân 2 pi chia cho dây cung của f.
 
-357
+350
 00:23:53,580 --> 00:23:59,760
 Nói cách khác, vì dây cung của f gấp 2 lần sin của f pi, 
 
-358
+351
 00:23:59,760 --> 00:24:09,520
 nên tích này bằng f nhân 2 pi chia cho 2 nhân sin của f pi, tức là f pi trên sin của f pi.
 
-359
+352
 00:24:10,320 --> 00:24:12,489
 Bây giờ viết lại điều này nhiều hơn một chút, 
 
-360
+353
 00:24:12,489 --> 00:24:14,800
 những gì bạn nhận được là một sự thật khá thú vị.
 
-361
+354
 00:24:15,420 --> 00:24:20,290
 Sin của f nhân pi bằng f pi nhân tích thực sự lớn này, 
 
-362
+355
 00:24:20,290 --> 00:24:25,160
 tích của 1-f trên k trên tất cả các số nguyên khác 0 k.
 
-363
-00:24:25,920 --> 00:24:31,247
-Vì vậy, những gì chúng tôi tìm thấy là một cách biểu diễn sin x dưới dạng tích vô hạn, 
+356
+00:24:25,920 --> 00:24:31,226
+Vì vậy, những gì chúng ta tìm thấy là một cách biểu diễn sin x dưới dạng tích vô hạn, 
 
-364
-00:24:31,247 --> 00:24:33,880
+357
+00:24:31,226 --> 00:24:33,880
 điều này thực sự thú vị nếu bạn nghĩ về nó.
 
-365
+358
 00:24:34,300 --> 00:24:37,350
 Vì vậy, bằng chứng này không chỉ cho chúng ta tích Wallace, 
 
-366
+359
 00:24:37,350 --> 00:24:41,570
 vốn đáng kinh ngạc theo đúng nghĩa của nó, mà nó còn khái quát hóa để cho chúng ta 
 
-367
+360
 00:24:41,570 --> 00:24:42,740
 công thức tích của sin.
 
-368
+361
 00:24:43,260 --> 00:24:47,558
 Và điều thú vị ở đây là nó liên quan đến cách Euler giải bài toán Basel ban đầu, 
 
-369
+362
 00:24:47,558 --> 00:24:49,840
 tổng mà chúng ta đã thấy trong video trước.
 
-370
+363
 00:24:50,160 --> 00:24:52,880
 Anh ấy đang quan sát tích vô hạn của sin.
 
-371
+364
 00:24:53,600 --> 00:24:56,985
-Ý tôi là việc kết nối các công thức số pi này với các đường tròn là một chuyện, 
+Nghĩa là việc kết nối các công thức số pi này với các đường tròn là một chuyện, 
 
-372
+365
 00:24:56,985 --> 00:24:59,820
 nhưng việc kết nối chúng với nhau lại là một chuyện hoàn toàn khác.
 
-373
-00:25:00,520 --> 00:25:03,195
+366
+00:25:00,520 --> 00:25:03,408
 Và một lần nữa, nếu bạn muốn biết thêm chi tiết về tất cả những điều này, 
 
-374
-00:25:03,195 --> 00:25:04,280
+367
+00:25:03,408 --> 00:25:04,580
 hãy xem bài đăng blog bổ sung.
 
-375
-00:25:04,280 --> 00:25:04,580
+368
+00:25:04,580 --> 00:25:04,580
 Cảm ơn.
 

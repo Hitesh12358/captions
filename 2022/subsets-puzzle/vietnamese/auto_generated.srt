@@ -63,16 +63,16 @@ nó liên quan đến việc nghiên cứu các hàm được thiết kế đặ
 Một số bạn có thể biết rằng đây chính là nội dung của giả thuyết Riemann nổi tiếng.
 
 17
-00:00:49,680 --> 00:00:52,178
-Về cơ bản, có một chức năng được thiết kế đặc biệt và nhìn bề 
+00:00:49,680 --> 00:00:52,361
+Về cơ bản, có một hàm số được thiết kế đặc biệt và nhìn bề ngoài 
 
 18
-00:00:52,178 --> 00:00:54,960
-ngoài thì nó có vẻ không liên quan đến thế giới số nguyên tố rời rạc.
+00:00:52,361 --> 00:00:54,960
+thì nó có vẻ không liên quan đến thế giới số nguyên tố rời rạc.
 
 19
 00:00:55,060 --> 00:00:57,000
-Nó trơn tru, nó có giá trị phức tạp.
+Nó trơn tru, nó có giá trị phức.
 
 20
 00:00:57,000 --> 00:00:59,564
@@ -96,30 +96,30 @@ Tất nhiên, câu đố của chúng ta, mà tôi hứa sẽ chia sẻ ngay sau
 
 25
 00:01:14,049 --> 00:01:16,060
-ngây thơ hơn rất nhiều so với giả thuyết Riemann.
+ngây ngô hơn rất nhiều so với giả thuyết Riemann.
 
 26
 00:01:16,260 --> 00:01:17,420
 Đó là một vấn đề về đồ chơi.
 
 27
-00:01:17,880 --> 00:01:20,797
-Nhưng ở cuối video, tôi sẽ chia sẻ cách các kỹ thuật mà chúng 
+00:01:17,880 --> 00:01:22,078
+Nhưng ở cuối video, tôi sẽ chia sẻ cách các kỹ thuật mà ta sử dụng để giải quyết nó, 
 
 28
-00:01:20,797 --> 00:01:23,808
-tôi sử dụng để giải quyết nó, lý do thực sự mà chúng tôi ở đây, 
+00:01:22,078 --> 00:01:24,992
+lý do thực sự để chúng ta ở đây thực ra khá giống với cách 
 
 29
-00:01:23,808 --> 00:01:26,820
-thực sự khá giống với cách thiết lập dẫn đến giả thuyết Riemann.
+00:01:24,992 --> 00:01:26,820
+thiết lập dẫn đến giả thuyết Riemann.
 
 30
-00:01:27,000 --> 00:01:29,600
+00:01:27,000 --> 00:01:30,180
 Và định lý số nguyên tố và toàn bộ vòng suy nghĩ xung quanh nó.
 
 31
-00:01:29,600 --> 00:01:39,380
+00:01:34,900 --> 00:01:39,380
 Câu đố của chúng ta hôm nay đến từ cuốn sách này ở đây, của Titou và Rescu và Zoomingfeng.
 
 32
@@ -144,7 +144,7 @@ Tìm số tập con của tập hợp 1 đến 2000, tổng các phần tử c�
 
 37
 00:01:59,180 --> 00:02:01,420
-Được rồi, có thể mất một chút thời gian để phân tích cú pháp.
+Được rồi, có thể mất chút thời gian để phân tích cú pháp.
 
 38
 00:02:01,640 --> 00:02:05,320
@@ -160,7 +160,7 @@ Và tổng của nó, 3 cộng 1 cộng 4, là 8, nên điều đó sẽ không 
 
 41
 00:02:12,600 --> 00:02:13,540
-Đó không phải là trong tính toán của chúng tôi.
+Đó không phải là trong tính toán của chúng ta.
 
 42
 00:02:13,840 --> 00:02:18,120
@@ -236,7 +236,7 @@ cứ như vậy, 2000 lần.
 
 60
 00:03:09,800 --> 00:03:13,240
-Và nghĩ về chương trình của chúng tôi, đó là một con số khổng lồ.
+Và nghĩ về chương trình của chúng ta, đó là một con số khổng lồ.
 
 61
 00:03:13,620 --> 00:03:16,593
@@ -264,7 +264,7 @@ bạn có thể đoán, bạn biết đấy, nó sẽ chiếm khoảng 1/5 tổn
 
 67
 00:03:32,540 --> 00:03:35,580
-Có lẽ có sự phân bổ gần như đồng đều cho tất cả các khoản tiền này theo mod 5.
+Có lẽ có sự phân bổ gần như đồng đều cho tất cả các tổng này theo mod 5.
 
 68
 00:03:36,000 --> 00:03:38,080
@@ -323,39 +323,39 @@ các kỹ năng phù hợp với các loại câu hỏi đầy thách thức kh�
 và rất hay mà giải pháp mà tôi muốn chia sẻ với bạn sẽ thực hiện.
 
 82
-00:04:21,300 --> 00:04:24,192
+00:04:21,300 --> 00:04:24,282
 Tôi đã nói trước rằng số phức sẽ xuất hiện một cách bất ngờ, 
 
 83
-00:04:24,192 --> 00:04:27,653
-nhưng trước khi chúng ta làm được điều đó, có một bước ngoặt kỳ lạ khác, 
+00:04:24,282 --> 00:04:27,559
+nhưng trước khi ta làm được điều đó, có một bước ngoặt kỳ lạ khác, 
 
 84
-00:04:27,653 --> 00:04:30,640
+00:04:27,559 --> 00:04:30,640
 được cho là thậm chí còn kỳ lạ hơn và thậm chí còn bất ngờ hơn.
 
 85
-00:04:31,300 --> 00:04:34,118
+00:04:31,300 --> 00:04:34,347
 Tuy nhiên, để chuẩn bị cho giai đoạn này, chúng ta hãy tìm hiểu câu đố và 
 
 86
-00:04:34,118 --> 00:04:36,898
+00:04:34,347 --> 00:04:37,354
 làm những gì mà tất cả những người giải quyết vấn đề giỏi nên làm và bắt 
 
 87
-00:04:36,898 --> 00:04:39,640
+00:04:37,354 --> 00:04:40,320
 đầu với một ví dụ đơn giản hơn, có thể chỉ cần thử với bộ 1, 2, 3, 4, 5.
 
 88
-00:04:39,640 --> 00:04:42,819
-Nếu bạn đang giải quyết vấn đề này bằng bút chì và giấy, bạn biết đấy, 
+00:04:40,980 --> 00:04:43,754
+Nếu bạn đang giải quyết bài toán này bằng bút chì và giấy, bạn biết đấy, 
 
 89
-00:04:42,819 --> 00:04:45,282
+00:04:43,754 --> 00:04:45,845
 bạn là một trong những đứa trẻ đang luyện tập cho IMO, 
 
 90
-00:04:45,282 --> 00:04:49,000
+00:04:45,845 --> 00:04:49,000
 sẽ không phải là một ý tưởng tồi khi chỉ cần liệt kê ra tất cả 2 đến 5 tập hợp con.
 
 91
@@ -375,12 +375,12 @@ nhưng vì điều chúng ta quan tâm là tổng của chúng,
 nên điều tự nhiên cần làm là lần lượt xem qua tất cả chúng và tính những tổng đó.
 
 95
-00:05:06,520 --> 00:05:08,780
-Ở đây mình chỉ làm trên YouTube thôi, mình có máy tính nên mình 
+00:05:06,520 --> 00:05:08,721
+Ở đây, chỉ làm nó trên YouTube, tôi có máy tính nên tôi 
 
 96
-00:05:08,780 --> 00:05:11,040
-sẽ cheat một chút và chỉ ra tổng số tiền của chúng là bao nhiêu.
+00:05:08,721 --> 00:05:11,040
+sẽ gian lận một chút và chỉ ra tổng của chúng là bao nhiêu.
 
 97
 00:05:11,040 --> 00:05:14,394
@@ -407,11 +407,11 @@ Và nhìn chung, những cái mà chúng ta quan tâm, những tập con có t�
 được đặt ở đây bên trái, và có vẻ như có tổng cộng 8 tập con như vậy.
 
 103
-00:05:36,340 --> 00:05:39,984
-Ồ, và nhân tiện, tôi nên nói rằng chúng ta đang đếm tập hợp trống, 
+00:05:36,340 --> 00:05:39,786
+Ồ, và nhân tiện, tôi nên nói rằng ta đang đếm tập hợp rỗng, 
 
 104
-00:05:39,984 --> 00:05:43,520
+00:05:39,786 --> 00:05:43,520
 chúng ta coi tổng của nó là 0 và chúng ta coi đó là bội số của 5.
 
 105
@@ -440,10 +440,10 @@ nên ít nhất trong ví dụ nhỏ này, câu trả lời đúng sẽ lớn h�
 
 111
 00:06:00,360 --> 00:06:02,540
-Đó có thể là điều bạn muốn ghi nhớ trong tâm trí.
+Đó có thể là điều bạn muốn ghi nhớ tron đầu.
 
 112
-00:06:03,719 --> 00:06:06,622
+00:06:03,720 --> 00:06:06,622
 Được rồi, và đây là phần của video mà thành thật mà nói với bạn, 
 
 113
@@ -568,11 +568,11 @@ Và hãy để tôi cho bạn thấy ý tôi là gì.
 
 143
 00:07:39,020 --> 00:07:43,520
-Khi bạn mở rộng biểu thức này, về cơ bản nó sẽ đưa ra năm lựa chọn nhị phân.
+Khi bạn mở rộng biểu thức này, về cơ bản nó sẽ đưa ra năm lựa chọn đôi.
 
 144
 00:07:43,800 --> 00:07:45,800
-Bạn chọn thuật ngữ nào trong mỗi dấu ngoặc đơn?
+Bạn chọn số hạng nào trong mỗi dấu ngoặc đơn?
 
 145
 00:07:46,600 --> 00:07:50,824
@@ -619,19 +619,19 @@ và x bình phương, rồi chọn 1 từ mọi thứ khác.
 Nhưng trong đa thức, cách nó khai triển trông giống như x lập phương.
 
 156
-00:08:30,260 --> 00:08:33,408
+00:08:30,260 --> 00:08:32,954
 Vì vậy, chúng ta có hai số hạng x lập phương khác nhau, 
 
 157
-00:08:33,408 --> 00:08:36,220
+00:08:32,954 --> 00:08:35,360
 mỗi số hạng đến từ một tập hợp con có tổng bằng 3.
 
 158
-00:08:36,220 --> 00:08:40,208
+00:08:36,080 --> 00:08:40,140
 Thành thật mà nói, mẫu tôi đang hướng tới ở đây có lẽ là mẫu dễ nhất nếu bạn dành thời 
 
 159
-00:08:40,208 --> 00:08:44,059
+00:08:40,140 --> 00:08:44,059
 gian để tạm dừng và tự suy nghĩ xem điều gì sẽ xảy ra khi bạn mở rộng mọi thứ ở đây.
 
 160
@@ -659,1738 +659,1706 @@ Hơi khó hiểu khi bạn nói to, nhưng một lần nữa,
 nếu bạn tự mình suy nghĩ kỹ, tôi nghĩ bạn có thể hiểu ý tôi.
 
 166
-00:09:02,620 --> 00:09:07,359
-Ví dụ: khi tất cả bụi lắng xuống và chúng tôi thu thập tất cả 32 số hạng ở đây, 
+00:09:02,620 --> 00:09:07,325
+Ví dụ: khi tất cả bụi lắng xuống và chúng ta thu thập tất cả 32 số hạng ở đây, 
 
 167
-00:09:07,359 --> 00:09:10,913
+00:09:07,325 --> 00:09:10,899
 ba trong số các số hạng đó là x mũ 10 và mỗi số hạng đó đến 
 
 168
-00:09:10,913 --> 00:09:13,520
+00:09:10,899 --> 00:09:13,520
 từ một lựa chọn các phần tử có tổng bằng 10.
 
 169
-00:09:14,540 --> 00:09:16,679
-Thông thường, khi chúng ta viết một đa thức, chúng 
+00:09:14,540 --> 00:09:18,400
+Thông thường, khi chúng ta viết một đa thức, ta tập hợp tất cả các số hạng giống nhau.
 
 170
-00:09:16,679 --> 00:09:18,400
-ta tập hợp tất cả các số hạng giống nhau.
-
-171
 00:09:18,680 --> 00:09:21,652
 Thay vì có ba bản sao của x đến số 10, chúng ta 
 
-172
+171
 00:09:21,652 --> 00:09:24,440
 sẽ chỉ thấy hệ số 3 ở phía trước x đến số 10.
 
-173
+172
 00:09:24,440 --> 00:09:29,640
 Vì vậy, mỗi hệ số này là một cách mã hóa số lượng tập hợp con có tổng cụ thể.
 
-174
+173
 00:09:30,460 --> 00:09:34,034
 Vì vậy, như tôi đã nói lúc đầu, đây là một ví dụ về một thứ gọi là hàm sinh, 
 
-175
+174
 00:09:34,034 --> 00:09:38,211
 trong đó ý tưởng là nếu bạn có một số câu hỏi với câu trả lời liên quan đến mỗi số nguyên 
 
-176
+175
 00:09:38,211 --> 00:09:42,389
 dương, vậy trong trường hợp của chúng ta, có bao nhiêu tập hợp con cộng lại thành một giá 
 
-177
+176
 00:09:42,389 --> 00:09:42,900
 trị cụ thể.
 
-178
+177
 00:09:43,480 --> 00:09:47,739
 Khi bạn xây dựng một đa thức có hệ số tương ứng với câu trả lời cho câu hỏi đó, 
 
-179
+178
 00:09:47,739 --> 00:09:52,053
 bạn có thể hiểu rõ hơn một cách đáng ngạc nhiên từ câu hỏi ban đầu của mình bằng 
 
-180
+179
 00:09:52,053 --> 00:09:56,100
 cách vận dụng và phân tích một cách toán học các thuộc tính của đa thức này.
 
-181
+180
 00:09:56,660 --> 00:10:01,462
 Có rất nhiều ví dụ về cách tạo hàm, nhưng chỉ để đưa ra một ví dụ khác đặc biệt thú vị, 
 
-182
+181
 00:10:01,462 --> 00:10:04,900
 bạn có thể sử dụng ý tưởng tương tự để nghiên cứu số Fibonacci.
 
-183
+182
 00:10:05,340 --> 00:10:08,209
 Vì vậy, tất cả các hệ số của đa thức này sẽ là số Fibonacci, 
 
-184
+183
 00:10:08,209 --> 00:10:10,561
 và trong trường hợp này nó là một đa thức vô hạn, 
 
-185
+184
 00:10:10,561 --> 00:10:12,820
 vì vậy tôi thực sự nên gọi nó là chuỗi lũy thừa.
 
-186
+185
 00:10:13,520 --> 00:10:15,754
 Tôi sẽ không giải thích đầy đủ chi tiết ở đây nhưng 
 
-187
+186
 00:10:15,754 --> 00:10:17,860
 tôi sẽ để chúng trên màn hình cho những ai tò mò.
 
-188
+187
 00:10:18,220 --> 00:10:21,860
 Ý tưởng cơ bản là quy tắc được sử dụng để xác định các số Fibonacci, 
 
-189
+188
 00:10:21,860 --> 00:10:26,134
 mỗi số là tổng của hai số trước đó, có thể được biểu diễn dưới dạng phương trình 
 
-190
+189
 00:10:26,134 --> 00:10:26,820
 theo hàm này.
 
-191
+190
 00:10:27,580 --> 00:10:31,200
 Phương trình đó lần lượt cho phép bạn viết hàm đó ở dạng thay thế.
 
-192
+191
 00:10:32,180 --> 00:10:36,140
 Và sau đó, đây là hầu hết các chi tiết mà tôi sẽ bỏ qua, nếu bạn thao tác điều đó, 
 
-193
+192
 00:10:36,140 --> 00:10:38,812
 bạn biết đấy, đưa vào một phân tích một phần nhỏ ở đây, 
 
-194
+193
 00:10:38,812 --> 00:10:41,198
 một chút khai triển lũy thừa chuỗi hình học ở đó, 
 
-195
+194
 00:10:41,198 --> 00:10:44,729
 bạn có thể có được cho mình một dạng đóng chính xác biểu thức cho từng số 
 
-196
+195
 00:10:44,729 --> 00:10:47,020
 Fibonacci riêng lẻ, điều này thực sự rất thú vị.
 
-197
-00:10:47,579 --> 00:10:51,522
+196
+00:10:47,580 --> 00:10:51,522
 Tôi đã đề cập đến điều này thực sự chỉ để chỉ ra phần nổi của tảng băng chìm 
 
-198
+197
 00:10:51,522 --> 00:10:55,260
 của thực tế là ý tưởng về hàm sinh này vượt xa ví dụ cụ thể của chúng ta.
 
-199
-00:10:56,460 --> 00:11:00,748
+198
+00:10:56,460 --> 00:11:00,777
 Bây giờ, trong bài toán cụ thể của chúng ta, nếu chúng ta mở rộng từ ví dụ 
 
-200
-00:11:00,748 --> 00:11:04,694
+199
+00:11:00,777 --> 00:11:04,749
 đơn giản chỉ với 12345 đến ví dụ lớn với tất cả các số lên đến 2000, 
 
-201
-00:11:04,694 --> 00:11:08,868
-hàm sinh tương ứng của chúng ta bao gồm 2000 số hạng nhị thức khác nhau, 
+200
+00:11:04,749 --> 00:11:08,837
+hàm sinh tương ứng của chúng ta bao gồm 2000 hệ số nhị thức khác nhau, 
 
-202
-00:11:08,868 --> 00:11:13,500
+201
+00:11:08,837 --> 00:11:13,500
 bạn biết đấy, 1 cộng x, 1 cộng x bình phương, tăng dần, lên tới 1 cộng x mũ 2000.
 
-203
+202
 00:11:13,500 --> 00:11:16,530
 Và ý tưởng là nếu bạn khai triển cái này, các hệ số 
 
-204
+203
 00:11:16,530 --> 00:11:19,560
 sẽ cho chúng ta biết tất cả thông tin chúng ta muốn.
 
-205
+204
 00:11:20,060 --> 00:11:23,610
 Bây giờ, sẽ thật điên rồ nếu thực sự mở rộng nó, nhưng về nguyên tắc, 
 
-206
+205
 00:11:23,610 --> 00:11:26,400
 sẽ rất hữu ích nếu bạn ghi nhớ nó sẽ trông như thế nào.
 
-207
+206
 00:11:26,800 --> 00:11:30,736
 Ví dụ, về nguyên tắc, nếu bạn mở rộng nó, bạn sẽ thấy 
 
-208
+207
 00:11:30,736 --> 00:11:34,600
 rằng hệ số đứng trước x đến số hạng thứ 25 sẽ là 142.
 
-209
+208
 00:11:35,520 --> 00:11:41,640
 Và điều này tương ứng với thực tế là có 142 tập hợp con riêng biệt có tổng bằng 25.
 
-210
+209
 00:11:42,280 --> 00:11:46,625
 Vì vậy, nghệ thuật phân tích hàm sinh ở đây sẽ là suy ra 
 
-211
+210
 00:11:46,625 --> 00:11:51,200
 sự thật về các hệ số này mà không thực sự mở rộng biểu thức.
 
-212
-00:11:55,880 --> 00:11:59,526
+211
+00:11:55,880 --> 00:11:59,725
 Vì vậy, tiếp theo, tôi sẽ viết phần mở rộng này một cách trừu tượng hơn, 
 
-213
-00:11:59,526 --> 00:12:02,123
+212
+00:11:59,725 --> 00:12:02,464
 chỉ là một tổng từ n bằng 0 cho đến chữ N viết hoa, 
 
-214
-00:12:02,123 --> 00:12:05,520
-trong đó c sub n cho chúng ta biết các hệ số mà chúng ta không biết.
+213
+00:12:02,464 --> 00:12:05,520
+trong đó c n cho chúng ta biết các hệ số mà ta không biết.
 
-215
+214
 00:12:05,880 --> 00:12:08,060
 Tất cả những điều đó bắt đầu như một hộp đen đối với chúng tôi.
 
-216
+215
 00:12:08,360 --> 00:12:11,040
 Và tiến về phía trước, chúng ta sẽ bắt đầu coi đây là một hàm thực tế, 
 
-217
+216
 00:12:11,040 --> 00:12:13,759
 một cái gì đó mà chúng ta thế x vào, chúng ta xem kết quả đầu ra là gì, 
 
-218
+217
 00:12:13,759 --> 00:12:16,440
 và sau đó chúng ta hỏi, điều đó cho chúng ta biết điều gì về các hệ số?
 
-219
+218
 00:12:17,060 --> 00:12:20,620
-Ví dụ: một đầu vào rất dễ dàng là cắm vào một cái gì đó như x bằng 0.
+Ví dụ: một đầu vào rất dễ dàng là thay vào một cái gì đó như x bằng 0.
 
-220
+219
 00:12:21,120 --> 00:12:23,029
 Trong trường hợp đó, điều quan trọng là chúng ta biết cách 
 
-221
+220
 00:12:23,029 --> 00:12:25,100
 đánh giá nó bằng cách sử dụng biểu mẫu phân tích nhân tử ở trên.
 
-222
+221
 00:12:25,380 --> 00:12:30,020
 Nếu bạn thay x bằng 0 cho mọi thứ, tất cả các số hạng đều có dạng 1, nên đáp án là 1.
 
-223
+222
 00:12:30,360 --> 00:12:34,112
 Và ở dạng mở rộng, tất cả những số hạng liên quan đến x sẽ bị loại bỏ, 
 
-224
+223
 00:12:34,112 --> 00:12:37,020
 chúng tiến về 0, chỉ còn lại số hạng đầu tiên, c sub 0.
 
-225
+224
 00:12:37,800 --> 00:12:39,289
 Bây giờ, trong trường hợp này, điều đó không thực 
 
-226
+225
 00:12:39,289 --> 00:12:40,600
 sự cho chúng ta biết điều gì thú vị đến thế.
 
-227
+226
 00:12:40,600 --> 00:12:45,600
 Về cơ bản, nó có nghĩa là có một bộ trống duy nhất, nhưng chúng ta chỉ đang ướt chân.
 
-228
+227
 00:12:46,040 --> 00:12:49,640
 Như ví dụ tiếp theo, hãy dành một chút thời gian để suy nghĩ về việc đánh giá f tại 1.
 
-229
+228
 00:12:50,460 --> 00:12:53,340
 Đây là điều chúng ta có thể làm với biểu thức đã biết, 
 
-230
+229
 00:12:53,340 --> 00:12:56,900
 khi bạn thay 1 vào tất cả các x này, mọi số hạng trông giống như 2, 
 
-231
+230
 00:12:56,900 --> 00:13:00,200
 nên tổng cộng chúng ta nhận được 2 nhân với chính nó 2.000 lần.
 
-232
+231
 00:13:00,720 --> 00:13:04,046
 Mặt khác, trong biểu thức mở rộng, nếu bạn thế x bằng 1, 
 
-233
+232
 00:13:04,046 --> 00:13:09,300
 tất cả các lũy thừa của x sẽ bằng 1, vì vậy về cơ bản chúng ta đang cộng tất cả các hệ số.
 
-234
+233
 00:13:09,300 --> 00:13:11,460
 Điều này thật tuyệt khi bạn nghĩ về nó.
 
-235
+234
 00:13:11,740 --> 00:13:14,500
 Chỉ bằng cách đánh giá hàm ở một số duy nhất, chúng ta 
 
-236
+235
 00:13:14,500 --> 00:13:17,160
 có thể suy ra tổng của tất cả các hệ số là bao nhiêu.
 
-237
+236
 00:13:17,680 --> 00:13:20,526
 Bây giờ, một lần nữa, trong ví dụ cụ thể của chúng ta, 
 
-238
+237
 00:13:20,526 --> 00:13:24,460
 nó không thú vị lắm vì chúng ta đã biết tổng của các hệ số này là bao nhiêu.
 
-239
+238
 00:13:24,960 --> 00:13:27,716
 Hãy nhớ rằng, mỗi hệ số tính xem có bao nhiêu tập hợp con có 
 
-240
+239
 00:13:27,716 --> 00:13:29,930
 tổng nhất định và vì vậy khi bạn cộng chúng lại, 
 
-241
+240
 00:13:29,930 --> 00:13:33,320
 chúng ta chỉ đếm tất cả các tập hợp con mà chúng ta biết là từ 2 đến 2.000.
 
-242
+241
 00:13:34,220 --> 00:13:36,792
 Tuy nhiên, tôi có thể cung cấp cho bạn một sự thật thực 
 
-243
+242
 00:13:36,792 --> 00:13:39,320
 sự mới nếu tôi yêu cầu bạn đánh giá hàm này ở mức âm 1.
 
-244
+243
 00:13:39,720 --> 00:13:41,220
 Hãy dành một chút thời gian để suy nghĩ về điều đó có nghĩa là gì.
 
-245
+244
 00:13:43,340 --> 00:13:46,302
 Nếu bạn thế vào âm 1, một lần nữa chúng ta bắt đầu với điều chúng ta đã biết, 
 
-246
+245
 00:13:46,302 --> 00:13:49,568
 biểu thức phân tích nhân tử lên trên, và ở đây tất cả những gì bạn cần là nhìn vào số 
 
-247
+246
 00:13:49,568 --> 00:13:50,100
 hạng đầu tiên.
 
-248
+247
 00:13:50,440 --> 00:13:55,060
 Khi bạn thay x vào, dấu ngoặc đơn đầu tiên sẽ bằng 0, do đó toàn bộ biểu thức phải bằng 0.
 
-249
+248
 00:13:55,640 --> 00:13:59,149
 Nhưng điều đó cho bạn biết điều gì khi chúng ta áp dụng nó vào biểu thức mở rộng, 
 
-250
+249
 00:13:59,149 --> 00:14:00,220
 sử dụng tất cả các hệ số?
 
-251
+250
 00:14:00,720 --> 00:14:04,102
 Và với tinh thần gợi ý càng nhiều càng tốt về những bước ngoặt kỳ 
 
-252
+251
 00:14:04,102 --> 00:14:07,434
 lạ mà lời giải này thực hiện, tôi muốn bạn thực sự hình dung các 
 
-253
+252
 00:14:07,434 --> 00:14:10,920
 lũy thừa khác nhau của âm 1 trong biểu thức này dưới dạng phép quay.
 
-254
-00:14:11,460 --> 00:14:14,145
+253
+00:14:11,460 --> 00:14:13,778
 Số hạng đầu tiên, âm 1 đến 0, chỉ bằng 1, chúng 
 
-255
-00:14:14,145 --> 00:14:16,720
+254
+00:14:13,778 --> 00:14:16,000
 ta sẽ hình dung nó dưới dạng vectơ từ 0 đến 1.
 
-256
-00:14:16,720 --> 00:14:20,798
+255
+00:14:16,580 --> 00:14:20,727
 Âm 1 mũ thứ nhất chỉ là âm 1, mà tôi muốn bạn coi 
 
-257
-00:14:20,798 --> 00:14:25,040
+256
+00:14:20,727 --> 00:14:25,040
 là một phép quay 180 độ so với số hạng cuối cùng đó.
 
-258
+257
 00:14:25,540 --> 00:14:30,580
 Sau đó, khi chúng ta lấy âm 1 bình phương, đó là dương 1, cũng là một phép quay 180 độ.
 
-259
+258
 00:14:30,580 --> 00:14:35,820
 Và nói chung, mỗi số hạng kế tiếp ở đây trông giống như một phép quay khác 180 độ.
 
-260
+259
 00:14:36,180 --> 00:14:39,039
 Về mặt đại số, điều này có nghĩa là chúng ta có 
 
-261
+260
 00:14:39,039 --> 00:14:41,780
 tổng dao động giữa các hệ số chẵn và hệ số lẻ.
 
-262
+261
 00:14:42,180 --> 00:14:43,860
 Nhưng hãy giữ hình ảnh đó ở trong tâm trí bạn.
 
-263
+262
 00:14:44,260 --> 00:14:47,456
 Biểu thức này đúng với bất kỳ hàm sinh nào, nhưng một lần nữa, 
 
-264
+263
 00:14:47,456 --> 00:14:51,971
 đối với hàm sinh đặc biệt của chúng ta, chúng ta biết rằng giá trị này, tổng xen kẽ này, 
 
-265
+264
 00:14:51,971 --> 00:14:52,580
 phải bằng 0.
 
-266
+265
 00:14:53,040 --> 00:14:55,912
 Và bạn có thể giải thích điều đó theo cách nó cho 
 
-267
+266
 00:14:55,912 --> 00:14:58,900
 bạn biết có sự cân bằng giữa hệ số chẵn và hệ số lẻ.
 
-268
+267
 00:14:59,460 --> 00:15:02,869
 Và hãy nhớ rằng, có thể trong bối cảnh của ví dụ nhỏ hơn của chúng ta, 
 
-269
+268
 00:15:02,869 --> 00:15:06,520
 các hệ số này đang mã hóa cho chúng ta thông tin thực tế về các tập hợp con.
 
-270
+269
 00:15:06,760 --> 00:15:10,651
 Vì vậy, nếu có sự cân bằng bằng nhau giữa tất cả các hệ số chẵn và hệ số lẻ, 
 
-271
+270
 00:15:10,651 --> 00:15:13,784
 điều đó cho bạn biết rằng một nửa trong số các tập hợp con có 
 
-272
+271
 00:15:13,784 --> 00:15:16,160
 tổng chẵn và một nửa trong số chúng có tổng lẻ.
 
-273
+272
 00:15:16,660 --> 00:15:18,607
 Đó có thể là những gì bạn mong đợi, nhưng lúc 
 
-274
+273
 00:15:18,607 --> 00:15:20,640
 đầu bạn không thể hiện điều đó một cách rõ ràng.
 
-275
+274
 00:15:20,820 --> 00:15:23,440
-Và với chức năng tạo, nó gần như bật ra ngay.
+Và với hàm sinh, nó gần như bật ra ngay.
 
-276
+275
 00:15:24,480 --> 00:15:26,877
 Và một lần nữa, để gợi ý về nơi chúng ta sẽ đi, 
 
-277
+276
 00:15:26,877 --> 00:15:29,874
 hãy để tôi viết lại điều này một chút bằng cách lấy hai thứ 
 
-278
+277
 00:15:29,874 --> 00:15:33,620
 cuối cùng mà chúng ta đã đánh giá, cộng hai thứ đó lại, rồi chia cho 1 nửa.
 
-279
+278
 00:15:35,100 --> 00:15:38,125
 Nếu bạn nghĩ về nó, đây là một cách lọc ra tất 
 
-280
+279
 00:15:38,125 --> 00:15:41,280
 cả các hệ số chẵn và loại bỏ tất cả các hệ số lẻ.
 
-281
+280
 00:15:41,900 --> 00:15:45,393
 Vì vậy, nó trở thành một cách đặc biệt rõ ràng để viết thực tế rằng tổng 
 
-282
+281
 00:15:45,393 --> 00:15:48,838
 của tất cả các hệ số chẵn, mà một lần nữa trong tâm trí bạn có nghĩa là 
 
-283
+282
 00:15:48,838 --> 00:15:52,140
 tổng số tập hợp con có tổng chẵn, sẽ trông giống như một nửa tổng số.
 
-284
+283
 00:15:52,620 --> 00:15:57,100
-Không cần phải nói, điều này rất gần với câu hỏi thực tế mà chúng tôi muốn trả lời.
+Không cần phải nói, điều này rất gần với câu hỏi thực tế mà chúng ta muốn trả lời.
 
-285
+284
 00:15:57,100 --> 00:16:00,587
 Điều chúng ta muốn làm là tìm một điều thông minh nào đó mà chúng ta 
 
-286
+285
 00:16:00,587 --> 00:16:03,972
 có thể làm với hàm f, một số số được chọn kỹ lưỡng để đánh giá nó, 
 
-287
+286
 00:16:03,972 --> 00:16:07,460
 sao cho chúng ta có được tất cả các hệ số tương ứng với bội số của 5.
 
-288
+287
 00:16:08,000 --> 00:16:10,628
 Một lần nữa, nghĩ lại những gì các hệ số này mã hóa cho chúng ta, 
 
-289
+288
 00:16:10,628 --> 00:16:12,620
 điều đó sẽ trả lời câu hỏi cuối cùng của chúng ta.
 
-290
+289
 00:16:12,760 --> 00:16:16,860
 Đó sẽ là đếm tổng số tập hợp con có tổng chia hết cho 5.
 
-291
+290
 00:16:18,900 --> 00:16:22,323
 Bí quyết để làm điều này là khái quát hóa những gì chúng ta vừa làm, 
 
-292
+291
 00:16:22,323 --> 00:16:25,400
 trong đó các lũy thừa liên tiếp của đầu vào đang quay qua lại.
 
-293
-00:16:25,900 --> 00:16:28,337
-Nhưng lần này, chúng tôi không muốn chúng quay mỗi lần, 
+292
+00:16:25,900 --> 00:16:28,312
+Nhưng lần này, chúng ta không muốn chúng quay mỗi lần, 
 
-294
-00:16:28,337 --> 00:16:31,340
+293
+00:16:28,312 --> 00:16:31,340
 chúng tôi muốn chúng bằng cách nào đó xoay với khoảng thời gian là 5.
 
-295
+294
 00:16:31,740 --> 00:16:34,220
 Và để làm điều đó, chúng ta mở rộng sang mặt phẳng phức.
 
-296
+295
 00:16:34,640 --> 00:16:39,240
 Bạn thấy đấy, ở trên đó, chúng ta có thể tìm thấy một giá trị sao cho khi chúng ta lấy 
 
-297
+296
 00:16:39,240 --> 00:16:44,000
 lũy thừa liên tiếp của nó, nó sẽ quay 1/5 vòng, cho chúng ta một quá trình có tần số là 5.
 
-298
+297
 00:16:44,700 --> 00:16:49,500
 Và nếu bạn lùi lại, tôi biết rằng thật vô lý khi tôi yêu cầu bạn nghĩ về số phức.
 
+298
+00:16:49,860 --> 00:16:52,794
+Ý tôi là, ta bắt đầu với một câu hỏi đếm, đó là toán rời rạc, 
+
 299
-00:16:49,860 --> 00:16:52,004
-Ý tôi là, chúng ta bắt đầu với một câu hỏi đếm, 
+00:16:52,794 --> 00:16:54,640
+nhưng hy vọng nó không quá hoang đường.
 
 300
-00:16:52,004 --> 00:16:54,640
-đó là toán rời rạc, nhưng hy vọng nó không quá hoang đường.
-
-301
 00:16:55,400 --> 00:16:59,499
 Và một lần nữa, lý do mà tôi rút ra mọi thứ để tìm ra những bước ngoặt kỳ lạ khác 
 
-302
+301
 00:16:59,499 --> 00:17:03,800
 nhau trong lời giải là vì chúng thực sự không quá xa lạ trong sơ đồ toán học rộng hơn.
 
-303
+302
 00:17:04,140 --> 00:17:08,311
 Thủ thuật mà chúng ta sắp áp dụng rất giống với nhiều trường hợp sử 
 
-304
+303
 00:17:08,311 --> 00:17:12,359
 dụng số phức khác để hiểu rõ hơn các câu hỏi rời rạc về số nguyên.
 
-305
-00:17:12,740 --> 00:17:18,150
+304
+00:17:12,740 --> 00:17:16,218
 Vì vậy, bạn càng cảm thấy có điều gì đó mà lẽ ra bạn có thể tự mình khám phá ra 
 
-306
-00:17:18,150 --> 00:17:23,426
+305
+00:17:16,218 --> 00:17:19,610
 thì thực tế càng có khả năng xảy ra trường hợp khi bạn đang giải quyết một số 
 
-307
-00:17:23,426 --> 00:17:29,040
+306
+00:17:19,610 --> 00:17:23,220
 vấn đề trong tương lai trong vòng tròn suy nghĩ này, bạn sẽ tự mình khám phá ra nó.
 
-308
-00:17:29,040 --> 00:17:33,521
+307
+00:17:28,560 --> 00:17:33,335
 Cụ thể hơn, số phức mà tôi quan tâm là số mà tôi sẽ đặt tên là zeta, 
 
-309
-00:17:33,521 --> 00:17:36,380
+308
+00:17:33,335 --> 00:17:36,380
 và nó nằm ở 1/5 vòng quanh vòng tròn đơn vị.
 
-310
+309
 00:17:36,780 --> 00:17:41,340
 Vậy góc của nó là 2 pi phần năm radian, và độ lớn của nó là một.
 
-311
+310
 00:17:42,060 --> 00:17:45,408
 Điều này có nghĩa là với ký hiệu công thức Euler tiêu chuẩn, 
 
-312
+311
 00:17:45,408 --> 00:17:49,360
 chúng ta sẽ viết số đó một cách rõ ràng là e lũy thừa 2 pi i chia cho 5.
 
-313
+312
 00:17:49,640 --> 00:17:55,708
 Nếu bạn không thoải mái với ký hiệu đó, bạn có thể coi nó như một cái gì đó có phần 
 
-314
+313
 00:17:55,708 --> 00:18:01,560
 thực là cosin 72 độ, 72 là 1/5 của một vòng quay đầy đủ, và phần ảo là sin 72 độ.
 
-315
+314
 00:18:02,540 --> 00:18:05,940
 Nhưng thành thật mà nói, bạn thực sự không cần phải nghĩ về giá trị rõ ràng.
 
-316
+315
 00:18:06,200 --> 00:18:10,580
 Thay vào đó, điều quan trọng cần tập trung vào là tính chất mà lũy thừa của số này có.
 
-317
+316
 00:18:11,100 --> 00:18:14,007
 Ví dụ, khi bạn bình phương nó, bởi vì độ lớn của nó là một, 
 
-318
+317
 00:18:14,007 --> 00:18:16,285
 nên độ lớn của bình phương của nó cũng là một, 
 
-319
+318
 00:18:16,285 --> 00:18:18,999
 nhưng nó quay một phần năm vòng quanh vòng tròn đơn vị, 
 
-320
+319
 00:18:18,999 --> 00:18:21,180
 vì vậy bây giờ nó nằm ở vị trí bằng 2/5 vòng.
 
-321
+320
 00:18:22,280 --> 00:18:25,894
 Tương tự, khi bạn nâng nó lên lũy thừa thứ ba, bạn sẽ đạt được 3/5 lượt quay, 
 
-322
+321
 00:18:25,894 --> 00:18:29,786
 nâng nó lên lũy thừa thứ tư, bạn đạt được 4/5 lượt và nâng nó lên lũy thừa thứ năm, 
 
-323
+322
 00:18:29,786 --> 00:18:32,520
 và bạn đã nhận được tất cả các cách trở lại xung quanh một.
 
-324
+323
 00:18:32,860 --> 00:18:35,473
 Điều này cũng tương tự như khi bạn nâng nó lên lũy thừa 0, 
 
-325
+324
 00:18:35,473 --> 00:18:37,600
 chúng ta sẽ có được chu kỳ này sau mỗi 5 học kỳ.
 
-326
+325
 00:18:37,860 --> 00:18:39,200
-Đó là điều mà chúng tôi quan tâm.
+Đó là điều mà chúng ta quan tâm.
 
-327
+326
 00:18:39,760 --> 00:18:43,904
 Những số này có một cái tên đặc biệt, chúng được gọi là căn bậc năm của số một, 
 
-328
+327
 00:18:43,904 --> 00:18:47,582
 về cơ bản là vì chúng giải phương trình z sao cho số thứ năm bằng một, 
 
-329
+328
 00:18:47,582 --> 00:18:49,240
 chúng là căn bậc năm của số một.
 
-330
+329
 00:18:49,460 --> 00:18:52,823
 Nếu bạn vừa đưa cho ai đó phương trình này, họ có thể sẽ nói, 
 
-331
+330
 00:18:52,823 --> 00:18:56,458
 câu trả lời rõ ràng là z bằng một, nhưng ý tưởng là có bốn câu trả 
 
-332
+331
 00:18:56,458 --> 00:19:00,202
 lời khác trong mặt phẳng phức, bốn số khác mà khi bạn nâng chúng lên 
 
-333
+332
 00:19:00,202 --> 00:19:04,380
 số thứ năm bạn sẽ nhận được một và coi họ như một tập thể thường khá hữu ích.
 
-334
+333
 00:19:04,880 --> 00:19:07,440
 Hãy nhớ phương trình đó, một lát sau nó sẽ quay lại với chúng ta.
 
+334
+00:19:08,700 --> 00:19:11,455
+Vậy tương tự với những gì chúng ta đã làm trước đó, 
+
 335
-00:19:08,700 --> 00:19:11,490
-Vì vậy, tương tự với những gì chúng ta đã làm trước đó, 
+00:19:11,455 --> 00:19:16,223
+trong đó ta cộng f của một và f của âm một để được sự triệt tiêu này giữa các số hạng lẻ, 
 
 336
-00:19:11,490 --> 00:19:14,977
-trong đó chúng ta cộng f của một và f của âm một để có được sự hủy bỏ 
+00:19:16,223 --> 00:19:18,979
+điều chúng ta sẽ làm là tính f ở tất cả năm số này, 
 
 337
-00:19:14,977 --> 00:19:18,814
-này giữa các số hạng lẻ, điều chúng ta sẽ làm là tính f ở tất cả năm số này, 
+00:19:18,979 --> 00:19:22,900
+và sau đó cộng chúng cùng nhau và hy vọng ta sẽ được sự triệt tiêu nào đó.
 
 338
-00:19:18,814 --> 00:19:22,900
-và sau đó cộng chúng cùng nhau và hy vọng chúng tôi sẽ nhận được sự hủy bỏ nào đó.
-
-339
 00:19:23,240 --> 00:19:27,249
 Điều đó có vẻ phức tạp, nhưng hãy lấy một ví dụ siêu đơn giản, 
 
-340
+339
 00:19:27,249 --> 00:19:29,540
 như trường hợp f(x) đơn giản bằng x.
 
-341
+340
 00:19:30,000 --> 00:19:32,284
 Trong trường hợp đó, khi cộng năm số hạng này, 
 
-342
+341
 00:19:32,284 --> 00:19:35,978
 chúng ta chỉ cộng các nghiệm của sự hợp nhất, zeta với 0 cộng zeta với một, 
 
-343
+342
 00:19:35,978 --> 00:19:37,680
 cứ thế, lên đến zeta với số thứ tư.
 
-344
+343
 00:19:38,240 --> 00:19:42,480
 Khi bạn cộng các số phức, bạn có thể coi nó giống như phép cộng vectơ, từ đầu đến cuối.
 
-345
-00:19:42,899 --> 00:19:47,990
+344
+00:19:42,900 --> 00:19:47,990
 Vậy zeta cộng 0 cộng zeta sẽ trông như thế này, và sau đó nếu tôi cộng zeta bình phương, 
 
-346
+345
 00:19:47,990 --> 00:19:52,280
 đưa đuôi của vectơ đó đến đỉnh của vectơ cuối cùng, chúng ta sẽ có cái này.
 
-347
+346
 00:19:52,980 --> 00:19:57,134
 Sau đó, tương tự, nếu tôi đưa đuôi của zeta lập phương lên đầu của zeta đó, 
 
-348
+347
 00:19:57,134 --> 00:19:59,704
 và sau đó làm tương tự với zeta đến số thứ tư, 
 
-349
+348
 00:19:59,704 --> 00:20:02,820
 bạn sẽ thấy tổng tổng thực sự lặp lại bằng 0 như thế nào.
 
-350
+349
 00:20:03,360 --> 00:20:08,320
 Một cách khác để nghĩ về điều này là cả năm số hạng này đều cân bằng xung quanh số 0.
 
-351
+350
 00:20:08,880 --> 00:20:10,620
 Khối tâm của chúng ở gốc tọa độ.
 
-352
+351
 00:20:11,700 --> 00:20:15,245
 Bây giờ sẽ rất hữu ích khi nghĩ về một ví dụ ít tầm thường hơn một chút, 
 
-353
+352
 00:20:15,245 --> 00:20:16,460
 nếu f(x = x bình phương).
 
-354
+353
 00:20:17,360 --> 00:20:20,020
 Vì vậy, khi bạn bình phương zeta về 0, nó vẫn bằng zeta.
 
-355
+354
 00:20:20,260 --> 00:20:21,980
 Đây chỉ là một cách ưa thích để nói số một.
 
-356
+355
 00:20:22,640 --> 00:20:24,980
 Khi bạn bình phương zeta, bạn sẽ có được zeta bình phương chính nó.
 
+356
+00:20:25,440 --> 00:20:27,693
+Vậy, bạn có thể tưởng tượng chấm này ở đây di 
+
 357
-00:20:25,440 --> 00:20:27,944
-Vì vậy, bạn có thể tưởng tượng dấu chấm này ở đây di chuyển 
+00:20:27,693 --> 00:20:30,240
+chuyển tới chấm bình phương zeta khi ta làm điều đó.
 
 358
-00:20:27,944 --> 00:20:30,240
-tới dấu chấm bình phương zeta khi chúng ta làm điều đó.
-
-359
 00:20:30,720 --> 00:20:32,680
 Zeta bình phương di chuyển đến zeta đến phần thứ tư.
 
-360
+359
 00:20:33,200 --> 00:20:35,760
-Bạn có thể tưởng tượng dấu chấm này di chuyển từ zeta đến điểm thứ tư.
+Bạn có thể tưởng tượng chấm này di chuyển từ zeta đến điểm thứ tư.
 
-361
+360
 00:20:36,580 --> 00:20:40,820
 Khối Zeta di chuyển từ zeta đến số thứ sáu, bởi vì chúng ta lặp lại cứ năm lần một lần, 
 
-362
+361
 00:20:40,820 --> 00:20:42,940
 điều này cũng tương tự như zeta đối với một.
 
-363
-00:20:43,420 --> 00:20:44,879
-Vậy dấu chấm này sẽ di chuyển lên trên đây.
+362
+00:20:43,420 --> 00:20:44,880
+Vậy chấm này sẽ di chuyển lên trên đây.
 
-364
+363
 00:20:46,420 --> 00:20:50,970
 Và cuối cùng, zeta đến các ô vuông thứ tư để cho chúng ta zeta đến ô vuông thứ tám, 
 
-365
+364
 00:20:50,970 --> 00:20:54,600
 nó rút gọn giống như zeta lập phương, mà tôi có thể vẽ như thế này.
 
+365
+00:20:55,560 --> 00:20:59,504
+Điều đó có vẻ hơi khó hiểu khi nghĩ đến, đặc biệt là với tất cả các mũi tên tôi đã vẽ 
+
 366
-00:20:55,560 --> 00:20:58,710
-Điều đó có vẻ hơi khó hiểu khi nghĩ đến, đặc biệt là với tất cả các mũi 
+00:20:59,504 --> 00:21:02,119
+ở đây, nhưng bạn nên suy nghĩ ít nhất một lần trong đời, 
 
 367
-00:20:58,710 --> 00:21:01,816
-tên tôi đã vẽ ở đây, nhưng bạn nên suy nghĩ ít nhất một lần trong đời, 
+00:21:02,119 --> 00:21:04,504
+bởi vì ý tưởng ở đây là khi ta bình phương cái này, 
 
 368
-00:21:01,816 --> 00:21:04,353
-bởi vì ý tưởng ở đây là khi chúng ta bình phương cái này, 
+00:21:04,504 --> 00:21:08,449
+giống như đi tới tất cả các số hạng khác nhau này và tôi lập trình cho chúng tăng gấp 
 
 369
-00:21:04,353 --> 00:21:06,497
-giống như đi tới tất cả những cái khác nhau này. 
+00:21:08,449 --> 00:21:11,660
+đôi góc mà chúng có, hiệu ứng tổng thể chỉ là xáo trộn các số hạng đó.
 
 370
-00:21:06,497 --> 00:21:09,516
-các số hạng và tôi lập trình cho chúng tăng gấp đôi góc mà chúng có, 
-
-371
-00:21:09,516 --> 00:21:11,660
-hiệu ứng tổng thể chỉ là xáo trộn các số hạng đó.
-
-372
 00:21:12,000 --> 00:21:14,976
 Chúng ta nhận được những số giống nhau nhưng được viết theo thứ tự khác, 
 
-373
+371
 00:21:14,976 --> 00:21:16,200
 nên tổng của chúng vẫn bằng 0.
 
-374
-00:21:16,959 --> 00:21:19,823
+372
+00:21:16,960 --> 00:21:19,878
 Tương tự, nếu bạn thực hiện bài tập này với x lũy phương, 
 
-375
-00:21:19,823 --> 00:21:24,267
+373
+00:21:19,878 --> 00:21:24,407
 điều mà tôi khuyến khích bạn làm, và bạn theo dõi xem mỗi dấu chấm này sẽ kết thúc ở đâu, 
 
-376
-00:21:24,267 --> 00:21:27,625
+374
+00:21:24,407 --> 00:21:27,828
 bạn sẽ có thể thấy điều đó khi chúng ta lập phương các số hạng này, 
 
-377
-00:21:27,625 --> 00:21:30,241
-khi chúng ta lấy từng cái và nhân góc của nó với ba, 
+375
+00:21:27,828 --> 00:21:30,193
+khi ta lấy từng cái và nhân góc của nó với ba, 
 
-378
-00:21:30,241 --> 00:21:32,760
+376
+00:21:30,193 --> 00:21:32,760
 một lần nữa chúng ta chỉ xáo trộn chúng xung quanh.
 
-379
+377
 00:21:33,140 --> 00:21:34,880
-Các điều khoản tương tự được liệt kê theo một thứ tự khác.
+Các số hạng tương tự được liệt kê theo một thứ tự khác.
 
-380
+378
 00:21:34,880 --> 00:21:36,652
 Không có gì đáng ngạc nhiên, điều tương tự cũng 
 
-381
+379
 00:21:36,652 --> 00:21:38,240
 xảy ra nếu hàm của chúng ta là x mũ thứ tư.
 
-382
+380
 00:21:41,780 --> 00:21:46,420
-Nhưng, nghiêm túc mà nói, mọi thứ sẽ thay đổi ở đâu nếu chúng ta xét hàm x cấp năm.
+Nhưng, nghiêm túc mà nói, mọi thứ sẽ thay đổi ở đâu nếu chúng ta xét hàm x bậc năm.
 
-383
+381
 00:21:47,060 --> 00:21:51,820
 Trong trường hợp đó, khi bạn nâng zeta lên lũy thừa năm, theo định nghĩa, nó sẽ bằng một.
 
-384
+382
 00:21:52,540 --> 00:21:55,200
 Tương tự, bình phương zeta nâng lên lũy thừa thứ năm sẽ bằng một.
 
-385
+383
 00:21:55,560 --> 00:21:57,960
-Tất cả những điều này quy về một, chúng là cội rễ của sự hiệp nhất.
+Tất cả những điều này quy về một, chúng là cội rễ của sự thống nhất.
+
+384
+00:21:57,980 --> 00:21:59,940
+Suy cho cùng thì đây chính là toàn bộ mục đích sống của chúng.
+
+385
+00:22:00,440 --> 00:22:04,232
+Vì vậy, trong trường hợp này, khi ta áp dụng hàm và cộng tất cả chúng lại, 
 
 386
-00:21:57,980 --> 00:21:59,940
-Suy cho cùng thì đây chính là toàn bộ mục đích sống của họ.
-
-387
-00:22:00,440 --> 00:22:04,385
-Vì vậy, trong trường hợp này, khi chúng ta áp dụng hàm và cộng tất cả chúng lại, 
-
-388
-00:22:04,385 --> 00:22:08,380
+00:22:04,232 --> 00:22:08,380
 thay vì tiến về 0 và bị hủy, chúng ta nhận được một loại nhiễu mang tính xây dựng.
 
-389
+387
 00:22:08,780 --> 00:22:11,440
 Tất cả chúng đều bằng một nên tổng của chúng bằng năm.
 
-390
+388
 00:22:12,060 --> 00:22:15,849
 Vì vậy, nếu bạn lùi lại và suy nghĩ về ý nghĩa của tất cả các ví dụ đó, 
 
-391
+389
 00:22:15,849 --> 00:22:19,480
 về cơ bản biểu thức này là thứ sẽ tiến tới 0 đối với lũy thừa của x, 
 
-392
+390
 00:22:19,480 --> 00:22:24,006
 không chia hết cho 5, nhưng nó sẽ tiến tới một giá trị khác 0 đối với lũy thừa của x, 
 
-393
+391
 00:22:24,006 --> 00:22:25,480
 tức là đều chia hết cho năm.
 
-394
+392
 00:22:25,900 --> 00:22:28,380
-Và đó chính xác là loại bộ lọc mà chúng tôi đang tìm kiếm.
+Và đó chính xác là loại bộ lọc mà chúng ta đang tìm kiếm.
 
-395
+393
 00:22:29,020 --> 00:22:32,890
 Nếu bạn lo lắng rằng hàm thực tế của chúng ta phức tạp hơn nhiều so với lũy thừa 
 
-396
+394
 00:22:32,890 --> 00:22:37,000
 đơn giản của x, thì về cơ bản mọi thứ diễn ra rất tốt ở đây vì mọi thứ đều tuyến tính.
 
-397
+395
 00:22:37,700 --> 00:22:42,800
 Nếu f là một đa thức lớn nào đó và chúng ta muốn tính tổng lớn này, 
 
-398
+396
 00:22:42,800 --> 00:22:48,949
 bạn có thể nghĩ đến việc tính từng cột, trong đó mỗi lần bạn thực sự chỉ cộng lũy 
 
-399
+397
 00:22:48,949 --> 00:22:50,000
 thừa của zeta.
 
-400
+398
 00:22:50,360 --> 00:22:52,110
-Và trong hầu hết các trường hợp, tất cả những sức 
+Và trong hầu hết các trường hợp, tất cả những lũy 
 
-401
+399
 00:22:52,110 --> 00:22:54,000
-mạnh đó triệt tiêu lẫn nhau và bạn nhận được con số 0.
+thừa đó triệt tiêu lẫn nhau và bạn nhận được con số 0.
 
-402
+400
 00:22:54,380 --> 00:22:56,770
 Nhưng khi tất cả những lũy thừa đó là bội số của 5, 
 
-403
+401
 00:22:56,770 --> 00:23:00,586
 chúng sẽ giao thoa một cách xây dựng và thay vào đó bạn nhận được gấp 5 lần bất kể 
 
-404
+402
 00:23:00,586 --> 00:23:01,920
 hệ số tương ứng là bao nhiêu.
 
-405
+403
 00:23:02,040 --> 00:23:05,100
 Sâu trong đám cỏ dại, thật dễ dàng để quên đi lý do ban đầu chúng ta ở đây.
 
-406
+404
 00:23:05,360 --> 00:23:07,787
 Nhưng hãy nhớ rằng, mỗi hệ số đó cho chúng ta biết có 
 
-407
+405
 00:23:07,787 --> 00:23:10,440
 bao nhiêu tập hợp con cộng lại thành một giá trị nhất định.
 
-408
+406
 00:23:10,920 --> 00:23:14,980
 Và vì vậy điều chúng ta muốn là cộng tất cả các hệ số ở vị trí đầu tiên.
 
-409
+407
 00:23:15,380 --> 00:23:18,540
-Và những gì chúng tôi có ngay bây giờ là một cách để làm điều đó một cách rõ ràng.
+Và những gì ta có bây giờ là một cách để làm điều đó một cách rõ ràng.
+
+408
+00:23:18,800 --> 00:23:21,846
+Nếu ta tính hàm số này dựa trên năm nghiệm đơn vị khác nhau, 
+
+409
+00:23:21,846 --> 00:23:26,091
+điều mà tôi biết có vẻ kỳ lạ, thì tất cả những gì ta phải làm là chia cho 5 và nó sẽ 
 
 410
-00:23:18,800 --> 00:23:21,834
-Nếu chúng ta tính hàm số này dựa trên năm nghiệm đơn vị khác nhau, 
+00:23:26,091 --> 00:23:27,540
+cho chúng ta tổng mà ta muốn.
 
 411
-00:23:21,834 --> 00:23:24,732
-điều mà tôi biết có vẻ kỳ lạ, thì tất cả những gì chúng ta phải 
-
-412
-00:23:24,732 --> 00:23:27,540
-làm là chia cho 5 và nó sẽ cho chúng ta tổng mà chúng ta muốn.
-
-413
 00:23:28,480 --> 00:23:30,220
 Điều đó thực sự tuyệt vời nếu bạn hỏi tôi.
 
+412
+00:23:30,220 --> 00:23:34,458
+Chúng ta có một câu hỏi chỉ về các tập hợp con, đó là một bài toán rời rạc, 
+
+413
+00:23:34,458 --> 00:23:38,084
+tuy nhiên cách mà ta có thể trả lời là đánh giá một đa thức điên 
+
 414
-00:23:30,220 --> 00:23:34,344
-Chúng tôi có một câu hỏi chỉ về các tập hợp con, đó là một bài toán rời rạc, 
+00:23:38,084 --> 00:23:41,040
+rồ trên một số số phức được chọn một cách thận trọng.
 
 415
-00:23:34,344 --> 00:23:37,933
-tuy nhiên cách mà chúng tôi có thể trả lời là đánh giá một đa thức 
-
-416
-00:23:37,933 --> 00:23:41,040
-điên rồ trên một số số phức được chọn một cách thận trọng.
-
-417
-00:23:41,520 --> 00:23:42,080
-Bạn càng làm nhiều toán, bạn càng nhận được nhiều.
-
-418
-00:23:42,080 --> 00:23:44,631
+00:23:41,520 --> 00:23:44,264
 Bạn càng làm toán nhiều, điều đó càng có vẻ ít điên rồ hơn, 
 
-419
-00:23:44,631 --> 00:23:48,459
+416
+00:23:44,264 --> 00:23:48,382
 bởi vì số phức có mối quan hệ kỳ lạ với toán học rời rạc, nhưng nó thực sự rất tuyệt vời, 
 
-420
-00:23:48,459 --> 00:23:49,480
+417
+00:23:48,382 --> 00:23:49,480
 không có hai cách về nó.
 
-421
+418
 00:23:50,340 --> 00:23:54,269
 Tuy nhiên, một số bạn có thể phàn nàn, cách duy nhất mà điều này hữu ích là nếu 
 
-422
+419
 00:23:54,269 --> 00:23:58,100
 chúng ta thực sự có thể đánh giá biểu thức hoang dã này trên đa thức của mình.
 
-423
+420
 00:23:58,620 --> 00:24:01,147
 Bây giờ hãy nhớ, dạng đa thức mà chúng ta biết, 
 
-424
+421
 00:24:01,147 --> 00:24:04,149
 dạng chúng ta thấy thoải mái, là dạng phân tích nhân tử, 
 
-425
+422
 00:24:04,149 --> 00:24:08,520
 trong đó bạn có 1 cộng x, 1 cộng x bình phương, cứ thế, cho đến 1 cộng x đến 2.000.
 
-426
-00:24:09,220 --> 00:24:12,157
+423
+00:24:09,220 --> 00:24:12,286
 Mọi thứ cho đến thời điểm này chỉ là trò chơi tượng trưng vô nghĩa, 
 
-427
-00:24:12,157 --> 00:24:14,359
+424
+00:24:12,286 --> 00:24:14,586
 đẩy vấn đề khó khăn này sang vấn đề khó khăn khác, 
 
-428
-00:24:14,359 --> 00:24:17,469
-trừ khi chúng ta thực sự có thể xắn tay áo lên và thực hiện một số tính 
+425
+00:24:14,586 --> 00:24:18,420
+trừ khi ta thực sự có thể xắn tay áo lên và thực hiện trung thực các phép tính ở đây.
 
-429
-00:24:17,469 --> 00:24:18,420
-toán trung thực ở đây.
-
-430
+426
 00:24:18,900 --> 00:24:20,905
 Đây là lực đẩy cuối cùng trong cuộc tranh luận của chúng ta, 
 
-431
+427
 00:24:20,905 --> 00:24:22,320
 vì vậy hãy lùi lại và hít một hơi thật sâu.
 
-432
+428
 00:24:22,700 --> 00:24:26,625
 Nó thực sự không tệ như bạn nghĩ, nhưng hãy bắt đầu bằng cách nghĩ về cách bạn có thể 
 
-433
+429
 00:24:26,625 --> 00:24:29,821
 đánh giá một trong những nguồn gốc của sự thống nhất mà chúng ta cần, 
 
-434
+430
 00:24:29,821 --> 00:24:30,780
 có thể là chính zeta.
 
-435
+431
 00:24:31,780 --> 00:24:35,005
 Vậy nó trông như thế nào là 1 cộng zeta, nhân 1 cộng zeta bình, 
 
-436
+432
 00:24:35,005 --> 00:24:36,820
 nhân 1 cộng zeta lập phương, cứ thế.
 
-437
+433
 00:24:37,060 --> 00:24:39,779
 Ngoại trừ, quan trọng là, sau năm học kỳ đầu tiên đó, 
 
-438
+434
 00:24:39,779 --> 00:24:42,700
 mọi thứ bắt đầu lặp lại, bởi vì sức mạnh của zeta lặp lại.
 
-439
+435
 00:24:43,220 --> 00:24:49,120
 Toàn bộ biểu thức lên tới 2.000 về cơ bản sẽ chỉ là bản sao của biểu thức này 400 lần.
 
-440
+436
 00:24:49,600 --> 00:24:52,383
 Có vẻ khó để đánh giá biểu thức này, nhưng nó dễ 
 
-441
+437
 00:24:52,383 --> 00:24:55,280
 hơn nhiều so với việc nhân 2.000 số hạng khác nhau.
 
-442
-00:24:55,280 --> 00:24:58,828
+438
+00:24:55,280 --> 00:24:58,952
 Bạn có thể hình dung điều này theo một cách là chúng ta đang lấy từng gốc của sự thống 
 
-443
-00:24:58,828 --> 00:25:02,336
-nhất, nhưng về cơ bản khi thêm một gốc, chúng ta sẽ dịch chuyển tất cả chúng sang bên 
+439
+00:24:58,952 --> 00:25:02,540
+nhất, nhưng về cơ bản khi thêm một gốc, ta sẽ dịch chuyển tất cả chúng sang bên phải.
 
-444
-00:25:02,336 --> 00:25:02,540
-phải.
+440
+00:25:03,060 --> 00:25:05,755
+Bức tranh này thực sự mang lại một trực quan hình học thực 
 
-445
-00:25:03,060 --> 00:25:05,753
-Bức tranh này thực sự mang lại một trực giác hình học thực sự 
+441
+00:25:05,755 --> 00:25:08,360
+sự tốt đẹp cho câu trả lời bằng số mà ta có thể mong đợi.
 
-446
-00:25:05,753 --> 00:25:08,360
-tốt đẹp cho câu trả lời bằng số mà chúng ta có thể mong đợi.
-
-447
+442
 00:25:08,880 --> 00:25:14,260
 Thứ mà chúng ta muốn là tích của năm số phức khác nhau, năm chấm màu vàng này.
 
-448
+443
 00:25:14,820 --> 00:25:18,613
 Và nếu bạn biết đôi điều về số phức, vì chúng đi theo cặp liên hợp, 
 
-449
+444
 00:25:18,613 --> 00:25:23,020
 tất cả những gì chúng ta thực sự cần là nhân độ dài của năm đường màu vàng này.
 
-450
-00:25:23,679 --> 00:25:28,726
-Ví dụ, dấu chấm xa nhất bên phải tương ứng với 1 cộng zeta mũ 5, 
+445
+00:25:23,680 --> 00:25:28,594
+Ví dụ, chấm xa nhất bên phải tương ứng với 1 cộng zeta mũ 5, 
 
-451
-00:25:28,726 --> 00:25:32,220
+446
+00:25:28,594 --> 00:25:32,220
 mà trong sơ đồ tôi gọi là zeta mũ 0 cộng một.
 
-452
+447
 00:25:32,720 --> 00:25:34,778
 Nhưng điều đó không quan trọng, trong cả hai trường hợp, 
 
-453
+448
 00:25:34,778 --> 00:25:36,440
 cả hai đều chỉ là cách viết hoa mỹ của số hai.
 
-454
+449
 00:25:36,980 --> 00:25:41,479
 Bên cạnh đó, chúng ta có các giá trị một cộng zeta và một cộng zeta mũ thứ tư, 
 
-455
+450
 00:25:41,479 --> 00:25:42,960
 cả hai đều có cùng độ lớn.
 
-456
+451
 00:25:43,000 --> 00:25:44,600
-Độ dài của các dòng này là như nhau.
+Độ dài của các đường này là như nhau.
 
-457
+452
 00:25:44,940 --> 00:25:46,680
 Và hãy đặt tên cho nó là L1.
 
-458
+453
 00:25:47,080 --> 00:25:50,280
 Vì vậy chúng ta cần nhân hai bản sao khác nhau có độ dài đó, bình phương L1.
 
-459
+454
 00:25:51,020 --> 00:25:55,374
 Tương tự, hai giá trị còn lại, zeta bình phương cộng một và zeta lập phương cộng một, 
 
-460
+455
 00:25:55,374 --> 00:25:58,160
 chúng cũng có cùng độ dài và chúng là một cặp liên hợp.
 
-461
+456
 00:25:58,580 --> 00:26:00,200
 Vì vậy, hãy gọi độ dài đó là L2.
 
-462
+457
 00:26:00,880 --> 00:26:03,800
-Vì vậy sản phẩm của chúng ta cần có hai bản sao của L2 đó.
+Vì vậy tích của chúng ta cần có hai bản sao của L2 đó.
 
-463
+458
 00:26:04,340 --> 00:26:07,620
 Nếu chúng ta chỉ đưa ra một phỏng đoán heuristic lỏng lẻo, 
 
-464
+459
 00:26:07,620 --> 00:26:12,290
 bạn có thể nhận thấy rằng L1 là một độ dài dài hơn một một chút và L2 là một cái gì 
 
-465
+460
 00:26:12,290 --> 00:26:13,680
 đó ngắn hơn một một chút.
 
-466
+461
 00:26:13,960 --> 00:26:17,700
 Vì vậy, câu trả lời cuối cùng ở đây có lẽ liên quan đến khoảng hai giờ.
 
-467
+462
 00:26:17,960 --> 00:26:19,700
 Chúng tôi không tích cực, nhưng có điều gì đó trong sân bóng chày đó.
 
-468
+463
 00:26:19,700 --> 00:26:22,177
 Để biến câu trả lời này thành câu trả lời chính xác, 
 
-469
+464
 00:26:22,177 --> 00:26:24,140
 chúng ta chỉ cần mở rộng biểu thức đầy đủ.
 
-470
+465
 00:26:24,520 --> 00:26:27,420
-Thành thật mà nói thì nó không tệ đến thế, chỉ có 32 thuật ngữ khác nhau.
+Thành thật mà nói thì nó không tệ đến thế, chỉ có 32 số hạng khác nhau.
 
-471
+466
 00:26:33,320 --> 00:26:35,188
 Được rồi, bạn đã gắn bó với tôi được một thời gian 
 
-472
+467
 00:26:35,188 --> 00:26:37,020
 dài và tôi biết rằng điều đó sẽ trở nên rất nhiều.
 
-473
+468
 00:26:37,280 --> 00:26:39,980
 Nhưng có một mẹo cuối cùng trong toàn bộ lập luận này làm cho bước 
 
-474
+469
 00:26:39,980 --> 00:26:42,680
 cuối cùng của chúng ta đơn giản hơn nhiều so với những gì bạn nghĩ.
 
-475
+470
 00:26:43,260 --> 00:26:45,620
 Và hãy tóm tắt lại để nhắc nhở bản thân về vị trí của chúng ta.
 
-476
-00:26:45,820 --> 00:26:50,748
-Vì vậy, chúng tôi bắt đầu với câu hỏi này, đếm số tập con từ 1 đến 2.000, 
+471
+00:26:45,820 --> 00:26:52,280
+Vậy ta bắt đầu với câu hỏi này, đếm số tập con từ 1 đến 2.000, có tổng chia hết cho 5.
 
-477
-00:26:50,748 --> 00:26:52,280
-có tổng chia hết cho 5.
+472
+00:26:52,740 --> 00:26:55,786
+Sau đó, chúng ta xây dựng đa thức này với các hệ số cho ta 
 
-478
-00:26:52,740 --> 00:26:55,793
-Sau đó, chúng tôi xây dựng đa thức này với các hệ số cho chúng 
+473
+00:26:55,786 --> 00:26:59,040
+biết có bao nhiêu tập hợp con có tổng cụ thể cho mỗi giá trị n.
 
-479
-00:26:55,793 --> 00:26:59,040
-tôi biết có bao nhiêu tập hợp con có tổng cụ thể cho mỗi giá trị n.
-
-480
+474
 00:26:59,960 --> 00:27:03,620
 Vì vậy, điều chúng ta muốn là cộng mỗi hệ số thứ năm của đa thức đó.
 
-481
-00:27:04,780 --> 00:27:07,541
-Sau đó, chúng ta thấy cách đánh giá đa thức này như một hàm 
+475
+00:27:04,780 --> 00:27:09,110
+Sau đó, ta thấy cách đánh giá đa thức này như một hàm trên tất cả các nghiệm thứ năm 
 
-482
-00:27:07,541 --> 00:27:10,578
-trên tất cả các nghiệm thứ năm của đơn vị, sau đó cộng chúng lại, 
+476
+00:27:09,110 --> 00:27:13,340
+của đơn vị, sau đó cộng chúng lại, cuối cùng sẽ cho ta chính xác bộ lọc mà ta muốn.
 
-483
-00:27:10,578 --> 00:27:13,340
-cuối cùng sẽ cho chúng ta chính xác bộ lọc mà chúng ta muốn.
-
-484
+477
 00:27:13,600 --> 00:27:17,207
 Và ở đây chúng ta đang đánh giá chỉ một trong những số hạng đó, 
 
-485
+478
 00:27:17,207 --> 00:27:19,800
 f của zeta, về cơ bản là tích của năm số phức.
 
-486
+479
 00:27:20,540 --> 00:27:24,640
 Đây là một cách cực kỳ khéo léo để đánh giá sản phẩm đó, đây là thủ thuật cuối cùng.
 
-487
+480
 00:27:25,320 --> 00:27:27,820
-Hãy nhớ rằng, tôi đã mô tả những con số này như nguồn gốc của sự đoàn kết.
+Hãy nhớ rằng, tôi đã mô tả những con số này như nguồn gốc của thống nhất.
 
-488
+481
 00:27:28,200 --> 00:27:30,580
 Họ giải phương trình z đến phần năm bằng một.
 
-489
+482
 00:27:31,060 --> 00:27:36,180
 Một cách khác để nghĩ về điều đó là chúng là nghiệm của đa thức z mũ trừ một thứ năm.
 
-490
+483
 00:27:36,920 --> 00:27:40,979
 Bây giờ điều đó có nghĩa là chúng ta có thể phân tích đa thức z thành trừ một 
 
-491
+484
 00:27:40,979 --> 00:27:45,300
 thứ năm để trông như thế này, trong đó có một thừa số tương ứng với mỗi một nghiệm.
 
-492
+485
 00:27:45,300 --> 00:27:47,160
 Bạn lấy z trừ đi từng nghiệm.
 
-493
+486
 00:27:47,840 --> 00:27:50,538
 Biểu thức này thật kỳ diệu khi bạn nghĩ về tất cả những 
 
-494
+487
 00:27:50,538 --> 00:27:53,140
 sự hủy bỏ điên rồ sẽ xảy ra khi bạn mở rộng tất cả ra.
 
-495
+488
 00:27:53,160 --> 00:27:57,242
 Nhưng đó là sự thật và nó cực kỳ hữu ích cho chúng ta lúc này, 
 
-496
+489
 00:27:57,242 --> 00:28:02,880
 vì biểu thức ở vế phải trông gần giống với thứ chúng ta cần đánh giá ở trên cùng ở đây.
 
-497
+490
 00:28:03,300 --> 00:28:06,360
 Về cơ bản nó chỉ có dấu trừ mà chúng ta mong muốn có dấu cộng.
 
-498
+491
 00:28:07,680 --> 00:28:10,240
 Bí quyết là thay z bằng một âm.
 
-499
-00:28:10,800 --> 00:28:13,620
-Nếu bạn làm điều đó, về cơ bản bạn đang có điều tiêu cực về những gì chúng ta mong muốn.
+492
+00:28:10,800 --> 00:28:13,900
+Nếu bạn làm điều đó, về cơ bản là đang có dấu âm về những gì chúng ta mong muốn.
 
-500
-00:28:13,620 --> 00:28:18,033
+493
+00:28:13,900 --> 00:28:18,174
 Vì vậy, nếu bạn nhân nó với âm một, hãy chú ý vế trái ở đây, 
 
-501
-00:28:18,033 --> 00:28:22,520
+494
+00:28:18,174 --> 00:28:22,520
 bắt đầu bằng âm một trừ một, hoặc âm hai, nó sẽ trở thành hai.
 
-502
+495
 00:28:23,240 --> 00:28:26,320
 Và sau đó vế phải biến thành thứ mà chúng ta muốn đánh giá.
 
-503
+496
 00:28:27,000 --> 00:28:30,817
 Vì vậy, đúng như trực giác hình học của chúng ta trước đó có thể đã gợi ý, 
 
-504
+497
 00:28:30,817 --> 00:28:34,940
 không chỉ câu trả lời là khoảng hai, mà câu trả lời khá kỳ diệu hóa ra lại chính 
 
-505
+498
 00:28:34,940 --> 00:28:35,500
 xác là hai.
 
-506
-00:28:36,380 --> 00:28:40,058
-Điều đó thực sự rất hay và rất đáng yêu, bởi vì nó có nghĩa là biểu thức lớn 
+499
+00:28:36,380 --> 00:28:39,905
+Điều đó thực sự rất hay và rất đáng yêu, bởi vì nó có nghĩa là biểu 
 
-507
-00:28:40,058 --> 00:28:43,784
-hơn mà chúng ta muốn đánh giá, nơi chúng ta cộng f với tất cả các nghiệm khác 
+500
+00:28:39,905 --> 00:28:43,535
+thức lớn hơn mà ta muốn đánh giá, nơi ta cộng f với tất cả các nghiệm 
 
-508
-00:28:43,784 --> 00:28:47,320
-nhau của đơn vị, chúng ta biết giá trị của nó trên nghiệm đơn vị đầu tiên.
+501
+00:28:43,535 --> 00:28:47,320
+khác nhau của đơn vị, ta biết giá trị của nó trên nghiệm đơn vị đầu tiên.
 
-509
+502
 00:28:47,580 --> 00:28:49,220
 Nó sẽ là hai lũy thừa 400.
 
-510
+503
 00:28:49,820 --> 00:28:52,797
 Về cơ bản, lý luận giống hệt nhau cho thấy giá trị của nó trên ba 
 
-511
+504
 00:28:52,797 --> 00:28:55,774
 căn bậc 1 tiếp theo cũng bằng 2 lũy thừa 400, bởi vì hãy nhớ rằng 
 
-512
+505
 00:28:55,774 --> 00:28:58,661
 khi bạn lấy lũy thừa của zeta bình phương hoặc zeta lập phương, 
 
-513
+506
 00:28:58,661 --> 00:29:02,180
 bạn sẽ nhận được cùng một danh sách các số được xáo trộn theo một thứ tự khác.
 
-514
+507
 00:29:02,880 --> 00:29:06,120
 Điều duy nhất khác biệt là khi chúng ta đánh giá nó là zeta đến 0.
 
-515
+508
 00:29:06,840 --> 00:29:09,646
 Nhưng zeta về số 0 là một cách nói hoa mỹ để nói số một, 
 
-516
+509
 00:29:09,646 --> 00:29:11,960
 và chúng ta biết cách đánh giá số này ở số một.
 
-517
+510
 00:29:12,220 --> 00:29:13,080
-Đó là một trong những điều dễ dàng.
+Đó là một trong những thứ dễ dàng.
 
-518
+511
 00:29:13,140 --> 00:29:13,900
-Chúng tôi đã làm điều này trước đó.
+Ta đã làm điều này trước đó.
 
-519
+512
 00:29:14,200 --> 00:29:16,960
 Tất cả các dấu ngoặc đơn này biến thành hai, vì vậy 
 
-520
+513
 00:29:16,960 --> 00:29:19,880
 nó trông giống như lấy hai nhân với chính nó 2.000 lần.
 
-521
+514
 00:29:20,520 --> 00:29:23,092
 Và cuối cùng, chúng ta có câu trả lời hết sức 
 
-522
+515
 00:29:23,092 --> 00:29:25,720
 trung thực và rõ ràng cho câu hỏi đếm của mình.
 
-523
+516
 00:29:26,160 --> 00:29:32,108
 Để cộng tất cả các hệ số chia hết cho 5, hãy nhớ rằng đây là cách đếm tổng số tập 
 
-524
+517
 00:29:32,108 --> 00:29:38,274
 hợp con có tổng chia hết cho 5, câu trả lời là 1/5 của biểu thức phức tạp kỳ lạ này, 
 
-525
+518
 00:29:38,274 --> 00:29:44,440
 mà chúng ta vừa tính là hai đến 2.000 cộng với bốn bản sao khác nhau của hai đến 400.
 
-526
+519
 00:29:45,520 --> 00:29:49,360
 Và ở đây bạn có thể chỉ muốn kiểm tra nhanh xem câu trả lời này có ý nghĩa gì không.
 
-527
+520
 00:29:50,040 --> 00:29:54,579
 Ví dụ: nếu bạn làm điều đó trong trường hợp nhỏ hơn với tập hợp một, hai, ba, bốn, 
 
-528
+521
 00:29:54,579 --> 00:29:58,353
 năm và bạn thực hiện tất cả các lý do tương tự như chúng ta vừa làm, 
 
-529
+522
 00:29:58,353 --> 00:30:02,948
 nó sẽ cho bạn biết rằng câu trả lời là 1/5 trên 2 cho thứ năm, tổng số tập hợp con, 
 
-530
+523
 00:30:02,948 --> 00:30:07,487
 cộng bốn lần hai phần một trong trường hợp này, bằng một phần năm của 32 cộng tám, 
 
-531
+524
 00:30:07,487 --> 00:30:07,980
 bằng tám.
 
-532
-00:30:08,440 --> 00:30:10,331
-Và nếu bạn còn nhớ khi chúng tôi xem xét tất cả 
+525
+00:30:08,440 --> 00:30:12,420
+Và nếu bạn còn nhớ khi ta xét tất cả chúng một cách rõ ràng thì đó thực tế là câu trả lời.
 
-533
-00:30:10,331 --> 00:30:12,420
-chúng một cách rõ ràng thì đó thực tế là câu trả lời.
-
-534
+526
 00:30:17,500 --> 00:30:20,945
 Hãy nhìn xem, đây là một câu đố khó, và khi việc dành thời gian để giải một 
 
-535
+527
 00:30:20,945 --> 00:30:24,300
 vấn đề khó là đáng thì bạn cũng nên dành chút thời gian để suy ngẫm về nó.
 
-536
+528
 00:30:24,420 --> 00:30:25,200
 Bạn nhận được gì từ việc này?
 
-537
-00:30:29,640 --> 00:30:25,200
+529
+00:30:25,400 --> 00:30:27,000
 Món ăn mang đi là gì?
 
-538
-00:30:29,640 --> 00:30:32,682
-Bây giờ bạn có thể suy ngẫm về câu trả lời, phần chiếm ưu thế thực sự 
+530
+00:30:27,800 --> 00:30:33,720
+Bây giờ bạn có thể suy ngẫm về câu trả lời, phần chiếm ưu thế thực 
 
-539
-00:30:32,682 --> 00:30:35,551
-là một phần năm của tổng số tập hợp con như chúng ta có thể đoán, 
+531
+00:30:33,720 --> 00:30:39,817
+sự là một phần năm của tổng số tập hợp con như chúng ta có thể đoán, 
 
-540
-00:30:35,551 --> 00:30:38,593
-và thuật ngữ lỗi này xuất hiện như thế nào từ sự can thiệp không hoàn 
+532
+00:30:39,817 --> 00:30:45,826
+và số hạng lỗi này xuất hiện như thế nào từ sự can thiệp không hoàn 
 
-541
-00:30:38,593 --> 00:30:41,680
+533
+00:30:45,826 --> 00:30:52,100
 toàn mang tính hủy diệt trong một tổ hợp lớn của các nghiệm thống nhất.
 
-542
-00:30:41,680 --> 00:30:46,595
+534
+00:30:52,100 --> 00:30:56,525
 Nhưng một lần nữa, điều khiến câu hỏi này trở nên thú vị không phải là câu trả lời, 
 
-543
-00:30:46,595 --> 00:30:51,628
+535
+00:30:56,525 --> 00:31:01,056
 mà là cách chúng ta giải nó, cụ thể là lấy một chuỗi rời rạc mà chúng ta muốn hiểu và 
 
-544
-00:30:51,628 --> 00:30:56,720
+536
+00:31:01,056 --> 00:31:05,640
 coi nó như các hệ số của một đa thức, sau đó đánh giá đa thức đó theo các giá trị phức.
 
-545
-00:30:56,720 --> 00:30:58,815
+537
+00:31:05,640 --> 00:31:06,812
 Cả hai bước đó có thể rất bất ngờ ngay từ đầu, 
 
-546
-00:30:58,815 --> 00:31:02,516
+538
+00:31:06,812 --> 00:31:08,882
 nhưng cả hai bước đó đều liên quan đến một số kỹ thuật rất tổng quát và mạnh mẽ mà 
 
-547
-00:31:02,516 --> 00:31:04,300
+539
+00:31:08,882 --> 00:31:09,880
 bạn sẽ tìm thấy ở đâu đó trong toán học.
 
-548
-00:31:04,900 --> 00:31:08,750
+540
+00:31:09,880 --> 00:31:12,021
 Ví dụ, ở đầu bài học, tôi đã hứa rằng kỹ thuật mà chúng ta sẽ sử dụng 
 
-549
-00:31:08,750 --> 00:31:12,545
+541
+00:31:12,021 --> 00:31:14,131
 sẽ có tinh thần tương tự như cách nghiên cứu các số nguyên tố và tập 
 
-550
-00:31:12,545 --> 00:31:16,120
+542
+00:31:14,131 --> 00:31:16,120
 hợp các ý tưởng dẫn đến giả thuyết Riemann và những thứ tương tự.
 
-551
-00:31:16,500 --> 00:31:19,720
-Bây giờ đây là một chủ đề rất hay, đủ để tôi nghĩ việc nhồi nhét 
+543
+00:31:16,500 --> 00:31:19,641
+Bây giờ đây là một chủ đề rất hay, đủ để tôi nghĩ là hơi tội 
 
-552
-00:31:19,720 --> 00:31:23,040
-một phiên bản vội vã nào đó vào phần cuối ở đây có vẻ hơi tội phạm.
+544
+00:31:19,641 --> 00:31:23,040
+lỗi khi nhồi nhét một phiên bản vội vã nào đó vào phần cuối ở đây.
 
-553
-00:31:23,340 --> 00:31:26,525
-Tôi nghĩ điều đúng đắn cần làm là chỉ làm video mà tôi đã 
+545
+00:31:23,340 --> 00:31:28,257
+Tôi nghĩ điều đúng đắn cần làm là chỉ làm video mà tôi đã hứa trước đây về hàm zeta, 
 
-554
-00:31:26,525 --> 00:31:29,820
-hứa trước đây về chức năng zeta, dành thời gian và làm đúng.
+546
+00:31:28,257 --> 00:31:29,820
+dành thời gian và làm đúng.
 
-555
+547
 00:31:30,440 --> 00:31:34,324
 Nhưng nếu bạn tò mò và nếu bạn cho phép tôi đưa một số thứ lên màn hình mà không giải 
 
-556
+548
 00:31:34,324 --> 00:31:38,300
 thích chúng, thì đây là phiên bản hai hoặc ba câu về cách hai thứ đó song song với nhau.
 
-557
-00:31:39,020 --> 00:31:41,822
+549
+00:31:39,020 --> 00:31:41,946
 Cũng giống như câu đố về các tập hợp con của chúng ta, 
 
-558
-00:31:41,822 --> 00:31:46,154
-cách Riemann nghiên cứu các số nguyên tố liên quan đến một chuỗi rời rạc mà chúng ta 
+550
+00:31:41,946 --> 00:31:46,680
+cách Riemann nghiên cứu các số nguyên tố liên quan đến một chuỗi rời rạc mà ta quan tâm, 
 
-559
-00:31:46,154 --> 00:31:50,638
-muốn hiểu, thứ gì đó mang thông tin về các số nguyên tố và sau đó xem xét một hàm có hệ 
+551
+00:31:46,680 --> 00:31:51,096
+thứ gì đó mang thông tin về các số nguyên tố và sau đó xét một hàm có hệ số là các 
 
-560
-00:31:50,638 --> 00:31:52,320
-số là các số hạng trong chuỗi đó.
+552
+00:31:51,096 --> 00:31:52,320
+số hạng trong chuỗi đó.
 
-561
+553
 00:31:53,120 --> 00:31:55,227
 Trong trường hợp đó, nó không hẳn là một đa thức, 
 
-562
+554
 00:31:55,227 --> 00:31:58,135
 thay vào đó nó là một cấu trúc liên quan được gọi là chuỗi Dirichlet 
 
-563
+555
 00:31:58,135 --> 00:32:01,760
 hoặc chuỗi Dirichlet tùy thuộc vào người bạn hỏi, nhưng đó là cùng một ý tưởng cơ bản.
 
-564
+556
 00:32:02,160 --> 00:32:06,846
 Sau đó, cách để thu thập thông tin về các hệ số đó là nghiên cứu cách 
 
-565
+557
 00:32:06,846 --> 00:32:11,400
 hàm này hoạt động với các đầu vào có giá trị phức tạp, bạn đoán vậy.
 
-566
-00:32:12,360 --> 00:32:15,959
+558
+00:32:12,360 --> 00:32:15,971
 Các kỹ thuật trong trường hợp của anh ấy trở nên phức tạp hơn rất nhiều, 
 
-567
-00:32:15,959 --> 00:32:20,151
+559
+00:32:15,971 --> 00:32:20,176
 xét cho cùng Riemann là người tiên phong trong giải tích phức, nhưng thực tế vẫn là, 
 
-568
-00:32:20,151 --> 00:32:24,096
+560
+00:32:20,176 --> 00:32:24,134
 việc mở rộng phạm vi của bạn ra ngoài các số thực như thế này mang lại cho bạn, 
 
-569
-00:32:24,096 --> 00:32:27,400
-nhà toán học, nhiều quyền lực hơn trong việc suy luận về các hệ số.
+561
+00:32:24,134 --> 00:32:27,400
+nhà toán học, nhiều sức mạnh hơn trong việc suy luận về các hệ số.
 
-570
+562
 00:32:28,700 --> 00:32:32,285
 Đối với một số người xem, tất cả điều này có thể để lại câu hỏi dai dẳng 
 
-571
+563
 00:32:32,285 --> 00:32:35,920
 là tại sao các số phức chính xác lại hữu ích đến mức phi lý theo cách này.
 
-572
-00:32:36,660 --> 00:32:40,678
+564
+00:32:36,660 --> 00:32:40,855
 Đó là một câu hỏi khó để trả lời chính xác, nhưng nếu bạn nghĩ về câu đố của chúng ta, 
 
-573
-00:32:40,678 --> 00:32:44,372
-mọi thứ chúng ta vừa làm, ngay khi chúng ta rơi vào tình huống này khi việc cắm 
+565
+00:32:40,855 --> 00:32:44,424
+mọi thứ ta vừa làm, ngay khi rơi vào tình huống này khi việc thay các đầu 
 
-574
-00:32:44,372 --> 00:32:47,790
-các đầu vào khác nhau sẽ tiết lộ thông tin ẩn về các hệ số, giống như là, 
+566
+00:32:44,424 --> 00:32:47,608
+vào khác nhau sẽ tiết lộ thông tin ẩn về các hệ số, giống như là, 
 
-575
-00:32:47,790 --> 00:32:50,561
+567
+00:32:47,608 --> 00:32:50,501
 bạn càng có nhiều đầu vào có thể làm việc với thì càng tốt, 
 
-576
-00:32:50,561 --> 00:32:53,840
-vì vậy bạn cũng có thể mở ra cho mình một không gian số phong phú hơn, 
+568
+00:32:50,501 --> 00:32:53,781
+vậy bạn cũng có thể mở ra cho mình một không gian số phong phú hơn, 
 
-577
-00:32:53,840 --> 00:32:55,180
+569
+00:32:53,781 --> 00:32:55,180
 chẳng hạn như mặt phẳng phức.
 
-578
+570
 00:32:55,840 --> 00:32:59,560
-Nhưng có một trực giác cụ thể hơn mà tôi muốn bạn hiểu ở đây.
+Nhưng có một sự trực quan cụ thể hơn mà tôi muốn bạn hiểu ở đây.
 
-579
-00:33:00,060 --> 00:33:03,450
-Trong câu đố của chúng tôi, thực tế liên quan mà chúng tôi muốn, 
+571
+00:33:00,060 --> 00:33:03,236
+Trong câu đố của chúng ta, thực tế liên quan mà ta muốn, 
 
-580
-00:33:03,450 --> 00:33:06,580
+572
+00:33:03,236 --> 00:33:06,580
 tổng của mỗi hệ số thứ năm, là một dạng câu hỏi về tần suất.
 
-581
+573
 00:33:06,840 --> 00:33:10,591
 Và lý do thực sự khiến số phức, trái ngược với một số cấu trúc khác, 
 
-582
+574
 00:33:10,591 --> 00:33:13,744
 tỏ ra hữu ích cho chúng ta, là vì chúng ta có thể tìm một 
 
-583
+575
 00:33:13,744 --> 00:33:16,680
 giá trị để các tích kế tiếp có đặc tính tuần hoàn này.
 
-584
+576
 00:33:17,000 --> 00:33:20,513
 Việc sử dụng các giá trị trên vòng tròn đơn vị và đặc biệt là 
 
-585
+577
 00:33:20,513 --> 00:33:24,140
 nghiệm thống nhất để tìm ra thông tin tần số là cực kỳ hiệu quả.
 
-586
+578
 00:33:24,400 --> 00:33:28,300
 Hầu như không thể nói quá rằng ý tưởng đó hữu ích như thế nào.
 
-587
+579
 00:33:28,580 --> 00:33:32,124
 Chỉ đưa ra một trong số hàng nghìn ví dụ, vào những năm 1990, 
 
-588
+580
 00:33:32,124 --> 00:33:36,927
 Peter Shor đã tìm ra cách để máy tính lượng tử phân tích các số lớn nhanh hơn nhiều 
 
-589
+581
 00:33:36,927 --> 00:33:38,300
 so với máy tính cổ điển.
 
-590
+582
 00:33:38,620 --> 00:33:42,031
 Và nếu bạn đi sâu vào và xem xét chi tiết cách thức mà chúng ta 
 
-591
+583
 00:33:42,031 --> 00:33:45,282
 gọi là thuật toán Shor hoạt động, ý tưởng cơ bản là thế này, 
 
-592
+584
 00:33:45,282 --> 00:33:48,800
 việc sử dụng nghiệm đơn vị để phát hiện một loại thông tin tần số.
 
-593
+585
 00:33:49,320 --> 00:33:52,629
 Tổng quát hơn, đây là ý tưởng cốt lõi làm nền tảng cho các phép biến đổi 
 
-594
+586
 00:33:52,629 --> 00:33:56,120
 Fourier và chuỗi Fourier, cũng như vô số chủ đề tiếp theo từ những chủ đề đó.
 
-595
+587
 00:33:56,980 --> 00:34:00,625
 Về chủ đề tự tạo ra các hàm, chúng ta thực sự chỉ mới sơ lược ở 
 
-596
+588
 00:34:00,625 --> 00:34:04,384
 đây và nếu bạn muốn tìm hiểu thêm, tôi thực sự khuyên bạn nên đọc 
 
-597
+589
 00:34:04,384 --> 00:34:08,199
 loại sách có cái tên vui nhộn này, Tạo ra hàm số, của Herbert Wilf.
 
-598
+590
 00:34:08,540 --> 00:34:10,868
 Và tôi cũng sẽ để lại một vài câu đố vui trên màn hình ở đây 
 
-599
+591
 00:34:10,868 --> 00:34:13,120
 cho những ai muốn vận động cơ bắp một chút với ý tưởng này.
 

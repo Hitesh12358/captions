@@ -1,10 +1,10 @@
 [
  {
   "input": "In the last video, you and I looked at this demo here, where we shine linearly polarized light through a tube full of sugar water, and we saw how it rather mysteriously results in these colored diagonal stripes.",
-  "translatedText": "Trong video trước, bạn và tôi đã xem bản demo này ở đây, nơi chúng tôi chiếu ánh sáng phân cực tuyến tính qua một ống chứa đầy nước đường và chúng tôi đã thấy nó tạo ra những sọc chéo màu này một cách khá bí ẩn như thế nào.",
+  "translatedText": "Trong video trước, bạn và tôi đã xem thử nghiệm này ở đây, nơi chúng ta chiếu ánh sáng phân cực tuyến tính qua một ống chứa đầy nước đường và chúng tôi đã thấy nó tạo ra những sọc chéo màu này một cách khá bí ẩn như thế nào.",
   "model": "google_nmt",
-  "n_reviews": 0,
-  "start": 0.0,
+  "n_reviews": 1,
+  "start": 0,
   "end": 11.58
  },
  {
@@ -85,7 +85,7 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 76.8,
-  "end": 81.0
+  "end": 81
  },
  {
   "input": "The force is proportional to the charge of both of the particles, where it's common to use the letter q.",
@@ -97,9 +97,9 @@
  },
  {
   "input": "There are some constants in there, which for our purposes we can just think of as one big proportionality constant.",
-  "translatedText": "Có một số hằng số trong đó, mà với mục đích của chúng ta, chúng ta chỉ có thể coi đó là một hằng số tỷ lệ lớn.",
+  "translatedText": "Có một số hằng số trong đó, mà với mục đích của chúng ta,  ta chỉ có thể coi đó là một hằng số tỷ lệ lớn.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 86.82,
   "end": 91.84
  },
@@ -137,9 +137,9 @@
  },
  {
   "input": "And in this context, the word field means there's a value associated with every single point in space.",
-  "translatedText": "Và trong ngữ cảnh này, trường từ có nghĩa là có một giá trị gắn liền với mỗi điểm trong không gian.",
+  "translatedText": "Và trong ngữ cảnh này, một trường có nghĩa là có một giá trị gắn liền với mỗi điểm trong không gian.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 133.22,
   "end": 138.26
  },
@@ -161,9 +161,9 @@
  },
  {
   "input": "There are other ways that charges influence each other.",
-  "translatedText": "Có nhiều cách khác mà các khoản phí ảnh hưởng lẫn nhau.",
+  "translatedText": "Có nhiều cách khác mà các điện tích ảnh hưởng lẫn nhau.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 156.1,
   "end": 158.4
  },
@@ -177,17 +177,17 @@
  },
  {
   "input": "If you wiggle one charge up and down, then after a little bit of a delay, a second charge some distance to its right will be induced to wiggle up and down as well.",
-  "translatedText": "Nếu bạn lắc lư một điện tích lên xuống, thì sau một khoảng thời gian trễ một chút, điện tích thứ hai cách một khoảng về bên phải của nó cũng sẽ được tạo ra để ngọ nguậy lên xuống.",
+  "translatedText": "Nếu bạn lắc lư một điện tích lên xuống, thì sau một khoảng thời gian trễ một chút, điện tích thứ hai cách một khoảng về bên phải của nó cũng sẽ được tạo ra để dao động lên xuống.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 162.9,
   "end": 171.62
  },
  {
   "input": "We can write down a second law, which you might think of as a correction term to be added to Coulomb's law, that describes what's going on here.",
-  "translatedText": "Chúng ta có thể viết ra định luật thứ hai mà bạn có thể coi là một thuật ngữ hiệu chỉnh để thêm vào định luật Coulomb, mô tả những gì đang diễn ra ở đây.",
+  "translatedText": "Ta có thể viết ra định luật thứ hai mà bạn có thể coi là một số hạng hiệu chỉnh để thêm vào định luật Coulomb, mô tả những gì đang diễn ra ở đây.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 172.28,
   "end": 179.02
  },
@@ -265,9 +265,9 @@
  },
  {
   "input": "In fact, a more accurate description of Coulomb's law would also involve a delay term like this.",
-  "translatedText": "Trên thực tế, một mô tả chính xác hơn về định luật Coulomb cũng sẽ liên quan đến số hạng trễ như thế này.",
+  "translatedText": "Thực tế, một mô tả chính xác hơn về định luật Coulomb cũng sẽ liên quan đến số hạng trễ pha như này.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 251.78,
   "end": 256.48
  },
@@ -289,9 +289,9 @@
  },
  {
   "input": "Instead of the acceleration vector here, I should really be writing something like a perp, indicating the component of that acceleration vector which is perpendicular to the line drawn between the two charges.",
-  "translatedText": "Thay vì vectơ gia tốc ở đây, tôi thực sự nên viết một cái gì đó giống như một perp, biểu thị thành phần của vectơ gia tốc đó vuông góc với đường thẳng nối giữa hai điện tích.",
+  "translatedText": "Thay vì vectơ gia tốc ở đây, tôi thực sự nên viết một cái gì đó giống như một sự vuông góc, biểu thị thành phần của vectơ gia tốc đó vuông góc với đường thẳng nối giữa hai điện tích.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 269.8,
   "end": 281.76
  },
@@ -329,9 +329,9 @@
  },
  {
   "input": "And because of this delay term, the effects on this field tend to radiate away from the charge.",
-  "translatedText": "Và do độ trễ này, các hiệu ứng trên trường này có xu hướng tỏa ra xa điện tích.",
+  "translatedText": "Và do số hạng trễ pha này, các hiệu ứng trên trường này có xu hướng tỏa ra xa điện tích.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 319.58,
   "end": 324.72
  },
@@ -377,25 +377,25 @@
  },
  {
   "input": "As a side note, you sometimes see this propagation described a very different way that puts the fields front and center, using what are known as Maxwell's equations.",
-  "translatedText": "Xin lưu ý thêm, đôi khi bạn thấy sự lan truyền này được mô tả theo một cách rất khác, đặt các trường ở phía trước và giữa, sử dụng cái được gọi là phương trình Maxwell.",
+  "translatedText": "Lưu ý thêm, đôi khi sự lan truyền này được mô tả theo một cách rất khác, đặt các trường ở phía trước và giữa, sử dụng cái gọi là phương trình Maxwell.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 354.82,
   "end": 362.36
  },
  {
   "input": "For our purposes, I want to focus just on this one law and show just how far it can take us when it comes to intuitions for light.",
-  "translatedText": "Vì mục đích của chúng ta, tôi chỉ muốn tập trung vào một định luật này và chỉ ra nó có thể đưa chúng ta đi bao xa khi nói đến trực giác về ánh sáng.",
+  "translatedText": "Vì mục đích của chúng ta, tôi chỉ muốn tập trung vào một định luật này và chỉ ra nó có thể đưa ta đi bao xa khi nói đến sự trực quan về ánh sáng.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 362.88,
   "end": 369.94
  },
  {
   "input": "For the animations I'm about to show, all I've really done is encoded in this one law, which tells us what should this component of the electric field be at every point in space, as determined by the history of accelerations of a particular charge.",
-  "translatedText": "Đối với những hình ảnh động mà tôi sắp trình chiếu, tất cả những gì tôi thực sự đã làm đều được mã hóa trong một định luật này, nó cho chúng ta biết thành phần này của điện trường ở mọi điểm trong không gian sẽ như thế nào, được xác định bởi lịch sử gia tốc của một phí cụ thể.",
+  "translatedText": "Với những hình ảnh động mà tôi sắp trình chiếu, tất cả những gì tôi đã làm đều được mã hóa trong một định luật này, nó cho ta biết thành phần này của điện trường ở mọi điểm trong không gian sẽ như thế nào, được xác định bởi lịch sử gia tốc của một điện tích cụ thể.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 371.62,
   "end": 385.64
  },
@@ -417,9 +417,9 @@
  },
  {
   "input": "At first when I made this animation I assumed that there was some kind of bug, because near the charge it just looks crooked and wrong.",
-  "translatedText": "Lúc đầu, khi tôi thực hiện hoạt hình này, tôi cho rằng có một loại lỗi nào đó, bởi vì gần điện tích, nó trông có vẻ quanh co và sai trái.",
+  "translatedText": "Lúc đầu, khi tôi thực hiện hoạt ảnh này, tôi cho rằng có một loại lỗi nào đó, vì gần điện tích, nó trông có vẻ quanh co và sai.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 405.96,
   "end": 412.36
  },
@@ -433,14 +433,14 @@
  },
  {
   "input": "At points that are far enough away from the charge, which is where this component of the field is what dominates anyway, the wiggling in the field is essentially parallel to the wiggling in the charge, which is why when we think about light waves, we're safe to think about the wiggling direction as being perpendicular to the propagation direction.",
-  "translatedText": "Tại những điểm cách điện tích đủ xa, đó là nơi mà thành phần này của trường dù sao cũng chiếm ưu thế, sự dao động trong trường về cơ bản là song song với sự dao động trong điện tích, đó là lý do tại sao khi nghĩ về sóng ánh sáng, chúng ta Có thể an toàn khi coi hướng dao động vuông góc với hướng truyền.",
+  "translatedText": "Tại những điểm cách điện tích đủ xa, đó là nơi mà thành phần này của trường dù sao cũng chiếm ưu thế, sự dao động trong trường về cơ bản là song song với sự dao động trong điện tích, đó là lý do tại sao khi nghĩ về sóng ánh sáng, ta có thể an toàn khi coi hướng dao động vuông góc với hướng truyền.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 426.46,
   "end": 442.54
  },
  {
-  "input": "Like I said, this propagation for just one charge is equally strong in all of the directions perpendicular to its wiggling, and really I should emphasize that the propagation does have a lot of strength in the field.",
+  "input": "Like I said, this propagation for just one charge is equally strong in all of the directions perpendicular to its wiggling, and really I should emphasize that the propagation does happen in all directions of three-dimensional space.",
   "translatedText": "Như tôi đã nói, sự truyền lan này chỉ với một điện tích cũng mạnh như nhau theo mọi hướng vuông góc với sự dao động lắc lư của nó, và tôi thực sự cần nhấn mạnh rằng sự truyền lan này thực sự có rất nhiều cường độ trong từ trường.",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -468,7 +468,7 @@
   "translatedText": "Ở mức độ cao nhất, điều duy nhất quan trọng hơn là hướng sóng sẽ di chuyển theo hướng mà nó sẽ di chuyển.",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 478.0,
+  "start": 478,
   "end": 493.52
  },
  {
@@ -481,17 +481,17 @@
  },
  {
   "input": "Because our law has this 1 divided by r in it, the strength of the wave caused by just one particle does decay as you go farther away, in proportion to 1 over r.",
-  "translatedText": "Bởi vì định luật của chúng ta có 1 chia cho r trong đó, nên cường độ sóng do chỉ một hạt gây ra sẽ giảm dần khi bạn đi ra xa hơn, tỷ lệ với 1 trên r.",
+  "translatedText": "Vì định luật có 1 chia r trong đó, nên cường độ sóng do chỉ một hạt gây ra sẽ giảm dần khi bạn đi ra xa hơn, tỷ lệ với 1 trên r.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 498.8,
   "end": 505.08
  },
  {
   "input": "But notice what happens if I take a whole row of charges, say oriented along the y-axis, and I have them all start wiggling up and down in z-direction, and I illustrate the combined effects that all of them have on this component of the electric field.",
-  "translatedText": "Nhưng hãy chú ý điều gì sẽ xảy ra nếu tôi lấy cả một hàng điện tích, chẳng hạn như định hướng dọc theo trục y, và tôi cho tất cả chúng bắt đầu ngọ nguậy lên xuống theo hướng z, và tôi minh họa các hiệu ứng kết hợp mà tất cả chúng có trên thành phần này của điện trường.",
+  "translatedText": "Nhưng chú ý điều gì sẽ xảy ra nếu tôi lấy cả một hàng điện tích, chẳng hạn như hướng dọc theo trục y, và cho tất cả chúng bắt đầu lắc lư lên xuống theo hướng z, và minh họa các hiệu ứng kết hợp mà tất cả chúng có trên thành phần này của điện trường.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 505.08,
   "end": 518.26
  },
@@ -508,8 +508,8 @@
   "translatedText": "Đây là hiện tượng một chùm ánh sáng tập trung dọc theo một chiều.",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 524.42,
-  "end": 523.6
+  "start": 523.6,
+  "end": 524.42
  },
  {
   "input": "So if you were to focus on the field just along the x-axis, instead of decaying in proportion to 1 over r, this combined effect decays much more gently.",
@@ -529,9 +529,9 @@
  },
  {
   "input": "One thing that's worth emphasizing when you see light illustrated with a sine wave like this is that even though that wave is being drawn in two or three dimensions, it's only describing the electric field along a one-dimensional line, namely the base of all those vectors.",
-  "translatedText": "Một điều đáng nhấn mạnh khi bạn nhìn thấy ánh sáng được minh họa bằng sóng hình sin như thế này là mặc dù sóng đó được vẽ theo hai hoặc ba chiều, nhưng nó chỉ mô tả điện trường dọc theo đường một chiều, cụ thể là đáy của tất cả các sóng đó. vectơ.",
+  "translatedText": "Một điều đáng nhấn mạnh khi bạn nhìn thấy ánh sáng được minh họa bằng sóng hình sin như thế này là mặc dù sóng đó được vẽ theo hai hoặc ba chiều, nhưng nó chỉ mô tả điện trường dọc theo đường một chiều, cụ thể là đáy của tất cả các sóng vectơ đó.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 547.4,
   "end": 561.98
  },
@@ -545,9 +545,9 @@
  },
  {
   "input": "Great, so one of the last important things to highlight before we get back to the sugar water is polarization.",
-  "translatedText": "Tuyệt vời, vì vậy một trong những điều quan trọng cuối cùng cần làm nổi bật trước khi chúng ta quay lại với nước đường là sự phân cực.",
+  "translatedText": "Tuyệt vời, vậy một trong những điều quan trọng cuối cùng cần làm nổi bật trước khi ta quay lại với nước đường là sự phân cực.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 567.18,
   "end": 572.6
  },
@@ -596,7 +596,7 @@
   "translatedText": "Ý nghĩa của việc ánh sáng bị phân cực tròn là tại thời điểm đó, vectơ điện trường chỉ quay theo một vòng tròn.",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 603.0,
+  "start": 603,
   "end": 610.28
  },
  {
@@ -649,25 +649,25 @@
  },
  {
   "input": "I have another video that goes into more detail, but for our purposes, thinking about it classically is fine.",
-  "translatedText": "Tôi có một video khác trình bày chi tiết hơn, nhưng với mục đích của chúng ta, suy nghĩ về nó một cách cổ điển là được.",
+  "translatedText": "Tôi có một video khác trình bày chi tiết hơn, nhưng với mục đích của chúng ta, nghĩ theo cách cổ điển là được.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 659.38,
   "end": 664.6
  },
  {
   "input": "Part of the reason I wanted to go through that is because frankly it's just very fun to animate and I like an excuse for a fundamental lesson.",
-  "translatedText": "Một phần lý do khiến tôi muốn trải qua điều đó là vì thực lòng mà nói, việc tạo hoạt ảnh rất thú vị và tôi thích một cái cớ cho một bài học cơ bản.",
+  "translatedText": "Một phần lý do tôi muốn nói qua điều đó, vì thực sự việc tạo hoạt ảnh rất thú vị và tôi thích một khởi động cho bài học cơ bản.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 665.3,
   "end": 671.7
  },
  {
   "input": "But now let's turn back to our demo and see how we can build up an intuition for some of our key questions, starting from this very basic premise that shaking a charge in one location causes a shake to another charge a little bit later.",
-  "translatedText": "Nhưng bây giờ chúng ta hãy quay lại bản demo của chúng ta và xem cách chúng ta có thể xây dựng trực giác cho một số câu hỏi chính của mình, bắt đầu từ tiền đề rất cơ bản này rằng việc lắc một điện tích ở một vị trí sẽ gây ra rung lắc cho một điện tích khác sau đó một chút.",
+  "translatedText": "Nhưng giờ ta quay lại thử nghiệm của mình và xem cách chúng ta có thể tạo một sự trực quan với các câu hỏi, bắt đầu từ tiền đề rất cơ bản này rằng việc lắc một điện tích ở một vị trí sẽ gây ra việc lắc một chút cho một điện tích khác sau đó.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 672.36,
   "end": 683.84
  },
@@ -729,17 +729,17 @@
  },
  {
   "input": "So think about our setup, and for a particular frequency of light, how likely it is that an observer looking at a particular point in the tube will see that light.",
-  "translatedText": "Vì vậy, hãy nghĩ về cách bố trí của chúng ta, và đối với một tần số ánh sáng cụ thể, khả năng một người quan sát nhìn vào một điểm cụ thể trong ống sẽ nhìn thấy ánh sáng đó là bao nhiêu.",
+  "translatedText": "Vậy nghĩ về cách bố trí của chúng ta, và với một tần số ánh sáng cụ thể, khả năng một người quan sát nhìn vào một điểm cụ thể trong ống sẽ nhìn thấy ánh sáng đó là bao nhiêu.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 774.64,
   "end": 783.4
  },
  {
   "input": "Again, the key phenomenon with sugar water, which we have yet to explain, is that the polarization direction is slowly getting twisted as it goes down the tube.",
-  "translatedText": "Một lần nữa, hiện tượng chính của nước đường mà chúng tôi vẫn chưa giải thích được là hướng phân cực dần bị xoắn lại khi nó đi xuống ống.",
+  "translatedText": "Một lần nữa, chìa khóa của hiện tượng với nước đường mà chúng ta vẫn chưa giải thích được là hướng phân cực dần bị xoắn lại khi nó đi xuống ống.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 784.3,
   "end": 792.56
  },
@@ -769,9 +769,9 @@
  },
  {
   "input": "And looking at our actual physical setup, if we first pass the light through a filter showing only the red, we see exactly this effect in action.",
-  "translatedText": "Và nhìn vào thiết lập vật lý thực tế của chúng ta, nếu lần đầu tiên chúng ta truyền ánh sáng qua một bộ lọc chỉ hiển thị màu đỏ, chúng ta sẽ thấy chính xác hiệu ứng này đang hoạt động.",
+  "translatedText": "Và nhìn vào thiết lập vật lý thực tế, nếu lần đầu tiên ta truyền ánh sáng qua một bộ lọc chỉ hiển thị màu đỏ, ta sẽ thấy chính xác hiệu ứng này đang hoạt động.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 826.5,
   "end": 834.68
  },
@@ -793,9 +793,9 @@
  },
  {
   "input": "Then putting yourself in the shoes of the observer, when you look at points where the ribbon appears very thin, you're going to see very little red light, whereas if you scan your eyes over to points where the ribbon appears thicker, you're going to see more red light.",
-  "translatedText": "Sau đó, hãy đặt mình vào vị trí của người quan sát, khi bạn nhìn vào những điểm mà dải ruy băng có vẻ rất mỏng, bạn sẽ thấy rất ít ánh sáng đỏ, trong khi đó nếu bạn quét mắt qua những điểm mà dải ruy băng có vẻ dày hơn, bạn' bạn sẽ thấy nhiều đèn đỏ hơn.",
+  "translatedText": "Sau đó, hãy đặt mình vào vị trí của người quan sát, khi bạn nhìn vào những điểm mà dải ruy băng có vẻ rất mỏng, bạn sẽ thấy rất ít ánh sáng đỏ, trong khi đó nếu quét mắt qua những điểm mà dải ruy băng có vẻ dày hơn, bạn sẽ thấy nhiều đèn đỏ hơn.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 852.84,
   "end": 865.26
  },
@@ -841,9 +841,9 @@
  },
  {
   "input": "This has less to do with what's going on in the tube and more to do with a matter of perspective.",
-  "translatedText": "Điều này ít liên quan đến những gì đang diễn ra trong ống mà liên quan nhiều hơn đến vấn đề quan điểm.",
+  "translatedText": "Điều này ít liên quan đến những gì đang diễn ra trong ống mà liên quan hơn là vấn đề góc nhìn.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 915.92,
   "end": 920.58
  },
@@ -869,7 +869,7 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 939.5,
-  "end": 944.0
+  "end": 944
  },
  {
   "input": "If you're the observer and you look at the topmost point here, its wiggling direction is essentially parallel to the line of sight, so the light scattering from that point is basically not going to reach your eyes at all.",
@@ -905,9 +905,9 @@
  },
  {
   "input": "The full demo that has white light is basically a combination of all these pure color patterns that go from light to dark to light with diagonal boundaries between the intense points and the weak points, hence why you see diagonal boundaries between the colors inside the tube.",
-  "translatedText": "Bản demo đầy đủ có ánh sáng trắng về cơ bản là sự kết hợp của tất cả các mẫu màu thuần túy chuyển từ sáng sang tối này với các ranh giới chéo giữa điểm mạnh và điểm yếu, do đó bạn nhìn thấy ranh giới chéo giữa các màu bên trong ống.",
+  "translatedText": "Thử nghiệm đầy đủ với ánh sáng trắng về cơ bản là sự kết hợp của tất cả các mẫu màu thuần túy chuyển từ sáng sang tối này với các đường ranh giới chéo giữa các điểm sáng mạnh và điểm sáng yếu, do đó bạn nhìn thấy ranh giới chéo giữa các màu bên trong ống.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 974.96,
   "end": 989.34
  },
@@ -929,9 +929,9 @@
  },
  {
   "input": "For example, if you look at the crests of a light wave as it goes into water, the crests through the water are traveling about 1.33 times slower than the crests of that wave would travel in a vacuum.",
-  "translatedText": "Ví dụ, nếu bạn nhìn vào đỉnh của một sóng ánh sáng khi nó truyền vào nước, thì các đỉnh trong nước sẽ truyền đi khoảng 1.Chậm hơn 33 lần so với đỉnh sóng đó truyền đi trong chân không.",
+  "translatedText": "Ví dụ, nếu bạn nhìn vào đỉnh của một sóng ánh sáng khi nó truyền vào nước, thì các đỉnh trong nước sẽ truyền đi khoảng chậm hơn 1.33 lần so với đỉnh sóng đó truyền đi trong chân không.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1004.9,
   "end": 1015.54
  },
@@ -945,9 +945,9 @@
  },
  {
   "input": "In a bit what I'd like to show is how this index of refraction can be explained by analyzing how the initial light wave shakes all the charges in the material and how the resulting second order propagations superimpose with that original light wave.",
-  "translatedText": "Điều tôi muốn trình bày một chút là chiết suất này có thể được giải thích như thế nào bằng cách phân tích sóng ánh sáng ban đầu làm rung chuyển tất cả các điện tích trong vật liệu như thế nào và kết quả truyền sóng bậc hai chồng lên sóng ánh sáng ban đầu đó như thế nào.",
+  "translatedText": "Điều tôi muốn trình bày một chút là cách chiết suất này có thể được giải thích bằng cách phân tích sóng ánh sáng ban đầu làm rung chuyển tất cả các điện tích trong vật liệu và cách thức kết quả truyền sóng bậc hai chồng lên sóng ánh sáng ban đầu đó.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1019.64,
   "end": 1033.48
  },
@@ -961,9 +961,9 @@
  },
  {
   "input": "Skipping ahead to what's going on with sugar, the relevant property of sucrose here is that it's what's called a chiral molecule, meaning it's fundamentally different from its mirror image.",
-  "translatedText": "Bỏ qua những gì đang xảy ra với đường, đặc tính liên quan của sucrose ở đây là nó được gọi là phân tử bất đối, nghĩa là về cơ bản nó khác với hình ảnh phản chiếu của nó.",
+  "translatedText": "Bỏ qua những gì đang xảy ra với đường, đặc tính liên quan của saccarozơ ở đây là nó được gọi là phân tử bất đối xứng, nghĩa là về cơ bản nó khác với hình ảnh phản chiếu của nó.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1050.7,
   "end": 1060.84
  },
@@ -972,7 +972,7 @@
   "translatedText": "Bạn không bao giờ có thể định hướng lại nó trong không gian để trở nên giống hệt với hình ảnh phản chiếu của nó.",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 1061.0,
+  "start": 1061,
   "end": 1064.6
  },
  {
@@ -1089,25 +1089,25 @@
  },
  {
   "input": "So if the circularly polarized light wave represented by that left vector gets slowed down a little bit every time it runs across a sugar molecule, or at least slowed down more than its oppositely rotating counterpart would, the effect on the sum is to slowly rotate the direction of linear polarization.",
-  "translatedText": "Vì vậy, nếu sóng ánh sáng phân cực tròn biểu thị bởi vectơ bên trái đó bị chậm đi một chút mỗi khi nó chạy ngang qua một phân tử đường, hoặc ít nhất là chậm lại nhiều hơn so với sóng ánh sáng quay ngược chiều của nó, thì hiệu ứng trên tổng là làm quay chậm phân tử đường. hướng phân cực tuyến tính.",
+  "translatedText": "Vì vậy, nếu sóng ánh sáng phân cực tròn biểu thị bởi vectơ bên trái đó bị chậm đi một chút mỗi khi nó chạy ngang qua một phân tử đường, hoặc ít nhất là chậm lại nhiều hơn so với sóng ánh sáng quay ngược chiều của nó, thì hiệu ứng trên tổng là làm quay chậm hướng phân cực tuyến tính.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1186.28,
   "end": 1203.42
  },
  {
   "input": "And hence, as you look at slices further and further down the tube, the polarization direction does indeed get twisted the way we were describing earlier, representing how the composite effects with many many many different sugar molecules are slightly different for left-handed light than they are for right-handed light.",
-  "translatedText": "Và do đó, khi bạn nhìn vào các lát cắt ngày càng sâu hơn trong ống, hướng phân cực thực sự bị xoắn theo cách chúng ta đã mô tả trước đó, biểu thị các hiệu ứng tổng hợp với nhiều phân tử đường khác nhau hơi khác nhau đối với ánh sáng thuận tay trái như thế nào so với ánh sáng thuận tay trái. chúng dành cho người thuận tay phải.",
+  "translatedText": "Và do đó, khi bạn nhìn vào các lát cắt ngày càng sâu hơn trong ống, hướng phân cực thực sự bị xoắn theo cách chúng ta đã mô tả trước đó, biểu thị các hiệu ứng tổng hợp với rất rất nhiều phân tử đường khác nhau là sự khác biệt nhỏ của ánh sáng phía bên trái so với ánh sáng bên phải.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1204.22,
   "end": 1219.2
  },
  {
   "input": "As a nice way to test whether you understood everything up to this point, see if just by looking at the direction of the diagonal slices on our tube, you can deduce which kind of light the sugar is slowing down more, left-handed light or right-handed light.",
-  "translatedText": "Một cách hay để kiểm tra xem bạn có hiểu mọi thứ cho đến thời điểm này hay không, hãy xem liệu chỉ cần nhìn vào hướng của các lát cắt chéo trên ống của chúng ta, bạn có thể suy ra loại ánh sáng nào mà đường đang chậm lại nhiều hơn, ánh sáng thuận tay trái hay ánh sáng thuận tay trái hay không. đèn thuận tay phải.",
+  "translatedText": "Một cách hay để kiểm tra xem bạn có hiểu mọi thứ cho đến thời điểm này hay không, hãy xem liệu chỉ cần nhìn vào hướng của các lát cắt chéo trên ống của chúng ta, bạn có thể suy ra loại ánh sáng nào mà đường đang chậm lại nhiều hơn, ánh sáng bên trái hoặc ánh sáng bên phải.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1220.04,
   "end": 1233.1
  },
@@ -1121,14 +1121,14 @@
  },
  {
   "input": "Also, like I said at the start, a robust enough intuition here should also answer for us why the strength of this effect would depend on the frequency of the light.",
-  "translatedText": "Ngoài ra, như tôi đã nói lúc đầu, trực giác đủ mạnh ở đây cũng sẽ trả lời cho chúng ta tại sao cường độ của hiệu ứng này lại phụ thuộc vào tần số của ánh sáng.",
+  "translatedText": "Ngoài ra, như tôi đã nói lúc đầu, một sự trực quan đủ mạnh ở đây cũng sẽ trả lời cho ta tại sao cường độ của hiệu ứng này lại phụ thuộc vào tần số của ánh sáng.",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 1249.2,
   "end": 1257.94
  },
  {
-  "input": "At this point I think we've covered quite enough for one video, so I'll pull out a discussion covering the origins of the index of refraction to a separate video.",
+  "input": "At this point I think we've covered quite enough for one video, so I'll pull out a discussion covering the origins of the index of refraction to a separate video. Thank you.",
   "translatedText": "Tại thời điểm này, tôi nghĩ chúng ta đã trình bày khá đủ cho một video, vì vậy tôi sẽ đưa ra một cuộc thảo luận về nguồn gốc của chiết suất trong một video riêng biệt.",
   "model": "google_nmt",
   "n_reviews": 0,

@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { FaDownload, FaPaperPlane } from "react-icons/fa6";
+import { useRef, useState } from "react";
+import { FaDownload, FaPaperPlane, FaUpload } from "react-icons/fa6";
 import { ImSpinner8 } from "react-icons/im";
 import { useParams } from "react-router";
 import { useLocalStorage } from "react-use";
@@ -16,17 +16,20 @@ import {
   filter,
   filterFuncs,
   filters,
+  importData,
   showLegacy,
   sticky,
   submitPr,
   title,
 } from "@/pages/Edit";
-import { downloadZip } from "@/util/download";
+import { downloadZip, uploadZip } from "@/util/download";
 import classes from "./Footer.module.css";
 
 function Footer() {
   /** url params */
   const { lesson = "", language = "" } = useParams();
+
+  const uploadRef = useRef<HTMLInputElement>(null);
 
   /** local state */
   const [submitting, setSubmitting] = useState(false);
@@ -86,15 +89,39 @@ function Footer() {
               label="Show legacy translations"
               value={getShowLegacy}
               onChange={setShowLegacy}
-              data-tooltip="Show community contributed translations from back when YouTube had that feature built-in. For reference or copy/pasting.<br/><br/><b>Note:</b> The way they are split is different and they may apply to one or more adjacent entries."
+              data-tooltip={legacyTooltip}
             />
           )}
       </div>
 
       <div className={classes.row}>
         <Button
+          icon={<FaUpload />}
+          data-tooltip="Import a previously downloaded zip file of edits"
+          onClick={(event) =>
+            (
+              (event.currentTarget as HTMLButtonElement)
+                .nextElementSibling as HTMLInputElement
+            )?.click()
+          }
+        />
+        <input
+          ref={uploadRef}
+          type="file"
+          accept=".zip"
+          style={{ display: "none" }}
+          onChange={async (event) => {
+            /** get uploaded file object */
+            const file = (event.target?.files || [])[0];
+            if (file) importData(await uploadZip(await file.arrayBuffer()));
+            /** reset input */
+            if (uploadRef.current) uploadRef.current.value = "";
+          }}
+        />
+
+        <Button
           icon={<FaDownload />}
-          data-tooltip="Download your edits as a backup or to submit a pull request manually."
+          data-tooltip="Download your edits as a backup or to submit a pull request manually"
           onClick={() => downloadZip(exportData(), `${lesson} ${language}`)}
         />
 
@@ -139,3 +166,6 @@ function Footer() {
 }
 
 export default Footer;
+
+export const legacyTooltip =
+  "Community contributed translations from back when YouTube had that feature built-in. For reference or copy/pasting.<br/><br/><b>Note:</b> The way they are split is different and they may apply to one or more adjacent entries.";

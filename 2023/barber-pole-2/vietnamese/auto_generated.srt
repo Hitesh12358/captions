@@ -1,17 +1,17 @@
 1
-00:00:00,000 --> 00:00:02,959
-Trong video trước, bạn và tôi đã xem bản demo này ở đây, 
+00:00:00,000 --> 00:00:03,050
+Trong video trước, bạn và tôi đã xem thử nghiệm này ở đây, 
 
 2
-00:00:02,959 --> 00:00:06,854
-nơi chúng tôi chiếu ánh sáng phân cực tuyến tính qua một ống chứa đầy nước 
+00:00:03,050 --> 00:00:06,875
+nơi chúng ta chiếu ánh sáng phân cực tuyến tính qua một ống chứa đầy nước 
 
 3
-00:00:06,854 --> 00:00:10,645
+00:00:06,875 --> 00:00:10,649
 đường và chúng tôi đã thấy nó tạo ra những sọc chéo màu này một cách khá 
 
 4
-00:00:10,645 --> 00:00:11,580
+00:00:10,649 --> 00:00:11,580
 bí ẩn như thế nào.
 
 5
@@ -95,12 +95,12 @@ Cụ thể, đây là cách bạn có thể thấy điều này được viết 
 Lực tỷ lệ thuận với điện tích của cả hai hạt, trong đó người ta thường sử dụng chữ q.
 
 25
-00:01:26,820 --> 00:01:29,466
-Có một số hằng số trong đó, mà với mục đích của chúng ta, 
+00:01:26,820 --> 00:01:29,640
+Có một số hằng số trong đó, mà với mục đích của chúng ta,  
 
 26
-00:01:29,466 --> 00:01:31,840
-chúng ta chỉ có thể coi đó là một hằng số tỷ lệ lớn.
+00:01:29,640 --> 00:01:31,840
+ta chỉ có thể coi đó là một hằng số tỷ lệ lớn.
 
 27
 00:01:31,840 --> 00:01:35,686
@@ -143,11 +143,11 @@ Và thay vì mô tả bản chất lực, bạn có thể thấy bài viết nà
 đây chỉ là một cách để nói lực nào sẽ tác dụng lên một đơn vị điện tích.
 
 37
-00:02:13,220 --> 00:02:15,663
-Và trong ngữ cảnh này, trường từ có nghĩa là có 
+00:02:13,220 --> 00:02:15,689
+Và trong ngữ cảnh này, một trường có nghĩa là có 
 
 38
-00:02:15,663 --> 00:02:18,260
+00:02:15,689 --> 00:02:18,260
 một giá trị gắn liền với mỗi điểm trong không gian.
 
 39
@@ -168,31 +168,31 @@ Tôi đưa ra định luật Coulomb để nhấn mạnh rằng đó không ph�
 
 43
 00:02:36,100 --> 00:02:38,400
-Có nhiều cách khác mà các khoản phí ảnh hưởng lẫn nhau.
+Có nhiều cách khác mà các điện tích ảnh hưởng lẫn nhau.
 
 44
 00:02:38,740 --> 00:02:42,160
 Ví dụ, đây là một hiện tượng mà chỉ riêng định luật này không thể giải thích được.
 
 45
-00:02:42,900 --> 00:02:46,943
+00:02:42,900 --> 00:02:46,966
 Nếu bạn lắc lư một điện tích lên xuống, thì sau một khoảng thời gian trễ một chút, 
 
 46
-00:02:46,943 --> 00:02:51,327
-điện tích thứ hai cách một khoảng về bên phải của nó cũng sẽ được tạo ra để ngọ nguậy lên 
+00:02:46,966 --> 00:02:51,326
+điện tích thứ hai cách một khoảng về bên phải của nó cũng sẽ được tạo ra để dao động lên 
 
 47
-00:02:51,327 --> 00:02:51,620
+00:02:51,326 --> 00:02:51,620
 xuống.
 
 48
-00:02:52,280 --> 00:02:55,672
-Chúng ta có thể viết ra định luật thứ hai mà bạn có thể coi là một thuật ngữ 
+00:02:52,280 --> 00:02:55,719
+Ta có thể viết ra định luật thứ hai mà bạn có thể coi là một số hạng hiệu 
 
 49
-00:02:55,672 --> 00:02:59,020
-hiệu chỉnh để thêm vào định luật Coulomb, mô tả những gì đang diễn ra ở đây.
+00:02:55,719 --> 00:02:59,020
+chỉnh để thêm vào định luật Coulomb, mô tả những gì đang diễn ra ở đây.
 
 50
 00:02:59,020 --> 00:03:03,580
@@ -271,12 +271,12 @@ Cách nghĩ về điều này là bất kỳ dạng ảnh hưởng nào
 cũng không thể lan truyền nhanh hơn tốc độ này, c.
 
 69
-00:04:11,780 --> 00:04:14,062
-Trên thực tế, một mô tả chính xác hơn về định luật 
+00:04:11,780 --> 00:04:13,942
+Thực tế, một mô tả chính xác hơn về định luật 
 
 70
-00:04:14,062 --> 00:04:16,480
-Coulomb cũng sẽ liên quan đến số hạng trễ như thế này.
+00:04:13,942 --> 00:04:16,480
+Coulomb cũng sẽ liên quan đến số hạng trễ pha như này.
 
 71
 00:04:16,480 --> 00:04:19,524
@@ -295,244 +295,244 @@ Một lần nữa, cách trực quan để đọc phương trình này là sự 
 Và thực sự, cách tôi viết bây giờ có hơi sai một chút.
 
 75
-00:04:29,800 --> 00:04:35,573
-Thay vì vectơ gia tốc ở đây, tôi thực sự nên viết một cái gì đó giống như một perp, 
+00:04:29,800 --> 00:04:33,808
+Thay vì vectơ gia tốc ở đây, tôi thực sự nên viết một cái gì 
 
 76
-00:04:35,573 --> 00:04:41,760
-biểu thị thành phần của vectơ gia tốc đó vuông góc với đường thẳng nối giữa hai điện tích.
+00:04:33,808 --> 00:04:37,817
+đó giống như một sự vuông góc, biểu thị thành phần của vectơ 
 
 77
+00:04:37,817 --> 00:04:41,760
+gia tốc đó vuông góc với đường thẳng nối giữa hai điện tích.
+
+78
 00:04:42,320 --> 00:04:45,453
 Nói cách khác, khi bạn dao động điện tích đầu tiên đó, 
 
-78
+79
 00:04:45,453 --> 00:04:49,897
 hướng mà điện tích thứ hai dao động luôn vuông góc với đường thẳng giữa chúng 
 
-79
+80
 00:04:49,897 --> 00:04:54,512
 và mức độ dao động của nó ngày càng yếu đi khi đường thẳng giữa chúng thẳng hàng 
 
-80
+81
 00:04:54,512 --> 00:04:55,880
 hơn với gia tốc ban đầu.
 
-81
+82
 00:04:57,180 --> 00:05:00,702
 Như trước đây, đây là thứ bạn có thể thấy được viết ra theo cách 
 
-82
+83
 00:05:00,702 --> 00:05:04,280
 mô tả một thành phần của điện trường gây ra bởi chỉ một điện tích.
 
-83
+84
 00:05:04,820 --> 00:05:08,021
 Một lần nữa, điều đó có nghĩa là lực nào sẽ tác dụng lên điện 
 
-84
+85
 00:05:08,021 --> 00:05:11,120
 tích thứ hai tại tất cả các điểm có thể có trong không gian.
 
-85
+86
 00:05:12,280 --> 00:05:15,541
 Thành phần này của trường chỉ khác 0 khi điện tích đầu tiên của 
 
-86
+87
 00:05:15,541 --> 00:05:19,160
 chúng ta chuyển động bằng cách nào đó, khi nó có vectơ gia tốc trên đó.
 
-87
-00:05:19,580 --> 00:05:24,720
-Và do độ trễ này, các hiệu ứng trên trường này có xu hướng tỏa ra xa điện tích.
-
 88
+00:05:19,580 --> 00:05:24,720
+Và do số hạng trễ pha này, các hiệu ứng trên trường này có xu hướng tỏa ra xa điện tích.
+
+89
 00:05:25,060 --> 00:05:27,340
 Đây là lý do tại sao tôi viết nó ra với chỉ số dưới rad.
 
-89
+90
 00:05:27,820 --> 00:05:32,240
 Đây là thành phần của điện trường sẽ tỏa ra khỏi một điện tích nhất định.
 
-90
+91
 00:05:33,120 --> 00:05:37,100
 Ví dụ, khi điện tích dao động lên xuống, bạn sẽ có các sóng lan truyền này.
 
-91
+92
 00:05:37,100 --> 00:05:39,884
 Và đối với nhiều trường vectơ tôi sẽ trình bày, 
 
-92
+93
 00:05:39,884 --> 00:05:43,540
 cường độ của trường được minh họa bằng độ mờ của mỗi vectơ nhỏ.
 
-93
+94
 00:05:44,280 --> 00:05:48,874
 Ảnh hưởng bức xạ này là ánh sáng, hay nói chung hơn là bức xạ điện từ, 
 
-94
+95
 00:05:48,874 --> 00:05:53,340
 bao gồm những thứ như sóng vô tuyến và tia X và tất cả những thứ tốt.
 
-95
-00:05:54,820 --> 00:05:58,679
-Xin lưu ý thêm, đôi khi bạn thấy sự lan truyền này được mô tả theo một cách rất khác, 
-
 96
-00:05:58,679 --> 00:06:02,360
-đặt các trường ở phía trước và giữa, sử dụng cái được gọi là phương trình Maxwell.
+00:05:54,820 --> 00:05:58,489
+Lưu ý thêm, đôi khi sự lan truyền này được mô tả theo một cách rất khác, 
 
 97
-00:06:02,880 --> 00:06:06,409
-Vì mục đích của chúng ta, tôi chỉ muốn tập trung vào một định luật này và 
+00:05:58,489 --> 00:06:02,360
+đặt các trường ở phía trước và giữa, sử dụng cái gọi là phương trình Maxwell.
 
 98
-00:06:06,409 --> 00:06:09,940
-chỉ ra nó có thể đưa chúng ta đi bao xa khi nói đến trực giác về ánh sáng.
+00:06:02,880 --> 00:06:06,336
+Vì mục đích của chúng ta, tôi chỉ muốn tập trung vào một định luật này 
 
 99
-00:06:11,620 --> 00:06:14,251
-Đối với những hình ảnh động mà tôi sắp trình chiếu, 
+00:06:06,336 --> 00:06:09,940
+và chỉ ra nó có thể đưa ta đi bao xa khi nói đến sự trực quan về ánh sáng.
 
 100
-00:06:14,251 --> 00:06:18,098
-tất cả những gì tôi thực sự đã làm đều được mã hóa trong một định luật này, 
+00:06:11,620 --> 00:06:14,159
+Với những hình ảnh động mà tôi sắp trình chiếu, 
 
 101
-00:06:18,098 --> 00:06:21,590
-nó cho chúng ta biết thành phần này của điện trường ở mọi điểm trong 
+00:06:14,159 --> 00:06:17,757
+tất cả những gì tôi đã làm đều được mã hóa trong một định luật này, 
 
 102
-00:06:21,590 --> 00:06:25,640
-không gian sẽ như thế nào, được xác định bởi lịch sử gia tốc của một phí cụ thể.
+00:06:17,757 --> 00:06:22,518
+nó cho ta biết thành phần này của điện trường ở mọi điểm trong không gian sẽ như thế nào, 
 
 103
+00:06:22,518 --> 00:06:25,640
+được xác định bởi lịch sử gia tốc của một điện tích cụ thể.
+
+104
 00:06:26,360 --> 00:06:30,277
 Ví dụ, nếu tôi đặt điện tích đó dao động lên xuống theo hướng z và 
 
-104
+105
 00:06:30,277 --> 00:06:34,311
 minh họa thành phần này của điện trường ở mọi nơi trên mặt phẳng xy, 
 
-105
+106
 00:06:34,311 --> 00:06:38,580
 bạn sẽ thấy những đường truyền tròn có cường độ bằng nhau theo mọi hướng.
 
-106
+107
 00:06:40,760 --> 00:06:44,980
 Sẽ dễ nghĩ hơn một chút nếu chúng ta chỉ tập trung vào một trục, chẳng hạn như trục x.
 
-107
-00:06:45,960 --> 00:06:49,650
-Lúc đầu, khi tôi thực hiện hoạt hình này, tôi cho rằng có một loại lỗi nào đó, 
-
 108
-00:06:49,650 --> 00:06:52,360
-bởi vì gần điện tích, nó trông có vẻ quanh co và sai trái.
+00:06:45,960 --> 00:06:49,890
+Lúc đầu, khi tôi thực hiện hoạt ảnh này, tôi cho rằng có một loại lỗi nào đó, 
 
 109
+00:06:49,890 --> 00:06:52,360
+vì gần điện tích, nó trông có vẻ quanh co và sai.
+
+110
 00:06:52,820 --> 00:06:56,647
 Nhưng khi bạn nghĩ về nó, đây thực sự là điều bạn nên mong đợi, 
 
-110
+111
 00:06:56,647 --> 00:07:00,534
 bởi vì hãy nhớ rằng, mỗi một vectơ này được cho là vuông góc với 
 
-111
+112
 00:07:00,534 --> 00:07:05,140
 đường nối giữa điểm đó và nơi điện tích ở một thời điểm nào đó trong quá khứ.
 
-112
-00:07:06,460 --> 00:07:10,479
+113
+00:07:06,460 --> 00:07:10,560
 Tại những điểm cách điện tích đủ xa, đó là nơi mà thành phần này của trường 
 
-113
-00:07:10,479 --> 00:07:14,394
+114
+00:07:10,560 --> 00:07:14,553
 dù sao cũng chiếm ưu thế, sự dao động trong trường về cơ bản là song song 
 
-114
-00:07:14,394 --> 00:07:18,625
+115
+00:07:14,553 --> 00:07:18,870
 với sự dao động trong điện tích, đó là lý do tại sao khi nghĩ về sóng ánh sáng, 
 
-115
-00:07:18,625 --> 00:07:22,540
-chúng ta Có thể an toàn khi coi hướng dao động vuông góc với hướng truyền.
-
 116
+00:07:18,870 --> 00:07:22,540
+ta có thể an toàn khi coi hướng dao động vuông góc với hướng truyền.
+
+117
 00:07:22,540 --> 00:07:26,529
 Như tôi đã nói, sự truyền lan này chỉ với một điện tích cũng mạnh như nhau 
 
-117
+118
 00:07:26,529 --> 00:07:29,507
 theo mọi hướng vuông góc với sự dao động lắc lư của nó, 
 
-118
+119
 00:07:29,507 --> 00:07:33,390
 và tôi thực sự cần nhấn mạnh rằng sự truyền lan này thực sự có rất nhiều 
 
-119
+120
 00:07:33,390 --> 00:07:34,720
 cường độ trong từ trường.
 
-120
+121
 00:07:37,040 --> 00:07:41,533
 Có thể hơi bận khi cố gắng minh họa trường vectơ ba chiều đầy đủ trên màn hình 
 
-121
+122
 00:07:41,533 --> 00:07:45,800
 như thế này, vì vậy sẽ rõ ràng nếu chúng ta chỉ tập trung vào mặt phẳng xz.
 
-122
+123
 00:07:46,300 --> 00:07:51,838
 Lưu ý rằng sóng ở đây mạnh nhất theo hướng x, nhưng nó vẫn truyền theo tất cả các hướng 
 
-123
+124
 00:07:51,838 --> 00:07:57,440
 khác, chỉ là sự truyền lan đó yếu hơn theo các hướng phù hợp hơn với sự dao động ban đầu.
 
-124
+125
 00:07:58,000 --> 00:08:05,538
 Ở mức độ cao nhất, điều duy nhất quan trọng hơn là 
 
-125
+126
 00:08:05,538 --> 00:08:13,520
 hướng sóng sẽ di chuyển theo hướng mà nó sẽ di chuyển.
 
-126
+127
 00:08:14,280 --> 00:08:16,612
 Vậy nếu chúng ta xét sự dao động ở cực trị, nơi 
 
-127
+128
 00:08:16,612 --> 00:08:18,800
 duy nhất không có sự truyền sóng là ở trục z.
 
-128
-00:08:18,800 --> 00:08:21,160
-Bởi vì định luật của chúng ta có 1 chia cho r trong đó, 
-
 129
-00:08:21,160 --> 00:08:24,279
-nên cường độ sóng do chỉ một hạt gây ra sẽ giảm dần khi bạn đi ra xa hơn, 
+00:08:18,800 --> 00:08:21,940
+Vì định luật có 1 chia r trong đó, nên cường độ sóng do chỉ một 
 
 130
-00:08:24,279 --> 00:08:25,080
-tỷ lệ với 1 trên r.
+00:08:21,940 --> 00:08:25,080
+hạt gây ra sẽ giảm dần khi bạn đi ra xa hơn, tỷ lệ với 1 trên r.
 
 131
-00:08:25,080 --> 00:08:28,460
-Nhưng hãy chú ý điều gì sẽ xảy ra nếu tôi lấy cả một hàng điện tích, 
+00:08:25,080 --> 00:08:28,520
+Nhưng chú ý điều gì sẽ xảy ra nếu tôi lấy cả một hàng điện tích, 
 
 132
-00:08:28,460 --> 00:08:32,772
-chẳng hạn như định hướng dọc theo trục y, và tôi cho tất cả chúng bắt đầu ngọ nguậy lên 
+00:08:28,520 --> 00:08:32,860
+chẳng hạn như hướng dọc theo trục y, và cho tất cả chúng bắt đầu lắc lư lên xuống 
 
 133
-00:08:32,772 --> 00:08:37,035
-xuống theo hướng z, và tôi minh họa các hiệu ứng kết hợp mà tất cả chúng có trên thành 
+00:08:32,860 --> 00:08:37,201
+theo hướng z, và minh họa các hiệu ứng kết hợp mà tất cả chúng có trên thành phần 
 
 134
-00:08:37,035 --> 00:08:38,260
-phần này của điện trường.
+00:08:37,201 --> 00:08:38,260
+này của điện trường.
 
 135
 00:08:39,020 --> 00:08:41,838
@@ -543,7 +543,7 @@ Tác động của tất cả các điện tích này giao thoa giải cấu tr�
 nhưng chúng giao thoa tăng cường dọc theo hướng x.
 
 137
-00:08:44,420 --> 00:08:43,600
+00:08:43,600 --> 00:08:44,420
 Đây là hiện tượng một chùm ánh sáng tập trung dọc theo một chiều.
 
 138
@@ -571,32 +571,32 @@ nếu ở một khoảng cách nào đó bạn có một số lượng lớn đi
 bộ với nhau như thế này.
 
 144
-00:09:07,400 --> 00:09:12,122
+00:09:07,400 --> 00:09:12,141
 Một điều đáng nhấn mạnh khi bạn nhìn thấy ánh sáng được minh họa bằng sóng hình 
 
 145
-00:09:12,122 --> 00:09:16,018
+00:09:12,141 --> 00:09:16,053
 sin như thế này là mặc dù sóng đó được vẽ theo hai hoặc ba chiều, 
 
 146
-00:09:16,018 --> 00:09:19,382
+00:09:16,053 --> 00:09:19,431
 nhưng nó chỉ mô tả điện trường dọc theo đường một chiều, 
 
 147
-00:09:19,382 --> 00:09:21,980
-cụ thể là đáy của tất cả các sóng đó. vectơ.
+00:09:19,431 --> 00:09:21,980
+cụ thể là đáy của tất cả các sóng vectơ đó.
 
 148
 00:09:22,400 --> 00:09:25,880
 Chỉ là để vẽ các vectơ bạn phải đi ra khỏi đường thẳng đó.
 
 149
-00:09:27,180 --> 00:09:29,930
-Tuyệt vời, vì vậy một trong những điều quan trọng cuối cùng cần làm 
+00:09:27,180 --> 00:09:29,824
+Tuyệt vời, vậy một trong những điều quan trọng cuối cùng cần 
 
 150
-00:09:29,930 --> 00:09:32,600
-nổi bật trước khi chúng ta quay lại với nước đường là sự phân cực.
+00:09:29,824 --> 00:09:32,600
+làm nổi bật trước khi ta quay lại với nước đường là sự phân cực.
 
 151
 00:09:33,180 --> 00:09:37,753
@@ -687,642 +687,626 @@ Sự khác biệt chính với cơ học lượng tử là năng lượng trong 
 tăng giảm liên tục như bạn mong đợi, nó diễn ra theo từng bước nhỏ riêng biệt.
 
 173
-00:10:59,380 --> 00:11:02,845
+00:10:59,380 --> 00:11:03,128
 Tôi có một video khác trình bày chi tiết hơn, nhưng với mục đích của chúng ta, 
 
 174
-00:11:02,845 --> 00:11:04,600
-suy nghĩ về nó một cách cổ điển là được.
+00:11:03,128 --> 00:11:04,600
+nghĩ theo cách cổ điển là được.
 
 175
-00:11:05,300 --> 00:11:08,391
-Một phần lý do khiến tôi muốn trải qua điều đó là vì thực lòng mà nói, 
+00:11:05,300 --> 00:11:08,374
+Một phần lý do tôi muốn nói qua điều đó, vì thực sự việc tạo 
 
 176
-00:11:08,391 --> 00:11:11,700
-việc tạo hoạt ảnh rất thú vị và tôi thích một cái cớ cho một bài học cơ bản.
+00:11:08,374 --> 00:11:11,700
+hoạt ảnh rất thú vị và tôi thích một khởi động cho bài học cơ bản.
 
 177
-00:11:12,360 --> 00:11:15,303
-Nhưng bây giờ chúng ta hãy quay lại bản demo của chúng ta và xem cách 
+00:11:12,360 --> 00:11:16,218
+Nhưng giờ ta quay lại thử nghiệm của mình và xem cách chúng ta có thể tạo một sự 
 
 178
-00:11:15,303 --> 00:11:18,247
-chúng ta có thể xây dựng trực giác cho một số câu hỏi chính của mình, 
+00:11:16,218 --> 00:11:19,981
+trực quan với các câu hỏi, bắt đầu từ tiền đề rất cơ bản này rằng việc lắc một 
 
 179
-00:11:18,247 --> 00:11:21,106
-bắt đầu từ tiền đề rất cơ bản này rằng việc lắc một điện tích ở một 
+00:11:19,981 --> 00:11:23,840
+điện tích ở một vị trí sẽ gây ra việc lắc một chút cho một điện tích khác sau đó.
 
 180
-00:11:21,106 --> 00:11:23,840
-vị trí sẽ gây ra rung lắc cho một điện tích khác sau đó một chút.
-
-181
 00:11:24,180 --> 00:11:26,639
 Và hãy bắt đầu bằng cách chuyển sang câu hỏi số ba, 
 
-182
+181
 00:11:26,639 --> 00:11:28,720
 tại sao chúng ta lại nhìn thấy các sọc chéo?
 
-183
+182
 00:11:33,680 --> 00:11:38,005
 Để nghĩ về điều này, bạn cần tưởng tượng một người quan sát ở một bên của ống, 
 
-184
+183
 00:11:38,005 --> 00:11:41,673
 và sau đó đối với một màu thuần nhất cụ thể, chẳng hạn như màu đỏ, 
 
-185
+184
 00:11:41,673 --> 00:11:45,998
 nếu người quan sát nhìn vào trong ống và thấy màu đó thì đó là do ánh sáng của 
 
-186
+185
 00:11:45,998 --> 00:11:50,158
 màu đó đã bật ra một cái gì đó ở điểm đó trong ống và sau đó truyền tới mắt 
 
-187
+186
 00:11:50,158 --> 00:11:50,980
 người quan sát.
 
-188
+187
 00:11:51,540 --> 00:11:54,673
 Đôi khi khi người ta nói về ánh sáng phản chiếu từ các vật thể, 
 
-189
+188
 00:11:54,673 --> 00:11:57,856
 hình ảnh ngụ ý trong đầu là một cái gì đó giống như một viên đạn 
 
-190
+189
 00:11:57,856 --> 00:12:01,480
 bật ra khỏi một vật thể nào đó và lao đi theo một hướng ngẫu nhiên nào đó.
 
-191
+190
 00:12:02,280 --> 00:12:06,015
 Nhưng hình ảnh tốt hơn mà bạn nên ghi nhớ là khi các sóng ánh sáng lan truyền 
 
-192
+191
 00:12:06,015 --> 00:12:10,326
 do một điện tích dao động nào đó chạm tới một điện tích thứ hai nào đó khiến nó dao động, 
 
-193
+192
 00:12:10,326 --> 00:12:13,440
 thì sự dao động thứ cấp đó sẽ dẫn đến sự lan truyền của chính nó.
 
-194
+193
 00:12:14,280 --> 00:12:18,302
 Và đối với hoạt ảnh trên màn hình, sự lan truyền đó quay trở lại điện tích đầu tiên, 
 
-195
+194
 00:12:18,302 --> 00:12:20,810
 chính nó gây ra sự truyền về phía điện tích thứ hai, 
 
-196
+195
 00:12:20,810 --> 00:12:24,880
 và đây là những gì trông giống như trong một tình huống rất đơn giản để ánh sáng phản 
 
-197
+196
 00:12:24,880 --> 00:12:26,300
 xạ qua lại giữa hai điện tích.
 
-198
+197
 00:12:27,160 --> 00:12:31,656
 Nếu bạn có một chùm ánh sáng phân cực tập trung nào đó tương tác với 
 
-199
+198
 00:12:31,656 --> 00:12:35,110
 một điện tích nào đó, làm cho nó dao động lên xuống, 
 
-200
+199
 00:12:35,110 --> 00:12:39,801
 thì kết quả là sự lan truyền bậc hai này mạnh nhất theo hướng vuông góc 
 
-201
+200
 00:12:39,801 --> 00:12:41,040
 với hướng phân cực.
 
-202
+201
 00:12:41,540 --> 00:12:45,318
 Theo một nghĩa nào đó, bạn có thể coi ánh sáng như bật ra khỏi điện tích đó, 
 
-203
+202
 00:12:45,318 --> 00:12:48,409
 nhưng điểm quan trọng là nó không nảy theo mọi hướng như nhau, 
 
-204
+203
 00:12:48,409 --> 00:12:51,108
 nó mạnh nhất theo phương vuông góc với hướng dao động, 
 
-205
+204
 00:12:51,108 --> 00:12:53,120
 nhưng yếu hơn theo tất cả các hướng khác.
 
+205
+00:12:54,640 --> 00:12:58,315
+Vậy nghĩ về cách bố trí của chúng ta, và với một tần số ánh sáng cụ thể, 
+
 206
-00:12:54,640 --> 00:12:58,643
-Vì vậy, hãy nghĩ về cách bố trí của chúng ta, và đối với một tần số ánh sáng cụ thể, 
+00:12:58,315 --> 00:13:02,745
+khả năng một người quan sát nhìn vào một điểm cụ thể trong ống sẽ nhìn thấy ánh sáng đó 
 
 207
-00:12:58,643 --> 00:13:01,610
-khả năng một người quan sát nhìn vào một điểm cụ thể trong ống 
+00:13:02,745 --> 00:13:03,400
+là bao nhiêu.
 
 208
-00:13:01,610 --> 00:13:03,400
-sẽ nhìn thấy ánh sáng đó là bao nhiêu.
+00:13:04,300 --> 00:13:08,544
+Một lần nữa, chìa khóa của hiện tượng với nước đường mà chúng ta vẫn chưa 
 
 209
-00:13:04,300 --> 00:13:08,339
-Một lần nữa, hiện tượng chính của nước đường mà chúng tôi vẫn chưa 
-
-210
-00:13:08,339 --> 00:13:12,560
+00:13:08,544 --> 00:13:12,560
 giải thích được là hướng phân cực dần bị xoắn lại khi nó đi xuống ống.
 
-211
+210
 00:13:13,360 --> 00:13:17,150
 Vì vậy, giả sử người quan sát đang nhìn vào một điểm giống như điểm này, 
 
-212
+211
 00:13:17,150 --> 00:13:19,280
 nơi hướng phân cực là thẳng lên và xuống.
 
-213
+212
 00:13:19,280 --> 00:13:23,014
 Khi đó, sự lan truyền bậc hai do các điện tích dao động tại điểm 
 
-214
+213
 00:13:23,014 --> 00:13:26,405
 đó mạnh nhất dọc theo mặt phẳng nơi người quan sát đang ở, 
 
-215
+214
 00:13:26,405 --> 00:13:30,140
 do đó lượng màu đỏ mà họ nhìn thấy tại điểm đó sẽ trông mạnh hơn.
 
-216
+215
 00:13:31,080 --> 00:13:35,114
 Ngược lại, nếu họ đang nhìn vào một điểm khác trong ống như điểm này, 
 
-217
+216
 00:13:35,114 --> 00:13:38,342
 nơi mà hướng dao động gần như song song với đường ngắm, 
 
-218
+217
 00:13:38,342 --> 00:13:42,954
 thì hướng mà sự tán xạ mạnh nhất hoàn toàn không thẳng hàng với người quan sát, 
 
-219
+218
 00:13:42,954 --> 00:13:45,260
 và lượng màu đỏ họ nhìn thấy sẽ rất yếu.
 
+219
+00:13:46,500 --> 00:13:50,512
+Và nhìn vào thiết lập vật lý thực tế, nếu lần đầu tiên ta truyền ánh sáng qua 
+
 220
-00:13:46,500 --> 00:13:48,767
-Và nhìn vào thiết lập vật lý thực tế của chúng ta, 
+00:13:50,512 --> 00:13:54,680
+một bộ lọc chỉ hiển thị màu đỏ, ta sẽ thấy chính xác hiệu ứng này đang hoạt động.
 
 221
-00:13:48,767 --> 00:13:52,234
-nếu lần đầu tiên chúng ta truyền ánh sáng qua một bộ lọc chỉ hiển thị màu đỏ, 
-
-222
-00:13:52,234 --> 00:13:54,680
-chúng ta sẽ thấy chính xác hiệu ứng này đang hoạt động.
-
-223
 00:13:55,020 --> 00:13:59,720
 Khi bạn quét mắt dọc theo ống, cường độ màu đỏ mà bạn nhìn 
 
-224
+222
 00:13:59,720 --> 00:14:04,740
 thấy sẽ chuyển từ cao xuống thấp, nơi gần như đen, rồi lại cao.
 
-225
+223
 00:14:06,040 --> 00:14:09,568
 Tương tự, hãy tưởng tượng có một dải ruy băng đi xuống 
 
-226
+224
 00:14:09,568 --> 00:14:12,840
 ống luôn thẳng hàng với hướng phân cực của màu này.
 
-227
-00:14:12,840 --> 00:14:15,382
+225
+00:14:12,840 --> 00:14:15,476
 Sau đó, hãy đặt mình vào vị trí của người quan sát, 
 
-228
-00:14:15,382 --> 00:14:18,316
+226
+00:14:15,476 --> 00:14:18,517
 khi bạn nhìn vào những điểm mà dải ruy băng có vẻ rất mỏng, 
 
+227
+00:14:18,517 --> 00:14:22,573
+bạn sẽ thấy rất ít ánh sáng đỏ, trong khi đó nếu quét mắt qua những điểm mà dải 
+
+228
+00:14:22,573 --> 00:14:25,260
+ruy băng có vẻ dày hơn, bạn sẽ thấy nhiều đèn đỏ hơn.
+
 229
-00:14:18,316 --> 00:14:22,423
-bạn sẽ thấy rất ít ánh sáng đỏ, trong khi đó nếu bạn quét mắt qua những điểm mà dải 
-
-230
-00:14:22,423 --> 00:14:25,260
-ruy băng có vẻ dày hơn, bạn' bạn sẽ thấy nhiều đèn đỏ hơn.
-
-231
 00:14:25,960 --> 00:14:29,851
 Một điều thú vị về điều này là nếu chúng ta thử nó với nhiều màu khác nhau, 
 
-232
+230
 00:14:29,851 --> 00:14:33,640
 bạn thực sự có thể thấy tốc độ xoắn khác nhau như thế nào đối với mỗi màu.
 
-233
+231
 00:14:34,320 --> 00:14:38,610
 Lưu ý với ánh sáng đỏ, khoảng cách giữa nơi nó sáng nhất và nơi nó xuất hiện 
 
-234
+232
 00:14:38,610 --> 00:14:43,123
 tối nhất là tương đối dài, trong khi đó nếu bạn nhìn xuống màu sắc của cầu vồng, 
 
-235
+233
 00:14:43,123 --> 00:14:47,080
 khoảng cách giữa điểm sáng nhất và điểm tối nhất sẽ ngày càng thấp hơn.
 
-236
+234
 00:14:48,720 --> 00:14:53,267
 Vì vậy, những gì bạn đang thấy thực tế là cách ánh sáng đỏ xoắn chậm, 
 
-237
+235
 00:14:53,267 --> 00:14:57,100
 trong khi sóng ánh sáng có tần số cao hơn bị xoắn mạnh hơn.
 
-238
+236
 00:15:01,260 --> 00:15:03,577
 Tuy nhiên, bạn vẫn có thể thắc mắc tại sao ranh giới 
 
-239
+237
 00:15:03,577 --> 00:15:05,720
 giữa các điểm sáng và điểm tối lại có đường chéo.
 
-240
+238
 00:15:06,200 --> 00:15:11,034
 Tại sao ngoài việc có sự biến đổi khi bạn quét mắt từ trái sang phải, 
 
-241
+239
 00:15:11,034 --> 00:15:15,040
 còn có sự biến đổi khi bạn quét mắt từ đầu ống xuống dưới?
 
-242
-00:15:15,920 --> 00:15:18,112
+240
+00:15:15,920 --> 00:15:18,299
 Điều này ít liên quan đến những gì đang diễn ra 
 
-243
-00:15:18,112 --> 00:15:20,580
-trong ống mà liên quan nhiều hơn đến vấn đề quan điểm.
+241
+00:15:18,299 --> 00:15:20,580
+trong ống mà liên quan hơn là vấn đề góc nhìn.
 
-244
+242
 00:15:21,500 --> 00:15:25,619
 Hãy dành một chút thời gian để suy nghĩ về nhiều chùm ánh sáng song song khác nhau, 
 
-245
+243
 00:15:25,619 --> 00:15:26,600
 từ đỉnh ống đến đáy.
 
-246
+244
 00:15:27,020 --> 00:15:30,140
 Lúc đầu, tất cả các sóng ánh sáng này đang lắc lư lên xuống, 
 
-247
+245
 00:15:30,140 --> 00:15:34,334
 và khi bạn đi qua ống và tác động của nước đường bằng cách nào đó sẽ làm xoắn các 
 
-248
+246
 00:15:34,334 --> 00:15:37,454
 hướng này, bởi vì chúng đều truyền qua cùng một lượng đường, 
 
-249
+247
 00:15:37,454 --> 00:15:39,500
 chúng bị xoắn lại với số lượng như nhau.
 
-250
+248
 00:15:39,500 --> 00:15:44,000
 Vì vậy tại mọi điểm, độ phân cực của các sóng này song song với nhau.
 
-251
+249
 00:15:44,660 --> 00:15:48,146
 Nếu bạn là người quan sát và bạn nhìn vào điểm trên cùng ở đây, 
 
-252
+250
 00:15:48,146 --> 00:15:51,360
 hướng lắc lư của nó về cơ bản là song song với đường ngắm, 
 
-253
+251
 00:15:51,360 --> 00:15:55,120
 do đó ánh sáng tán xạ từ điểm đó về cơ bản sẽ không đến được mắt bạn.
 
-254
+252
 00:15:55,280 --> 00:15:56,220
 Nó sẽ xuất hiện màu đen.
 
-255
+253
 00:15:56,760 --> 00:16:01,675
 Nhưng nếu bạn quét mắt dọc theo ống, góc giữa đường ngắm và hướng lắc lư sẽ thay đổi, 
 
-256
+254
 00:16:01,675 --> 00:16:06,020
 và do đó sẽ có ít nhất một thành phần ánh sáng đỏ nào đó tán xạ về phía mắt.
 
-257
+255
 00:16:06,020 --> 00:16:09,456
 Vì vậy, khi bạn quét mắt từ trên xuống dưới, lượng màu cụ thể 
 
-258
+256
 00:16:09,456 --> 00:16:13,060
 mà bạn nhìn thấy có thể khác nhau, chẳng hạn như từ đậm đến nhạt.
 
+257
+00:16:14,960 --> 00:16:19,696
+Thử nghiệm đầy đủ với ánh sáng trắng về cơ bản là sự kết hợp của tất cả các mẫu màu 
+
+258
+00:16:19,696 --> 00:16:24,546
+thuần túy chuyển từ sáng sang tối này với các đường ranh giới chéo giữa các điểm sáng 
+
 259
-00:16:14,960 --> 00:16:19,732
-Bản demo đầy đủ có ánh sáng trắng về cơ bản là sự kết hợp của tất cả các mẫu 
+00:16:24,546 --> 00:16:29,340
+mạnh và điểm sáng yếu, do đó bạn nhìn thấy ranh giới chéo giữa các màu bên trong ống.
 
 260
-00:16:19,732 --> 00:16:24,381
-màu thuần túy chuyển từ sáng sang tối này với các ranh giới chéo giữa điểm 
-
-261
-00:16:24,381 --> 00:16:29,340
-mạnh và điểm yếu, do đó bạn nhìn thấy ranh giới chéo giữa các màu bên trong ống.
-
-262
 00:16:31,220 --> 00:16:35,224
 Và cuối cùng bây giờ chúng ta hãy quay lại trọng tâm của vấn đề và cố gắng giải 
 
-263
+261
 00:16:35,224 --> 00:16:39,480
 thích tại sao ngay từ đầu khi tương tác với đường lại tạo ra sự xoắn nhẹ như thế này.
 
-264
+262
 00:16:39,680 --> 00:16:42,064
 Nó liên quan đến ý tưởng rằng ánh sáng dường như 
 
-265
+263
 00:16:42,064 --> 00:16:44,400
 chậm lại khi nó đi qua một môi trường nhất định.
 
-266
+264
 00:16:44,900 --> 00:16:49,236
 Ví dụ, nếu bạn nhìn vào đỉnh của một sóng ánh sáng khi nó truyền vào nước, 
 
-267
+265
 00:16:49,236 --> 00:16:52,822
-thì các đỉnh trong nước sẽ truyền đi khoảng 1.Chậm hơn 33 lần 
+thì các đỉnh trong nước sẽ truyền đi khoảng chậm hơn 1.33 lần 
 
-268
+266
 00:16:52,822 --> 00:16:55,540
 so với đỉnh sóng đó truyền đi trong chân không.
 
-269
+267
 00:16:56,280 --> 00:16:58,940
 Con số này được gọi là chỉ số khúc xạ của nước.
 
+268
+00:16:59,640 --> 00:17:04,308
+Điều tôi muốn trình bày một chút là cách chiết suất này có thể được giải thích bằng 
+
+269
+00:17:04,308 --> 00:17:08,977
+cách phân tích sóng ánh sáng ban đầu làm rung chuyển tất cả các điện tích trong vật 
+
 270
-00:16:59,640 --> 00:17:04,048
-Điều tôi muốn trình bày một chút là chiết suất này có thể được giải thích như thế nào 
+00:17:08,977 --> 00:17:13,480
+liệu và cách thức kết quả truyền sóng bậc hai chồng lên sóng ánh sáng ban đầu đó.
 
 271
-00:17:04,048 --> 00:17:08,610
-bằng cách phân tích sóng ánh sáng ban đầu làm rung chuyển tất cả các điện tích trong vật 
-
-272
-00:17:08,610 --> 00:17:13,069
-liệu như thế nào và kết quả truyền sóng bậc hai chồng lên sóng ánh sáng ban đầu đó như 
-
-273
-00:17:13,069 --> 00:17:13,480
-thế nào.
-
-274
 00:17:14,280 --> 00:17:18,933
 Hiện tại, tôi sẽ chỉ nói rằng sự tương tác với từng lớp vật liệu cuối cùng sẽ 
 
-275
+272
 00:17:18,933 --> 00:17:23,169
 có tác dụng làm lệch pha của sóng một chút về phía sau và về tổng thể, 
 
-276
+273
 00:17:23,169 --> 00:17:28,480
 điều này mang lại vẻ ngoài tổng thể là sóng đó di chuyển chậm hơn khi nó đi qua vật liệu.
 
-277
-00:17:30,700 --> 00:17:35,620
-Bỏ qua những gì đang xảy ra với đường, đặc tính liên quan của sucrose ở đây là nó 
+274
+00:17:30,700 --> 00:17:35,827
+Bỏ qua những gì đang xảy ra với đường, đặc tính liên quan của saccarozơ ở đây là nó được 
 
-278
-00:17:35,620 --> 00:17:40,840
-được gọi là phân tử bất đối, nghĩa là về cơ bản nó khác với hình ảnh phản chiếu của nó.
+275
+00:17:35,827 --> 00:17:40,840
+gọi là phân tử bất đối xứng, nghĩa là về cơ bản nó khác với hình ảnh phản chiếu của nó.
 
-279
+276
 00:17:41,000 --> 00:17:42,767
 Bạn không bao giờ có thể định hướng lại nó trong không 
 
-280
+277
 00:17:42,767 --> 00:17:44,600
 gian để trở nên giống hệt với hình ảnh phản chiếu của nó.
 
-281
+278
 00:17:44,800 --> 00:17:46,920
 Nó giống như tay trái hay tay phải.
 
-282
+279
 00:17:47,380 --> 00:17:50,740
 Hoặc một ví dụ khác đơn giản hơn nhiều về hình dạng bất đối xứng là hình xoắn ốc.
 
-283
+280
 00:17:51,140 --> 00:17:54,377
 Nếu tôi lấy hình xoắn ốc thuận tay phải này, thì ảnh phản chiếu của nó là hình 
 
-284
+281
 00:17:54,377 --> 00:17:57,738
 xoắn ốc thuận tay trái, và cho dù bạn có cố gắng xoay và định hướng lại hình xoắn 
 
-285
+282
 00:17:57,738 --> 00:18:01,140
 ốc đầu tiên đó như thế nào, nó sẽ không bao giờ giống hệt với hình xoắn ốc thứ hai.
 
-286
+283
 00:18:03,560 --> 00:18:08,950
 Điều đang diễn ra là sự hiện diện của một phân tử bất đối trong nước như thế này gây ra 
 
-287
+284
 00:18:08,950 --> 00:18:14,280
 sự bất đối xứng khi nói đến tương tác với ánh sáng, đặc biệt là ánh sáng phân cực tròn.
 
-288
+285
 00:18:15,060 --> 00:18:19,114
 Hóa ra là lượng phân tử bất đối này làm chậm lại, chẳng hạn, 
 
-289
+286
 00:18:19,114 --> 00:18:24,430
 ánh sáng phân cực tròn thuận tay trái khác với lượng làm chậm ánh sáng phân cực 
 
-290
+287
 00:18:24,430 --> 00:18:25,760
 tròn thuận tay phải.
 
-291
+288
 00:18:26,100 --> 00:18:29,240
 Thực tế, không có một chỉ số khúc xạ mà là hai.
 
-292
+289
 00:18:30,200 --> 00:18:34,063
 Bây giờ bạn có thể nói rằng điều đó dường như không liên quan đến thiết lập của chúng ta, 
 
-293
+290
 00:18:34,063 --> 00:18:37,154
 vì chúng ta chiếu sáng rất có chủ ý trong ánh sáng phân cực tuyến tính, 
 
-294
+291
 00:18:37,154 --> 00:18:38,700
 nên không có ánh sáng phân cực tròn.
 
-295
+292
 00:18:39,360 --> 00:18:42,710
 Nhưng thực ra, có một ý nghĩa trong đó ánh sáng phân cực tuyến tính 
 
-296
+293
 00:18:42,710 --> 00:18:46,060
 là hai phần bằng nhau của ánh sáng phân cực tròn thuận trái và phải.
 
-297
+294
 00:18:47,620 --> 00:18:51,525
 Ở đây, hãy tập trung sự chú ý của bạn vào chỉ một vectơ trong sóng này, 
 
-298
+295
 00:18:51,525 --> 00:18:54,780
 dao động thẳng lên và xuống, nghĩa là phân cực theo hướng z.
 
-299
+296
 00:18:55,880 --> 00:19:00,049
 Lưu ý cách có thể biểu thị vectơ này dưới dạng tổng của hai vectơ quay, 
 
-300
+297
 00:19:00,049 --> 00:19:03,582
 một trong số chúng quay với tốc độ không đổi ngược chiều kim 
 
-301
+298
 00:19:03,582 --> 00:19:06,420
 đồng hồ và vectơ kia quay theo chiều kim đồng hồ.
 
-302
+299
 00:19:07,960 --> 00:19:11,760
 Việc cộng chúng lại với nhau sẽ tạo ra một vectơ dao động trên một đường thẳng.
 
-303
+300
 00:19:13,660 --> 00:19:15,792
 Trong trường hợp này, đó là một đường thẳng đứng, 
 
-304
+301
 00:19:15,792 --> 00:19:18,778
 nhưng hướng đó có thể thay đổi dựa trên pha của hai vectơ mà chúng ta 
 
-305
+302
 00:19:18,778 --> 00:19:19,760
 đang cộng lại với nhau.
 
-306
+303
 00:19:20,440 --> 00:19:24,346
 Ở đây, hãy để tôi đưa ra một vài nhãn để theo dõi tổng cộng mỗi một trong hai 
 
-307
+304
 00:19:24,346 --> 00:19:28,203
 vectơ đó đã quay bao nhiêu, và sau đó thỉnh thoảng tôi sẽ làm chậm vectơ đầu 
 
-308
+305
 00:19:28,203 --> 00:19:32,260
 tiên đó một chút, và tôi muốn bạn để nhận thấy điều gì xảy ra với tổng của chúng.
 
-309
+306
 00:19:36,320 --> 00:19:41,158
 Chà, mỗi khi tôi làm nó chậm lại, làm lùi pha của nó một chút một cách hiệu quả, 
 
-310
+307
 00:19:41,158 --> 00:19:45,340
 nó sẽ khiến tổng dao động tuyến tính dao động theo một hướng hơi khác.
 
-311
-00:19:46,280 --> 00:19:50,536
-Vì vậy, nếu sóng ánh sáng phân cực tròn biểu thị bởi vectơ bên trái đó bị 
+308
+00:19:46,280 --> 00:19:50,580
+Vì vậy, nếu sóng ánh sáng phân cực tròn biểu thị bởi vectơ bên trái đó 
 
-312
-00:19:50,536 --> 00:19:54,102
-chậm đi một chút mỗi khi nó chạy ngang qua một phân tử đường, 
+309
+00:19:50,580 --> 00:19:54,516
+bị chậm đi một chút mỗi khi nó chạy ngang qua một phân tử đường, 
 
-313
-00:19:54,102 --> 00:19:58,761
+310
+00:19:54,516 --> 00:19:59,422
 hoặc ít nhất là chậm lại nhiều hơn so với sóng ánh sáng quay ngược chiều của nó, 
 
-314
-00:19:58,761 --> 00:20:03,420
-thì hiệu ứng trên tổng là làm quay chậm phân tử đường. hướng phân cực tuyến tính.
+311
+00:19:59,422 --> 00:20:03,420
+thì hiệu ứng trên tổng là làm quay chậm hướng phân cực tuyến tính.
 
-315
-00:20:04,220 --> 00:20:07,325
+312
+00:20:04,220 --> 00:20:07,832
 Và do đó, khi bạn nhìn vào các lát cắt ngày càng sâu hơn trong ống, 
 
-316
-00:20:07,325 --> 00:20:10,476
+313
+00:20:07,832 --> 00:20:11,497
 hướng phân cực thực sự bị xoắn theo cách chúng ta đã mô tả trước đó, 
 
-317
-00:20:10,476 --> 00:20:14,267
-biểu thị các hiệu ứng tổng hợp với nhiều phân tử đường khác nhau hơi khác nhau đối 
+314
+00:20:11,497 --> 00:20:15,109
+biểu thị các hiệu ứng tổng hợp với rất rất nhiều phân tử đường khác 
 
-318
-00:20:14,267 --> 00:20:17,555
-với ánh sáng thuận tay trái như thế nào so với ánh sáng thuận tay trái. 
+315
+00:20:15,109 --> 00:20:19,200
+nhau là sự khác biệt nhỏ của ánh sáng phía bên trái so với ánh sáng bên phải.
 
-319
-00:20:17,555 --> 00:20:19,200
-chúng dành cho người thuận tay phải.
-
-320
-00:20:20,040 --> 00:20:23,450
+316
+00:20:20,040 --> 00:20:23,962
 Một cách hay để kiểm tra xem bạn có hiểu mọi thứ cho đến thời điểm này hay không, 
 
-321
-00:20:23,450 --> 00:20:26,777
+317
+00:20:23,962 --> 00:20:27,789
 hãy xem liệu chỉ cần nhìn vào hướng của các lát cắt chéo trên ống của chúng ta, 
 
-322
-00:20:26,777 --> 00:20:29,689
+318
+00:20:27,789 --> 00:20:31,138
 bạn có thể suy ra loại ánh sáng nào mà đường đang chậm lại nhiều hơn, 
 
-323
-00:20:29,689 --> 00:20:33,100
-ánh sáng thuận tay trái hay ánh sáng thuận tay trái hay không. đèn thuận tay phải.
+319
+00:20:31,138 --> 00:20:33,100
+ánh sáng bên trái hoặc ánh sáng bên phải.
 
-324
+320
 00:20:35,920 --> 00:20:39,288
 Tôi sẽ gọi đây là câu trả lời một phần cho câu hỏi số một của chúng ta, 
 
-325
+321
 00:20:39,288 --> 00:20:42,330
 bởi vì nó vẫn khiến chúng ta thắc mắc tại sao ngay từ đầu lại có 
 
-326
+322
 00:20:42,330 --> 00:20:46,353
 chiết suất và nó có thể phụ thuộc chính xác như thế nào vào sự phân cực của ánh sáng, 
 
-327
+323
 00:20:46,353 --> 00:20:48,740
 chứ không chỉ vào vật chất mà nó truyền qua bởi vì.
 
-328
-00:20:49,200 --> 00:20:53,487
-Ngoài ra, như tôi đã nói lúc đầu, trực giác đủ mạnh ở đây cũng sẽ trả lời cho 
+324
+00:20:49,200 --> 00:20:53,624
+Ngoài ra, như tôi đã nói lúc đầu, một sự trực quan đủ mạnh ở đây cũng sẽ trả lời 
 
-329
-00:20:53,487 --> 00:20:57,940
-chúng ta tại sao cường độ của hiệu ứng này lại phụ thuộc vào tần số của ánh sáng.
+325
+00:20:53,624 --> 00:20:57,940
+cho ta tại sao cường độ của hiệu ứng này lại phụ thuộc vào tần số của ánh sáng.
 
-330
+326
 00:20:58,780 --> 00:21:12,662
 Tại thời điểm này, tôi nghĩ chúng ta đã trình bày khá đủ cho một video, 
 
-331
+327
 00:21:12,662 --> 00:21:28,859
 vì vậy tôi sẽ đưa ra một cuộc thảo luận về nguồn gốc của chiết suất trong một video 
 
-332
+328
 00:21:28,859 --> 00:21:30,980
 riêng biệt.
 

@@ -184,7 +184,7 @@
   "end": 191.36
  },
  {
-  "input": "When I want to convey the idea of 2D space as a whole, which you'll see comes up a bit in the way, but right now they'll get a little bit in the way.",
+  "input": "When I want to convey the idea of 2D space as a whole, which you'll see comes up a lot in these videos, I'll extend these tick marks to make grid lines, but right now, they'll actually get a little bit in the way.",
   "translatedText": "Amikor a 2D-s tér egészének gondolatát akarom közvetíteni, ami, mint látni fogod, egy kicsit útban lesz, de most egy kicsit útban lesznek.",
   "model": "DeepL",
   "n_reviews": 0,
@@ -536,7 +536,7 @@
   "end": 540.28
  },
  {
-  "input": "And on the flip side, it gives people like physicists and computer graphics programmers a language to describe space and the computer.",
+  "input": "And on the flip side, it gives people like physicists and computer graphics programmers a language to describe space and the manipulation of space using numbers that can be crunched and run through a computer.",
   "translatedText": "A másik oldalról pedig olyan embereknek, mint a fizikusok és a számítógépes grafikusok, egy nyelvet ad, amellyel leírhatják a teret és a számítógépet.",
   "model": "DeepL",
   "n_reviews": 0,
@@ -560,19 +560,11 @@
   "end": 566.58
  },
  {
-  "input": "So there are your vector basics, and in the next video I'll start getting into some pretty neat concepts surrounding vectors, like span, bases, and linear dependence.",
-  "translatedText": "Itt vannak tehát a vektorok alapjai, és a következő videóban elkezdek belemenni a vektorokkal kapcsolatos néhány nagyon szép fogalomba, mint például a tartomány, a bázisok és a lineáris függőség.",
+  "input": "So there are your vector basics, and in the next video I'll start getting into some pretty neat concepts surrounding vectors like span, bases, and linear dependence. See you then! you",
+  "translatedText": "Itt vannak tehát a vektorok alapjai, és a következő videóban elkezdek belemenni néhány nagyon szép fogalomba a vektorok körül, mint például a tartomány, a bázisok és a lineáris függőség. Viszlát!",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 567.84,
-  "end": 575.22
- },
- {
-  "input": "See you then!",
-  "translatedText": "Viszlát!",
-  "model": "DeepL",
-  "n_reviews": 0,
-  "start": 575.72,
   "end": 591.82
  }
 ]

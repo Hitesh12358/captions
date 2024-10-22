@@ -9,7 +9,7 @@
  },
  {
   "input": "We were talking about Hamming codes, a way to create a block of data where most of the bits carry a meaningful message, while a few others act as a kind of redundancy, in such a way that if any bit gets flipped, either a message bit or a redundancy bit, anything in this block, a receiver is going to be able to identify that there was an error, and how to fix it.",
-  "translatedText": "A Hamming-kódokról beszéltünk, egy olyan adatblokk létrehozásának módjáról, ahol a legtöbb bit egy értelmes üzenetet hordoz, míg néhány másik egyfajta redundanciaként működik, oly módon, hogy ha bármelyik bit átbillen, akár egy üzenetbit, akár egy redundanciabit, bármi ebben a blokkban, a vevő képes lesz azonosítani, hogy hiba történt, és hogyan kell kijavítani azt.",
+  "translatedText": "A Hamming-kódokról beszéltünk. Egy olyan adatblokk létrehozásának módjáról, ahol a legtöbb bit egy értelmes üzenetet hordoz, a többi egyfajta redundanciaként működik, oly módon, hogy ha bármelyik bit átbillen, akár egy üzenetbit, akár egy redundanciabit, a vevő képes lesz azonosítani, hogy hiba történt, és hogyan kell kijavítani azt.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 3.06,
@@ -17,7 +17,7 @@
  },
  {
   "input": "The basic idea presented there was how to use multiple parity checks to binary search your way down to the error.",
-  "translatedText": "Az ott bemutatott alapötlet az volt, hogy hogyan lehet a többszörös paritásellenőrzést egyfajta bináris keresésként használva eljutni a hibáig.",
+  "translatedText": "A bemutatott alapötlet az volt, hogy hogyan lehet a paritásellenőrzéseket egyfajta bináris keresésként használni.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 21.88,
@@ -33,7 +33,7 @@
  },
  {
   "input": "But as you start to think about actually implementing this, either in software or hardware, that framing may actually undersell how elegant these codes really are.",
-  "translatedText": "De ha elkezdünk gondolkodni a tényleges szoftveres vagy hardveres megvalósításon, rájöhetünk, hogy a korábbi megközelítésünk nem érzékelteti eléggé, hogy ezek a kódok valójában mennyire elegánsak.",
+  "translatedText": "De ha elkezdünk gondolkodni a tényleges megvalósításon, rájöhetünk, hogy a korábbi megközelítésünk nem érzékelteti eléggé, hogy ezek a kódok valójában mennyire elegánsak.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 35.18,
@@ -41,7 +41,7 @@
  },
  {
   "input": "You might think that you need to write an algorithm that keeps track of all the possible error locations and cuts that group in half with each check, but it's actually way, way simpler than that.",
-  "translatedText": "Azt gondolhatnád, hogy olyan algoritmust kell írnod, amely számon tartja a hiba összes lehetséges helyét, és minden egyes ellenőrzésnél felezi a tartományt, de ez valójában sokkal, de sokkal egyszerűbb ennél.",
+  "translatedText": "Azt gondolhatnád, hogy olyan algoritmust kell írnod, amely számon tartja a hiba  lehetséges helyeit, és minden egyes ellenőrzésnél felezi a tartományt, de ez valójában sokkal egyszerűbb ennél.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 43.92,
@@ -217,7 +217,7 @@
  },
  {
   "input": "The first is how to systematically generalize to block sizes that are bigger powers of two.",
-  "translatedText": "Az első az, hogy hogyan lehet szisztematikusan általánosítani a nagyobb kettes hatványait jelentő blokkméretekre.",
+  "translatedText": "Az első, hogy hogyan lehet szisztematikusan általánosítani a nagyobb kettes hatvány blokkméretekre.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 202.04,
@@ -233,7 +233,7 @@
  },
  {
   "input": "Those of you who watched the chessboard puzzle I did with Matt Parker might find all this exceedingly familiar.",
-  "translatedText": "Azok, akik látták a sakktáblás rejtvényt, amit Matt Parkerrel csináltam, mindezt rendkívül ismerősnek találhatják.",
+  "translatedText": "Akik látták a sakktáblás rejtvényt, amit Matt Parkerrel csináltam, mindezt igen ismerősnek találhatják.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 218.4,
@@ -249,7 +249,7 @@
  },
  {
   "input": "The second thing I hope this makes clear is why our parity bits are sitting in the positions that are powers of two, for example 1, 2, 4, and 8.",
-  "translatedText": "A második dolog, amit remélem, hogy ez világossá tesz, hogy miért ülnek a paritásbitjeink olyan pozíciókban, amelyek a kettő hatványai, például 1, 2, 4 és 8.",
+  "translatedText": "A második dolog, amit remélem világossá tudok tenni, hogy miért ülnek a paritásbitjeink olyan pozíciókban, amelyek a kettő hatványai, például 1, 2, 4 és 8.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 229.88,
@@ -281,7 +281,7 @@
  },
  {
   "input": "Once you understand that these parity checks that we've focused so much of our time on are nothing more than a clever way to spell out the position of an error in binary, then we can draw a connection with a different way to think about hamming codes, one that is arguably a lot simpler and more elegant, and which can basically be written down with a single line of code.",
-  "translatedText": "Amint megértettük, hogy ezek a paritásellenőrzések, amelyekre oly sok időt fordítottunk, nem többek, mint egy okos módja annak, hogy a hiba helyét binárisan leírjuk, akkor kapcsolatot tudunk teremteni a Hamming kódok értelmezésének egy másik módjával, amely vitathatatlanul sokkal egyszerűbb és elegánsabb, és amely alapvetően egyetlen kódsorral megvalósítható.",
+  "translatedText": "Amint megértettük, hogy ezek a paritásellenőrzések, amelyekre oly sok időt fordítottunk, nem többek, mint egy okos módja annak, hogy a hiba helyét binárisan leírjuk, akkor kapcsolatot tudunk teremteni a Hamming kódok értelmezésének egy másik módjával, amely sokkal egyszerűbb, elegánsabb, és egyetlen kódsorral megvalósítható. ",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 265.6,
@@ -321,7 +321,7 @@
  },
  {
   "input": "As a math person, I prefer to think about it as addition mod 2.",
-  "translatedText": "Matematikusként én legszívesebben a bináris összeadás alapműveleteként gondolok rá.",
+  "translatedText": "Matematikusként én legszívesebben a bináris összeadás alapjaként gondolok rá.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 303.54,
@@ -337,7 +337,7 @@
  },
  {
   "input": "It's like addition, but where you never carry.",
-  "translatedText": "Olyan, mint az összeadás, csak itt nem viszünk tovább értékeket.",
+  "translatedText": "Olyan mint az összeadás, csak nincs tovább vitt érték.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 313.68,
@@ -393,7 +393,7 @@
  },
  {
   "input": "You can probably guess that the four bits sitting at the bottom as a result are the same as the four parity checks we've come to know and love, but take a moment to actually think about why exactly.",
-  "translatedText": "Valószínűleg kitalálhatod, hogy az eredményként kapott alul ülő négy bit ugyanazt adja, mint az általunk megismert négy paritásellenőrzés, de szánj egy pillanatot arra, hogy elgondolkodj azon, hogy pontosan miért.",
+  "translatedText": "Valószínűleg kitalálhatod, hogy az eredményként kapott alul ülő négy bit ugyanazt adja, mint az általunk megismert négy paritásellenőrzés, de nyugodtan gondold csak végig, hogy pontosan miért.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 379.26,
@@ -601,7 +601,7 @@
  },
  {
   "input": "We won't do it here, but you could write a function where the sender uses that binary representation to set the 4 parity bits as needed, ultimately getting this block to a state where running this line of code on the full list of bits returns a 0.",
-  "translatedText": "Ezt itt most nem fogom megtenni, de meg lehet írni egy olyan függvényt, amit a feladó a bináris ábrázolás 4 paritásbitjének szükség szerinti beállítására használja, hogy végül olyan állapotba hozza ezt a blokkot, ahol a kódsor futtatása a bitek teljes listáján 0-t ad vissza.",
+  "translatedText": "Ezt itt most nem fogom megtenni, de lehet írni egy olyan függvényt, amivel a feladó a bináris ábrázolás 4 paritásbitjét be tudja úgy állítani, hogy végül olyan állapotba hozza ezt a blokkot, ahol a kódsor futtatása a bitek teljes listáján 0-t ad vissza.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 601.98,
@@ -665,7 +665,7 @@
  },
  {
   "input": "Now depending on your comfort with binary and XORs and software in general, you may either find this perspective a little bit confusing, or so much more elegant and simple that you're wondering why we didn't just start with it from the get-go.",
-  "translatedText": "Attól függően, hogy mennyire mozogsz otthonosan a kettes számrendszer, a XOR-ok és úgy általában a szoftverek terén, most vagy egy kicsit zavarosnak találod ezt a perspektívát, vagy annyira elegánsnak és egyszerűnek, hogy azon tűnődsz miért nem ezzel a szemlélettel kezdtük a kezdetektől fogva.",
+  "translatedText": "Attól függően mennyire mozogsz otthonosan a kettes számrendszer, a XOR-ok és úgy általában a szoftverek terén, most vagy zavarosnak találod ezt a perspektívát, vagy annyira elegánsnak, hogy azon tűnődsz miért nem ezzel a szemlélettel kezdtük.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 666.12,
@@ -673,7 +673,7 @@
  },
  {
   "input": "Loosely speaking, the multiple parity check perspective is easier to think about when implementing Hamming codes in hardware very directly, and the XOR perspective is easiest to think about when doing it in software, from kind of a higher level.",
-  "translatedText": "Lazán fogalmazva, a többszörös paritásellenőrzés szemléletre könnyebb gondolni, amikor a Hamming-kódokat hardveresen, nagyon közvetlenül implementáljuk, a XOR szemléletre pedig akkor, amikor szoftveresen, egyfajta magasabb szintről csináljuk.",
+  "translatedText": "Lazán fogalmazva, a paritásellenőrzéses szemléletre könnyebb gondolni, amikor a Hamming-kódokat hardveresen, közvetlenül implementáljuk, a XOR szemléletre pedig akkor, amikor szoftveresen, egyfajta magasabb szintről csináljuk.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 679.14,
@@ -689,7 +689,7 @@
  },
  {
   "input": "The relevant fact here is that that information directly corresponds to how much redundancy we need.",
-  "translatedText": "A legfontosabb tény itt az, hogy ezen információ mérete közvetlenül megfeleltethető a szükséges redundancia mennyiségével.",
+  "translatedText": "Fontos kiemelni, hogy ezen információ mérete közvetlenül megfeleltethető a szükséges redundancia mennyiségével.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 711.02,
@@ -697,7 +697,7 @@
  },
  {
   "input": "That's really what runs against most people's knee-jerk reaction when they first think about making a message resilient to errors, where usually copying the whole message is the first instinct that comes to mind.",
-  "translatedText": "Ez az, ami a legtöbb ember beidegződésével ellentétesen hat. Úgy vettem észre, hogy az emberek ösztönös gondolata arra a problémára, hogy egy üzenetet ellenállóvá tegyenek a hibákkal szemben általában az üzenet teljes másolása.",
+  "translatedText": "Ez az ami a legtöbb ember beidegződésével ellentétesen hat. Úgy vettem észre, hogy az emberek ösztönös gondolata az üzenetek hibákkal szemben ellenállóvá tételére általában az üzenet teljes másolása.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 716.66,
@@ -705,7 +705,7 @@
  },
  {
   "input": "And then, by the way, there is this whole other way that you sometimes see Hamming codes presented where you multiply the message by one big matrix.",
-  "translatedText": "És egyébként még van egy másik módszer is, amit néha a Hamming-kódok bemutatására használnak, amikor az üzenetet egy nagy mátrixszal szorozzák meg.",
+  "translatedText": "Mellesleg van egy másik módszer is, amit a Hamming-kódok bemutatására használnak, amikor az üzenetet egy nagy mátrixszal szorozzák meg.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 727.5,
@@ -713,7 +713,7 @@
  },
  {
   "input": "It's kind of nice because it relates it to the broader family of linear codes, but I think that gives almost no intuition for where it comes from or how it scales.",
-  "translatedText": "Persze szép, mert a lineáris kódok tágabb családjára alkalmazható, de szerintem egyáltalán nem segíti annak megértését, hogy honnan származik a módszer, vagy hogyan skálázható.",
+  "translatedText": "Persze szép, mert a lineáris kódok tágabb családjára alkalmazható, de szerintem nem elég szemléletes, hogy honnan származik a módszer, vagy hogyan skálázható.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 734.67,
@@ -721,7 +721,7 @@
  },
  {
   "input": "And speaking of scaling, you might notice that the efficiency of this scheme only gets better as we increase the block size.",
-  "translatedText": "És ha már a skálázásnál tartunk, vegyük észre, hogy ennek a rendszernek a hatékonysága csak javul, ahogy növeljük a blokkméretet.",
+  "translatedText": "És ha már a skálázásnál tartunk, vegyük észre, hogy ennek a rendszernek a hatékonysága csak javul a blokkméretet növelésével.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 745.2,
@@ -769,7 +769,7 @@
  },
  {
   "input": "So in practice, what you'd want is to find the right size so that the probability of too many bit flips isn't too high.",
-  "translatedText": "A gyakorlatban tehát azt a megfelelő méretet kell megtalálni, ahol az egynél több bit átbillenésének valószínűsége még nem túl nagy.",
+  "translatedText": "Így tehát azt a megfelelő méretet kell megtalálni, ahol az egynél több bit átbillenésének valószínűsége még nem túl nagy.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 798.32,
@@ -777,7 +777,7 @@
  },
  {
   "input": "Also, in practice, errors tend to come in little bursts, which would totally ruin a single block.",
-  "translatedText": "Emellett a gyakorlatban a hibák általában rövid sorozatban jelentkeznek, ami teljesen tönkretesz egy-egy blokkot.",
+  "translatedText": "A gyakorlatban viszont a hibák rövid sorozatban szoktak jelentkeznek, ami teljesen tönkretesz egy-egy blokkot.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 806.6,
@@ -793,7 +793,7 @@
  },
  {
   "input": "Then again, a lot of this is rendered completely moot by more modern codes, like the much more commonly used Reed-Solomon algorithm, which handles burst errors particularly well, and it can be tuned to be resilient to a larger number of errors per block.",
-  "translatedText": "Másfelől ezek a módszerek már jelentősségüket vesztették a modernebb kódok miatt, mint például a sokkal gyakrabban használt Reed-Solomon algoritmus, amely különösen jól kezeli a sorozatos hibákat, és úgy hangolható, hogy blokkonként nagyobb számú hibával szemben is ellenálló legyen.",
+  "translatedText": "Másfelől ezek a módszerek már jelentősségüket vesztették a modernebb kódok miatt, mint például a Reed-Solomon algoritmus, amely különösen jól kezeli a sorozatos hibákat, és úgy hangolható, hogy blokkonként nagyobb számú hibával szemben is ellenálló legyen.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 825.58,
@@ -809,7 +809,7 @@
  },
  {
   "input": "In his book The Art of Doing Science and Engineering, Hamming is wonderfully candid about just how meandering his discovery of this code was.",
-  "translatedText": "A \"The Art of Doing Science and Engineering\" című könyvében Hamming csodálatosan őszintén beszél arról, hogy mennyire kanyargós úton jutott el a kód felfedezéséhez.",
+  "translatedText": "A \"The Art of Doing Science and Engineering\" című könyvében Hamming őszintén beszél arról, hogy mennyire kanyargós úton jutott el a kód felfedezéséhez.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 842.5,
@@ -825,7 +825,7 @@
  },
  {
   "input": "The idea that it might be possible to get parity checks to conspire in a way that spells out the position of an error only came to Hamming when he stepped back after a bunch of other analysis and asked, okay, what is the most efficient I could conceivably be about this?",
-  "translatedText": "Az ötlet, hogy esetleg lehetséges lenne a paritás-ellenőrzéseket úgy együttműködésre bírni, hogy a hiba helyét kiírják, csak akkor jutott Hamming eszébe, amikor egy csomó más elemzés után hátrább lépett, és megkérdezte: \"Oké, mi lenne az elképzelhető leghatékonyabb megoldás?\".",
+  "translatedText": "Az ötlet, hogy esetleg lehetséges lenne a paritásellenőrzéseket rábírni arra, hogy a hiba helyét kiírják csak akkor jutott Hamming eszébe, amikor egy csomó más elemzés után hátrább lépett és megkérdezte: \"Oké, mi lenne az elképzelhető leghatékonyabb megoldás?\".",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 858.3,
@@ -889,7 +889,7 @@
  },
  {
   "input": "I think for some special inventions, there's a second, deeper reason that we underappreciate them.",
-  "translatedText": "Azt hiszem, néhány különleges találmány esetében van egy második, mélyebb oka is annak, hogy alulértékeljük őket.",
+  "translatedText": "Azt hiszem néhány különleges találmány esetében van egy második mélyebb oka is annak, hogy alulértékeljük őket.",
   "model": "DeepL",
   "n_reviews": 1,
   "start": 924.9,

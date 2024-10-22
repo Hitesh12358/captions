@@ -4,14 +4,14 @@
   "translatedText": "Hôm nay chúng ta sẽ nói về một trong những phần toán học yêu thích nhất mọi thời đại của tôi. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 0.0,
+  "start": 0,
   "end": 4.24
  },
  {
   "input": "It's incredibly fundamental to engineering, to mathematics itself, to quantum mechanics, but it's something that has a terrible, terrible name. ",
-  "translatedText": "Nó cực kỳ cơ bản đối với kỹ thuật, đối với toán học, đối với cơ học lượng tử, nhưng nó là thứ có cái tên khủng khiếp, khủng khiếp. ",
+  "translatedText": "Nó cực kỳ cơ bản đối với kỹ thuật, đối với toán học, đối với cơ học lượng tử, nhưng nó là thứ có cái tên cực kỳ khủng khiếp. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 4.36,
   "end": 12.08
  },
@@ -33,9 +33,9 @@
  },
  {
   "input": "And before we get into any of it, what I want to do is start with kind of a poll, just to poll the audience on seeing what you guys can consider to be, well, real. ",
-  "translatedText": "Và trước khi chúng ta đi vào bất kỳ vấn đề nào, điều tôi muốn làm là bắt đầu bằng một cuộc thăm dò ý kiến, chỉ để thăm dò ý kiến khán giả xem những gì các bạn có thể coi là thực tế. ",
+  "translatedText": "Và trước khi ta đi vào bất kỳ bài toán nào, điều tôi muốn làm là bắt đầu bằng một cuộc thăm dò ý kiến, chỉ để hỏi ý kiến khán giả xem những gì các bạn có thể coi là thực tế. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 19.7,
   "end": 28.68
  },
@@ -49,9 +49,9 @@
  },
  {
   "input": "So we've already been doing a couple polls in the warm-up animations, but as a serious poll of sorts, one that's actually going to help me see where you're coming from before we begin the lesson here, I just want to ask you a very simple question, okay? ",
-  "translatedText": "Chúng ta đã thực hiện một vài cuộc thăm dò trong phần hoạt hình khởi động, nhưng dưới dạng một cuộc thăm dò nghiêm túc, một cuộc thăm dò thực sự sẽ giúp tôi biết bạn đến từ đâu trước khi chúng ta bắt đầu bài học ở đây, tôi chỉ muốn hỏi bạn một câu hỏi rất đơn giản, được chứ? ",
+  "translatedText": "Chúng ta đã thực hiện một vài cuộc thăm dò trong phần hoạt hình khởi động, nhưng dưới dạng một cuộc thăm dò nghiêm túc, một cuộc thăm dò thực sự sẽ giúp tôi biết bạn đến từ đâu trước khi ta bắt đầu bài học ở đây, tôi chỉ muốn hỏi bạn một câu hỏi rất đơn giản, được chứ? ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 31.76,
   "end": 44.74
  },
@@ -113,9 +113,9 @@
  },
  {
   "input": "So in theory, if you guys go to 3b1b.co slash live, you should be able to answer this, and then the statistics based on your answers are going to start populating the screen. ",
-  "translatedText": "Vậy theo lý thuyết thì các bạn vào 3b1b. co chém trực tiếp, bạn sẽ có thể trả lời câu hỏi này và sau đó số liệu thống kê dựa trên câu trả lời của bạn sẽ bắt đầu hiển thị trên màn hình. ",
+  "translatedText": "Vậy theo lý thuyết thì các bạn vào 3b1b. co trực tiếp, bạn sẽ có thể trả lời câu hỏi này và sau đó số liệu thống kê dựa trên câu trả lời của bạn sẽ bắt đầu hiển thị trên màn hình. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 73.56,
   "end": 82.56
  },
@@ -129,25 +129,25 @@
  },
  {
   "input": "At the moment, all we know is that there's someone who has a lead, another one that's pretty close behind it, and as your answers come in and as the servers kind of digest them, we'll start to see some of the stats here. ",
-  "translatedText": "Hiện tại, tất cả những gì chúng tôi biết là có một người dẫn đầu, một người khác ở khá gần phía sau và khi câu trả lời của bạn xuất hiện và khi máy chủ xử lý chúng, chúng tôi sẽ bắt đầu thấy một số số liệu thống kê ở đây . ",
+  "translatedText": "Hiện tại, tất cả những gì chúng tôi biết là có một người dẫn đầu, một người khác ở khá gần phía sau và khi câu trả lời của bạn xuất hiện và khi máy chủ xử lý chúng, chúng ta sẽ bắt đầu thấy một số số liệu thống kê ở đây . ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 85.06,
   "end": 95.34
  },
  {
   "input": "If you go to that page, by the way, 3b1b.co slash live, which redirects to itempool.com, what you're going to find is at the very top you can ask a question on Twitter, and all that's going to do is basically open up a tweet that's going to have the hashtag in it, lockdown math, and that's the way that we're going to be doing questions to this. ",
-  "translatedText": "Nhân tiện, nếu bạn truy cập trang đó, 3b1b. co chém trực tiếp, chuyển hướng đến itempool. com, những gì bạn sẽ tìm thấy nằm ở trên cùng, bạn có thể đặt câu hỏi trên Twitter và tất cả những gì cần làm về cơ bản là mở một tweet có hashtag trong đó, khóa toán học và đó là cách rằng chúng ta sẽ đặt câu hỏi cho vấn đề này. ",
+  "translatedText": "Nhân tiện, nếu bạn truy cập trang đó, 3b1b. co trực tiếp, chuyển hướng đến itempool. com, những gì bạn sẽ tìm thấy nằm ở trên cùng, bạn có thể đặt câu hỏi trên Twitter và tất cả những gì cần làm về cơ bản là mở một tweet có hashtag trong đó, khóa toán học và đó là cách rằng chúng ta sẽ đặt câu hỏi cho bài toán này. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 96.1,
   "end": 114.36
  },
  {
   "input": "Instead of a live chat, anytime you have a question or a comment that you want to, you know, insert into the lesson and let that be part of the discussion, it's going to be pulled up here, and it looks like we already have one. ",
-  "translatedText": "Thay vì trò chuyện trực tiếp, bất cứ khi nào bạn có câu hỏi hoặc nhận xét mà bạn muốn, bạn biết đấy, hãy chèn vào bài học và để nó trở thành một phần của cuộc thảo luận, nó sẽ được đưa lên đây và có vẻ như chúng ta đã có một. ",
+  "translatedText": "Thay vì trò chuyện trực tiếp, bất cứ khi nào bạn có câu hỏi hoặc nhận xét mà bạn muốn, bạn biết đấy, hãy chèn vào bài học và để nó trở thành một phần của cuộc thảo luận, nó sẽ được đưa lên đây và có vẻ như ta đã có một. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 114.36,
   "end": 124.78
  },
@@ -181,13 +181,13 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 144.76,
-  "end": 164.0
+  "end": 164
  },
  {
   "input": "So on our poll, asking you guys which numbers you consider to really exist, which is of course a subjective question, there's no right or wrong answer here. ",
-  "translatedText": "Vì vậy, trong cuộc thăm dò của chúng tôi, hỏi các bạn con số nào bạn cho là thực sự tồn tại, tất nhiên đó là một câu hỏi chủ quan, không có câu trả lời đúng hay sai ở đây. ",
+  "translatedText": "Vậy trong cuộc thăm dò của chúng ta, hỏi các bạn con số nào bạn cho là thực sự tồn tại, tất nhiên đó là một câu hỏi chủ quan, không có câu trả lời đúng hay sai ở đây. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 164.64,
   "end": 171.94
  },
@@ -249,17 +249,17 @@
  },
  {
   "input": "oh man, I can't believe that we're stalling out on this one. ",
-  "translatedText": "ôi trời, tôi không thể tin được là chúng ta đang trì hoãn chuyện này. ",
+  "translatedText": "ôi trời, tôi không thể tin được là ta đang trì hoãn chuyện này. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 230.74,
   "end": 233.68
  },
  {
   "input": "We had fixed it by live stream too, but I guess there's going to be an oscillation between when it works and when it doesn't. ",
-  "translatedText": "Chúng tôi cũng đã khắc phục vấn đề này bằng cách phát trực tiếp nhưng tôi đoán sẽ có sự dao động giữa thời điểm hoạt động và khi không hoạt động. ",
+  "translatedText": "Chúng ta cũng đã khắc phục vấn đề này bằng cách phát trực tiếp nhưng tôi đoán sẽ có sự dao động giữa thời điểm hoạt động và khi không hoạt động. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 233.76,
   "end": 238.62
  },
@@ -272,7 +272,7 @@
   "end": 247.6
  },
  {
-  "input": "I would say that if it's something that's actually useful in an application, then it is as real as words are, right? ",
+  "input": "talling out on this one. t has a kind of reality in our minds, and things like the square root of two, which you can't express as a fraction, or things like the ",
   "translatedText": "Tôi có thể nói rằng nếu đó là thứ gì đó thực sự hữu ích trong một ứng dụng thì nó cũng chân thực như lời nói, phải không? ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -280,7 +280,7 @@
   "end": 253.74
  },
  {
-  "input": "You're never going to run into an abstract word like happiness out there, but it has a kind of reality in our minds, and things like the square root of two, which you can't express as a fraction, or things like the square root of negative one that don't show up among real normal numbers, you know, even if they might seem a little bit different. ",
+  "input": "square root of negative one that don't show u But for me personally, basically, anytime that you have a numerical construct that's helpful in the real world, you know, I consider that real. What I'd like to do for you today, basically, is show you the sense in which imaginary numbers are useful, the complex numbers are useful, an d from there maybe try to imbue them with a little more reality. ",
   "translatedText": "Bạn sẽ không bao giờ gặp phải một từ trừu tượng như hạnh phúc ngoài kia, nhưng nó có một loại thực tế trong tâm trí chúng ta, và những thứ như căn bậc hai của 2, mà bạn không thể diễn đạt dưới dạng phân số, hoặc những thứ như căn bậc hai của số âm không xuất hiện giữa các số thực bình thường, bạn biết đấy, ngay cả khi chúng có vẻ hơi khác một chút. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -320,7 +320,7 @@
   "end": 300.96
  },
  {
-  "input": "I won't assume that you know what they are yet, it's meant to be a basic primer, but let's just dive right in, okay? ",
+  "input": "oh, this is such a shame. ing that we're going to build to, two identities from trigonometry, and I understand that maybe, oh, these complicated identities from trigonometry is not going ",
   "translatedText": "Tôi sẽ không cho rằng bạn biết chúng là gì, nó chỉ là lớp sơn lót cơ bản, nhưng chúng ta hãy đi sâu vào ngay, được chứ? ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -344,7 +344,7 @@
   "end": 339.52
  },
  {
-  "input": "I remember when I was in school and we learned these addition formulas, that if you want to know the cosine of the sum of two different angles, you know, it's this kind of long thing in terms of cosines and sines of the original two angles, there's this minus sign that would always trip people up, if you do the same for the sign, it looks similar but there's a plus sign, and instead of having cos-cos you have cos-sin, it's something that's very error-prone if you're just trying to memorize it as it is. ",
+  "input": "I remember when I was in school and we learned these addition formulas, that if you want to know the cosine of the sum of two different angles, you know, it's this kind of long thing in te And I understand that maybe, oh, these complicated identities from trigonometry is not going to be the best way to lure some people into understanding, oh yeah, complex numbers, they're really useful, you're really going to love them. But I do think it's interesting that you can have a fact that has nothing to do with complex numbers or the square root of negative one, it's just tr ",
   "translatedText": "Tôi nhớ khi còn đi học và chúng ta đã học các công thức cộng này, nếu bạn muốn biết cosin của tổng hai góc khác nhau, bạn biết đấy, nó dài như thế này xét theo cos và sin của hai góc ban đầu , có một dấu trừ luôn khiến mọi người bối rối, nếu bạn làm tương tự với dấu đó, nó trông giống nhau nhưng có một dấu cộng, và thay vì có cos-cos bạn có cos-sin, đó là một thứ rất dễ xảy ra lỗi nếu bạn chỉ đang cố gắng ghi nhớ nó như nó vốn có. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -352,7 +352,7 @@
   "end": 363.62
  },
  {
-  "input": "However, if you come at it with complex numbers, this is not only much less error-prone, it has a very beautiful meaning and it just falls right out. ",
+  "input": "igonometry, it's everything we were talking about last time. And you can have facts that are pretty hard to remember. I remember when I was in school and we learned these addition formulas ",
   "translatedText": "Tuy nhiên, nếu bạn tiếp cận nó với số phức, điều này không chỉ ít xảy ra lỗi hơn mà còn có một ý nghĩa rất đẹp và nó dễ hiểu. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -360,7 +360,7 @@
   "end": 371.6
  },
  {
-  "input": "So even if you don't necessarily believe in the reality of the square root of negative 1, you at the very least have to admit that it's interesting that it can make other pieces of math useful, that other pieces of math a little bit more understandable too. ",
+  "input": ", that if you want to know the cosine of the sum of two different angles, you know, it's this kind of long thing in terms of cosines and sines of the original two angles. y who's going into serious math, they'll tell you that complex numbers are as real a part of their wor ",
   "translatedText": "Vì vậy, ngay cả khi bạn không nhất thiết phải tin vào thực tế của căn bậc hai của âm 1, thì ít nhất bạn cũng phải thừa nhận rằng thật thú vị khi nó có thể làm cho các phần toán khác trở nên hữu ích, các phần toán khác đó hữu ích hơn một chút. cũng dễ hiểu thôi. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -384,7 +384,7 @@
   "end": 397.38
  },
  {
-  "input": "But the starting point looks very strange, okay? ",
+  "input": "hat i squared is equal to negative 1. And I think to a lot of students there's maybe one of ",
   "translatedText": "Nhưng điểm xuất phát trông rất lạ phải không? ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -408,7 +408,7 @@
   "end": 414.88
  },
  {
-  "input": "One is, no there isn't, right? ",
+  "input": "s something that's very error-prone if you're just trying t ",
   "translatedText": "Một là, không có không, phải không? ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -424,7 +424,7 @@
   "end": 426.72
  },
  {
-  "input": "Any number that you square, if it's positive, well that just stays positive. ",
+  "input": "numbers, this is not only much less error-prone, it has a very beautiful meaning and it just falls right out. ",
   "translatedText": "Bất kỳ số nào bạn bình phương, nếu nó dương, thì nó vẫn dương. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -433,17 +433,17 @@
  },
  {
   "input": "So it seems like no matter what, when I'm squaring numbers, I always get a positive number. ",
-  "translatedText": "Vì vậy, có vẻ như dù thế nào đi nữa, khi tôi bình phương các số, tôi luôn nhận được một số dương. ",
+  "translatedText": "Vậy có vẻ như dù thế nào đi nữa, khi bình phương các số, tôi luôn nhận được một số dương. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 432.16,
   "end": 436.3
  },
  {
-  "input": "I'm never going to get anything negative. ",
-  "translatedText": "Tôi sẽ không bao giờ nhận được bất cứ điều gì tiêu cực. ",
+  "input": "u at the very least have to admit that it's interesting th ",
+  "translatedText": "Tôi không bao giờ được bất cứ dấu âm nào. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 436.38,
   "end": 437.86
  },
@@ -456,7 +456,7 @@
   "end": 440.94
  },
  {
-  "input": "However, if a mathematician comes and says, oh no no it exists, we've defined it so that that's the case. ",
+  "input": "her pieces of math useful, that other pieces of math a little bit more understandable too. d says, oh no no it exists, we've defined it so that that's the case. ",
   "translatedText": "Tuy nhiên, nếu một nhà toán học đến và nói, ồ không, nó tồn tại, chúng ta đã định nghĩa nó là như vậy. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -472,10 +472,10 @@
   "end": 452.38
  },
  {
-  "input": "When you have a problem that you can't solve, you can just say, oh I've defined things so that we now magically have a solution. ",
-  "translatedText": "Khi bạn gặp một vấn đề không thể giải quyết, bạn chỉ cần nói, ồ, tôi đã xác định mọi thứ để bây giờ chúng ta có giải pháp một cách kỳ diệu. ",
+  "input": "If you talk to anybody who's in engineering, anybody who's going into serious math, they'll tell you that complex numbers are as real a part of their wor ",
+  "translatedText": "Khi bạn gặp một bài toán không thể giải quyết, bạn chỉ cần nói, ồ, tôi đã xác định mọi thứ để bây giờ chúng ta có lời giải một cách kỳ diệu. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 452.86,
   "end": 457.86
  },
@@ -488,7 +488,7 @@
   "end": 465.6
  },
  {
-  "input": "So if you're uncomfortable with this, you're definitely not alone. ",
+  "input": "talking about complex numbers is to say, there's not just such a number i, but we're going to give it a home. ",
   "translatedText": "Vì vậy, nếu bạn không thoải mái với điều này, bạn chắc chắn không đơn độc. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -496,7 +496,7 @@
   "end": 469.46
  },
  {
-  "input": "In fact, Rene Descartes coined the term imaginary for these numbers as a derogatory. ",
+  "input": "Instead of the real number line, which you know all of these numbers we know when we square them, you can't get a negative, ",
   "translatedText": "Trên thực tế, Rene Descartes đã đặt ra thuật ngữ tưởng tượng cho những con số này như một sự xúc phạm. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -512,10 +512,10 @@
   "end": 480.7
  },
  {
-  "input": "And then we stuck with that as a convention and we still call them imaginary numbers, which is genuinely absurd. ",
-  "translatedText": "Và sau đó chúng tôi sử dụng quy ước đó và vẫn gọi chúng là số ảo, điều này thực sự vô lý. ",
+  "input": "and then there's one below, negative i, and you can have negati ve 2i, you scale it however you want. Essentially it's prop ",
+  "translatedText": "Và sau đó chúng ta sử dụng quy ước đó và vẫn gọi chúng là số ảo, điều này thực sự vô lý. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 481.1,
   "end": 485.74
  },
@@ -528,7 +528,7 @@
   "end": 488.5
  },
  {
-  "input": "The second weird thing that you do when you start talking about complex numbers is to say, there's not just such a number i, but we're going to give it a home. ",
+  "input": "be two-dimensional and that i has a very specific home, one unit perpendicular, uh, perpendicularly above the real number line. Any time I square a number, even if it's negative, if I tak ",
   "translatedText": "Điều kỳ lạ thứ hai mà bạn làm khi bắt đầu nói về số phức là nói rằng, không chỉ có số i như vậy, mà chúng ta sẽ đặt cho nó một ngôi nhà. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -537,9 +537,9 @@
  },
  {
   "input": "Instead of the real number line, which you know all of these numbers we know when we square them, you can't get a negative, what we do is say i lives in a different dimension. ",
-  "translatedText": "Thay vì trục số thực, thứ mà bạn biết tất cả những con số mà chúng ta biết khi bình phương chúng, bạn không thể có được số âm, điều chúng ta làm là nói rằng tôi sống ở một chiều không gian khác. ",
+  "translatedText": "Thay vì trục số thực, thứ mà bạn biết tất cả những con số mà ta biết khi bình phương chúng, bạn không thể có được số âm, điều ta làm là nói rằng số i sống ở một chiều không gian khác. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 496.82,
   "end": 505.78
  },
@@ -560,7 +560,7 @@
   "end": 525.64
  },
  {
-  "input": "And, okay, if we want to extend our number system, I get it, maybe it's useful to put some kind of number up there, but why i, right? ",
+  "input": "ever going to get anything negative. and then you move in that perpendicular direction into the extension of our number s ystem, which again, you' ",
   "translatedText": "Và, được thôi, nếu chúng ta muốn mở rộng hệ thống số của mình, tôi hiểu rồi, có lẽ sẽ hữu ích nếu đặt một loại số nào đó lên đó, nhưng tại sao lại như vậy, phải không? ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -585,14 +585,14 @@
  },
  {
   "input": "So I hope to answer this for you. ",
-  "translatedText": "Vì vậy tôi hy vọng có thể giải đáp điều này cho bạn. ",
+  "translatedText": "Vậy tôi hy vọng có thể giải đáp điều này cho bạn. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 555.74,
   "end": 557.28
  },
  {
-  "input": "At the very beginning, let's just talk about how if you're adding numbers that are two-dimensional like this, the rules are pretty straightforward and it operates essentially the same as vectors, for any of you who might be familiar with vectors. ",
+  "input": "can do that? When you have a problem that you can't solve you can just say, oh I've defined things so that we now magically have a solution. Okay, next time I'm having trouble with my homework and I don't know what the answer to x is, I will be like, let x be the value defined to be the answer to this question. ",
   "translatedText": "Lúc đầu, chúng ta hãy nói về việc nếu bạn cộng các số hai chiều như thế này, thì các quy tắc khá đơn giản và về cơ bản nó hoạt động giống như vectơ, đối với bất kỳ ai trong số các bạn có thể quen thuộc với vectơ. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -624,7 +624,7 @@
   "end": 605.7
  },
  {
-  "input": "If you take that on faith and you follow, hopefully the fact that it becomes useful helps to justify why we're doing any of this. ",
+  "input": "is the one that says you The second weird thing that you do when you start talking about complex numbers is to say, there's not just a number i, but we're going to give it ",
   "translatedText": "Nếu bạn tin vào điều đó và làm theo, hy vọng thực tế là nó sẽ trở nên hữu ích sẽ giúp giải thích lý do tại sao chúng tôi lại làm bất kỳ điều gì trong số này. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -633,9 +633,9 @@
  },
  {
   "input": "So my question for you is simply, what happens when we add these two numbers? ",
-  "translatedText": "Vì vậy, câu hỏi của tôi dành cho bạn chỉ đơn giản là, điều gì xảy ra khi chúng ta cộng hai số này? ",
+  "translatedText": "Vậy câu hỏi của tôi dành cho bạn chỉ đơn giản là, điều gì xảy ra khi ta cộng hai số này? ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 612.2,
   "end": 615.48
  },
@@ -656,7 +656,7 @@
   "end": 631.84
  },
  {
-  "input": "Um, it looks like there's a, there's a back and forth between answers f and d, so f is all of them, saying that all of these should be considered real. ",
+  "input": "'s one below, negative i, and you can have negative 2i. You scale it however you want. Essentially it's proposing that numbers be two-dimensional and that i has a very specific home, one unit perpendicular perpendicularly above the real number line. ",
   "translatedText": "",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -664,7 +664,7 @@
   "end": 640.98
  },
  {
-  "input": "And interesting, d is the one that says you should consider 2 square root of 2 and negative 1, but not infinity, so there's a good contingent of you out there who would just reject infinity as being considered real, but are very comfortable with the square root of negative 1, that's awesome. ",
+  "input": "And okay, if we want to extend our number system, I get it, maybe it's useful to put some kind of number up there, but why i, right? Why not say infinity is the number that sits one unit above zero, or one divided by zero, or any other problem that you couldn't solve before and you make up an answer to, why should that live there? ",
   "translatedText": "Và thật thú vị, d là mệnh đề nói rằng bạn nên xét 2 căn bậc hai của 2 và âm 1, nhưng không phải là vô cùng, vậy nên có một số lượng lớn các bạn ngoài kia sẽ bác bỏ việc coi vô cực là thực, nhưng lại rất thoải mái với căn bậc hai của âm 1, thật tuyệt vời. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -688,7 +688,7 @@
   "end": 664.58
  },
  {
-  "input": "Okay, so it looks like we've got a cohort of people who are comfortable with negative 1, a large cohort are uncomfortable with infinity, that's a topic for another day, don't worry about it, and then a number of people who are kind of in that middle ground of maybe not being super comfortable with the idea that negative 1 might be real. ",
+  "input": "e very beginning, let's just talk about how if you're adding numbers that are two-dimensional like this, the rules are pretty straightforward and it operates essentially the same as vectors for any of you who might be familiar with vectors. So I guess I can pull it up on the, just on the piece of paper, and you can follow along at home, see what the addition might be. It tu ",
   "translatedText": "Được rồi, có vẻ như chúng ta có một nhóm người cảm thấy thoải mái với số âm 1, một nhóm lớn không thoải mái với số vô cực, đó là chủ đề cho ngày khác, đừng lo lắng về điều đó, và sau đó là một số người có lẽ họ đang ở giữa mức độ cảm thấy không thoải mái cho lắm với ý tưởng rằng âm 1 có thể là thật. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -697,14 +697,14 @@
  },
  {
   "input": "Let's see if we can convince you of the difference of that. ",
-  "translatedText": "Hãy xem liệu chúng tôi có thể thuyết phục bạn về sự khác biệt của điều đó không. ",
+  "translatedText": "Hãy xem liệu chúng ta có thể thuyết phục bạn về sự khác biệt của điều đó không. ",
   "model": "google_nmt",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 680.74,
   "end": 682.7
  },
  {
-  "input": "So for our first much more mathematical question, as kind of a warm-up, I just want to ask you to add these two. ",
+  "input": "e moving four units to the And then I'm going to take a second number and it's helpful to draw them as vectors, kind of an arrow from the number zero, and this one is going to end up at negative two plus two i. ",
   "translatedText": "Vì vậy, đối với câu hỏi đầu tiên mang tính toán học hơn nhiều, như một phần khởi động, tôi chỉ muốn yêu cầu bạn cộng hai câu hỏi này. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -712,7 +712,7 @@
   "end": 689.3
  },
  {
-  "input": "Before I've taught you how to add them, make a guess at how it might work, and I hope that it feels pretty straightforward, addition is actually the least interesting part of this, but it is, it's a good thing to know when you're learning about complex numbers. ",
+  "input": "So what I'm saying is you take the real number negative two and then you move in that perpendicular direction into the extension of our number system, which again you're kind of asking the students to take a lot on faith here that you're okay to do that, that you're allowed to just pretend that the numbers ",
   "translatedText": "Trước khi tôi hướng dẫn bạn cách thêm chúng, hãy đoán xem nó hoạt động như thế nào và tôi hy vọng bạn thấy nó khá đơn giản, phép cộng thực sự là phần kém thú vị nhất trong phần này, nhưng đó là điều tốt nếu bạn biết khi nào bạn đang học về số phức. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -760,7 +760,7 @@
   "end": 742.1
  },
  {
-  "input": "If you're moving four units to the right and then one unit up, and you want to add the idea of moving two units to the left and then two units up, well you just do each of those one at a time. ",
+  "input": "em to be working so we can take a little step back in the lesson so I'm just genuinely curious, I want to know how you guys answered on this one. It looks like there's a there's a back and forth between answers f and d, so f is all of the ",
   "translatedText": "Nếu bạn đang di chuyển bốn đơn vị sang phải rồi lên một đơn vị và bạn muốn thêm ý tưởng di chuyển hai đơn vị sang trái rồi hai đơn vị lên trên, thì bạn chỉ cần thực hiện từng đơn vị đó một lần. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -776,7 +776,7 @@
   "end": 754.24
  },
  {
-  "input": "The real part is going to be those four to the right, then minus two to the left. ",
+  "input": "hat all of these should be considered real, and interesting d is the one that says you should consider two square root of two and negative one but not infinity, so there's a ",
   "translatedText": "Phần thực sẽ là bốn phần ở bên phải, rồi trừ hai ở bên trái. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -800,7 +800,7 @@
   "end": 768.54
  },
  {
-  "input": "So is that one i plus two i. ",
+  "input": "ould just reject infinity as being considered real but are very comfortable with the square root of negative one, that's awesom ",
   "translatedText": "Vậy đó là một tôi cộng hai i. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -824,7 +824,7 @@
   "end": 777.58
  },
  {
-  "input": "Addition doesn't really have anything complicated going on, which is great. ",
+  "input": "re root of negative one, fascinating, I actually would have thought that none of them would have come higher than tha ",
   "translatedText": "Việc bổ sung thực sự không có gì phức tạp đang diễn ra, điều này thật tuyệt. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -856,7 +856,7 @@
   "end": 791.94
  },
  {
-  "input": "So with vectors, there's not really any notion of multiplying them to get two vectors back, at least when we're in the 2D plane. ",
+  "input": "le with negative one, a large cohort are uncomfortable with infinity, that's a topic for another day, don't worry about it, and then a number of people who are kind of in that middle gr ",
   "translatedText": "Vì vậy, với vectơ, thực sự không có khái niệm nào về việc nhân chúng để có được hai vectơ, ít nhất là khi chúng ta ở trong mặt phẳng 2D. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -912,7 +912,7 @@
   "end": 826.9
  },
  {
-  "input": "Which is basically, suppose I have the point three, two. ",
+  "input": "which maybe in our original system you know looks like this negative two and then three. ",
   "translatedText": "Về cơ bản, giả sử tôi có điểm ba, hai. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -928,7 +928,7 @@
   "end": 835.72
  },
  {
-  "input": "If I just have some sort of coordinate grid and I go to the point with x coordinate three and y coordinate two, what is the 90 degree rotation of this? ",
+  "input": "Before I've taught you how to add them, make a guess at how it might work, and I hope that it feels pretty straightforward, addition is actually the least interesting part of thi ",
   "translatedText": "Nếu tôi chỉ có một loại lưới tọa độ nào đó và tôi đi đến điểm có tọa độ x ba và tọa độ y hai, góc quay 90 độ của cái này là bao nhiêu? ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -948,11 +948,11 @@
   "translatedText": "Tôi nghĩ see counter, counter, geez, viết khó lắm. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 852.0,
+  "start": 852,
   "end": 855.44
  },
  {
-  "input": "Counterclockwise. ",
+  "input": "numbers, it's definitely one of those operations that you are going to need to know. ",
   "translatedText": "Ngược chiều kim đồng hồ. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -968,7 +968,7 @@
   "end": 865.76
  },
  {
-  "input": "Now what's lovely about this is we can basically just turn our paper to figure it out. ",
+  "input": "Unfortunately, and you can tell by the fact that I'm stalling and what I'm saying here, it looks li ",
   "translatedText": "Điều thú vị ở đây là về cơ bản chúng ta có thể lật bài để tìm ra nó. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -976,7 +976,7 @@
   "end": 870.32
  },
  {
-  "input": "You say okay if it started at three, two and then I rotate 90 degrees counterclockwise, I can just read that off now as being negative two in the x direction and then three in the y direction, if I had rotated the whole plane like that. ",
+  "input": "ke the question is still not loading completely correctly, so I'm going to have a stern word with Cam and Ider behind the scenes who have otherwise built such a beautiful, beautiful interface that's helpful for this kind of back and forth between you guys and me. nice gut check here is to say what happens when we do that t ",
   "translatedText": "Bạn nói được nếu nó bắt đầu ở vị trí ba, hai và sau đó tôi xoay 90 độ ngược chiều kim đồng hồ, bây giờ tôi có thể đọc nó là âm hai theo hướng x và sau đó là ba theo hướng y, nếu tôi đã xoay toàn bộ mặt phẳng như thế . ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -984,7 +984,7 @@
   "end": 883.5
  },
  {
-  "input": "So what we've done here is we've taken three, two and then we convert it to negative two, three. ",
+  "input": "wice what if we do that same very mechanistic operation again twice and I'm going to go and take this I swap the two coordinates we get a negative b but then t ",
   "translatedText": "Vì vậy, những gì chúng ta đã làm ở đây là chúng ta lấy 3, 2 và sau đó chúng ta chuyển nó thành âm 2, 3. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1000,7 +1000,7 @@
   "end": 898.08
  },
  {
-  "input": "That's going to be the 90 degree rotation. ",
+  "input": "first one becomes negative. So that was another 90 degree rotation. ",
   "translatedText": "Đó sẽ là vòng quay 90 độ. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1016,7 +1016,7 @@
   "end": 905.32
  },
  {
-  "input": "If I took a pair of numbers a comma b okay and then I said where is that going to rotate to if I rotate it 90 degrees it's going to end up by swapping the coordinates b a and then making that first one negative. ",
+  "input": "assuring because if I take some point sitting at a b an It turns out to be relatively straightforward. h is just taking both of the coordinates and making them negative negative a negative b okay so that's reassuring this operation tha ",
   "translatedText": "Nếu tôi lấy một cặp số a dấu phẩy b thì được và sau đó tôi nói nó sẽ quay đến đâu nếu tôi xoay nó 90 độ thì nó sẽ kết thúc bằng cách hoán đổi tọa độ ba và sau đó biến số đầu tiên thành số âm. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1032,7 +1032,7 @@
   "end": 934.98
  },
  {
-  "input": "So that was another 90 degree rotation. ",
+  "input": "Oh look a lot of people did submit answers very good. ",
   "translatedText": "Vậy đó là một góc quay 90 độ nữa. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1040,7 +1040,7 @@
   "end": 937.64
  },
  {
-  "input": "Well what's happened here is we've just made both of the coordinates negative and that's reassuring because if I take some point sitting at a b and then I rotate it 90 degrees so this will be my initial 90 degree rotation and then another 90 degrees that's the same as 180 degree rot- oh no I've done that wrong. ",
+  "input": "Great let's let's grade the complex addition actually let's l et's see if it is as straightforward a process as I was hoping it was and see how much explanation is demanded. Okay so it looks like a majority of you did get the correct answer which is 2 plus 3i. Very good very good. 52 of you answered simply 2 which would have been th ",
   "translatedText": "Chà, điều xảy ra ở đây là chúng ta vừa làm cho cả hai tọa độ đều âm và điều đó thật yên tâm vì nếu tôi lấy một điểm nào đó ở điểm ab và sau đó tôi xoay nó 90 độ thì đây sẽ là góc quay 90 độ ban đầu của tôi và sau đó là 90 độ nữa đó là giống như quay 180 độ- ồ không, tôi đã làm sai rồi. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1048,7 +1048,7 @@
   "end": 958.38
  },
  {
-  "input": "That will be the same as a 180 degree rotation which should look like this ignore the other vector that I drew which is just taking both of the coordinates and making them negative negative a negative b okay so that's reassuring this operation that does a 90 degree rotation actually behaves like you would expect it to. ",
+  "input": "e real part of the answer so maybe just the fact that there's some vertical component and you need to still add those vertical components or maybe those of you who answer 2 reject the reality of imaginary numbers so you just don't even acknowledge that vertical component. Addition doesn't really have anything complicated going on, which is g ",
   "translatedText": "Nó sẽ giống như một phép quay 180 độ trông như thế này, bỏ qua vectơ khác mà tôi đã vẽ, chỉ lấy cả hai tọa độ và làm cho chúng âm âm a âm b được rồi, vậy nên điều đó yên tâm rằng thao tác này thực hiện xoay 90 độ thực sự hoạt động như bạn mong đợi. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1072,7 +1072,7 @@
   "end": 989.8
  },
  {
-  "input": "Oh look a lot of people did submit answers very good. ",
+  "input": "andable. We've got 2 plus 3 which is maybe just dropping Well where everything becomes interesting is when you try to multiply these numbers together. ",
   "translatedText": "Oh nhìn rất nhiều người đã gửi câu trả lời rất tốt. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1088,7 +1088,7 @@
   "end": 1002.22
  },
  {
-  "input": "Okay so it looks like a majority of you did get the correct answer which is 2 plus 3i. ",
+  "input": "that we ask questions and just say hey kamineter can't you make the live questions work a little bit better for us? Okay I think we're finally there. ",
   "translatedText": "Được rồi, có vẻ như đa số các bạn đã trả lời đúng là 2 cộng 3i. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1096,7 +1096,7 @@
   "end": 1006.98
  },
  {
-  "input": "Very good very good. ",
+  "input": "Everybody ready? Aha! Wonderful! Very simple question ",
   "translatedText": "Rất tốt, rất tốt. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1112,7 +1112,7 @@
   "end": 1024.6
  },
  {
-  "input": "Some of you answered negative 2 3 which I guess is just making that's just swapping up whether you're taking 4 minus 2 or 2 minus 4 so that's completely understandable. ",
+  "input": "rules from algebra can carry over, but to understand what that rotation rule is, oh no I'm giving things away, what that multiplication rule is, I just want to ask you a simple question, which is basically suppose I have the point three two, okay ",
   "translatedText": "Một số bạn trả lời âm 2 3 mà tôi đoán là chỉ đang hoán đổi xem bạn đang lấy 4 trừ 2 hay 2 trừ 4 nên điều đó hoàn toàn dễ hiểu. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1120,7 +1120,7 @@
   "end": 1036.38
  },
  {
-  "input": "We've got 2 plus 3 which is maybe just dropping off the i so I think maybe a lot of like simple errors and entry and you know that happens to all of us especially on tests is sometimes you know what the right answer is but then you you forget a symbol or you swap two so that's all very good. ",
+  "input": ", we're not even going to think of it as a complex number per se, if I just have some sort of coordinate grid and I go to the point with x coordinate three and y coordinate two, what is the 90 degree rotation of this? If I rotate it 90 degrees and let's say counterclockwise, counter, counter, jeez, writing is difficult, counterclockwise. Okay, now what's lovely about t ",
   "translatedText": "Chúng ta có 2 cộng 3, có lẽ là bỏ đi chữ i nên tôi nghĩ có lẽ có nhiều lỗi đơn giản và mục nhập và bạn biết điều đó xảy ra với tất cả chúng ta, đặc biệt là trong các bài kiểm tra, đôi khi bạn biết câu trả lời đúng là gì nhưng sau đó bạn quên một biểu tượng hoặc bạn đổi hai biểu tượng, thế là ổn. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1136,7 +1136,7 @@
   "end": 1068.58
  },
  {
-  "input": "Stal stal words words you know they tell me that it's working and yet it's very slow for me to progress forward so you know if I'm not going to have a stern word with them you guys can go at them on twitter too under the same place that we ask questions and just say hey kamineter can't you make the live questions work a little bit better for us? ",
+  "input": "I was expecting to divide the audience necessarily so unsurprisingly it looks like we have a very strong majority in one direction hopefully in the correct direction but if not that would that would heavily inform where the lesson should So what we've done here is we've taken three two and then we convert it to negative two three, something which maybe in our original system, you know, looks like this, negative two and then three, ",
   "translatedText": "Những lời nói cứng rắn mà bạn biết chúng nói với tôi rằng nó đang hoạt động nhưng tôi tiến về phía trước rất chậm nên bạn biết nếu tôi không có lời nói nghiêm khắc với họ thì các bạn cũng có thể truy cập chúng trên twitter theo cách tương tự nơi mà chúng tôi đặt câu hỏi và chỉ nói này kamineter, bạn có thể làm cho các câu hỏi trực tiếp hoạt động tốt hơn một chút cho chúng tôi không? ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1144,7 +1144,7 @@
   "end": 1089.28
  },
  {
-  "input": "Okay I think we're finally there. ",
+  "input": "that's going to be the 90 degree rotation. it looks like the majority of you answered negative two plus three ",
   "translatedText": "Được rồi, tôi nghĩ cuối cùng chúng ta cũng đến nơi. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1152,7 +1152,7 @@
   "end": 1092.16
  },
  {
-  "input": "Everybody ready? ",
+  "input": "i which is absolutely correct absolutely correct so ",
   "translatedText": "Mọi người sẵn sàng? ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1160,7 +1160,7 @@
   "end": 1094.22
  },
  {
-  "input": "Aha! ",
+  "input": "there's two ways to think about this okay ",
   "translatedText": "A ha! ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1168,7 +1168,7 @@
   "end": 1094.76
  },
  {
-  "input": "Wonderful! ",
+  "input": "one of them is to walk forward with the algebra and just d ",
   "translatedText": "Tuyệt vời! ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1176,7 +1176,7 @@
   "end": 1095.52
  },
  {
-  "input": "Very simple question I want you to take the number i and I want you to multiply it by 3 plus 2i and even though I haven't really talked about the rules for multiplication what I can say is pretend like it operates just like it does for normal numbers you've got things like the distributive property where you can distribute this throughout and then the defining feature of i is this idea that i squared is negative one that's the only special thing you need to know about that other than that just treat it like it's a normal number okay and then proceed forward with the product. ",
+  "input": "o it a little bit mechanistically okay so if we pull ourselves up our sheet if we take i times three plus two i three plus two i it just distributes i times three is going to be three i i times two i is going to be two times i squared by definition i squared is negative one which means that our final answer is going to look like nega That's a 90 degree rotation. like I said it looks like a majority of you correctly did that product now it's one thing to just walk through it mechanistically it's another to step back and say what just happened geometrically right because what we just talked through was the fa ct that if you want to rotate ",
   "translatedText": "Câu hỏi rất đơn giản Tôi muốn bạn lấy số i và tôi muốn bạn nhân nó với 3 cộng 2i và mặc dù tôi chưa thực sự nói về các quy tắc nhân nhưng tôi có thể nói là giả vờ như nó hoạt động giống như nó những số bình thường bạn có những thứ như thuộc tính phân phối nơi bạn có thể phân phối cái này xuyên suốt và sau đó đặc điểm xác định của i là ý tưởng rằng tôi bình phương là số âm đó là điều đặc biệt duy nhất bạn cần biết về nó ngoài việc chỉ xử lý nó giống như đó là một con số bình thường được rồi và sau đó tiếp tục với sản phẩm. ",
   "model": "google_nmt",
   "n_reviews": 0,

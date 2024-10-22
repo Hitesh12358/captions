@@ -15,7 +15,7 @@
   27.16
  ],
  [
-  "In that video, the goal was to make Hamming codes feel as hands-on and rediscoverable as possible.",
+  "In that video the goal was to make Hamming codes feel as hands-on and rediscoverable as possible.",
   28.98,
   34.6
  ],
@@ -30,7 +30,7 @@
   53.48
  ],
  [
-  "If you read out the answers to the four parity checks we did in the last video, all as ones and zeros instead of yeses and nos, it literally spells out the position of the error in binary.",
+  "If you read out the answers to the four parity checks we did in the last video, all as 1s and 0s instead of yeses and nos, it literally spells out the position of the error in binary.",
   53.94,
   64.08
  ],
@@ -40,13 +40,8 @@
   71.26
  ],
  [
-  "And notice where the position 7 sits.",
+  "And notice where the position 7 sits, it does affect the first of our parity groups, and the second, and the third, but not the last.",
   72.54,
-  74.46
- ],
- [
-  "It does affect the first of our parity groups, and the second, and the third, but not the last.",
-  74.84,
   81.74
  ],
  [
@@ -55,13 +50,8 @@
   87.54
  ],
  [
-  "There's nothing special about the example 7, this works in general.",
+  "There's nothing special about the example 7, this works in general, and this makes the logic for implementing the whole scheme in hardware shockingly simple.",
   88.32,
-  91.14
- ],
- [
-  "This makes the logic for implementing the whole scheme in hardware shockingly simple.",
-  91.78,
   95.82
  ],
  [
@@ -90,17 +80,12 @@
   134.12
  ],
  [
-  "Focus your attention just on that last bit of all of these labels.",
+  "Focus your attention just on that last bit of all of these labels, and then highlight the positions where that final bit is a 1.",
   134.8,
-  138.24
- ],
- [
-  "And then highlight the positions where that final bit is a 1.",
-  139.88,
   143.22
  ],
  [
-  "What we get is the first of our four parity groups, which means that you can interpret that first check as asking, hey, if there's an error, is the final bit in the position of that error a 1?",
+  "What we get is the first of our four parity groups, which means you can interpret that first check as asking, hey, if there's an error, is the final bit in the position of that error a 1?",
   144.24,
   155.74
  ],
@@ -190,7 +175,7 @@
   290.22
  ],
  [
-  "When you take the XOR of two bits, it's going to return a 1 if either one of those bits is turned on, but not if both are turned on or if both are turned off.",
+  "When you take the XOR of two bits, it's going to return a 1 if either one of those bits is turned on, but not if both are turned on or off.",
   290.78,
   299.36
  ],
@@ -220,12 +205,12 @@
   322.48
  ],
  [
-  "If you open up some Python right now, and you apply the caret operation between two integers, this is what it's doing, but to the bit representations of those numbers under the hood.",
+  "If you open up some Python right now and apply the caret operation between two integers, this is what it's doing but to the bit representations of those numbers under the hood.",
   323.5,
   332.94
  ],
  [
-  "The key point for you and me is that taking the XOR of many different bit strings is effectively a way to compute the parities of a bunch of separate groups, like so with the columns, all in one fell swoop.",
+  "The key point for you and me is that taking the XOR of many different bit strings is effectively a way to compute the parodies of a bunch of separate groups, like so with the columns, all in one fell swoop.",
   334.96,
   347.14
  ],
@@ -240,12 +225,12 @@
   362.18
  ],
  [
-  "Specifically, write down the 16 positions in binary, like we had before, and now highlight only the positions where the message bit is turned on to a 1, and then collect these positions into one big column and take the XOR.",
+  "Specifically write down the 16 positions in binary, like we had before, and now highlight the positions where the message bit is turned on to a 1, and then collect these positions into one big column and take the XOR.",
   362.82,
   377.1
  ],
  [
-  "You can probably guess that the four bits sitting at the bottom as a result are the same as the four parity checks we've come to know and love, but take a moment to actually think about why exactly.",
+  "You can probably guess that the 4 bits sitting at the bottom as a result are the same as the 4 parity checks we've come to know and love, but take a moment to actually think about why exactly.",
   379.26,
   389.2
  ],
@@ -280,7 +265,7 @@
   436.56
  ],
  [
-  "Once we have it like this, this gives us a really nice way to think about why these four resulting bits at the bottom directly spell out the position of an error.",
+  "Now once we have it like this, this gives us a really nice way to think about why these four resulting bits at the bottom directly spell out the position of an error.",
   439.04,
   447.58
  ],
@@ -305,7 +290,7 @@
   477.94
  ],
  [
-  "So adding a copy of this position to the total sum has the same effect as removing it.",
+  "So adding a copy of this position to the total sum has the same effect as we're moving it.",
   478.92,
   484.3
  ],
@@ -320,7 +305,7 @@
   501.44
  ],
  [
-  "We'll start by creating a random array of 16 ones and zeros to simulate the data block, and I'll go ahead and give it the name bits, but of course in practice this would be something that we're receiving from a sender, and instead of being random, it would be carrying 11 data bits together with 5 parity bits.",
+  "We'll start by creating a random array of 16 1s and 0s to simulate the data block, and I'll give it the name bits, but of course in practice this would be something we're receiving from a sender, and instead of being random it would be carrying 11 data bits together with 5 parity bits.",
   502.08,
   517.4
  ],
@@ -330,7 +315,7 @@
   527.0
  ],
  [
-  "So if we then create a list that loops over all of these pairs, pairs that look like i,bit, and then we pull out just the i value, just the index, well, it's not that exciting, we just get back those indices 0 through 15.",
+  "So if we then create a list that loops over all of these pairs, pairs that look like i, and then we pull out just the i value, just the index, well it's not that exciting, we just get back those indices 0 through 15.",
   528.18,
   541.34
  ],
@@ -345,7 +330,7 @@
   557.96
  ],
  [
-  "Remember, what we want is to collect together all of those positions, the positions of the bits that are turned on, and then XOR them together.",
+  "What we want is to collect together all of those positions, the positions of the bits that are turned on, and then XOR them together.",
   559.98,
   567.24
  ],
@@ -370,12 +355,12 @@
   589.44
  ],
  [
-  "So at the moment, it looks like if we do this on our random block of 16 bits, it returns 9, which has the binary representation 1001.",
+  "So at the moment it looks like if we do this on our random block of 16 bits, it returns 9, which has the binary representation 1001.",
   591.94,
   601.28
  ],
  [
-  "We won't do it here, but you could write a function where the sender uses that binary representation to set the 4 parity bits as needed, ultimately getting this block to a state where running this line of code on the full list of bits returns a 0.",
+  "We won't do it here, but you could write a function where the sender uses that binary representation to set the four parity bits as needed, ultimately getting this block to a state where running this line of code on the full list of bits returns a 0.",
   601.98,
   615.46
  ],
@@ -385,7 +370,7 @@
   618.2
  ],
  [
-  "Now what's cool is that if we toggle any one of the bits in this list, simulating a random error from noise, then if you run this same line of code, it prints out that error.",
+  "What's cool is that if we toggle any one of the bits in this list, simulating a random error from noise, then if you run this same line of code, it prints out that error.",
   619.88,
   630.22
  ],
@@ -405,7 +390,7 @@
   645.2
  ],
  [
-  "The same line of code would work if you had a list of 256 bits.",
+  "The same line of code would work if you had a list of, say, 256 bits.",
   645.4,
   649.86
  ],
@@ -415,7 +400,7 @@
   663.76
  ],
  [
-  "Now depending on your comfort with binary and XORs and software in general, you may either find this perspective a little bit confusing, or so much more elegant and simple that you're wondering why we didn't just start with it from the get-go.",
+  "Now, depending on your comfort with binary and XORs and software in general, you may either find this perspective a little bit confusing, or so much more elegant and simple that you're wondering why we didn't just start with it from the get-go.",
   666.12,
   678.42
  ],
@@ -440,7 +425,7 @@
   726.54
  ],
  [
-  "And then, by the way, there is this whole other way that you sometimes see Hamming codes presented where you multiply the message by one big matrix.",
+  "And then, by the way, there is this whole other way that you sometimes see Hamming codes presented, where you multiply the message by one big matrix.",
   727.5,
   734.0
  ],
@@ -485,13 +470,8 @@
   804.3
  ],
  [
-  "Also, in practice, errors tend to come in little bursts, which would totally ruin a single block.",
+  "Also, in practice, errors tend to come in little bursts, which would totally ruin a single block, so one common tactic to help spread out a burst of errors across many different blocks is to interlace those blocks, like this, before they're sent out or stored.",
   806.6,
-  811.62
- ],
- [
-  "So one common tactic to help spread out a burst of errors across many different blocks is to interlace those blocks, like this, before they're sent out or stored.",
-  812.2,
   820.98
  ],
  [
@@ -500,7 +480,7 @@
   838.82
  ],
  [
-  "But that is a topic for another time.",
+  "But that's a topic for another time.",
   839.36,
   841.34
  ],

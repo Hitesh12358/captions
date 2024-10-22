@@ -11,236 +11,236 @@ Chà, anh ấy và tôi vừa làm một video về một chủ đề cơ học 
 Bất đẳng thức Bell.
 
 4
-00:00:09,800 --> 00:00:13,018
-Đó là một chủ đề thực sự gây sốc mà không có nhiều người biết đến, 
+00:00:09,800 --> 00:00:12,956
+Đó là một chủ đề thực sự sốc mà không có nhiều người biết đến, 
 
 5
-00:00:13,018 --> 00:00:16,093
-và mặc dù đó là một thứ lượng tử, nhưng nó dựa trên một số phép 
+00:00:12,956 --> 00:00:15,963
+và dù đó là một thứ lượng tử, nhưng nó dựa trên một số phép 
 
 6
-00:00:16,093 --> 00:00:19,120
+00:00:15,963 --> 00:00:19,120
 toán đơn giản đến đáng ngạc nhiên và bạn chắc chắn nên xem thử.
 
 7
-00:00:19,880 --> 00:00:22,155
-Đối với video này, chúng tôi lưu ý đến những người 
+00:00:19,880 --> 00:00:22,324
+Với video này, ta lưu ý đến những người xem thực 
 
 8
-00:00:22,155 --> 00:00:24,520
-xem thực sự muốn tìm hiểu sâu hơn về cơ học lượng tử.
+00:00:22,324 --> 00:00:24,520
+sự muốn tìm hiểu sâu hơn về cơ học lượng tử.
 
 9
-00:00:24,920 --> 00:00:29,282
+00:00:24,920 --> 00:00:29,238
 Và rõ ràng đó là một chủ đề lớn, không nằm trong phạm vi của một video duy nhất, 
 
 10
-00:00:29,282 --> 00:00:33,160
-nhưng câu hỏi chúng tôi đặt ra là chúng tôi có thể trình bày chủ đề nào 
+00:00:29,238 --> 00:00:33,129
+nhưng câu hỏi chúng ta đặt ra là ta có thể trình bày chủ đề nào mà không 
 
 11
-00:00:33,160 --> 00:00:36,229
-mà không phải là một phần kỳ lạ lượng tử bắt mắt nào đó, 
+00:00:33,129 --> 00:00:35,688
+phải là một phần kỳ lạ lượng tử bắt mắt nào đó, 
 
 12
-00:00:36,229 --> 00:00:40,700
-nhưng thực sự đặt ra một số nền tảng hữu ích cho có ai muốn học lĩnh vực này không?
+00:00:35,688 --> 00:00:38,834
+nhưng nó thực sự đặt ra một số nền tảng hữu ích cho ai đó, 
 
 13
-00:00:41,320 --> 00:00:43,893
-Chủ đề nào sẽ tạo ra trực giác phù hợp cho ai đó 
+00:00:38,834 --> 00:00:40,700
+người muốn nghiên cứu lĩnh vực này.
 
 14
+00:00:41,320 --> 00:00:43,893
+Chủ đề nào sẽ tạo ra trực quan phù hợp cho ai đó 
+
+15
 00:00:43,893 --> 00:00:46,520
 trước khi họ đi sâu vào các bài giảng của Feynman?
 
-15
+16
 00:00:47,400 --> 00:00:51,540
 Chà, nơi bắt đầu tự nhiên, nơi cơ học lượng tử bắt đầu, là ánh sáng.
 
-16
+17
 00:00:51,880 --> 00:00:54,636
 Cụ thể, nếu bạn muốn học lượng tử, bạn phải hiểu 
 
-17
+18
 00:00:54,636 --> 00:00:57,280
 về sóng và cách chúng được mô tả bằng toán học.
 
-18
-00:00:57,720 --> 00:01:01,620
-Và điều chúng tôi muốn xây dựng ở đây là mối quan hệ giữa năng lượng 
-
 19
-00:01:01,620 --> 00:01:05,860
-trong một làn sóng thuần túy cổ điển và xác suất chi phối hành vi lượng tử.
+00:00:57,720 --> 00:01:01,590
+Và điều chúng ta muốn xây dựng ở đây là mối quan hệ giữa năng lượng 
 
 20
-00:01:06,700 --> 00:01:10,287
-Trên thực tế, chúng ta sẽ dành phần lớn thời gian để nói về sự hiểu biết tiền 
+00:01:01,590 --> 00:01:05,860
+trong một làn sóng thuần túy cổ điển và xác suất chi phối hành vi lượng tử.
 
 21
-00:01:10,287 --> 00:01:13,920
-lượng tử về ánh sáng, vì điều đó thiết lập nên rất nhiều cơ chế sóng liên quan.
+00:01:06,700 --> 00:01:10,980
+Thực tế, ta sẽ dành phần lớn thời gian nói qua về hiểu biết lượng tử của ánh sáng, 
 
 22
+00:01:10,980 --> 00:01:13,920
+vì cách thiết lập đó liên quan rất nhiều đến cơ chế sóng.
+
+23
 00:01:14,420 --> 00:01:16,864
 Vấn đề là, rất nhiều ý tưởng từ cơ học lượng tử, 
 
-23
+24
 00:01:16,864 --> 00:01:20,455
 như mô tả các trạng thái là sự chồng chất với biên độ và pha khác nhau, 
 
-24
+25
 00:01:20,455 --> 00:01:24,645
 xuất hiện trong bối cảnh sóng cổ điển theo cách không liên quan đến bất kỳ sự kỳ lạ 
 
-25
+26
 00:01:24,645 --> 00:01:26,840
 lượng tử nào mà mọi người có thể quen thuộc.
 
-26
-00:01:27,120 --> 00:01:30,446
+27
+00:01:27,120 --> 00:01:30,582
 Điều này cũng giúp đánh giá cao những gì thực sự khác biệt trong cơ học lượng tử, 
 
-27
-00:01:30,446 --> 00:01:33,651
+28
+00:01:30,582 --> 00:01:33,917
 cụ thể là những hạn chế nhất định về mức năng lượng mà các sóng này có thể có, 
 
-28
-00:01:33,651 --> 00:01:35,842
+29
+00:01:33,917 --> 00:01:36,197
 cách chúng hoạt động khi đo và sự vướng víu lượng tử, 
 
-29
-00:01:35,842 --> 00:01:38,520
-mặc dù chúng tôi sẽ không đề cập đến sự vướng víu trong video này.
-
 30
+00:01:36,197 --> 00:01:38,520
+dù ta sẽ không đề cập đến sự vướng víu trong video này.
+
+31
 00:01:38,840 --> 00:01:41,603
 Vì vậy, chúng ta sẽ bắt đầu với sự hiểu biết vào cuối 
 
-31
+32
 00:01:41,603 --> 00:01:44,520
 những năm 1800 về ánh sáng như sóng trong trường điện từ.
 
-32
+33
 00:01:45,000 --> 00:01:46,320
 Ở đây, hãy chia nhỏ điều đó một chút.
 
-33
+34
 00:01:46,520 --> 00:01:50,357
 Điện trường là một trường vectơ, và điều đó có nghĩa là mọi điểm trong 
 
-34
+35
 00:01:50,357 --> 00:01:54,520
 không gian đều có một số mũi tên gắn vào nó chỉ hướng và cường độ của trường.
 
-35
-00:01:55,200 --> 00:01:59,388
-Bây giờ, ý nghĩa vật lý của những mũi tên đó là nếu bạn có một hạt tích điện 
-
 36
-00:01:59,388 --> 00:02:03,686
-nào đó trong không gian, sẽ có một lực tác dụng lên hạt đó theo hướng mũi tên, 
+00:01:55,200 --> 00:01:59,187
+Bây giờ, ý nghĩa vật lý của những mũi tên đó là nếu bạn có một hạt tích 
 
 37
-00:02:03,686 --> 00:02:07,440
-và nó tỉ lệ với chiều dài của mũi tên và điện tích riêng của nó. hạt.
+00:01:59,187 --> 00:02:03,840
+điện nào đó trong không gian, sẽ có một lực tác dụng lên hạt đó theo hướng mũi tên, 
 
 38
-00:02:08,240 --> 00:02:11,697
-Tương tự như vậy, từ trường là một trường vectơ khác, 
+00:02:03,840 --> 00:02:07,440
+và nó tỉ lệ với chiều dài của mũi tên và điện tích riêng của hạt.
 
 39
-00:02:11,697 --> 00:02:17,012
-trong đó ý nghĩa vật lý của mỗi mũi tên là khi một hạt tích điện chuyển động trong 
+00:02:08,240 --> 00:02:11,769
+Tương tự như vậy, từ trường là một trường vectơ khác, 
 
 40
-00:02:17,012 --> 00:02:22,583
-không gian đó, sẽ có một lực vuông góc với cả hướng chuyển động của nó và hướng của từ 
+00:02:11,769 --> 00:02:17,193
+trong đó ý nghĩa vật lý của mỗi mũi tên là khi một hạt tích điện chuyển động trong 
 
 41
-00:02:22,583 --> 00:02:27,258
-trường. trường và cường độ của lực đó tỷ lệ thuận với điện tích của hạt, 
+00:02:17,193 --> 00:02:22,683
+không gian đó, sẽ có một lực vuông góc với cả hướng chuyển động của nó và hướng của 
 
 42
-00:02:27,258 --> 00:02:30,460
-vận tốc của nó và chiều dài của mũi tên từ trường.
+00:02:22,683 --> 00:02:27,192
+từ trường, và cường độ của lực đó tỷ lệ thuận với điện tích của hạt, 
 
 43
+00:02:27,192 --> 00:02:30,460
+vận tốc của nó và chiều dài của mũi tên từ trường.
+
+44
 00:02:30,960 --> 00:02:34,026
 Ví dụ, một sợi dây có dòng điện chuyển động bên 
 
-44
+45
 00:02:34,026 --> 00:02:37,220
 cạnh một nam châm sẽ bị từ trường đó đẩy hoặc kéo.
 
-45
-00:02:37,700 --> 00:02:41,184
-Một loại đỉnh cao của sự hiểu biết vật lý thế kỷ 19 về cách thức hoạt động 
-
 46
-00:02:41,184 --> 00:02:43,414
-của hai trường này là các phương trình Maxwell, 
+00:02:37,700 --> 00:02:41,026
+Một loại đỉnh cao của sự hiểu biết vật lý thế kỷ 19 về cách thức hoạt 
 
 47
-00:02:43,414 --> 00:02:46,805
-trong số những phương trình khác mô tả cách mỗi trường này có thể gây ra 
+00:02:41,026 --> 00:02:43,545
+động của hai trường này là các phương trình Maxwell, 
 
 48
-00:02:46,805 --> 00:02:48,060
-sự thay đổi cho trường kia.
+00:02:43,545 --> 00:02:46,919
+nó nằm trong những cái khác mô tả cách mỗi trường này có thể gây ra sự 
 
 49
+00:02:46,919 --> 00:02:48,060
+thay đổi cho trường kia.
+
+50
 00:02:48,660 --> 00:02:52,744
 Cụ thể, điều mà các phương trình Maxwell cho chúng ta biết là khi các mũi 
 
-50
+51
 00:02:52,744 --> 00:02:56,774
 tên điện trường dường như đang tạo thành một vòng quanh một vùng nào đó, 
 
-51
+52
 00:02:56,774 --> 00:03:00,859
 thì từ trường sẽ tăng bên trong vùng đó vuông góc với mặt phẳng của vòng, 
 
-52
+53
 00:03:00,859 --> 00:03:03,895
 và một cách đối xứng, vòng đó như vậy trong từ trường. 
 
-53
+54
 00:03:03,895 --> 00:03:08,090
 trường tương ứng với sự thay đổi của điện trường bên trong nó vuông góc với 
 
-54
+55
 00:03:08,090 --> 00:03:09,360
 mặt phẳng của vòng dây.
 
-55
-00:03:10,060 --> 00:03:14,175
-Bây giờ, chi tiết cụ thể về cách hoạt động chính xác của các phương trình này 
-
 56
-00:03:14,175 --> 00:03:16,813
-thực sự rất hay và xứng đáng có một video đầy đủ, 
+00:03:10,060 --> 00:03:14,966
+Bây giờ, chi tiết cụ thể về cách hoạt động chính xác của các phương trình này thực sự rất 
 
 57
-00:03:16,813 --> 00:03:20,981
-nhưng tất cả những gì bạn cần biết bây giờ là một hệ quả tự nhiên của sự tương 
+00:03:14,966 --> 00:03:19,764
+hay và xứng đáng có một video đầy đủ, nhưng tất cả những gì bạn cần biết bây giờ là một 
 
 58
-00:03:20,981 --> 00:03:24,937
-tác lẫn nhau này trong việc thay đổi một trường sẽ gây ra những thay đổi ở 
+00:03:19,764 --> 00:03:24,508
+hệ quả tự nhiên của sự tương tác lẫn nhau này trong cách thay đổi một trường sẽ gây ra 
 
 59
-00:03:24,937 --> 00:03:28,894
-trường khác như thế nào. ở các vùng lân cận của nó là bạn có được các sóng 
+00:03:24,508 --> 00:03:27,288
+những thay đổi ở trường ở các vùng lân cận của nó, 
 
 60
-00:03:28,894 --> 00:03:32,957
-lan truyền này trong đó điện trường và từ trường dao động vuông góc với nhau 
+00:03:27,288 --> 00:03:32,195
+rằng bạn có được các sóng lan truyền này trong đó điện trường và từ trường dao động vuông 
 
 61
-00:03:32,957 --> 00:03:34,540
-và vuông góc với hướng truyền.
+00:03:32,195 --> 00:03:34,540
+góc với nhau và vuông góc với hướng truyền.
 
 62
 00:03:35,120 --> 00:03:38,687
@@ -255,32 +255,32 @@ như sóng vô tuyến và ánh sáng khả kiến, thì đây chính là nhữn
 sự lan truyền sóng trong cả điện trường và từ trường.
 
 65
-00:03:47,040 --> 00:03:50,851
+00:03:47,040 --> 00:03:50,860
 Tất nhiên, ngày nay việc biết ánh sáng là bức xạ điện từ gần như là phổ biến, 
 
 66
-00:03:50,851 --> 00:03:55,053
+00:03:50,860 --> 00:03:55,072
 nhưng thật thú vị khi nghĩ xem điều này đáng ngạc nhiên đến mức nào vào thời Maxwell, 
 
 67
-00:03:55,053 --> 00:03:59,109
+00:03:55,072 --> 00:03:59,137
 rằng những trường này liên quan đến lực tác dụng lên các hạt tích điện và nam châm 
 
 68
-00:03:59,109 --> 00:04:03,262
-không chỉ có tác dụng gì đó. với ánh sáng, nhưng ánh sáng là sóng lan truyền khi hai 
+00:03:59,137 --> 00:04:03,251
+không chỉ có tác dụng gì đó với ánh sáng, nhưng ánh sáng là sóng lan truyền khi hai 
 
 69
-00:04:03,262 --> 00:04:07,660
+00:04:03,251 --> 00:04:07,660
 trường này nhảy múa với nhau gây ra sự dao động lẫn nhau với cường độ trường tăng và giảm.
 
 70
-00:04:08,240 --> 00:04:10,398
-Với hình ảnh trực quan này, chúng ta hãy dành chút 
+00:04:08,240 --> 00:04:10,396
+Với hình ảnh trực quan này, ta dành chút thời 
 
 71
-00:04:10,398 --> 00:04:12,600
-thời gian để trình bày phép toán dùng để mô tả sóng.
+00:04:10,396 --> 00:04:12,600
+gian để trình bày phép toán dùng để mô tả sóng.
 
 72
 00:04:13,160 --> 00:04:17,140
@@ -295,20 +295,20 @@ như sự chồng chất, biên độ, pha, tất cả những thứ này đều
 và tôi sẽ tranh luận với động cơ rõ ràng hơn cho ý nghĩa thực sự của chúng.
 
 75
-00:04:26,380 --> 00:04:29,044
-Hãy xem làn sóng này và nghĩ về nó như hướng thẳng ra khỏi màn hình, 
+00:04:26,380 --> 00:04:28,993
+Hãy xem sóng này và nghĩ về nó như hướng thẳng ra khỏi màn hình, 
 
 76
-00:04:29,044 --> 00:04:30,280
+00:04:28,993 --> 00:04:30,280
 hướng về phía khuôn mặt của bạn.
 
 77
-00:04:30,940 --> 00:04:33,240
-Và bây giờ chúng ta hãy tiếp tục bỏ qua từ trường 
+00:04:30,940 --> 00:04:33,286
+Và bây giờ chúng ta tiếp tục bỏ qua từ trường mà 
 
 78
-00:04:33,240 --> 00:04:35,680
-mà chỉ quan sát xem điện trường dao động như thế nào.
+00:04:33,286 --> 00:04:35,680
+chỉ quan sát xem điện trường dao động như thế nào.
 
 79
 00:04:35,680 --> 00:04:39,428
@@ -319,12 +319,12 @@ Và chúng ta cũng sẽ chỉ tập trung vào một trong những vectơ dao �
 trong mặt phẳng của màn hình, mà chúng ta sẽ coi là mặt phẳng xy.
 
 81
-00:04:43,580 --> 00:04:45,792
+00:04:43,580 --> 00:04:45,926
 Nếu nó dao động theo chiều ngang như thế này thì 
 
 82
-00:04:45,792 --> 00:04:48,320
-chúng ta nói rằng ánh sáng bị phân cực theo chiều ngang.
+00:04:45,926 --> 00:04:48,320
+ta nói rằng ánh sáng bị phân cực theo chiều ngang.
 
 83
 00:04:49,080 --> 00:04:55,730
@@ -343,28 +343,28 @@ Vì vậy, nếu f là 1 chẳng hạn, điều đó có nghĩa là phải mất
 đúng 1 giây để hàm cosine này hoàn thành một chu trình đầy đủ.
 
 87
-00:05:12,520 --> 00:05:14,850
-Đối với tần số thấp hơn, điều đó có nghĩa là phải mất 
+00:05:12,520 --> 00:05:14,980
+Với tần số thấp hơn nghĩa là phải mất nhiều thời 
 
 88
-00:05:14,850 --> 00:05:17,440
-nhiều thời gian hơn để cosin trải qua toàn bộ chu kỳ của nó.
+00:05:14,980 --> 00:05:17,440
+gian hơn để cosin trải qua toàn bộ chu kỳ của nó.
 
 89
 00:05:18,020 --> 00:05:23,400
 Khi giá trị t tăng, phần bên trong của hàm cosin này tăng chậm hơn.
 
 90
-00:05:24,460 --> 00:05:28,526
+00:05:24,460 --> 00:05:28,681
 Ngoài ra, chúng ta sẽ đưa vào đây một thuật ngữ khác, phi, được gọi là độ dịch pha, 
 
 91
-00:05:28,526 --> 00:05:32,400
-nó cho chúng ta biết vectơ này ở đâu trong chu kỳ của nó tại thời điểm t bằng 0.
+00:05:28,681 --> 00:05:32,400
+nó cho ta biết vectơ này ở đâu trong chu kỳ của nó tại thời điểm t bằng 0.
 
 92
 00:05:32,920 --> 00:05:34,480
-Bạn sẽ thấy tại sao điều đó lại quan trọng chỉ trong chốc lát.
+Chỉ lát nữa, bạn sẽ thấy tại sao điều đó lại quan trọng.
 
 93
 00:05:35,220 --> 00:05:38,470
@@ -375,23 +375,23 @@ Theo mặc định, cosine chỉ dao động giữa âm 1 và 1,
 vì vậy hãy đặt một số hạng khác ở phía trước, a, cho chúng ta biên độ của sóng này.
 
 95
-00:05:44,580 --> 00:05:48,426
+00:05:44,580 --> 00:05:48,567
 Một điều nữa, để làm cho mọi thứ trông giống hơn một chút trong cơ học lượng tử, 
 
 96
-00:05:48,426 --> 00:05:50,801
+00:05:48,567 --> 00:05:51,028
 thay vì viết nó dưới dạng vectơ cột, như thế này, 
 
 97
-00:05:50,801 --> 00:05:54,980
+00:05:51,028 --> 00:05:55,360
 tôi sẽ tách nó thành hai thành phần khác nhau bằng cách sử dụng các ký hiệu gọi là kets.
 
 98
-00:05:54,980 --> 00:05:59,666
+00:05:55,900 --> 00:06:00,137
 Ket này ở đây biểu thị một vectơ đơn vị theo hướng nằm ngang, 
 
 99
-00:05:59,666 --> 00:06:04,580
+00:06:00,137 --> 00:06:04,580
 và ket này ở đây biểu thị một vectơ đơn vị theo hướng thẳng đứng.
 
 100
@@ -411,15 +411,15 @@ trong đó thành phần ngang bây giờ bằng 0 và thành phần dọc là c
 biên độ và một sự chuyển pha.
 
 104
-00:06:23,640 --> 00:06:27,318
-Bây giờ nếu bạn có hai sóng riêng biệt, hai sóng dao động trong không gian 
+00:06:23,640 --> 00:06:27,131
+Giờ nếu có hai sóng riêng biệt, hai sóng dao động trong không gian 
 
 105
-00:06:27,318 --> 00:06:30,850
-theo thời gian giải các phương trình Maxwell, thì việc cộng cả hai sóng 
+00:06:27,131 --> 00:06:30,623
+theo thời gian giải các phương trình Maxwell, thì cộng cả hai sóng 
 
 106
-00:06:30,850 --> 00:06:34,480
+00:06:30,623 --> 00:06:34,480
 này lại với nhau sẽ cho một sóng hợp lệ khác, ít nhất là trong chân không.
 
 107
@@ -432,7 +432,7 @@ Thực hiện điều này tại mọi điểm trong không gian và mọi thờ
 
 109
 00:06:44,397 --> 00:06:48,005
-mới, hợp lệ cho các phương trình Maxwell, ít nhất điều này hoàn toàn đúng trong chân 
+mới, hợp lệ với các phương trình Maxwell, ít nhất điều này hoàn toàn đúng trong chân 
 
 110
 00:06:48,005 --> 00:06:48,260
@@ -468,46 +468,46 @@ Maxwell cũng là nghiệm của phương trình Maxwell.
 
 118
 00:07:16,420 --> 00:07:20,540
-Làn sóng mới này được gọi là sự chồng chất của hai làn sóng đầu tiên.
+Sóng mới này được gọi là sự chồng chất của hai sóng đầu tiên.
 
 119
-00:07:20,740 --> 00:07:23,686
+00:07:20,740 --> 00:07:23,466
 Và ở đây sự chồng chất về cơ bản chỉ có nghĩa là tổng, 
 
 120
-00:07:23,686 --> 00:07:26,364
+00:07:23,466 --> 00:07:25,944
 hoặc trong một số tổng có trọng số theo ngữ cảnh, 
 
 121
-00:07:26,364 --> 00:07:30,864
+00:07:25,944 --> 00:07:30,108
 vì nếu bạn bao gồm một loại biên độ và độ dịch pha nào đó trong mỗi thành phần này, 
 
 122
-00:07:30,864 --> 00:07:34,400
+00:07:30,108 --> 00:07:33,380
 thì nó vẫn có thể được gọi là sự chồng chất của hai vectơ ban đầu.
 
 123
-00:07:34,400 --> 00:07:38,634
+00:07:34,300 --> 00:07:38,551
 Hiện tại, sự chồng chất thu được là một sóng lắc lư theo hướng chéo, 
 
 124
-00:07:38,634 --> 00:07:41,887
+00:07:38,551 --> 00:07:41,816
 nhưng nếu các thành phần ngang và dọc lệch pha nhau, 
 
 125
-00:07:41,887 --> 00:07:46,980
+00:07:41,816 --> 00:07:46,930
 điều này có thể xảy ra nếu bạn tăng độ lệch pha ở một trong số chúng, thay vào đó, 
 
 126
-00:07:46,980 --> 00:07:50,724
+00:07:46,930 --> 00:07:50,689
 tổng của chúng có thể bị lệch pha một loại hình elip nào đó, 
 
 127
-00:07:50,724 --> 00:07:56,247
+00:07:50,689 --> 00:07:56,234
 trong trường hợp các pha không đồng bộ với nhau chính xác 90 độ và biên độ đều bằng nhau, 
 
 128
-00:07:56,247 --> 00:07:59,500
+00:07:56,234 --> 00:07:59,500
 đây là cái mà chúng ta gọi là ánh sáng phân cực tròn.
 
 129
@@ -519,7 +519,7 @@ Nhân tiện, đây là lý do tại sao điều quan trọng là phải theo d�
 theo mỗi hướng mà còn theo dõi pha. Nó ảnh hưởng đến cách hai sóng cộng lại với nhau.
 
 131
-00:08:12,659 --> 00:08:15,277
+00:08:12,660 --> 00:08:15,277
 Đó cũng là một ý tưởng quan trọng được áp dụng cho lượng 
 
 132
@@ -527,15 +527,15 @@ theo mỗi hướng mà còn theo dõi pha. Nó ảnh hưởng đến cách hai 
 tử và làm nền tảng cho một số điều lúc đầu có vẻ khó hiểu.
 
 133
-00:08:18,720 --> 00:08:21,960
-Và đây là một ý tưởng quan trọng khác, chúng ta đang mô tả sóng 
+00:08:18,720 --> 00:08:22,012
+Và đây là một ý tưởng quan trọng khác, ta đang mô tả sóng bằng 
 
 134
-00:08:21,960 --> 00:08:24,845
-bằng cách cộng các thành phần ngang và dọc lại với nhau, 
+00:08:22,012 --> 00:08:24,729
+cách cộng các thành phần ngang và dọc lại với nhau, 
 
 135
-00:08:24,845 --> 00:08:28,440
+00:08:24,729 --> 00:08:28,440
 nhưng chúng ta cũng có thể chọn mô tả mọi thứ theo các hướng khác nhau.
 
 136
@@ -619,7 +619,7 @@ hướng chéo đó và hướng vuông góc đối chéo của nó.
 Những ý tưởng này sẽ được chuyển tải gần như từng chữ sang trường hợp lượng tử.
 
 156
-00:09:53,839 --> 00:09:57,053
+00:09:53,840 --> 00:09:57,053
 Các trạng thái lượng tử, giống như hướng dao động của sóng của chúng ta, 
 
 157
@@ -743,7 +743,7 @@ Nhưng điều mà các nhà vật lý bắt đầu chú ý vào cuối thế k�
 thế kỷ 20 là năng lượng này thực sự xuất hiện với những lượng riêng biệt.
 
 187
-00:11:46,319 --> 00:11:50,096
+00:11:46,320 --> 00:11:50,096
 Cụ thể, năng lượng của một trong những sóng điện từ này dường như luôn 
 
 188
@@ -1027,47 +1027,47 @@ qua cái đầu tiên đó đều bị phân cực theo chiều dọc,
 nên chúng thực sự có một 0% cơ hội vượt qua bộ lọc được định hướng theo chiều ngang.
 
 258
-00:16:10,280 --> 00:16:14,950
+00:16:10,280 --> 00:16:15,205
 Nhưng nếu bạn lắp bộ lọc thứ ba được định hướng ở góc 45 độ giữa hai bộ lọc, 
 
 259
-00:16:14,950 --> 00:16:17,620
+00:16:15,205 --> 00:16:18,020
 nó thực sự cho nhiều ánh sáng xuyên qua hơn.
 
 260
-00:16:17,620 --> 00:16:23,875
+00:16:18,640 --> 00:16:24,569
 Và điều đang diễn ra ở đây là 50% photon đi qua bộ lọc dọc đó cũng sẽ đi qua bộ lọc chéo, 
 
 261
-00:16:23,875 --> 00:16:28,671
+00:16:24,569 --> 00:16:29,115
 và một khi chúng đi qua, chúng sẽ bị thay đổi để có sự phân cực hoàn 
 
 262
-00:16:28,671 --> 00:16:33,188
+00:16:29,115 --> 00:16:33,398
 toàn theo đường chéo, và sau đó khi chúng ở trong trạng thái đó, 
 
 263
-00:16:33,188 --> 00:16:37,220
+00:16:33,398 --> 00:16:37,220
 chúng có 50-50 cơ hội đi qua bộ lọc được định hướng 90 độ.
 
 264
-00:16:37,680 --> 00:16:41,526
+00:16:37,680 --> 00:16:41,240
 Vì vậy, mặc dù 0% số photon đi qua bộ lọc đầu tiên sẽ đi qua 
 
 265
-00:16:41,526 --> 00:16:46,697
+00:16:41,240 --> 00:16:46,025
 bộ lọc cuối cùng nếu không có gì ở giữa, nhưng bằng cách đưa vào một bộ lọc khác, 
 
 266
-00:16:46,697 --> 00:16:49,220
+00:16:46,025 --> 00:16:48,360
 25% trong số chúng hiện đã đi qua cả ba.
 
 267
-00:16:49,220 --> 00:16:51,966
+00:16:49,060 --> 00:16:51,884
 Đó là điều bạn không thể giải thích trừ khi bộ lọc 
 
 268
-00:16:51,966 --> 00:16:54,820
+00:16:51,884 --> 00:16:54,820
 ở giữa buộc các photon thay đổi trạng thái của chúng.
 
 269
@@ -1119,15 +1119,15 @@ Tương tự như vậy, bạn có thể nghĩ thành phần thẳng đứng có
 năng lượng tỷ lệ với 0.92 bình phương, kết quả là khoảng 0.85.
 
 281
-00:17:58,140 --> 00:18:00,819
-Và như chúng tôi đã nói trước đây, về mặt cổ điển, 
+00:17:58,140 --> 00:18:00,783
+Và như chúng ta đã nói trước đây, về mặt cổ điển, 
 
 282
-00:18:00,819 --> 00:18:03,709
+00:18:00,783 --> 00:18:03,691
 điều này có nghĩa là nếu bạn cho nó đi qua bộ lọc dọc, 
 
 283
-00:18:03,709 --> 00:18:06,600
+00:18:03,691 --> 00:18:06,600
 15% năng lượng của nó sẽ được hấp thụ theo hướng ngang.
 
 284
@@ -1203,16 +1203,16 @@ sau đó bình phương biên độ của thành phần theo chiều kim đồng
 xác suất mong muốn.
 
 302
-00:19:32,060 --> 00:19:34,489
+00:19:32,060 --> 00:19:34,708
 Tất nhiên, photon chỉ là một hiện tượng lượng tử, 
 
 303
-00:19:34,489 --> 00:19:38,424
-một hiện tượng mà ban đầu chúng ta hiểu nó là sóng nhờ các phương trình Maxwell, 
+00:19:34,708 --> 00:19:38,205
+trong đó ban đầu ta hiểu nó là sóng nhờ các phương trình Maxwell, 
 
 304
-00:19:38,424 --> 00:19:42,020
-sau đó là các hạt hoặc lượng tử riêng lẻ, do đó có tên là cơ học lượng tử.
+00:19:38,205 --> 00:19:42,020
+sau đó là các hạt hoặc lượng tử riêng lẻ, nên có tên là cơ học lượng tử.
 
 305
 00:19:42,960 --> 00:19:45,027
@@ -1295,60 +1295,60 @@ Video này được Brilliant hỗ trợ một phần và như người xem kên
 cho việc xem các video giáo dục một cách thụ động.
 
 325
-00:20:52,380 --> 00:20:55,221
-Tất cả các bạn ở đây đều muốn học thêm toán, vật lý, 
+00:20:52,380 --> 00:20:57,406
+Tất cả các bạn ở đây đều muốn học thêm toán, vật lý, hoặc toán để chuẩn bị cho vật lý, 
 
 326
-00:20:55,221 --> 00:20:58,545
-hoặc toán để chuẩn bị cho vật lý, và cách duy nhất để thực sự 
+00:20:57,406 --> 00:21:02,491
+và cách duy nhất để thực sự học những thứ này là tích cực giải quyết các câu đố và giải 
 
 327
-00:20:58,545 --> 00:21:02,460
-học những thứ này là tích cực giải quyết các câu đố và giải quyết vấn đề.
+00:21:02,491 --> 00:21:02,780
+toán.
 
 328
-00:21:02,460 --> 00:21:05,750
-Brilliant cung cấp nhiều chuỗi vấn đề được sắp xếp thực 
+00:21:03,500 --> 00:21:06,173
+Brilliant cung cấp nhiều chuỗi bài toán được sắp xếp 
 
 329
-00:21:05,750 --> 00:21:09,100
-sự tốt giúp bạn nắm vững tất cả các loại chủ đề kỹ thuật.
+00:21:06,173 --> 00:21:09,100
+thực sự tốt giúp nắm vững tất cả các loại chủ đề kỹ thuật.
 
 330
-00:21:09,640 --> 00:21:12,703
-Rõ ràng là tất cả các bạn đều thích vật lý, vì vậy tôi nghĩ các bạn sẽ 
+00:21:09,640 --> 00:21:12,605
+Rõ ràng là tất cả các bạn đều thích vật lý, nên tôi nghĩ các bạn sẽ 
 
 331
-00:21:12,703 --> 00:21:15,421
+00:21:12,605 --> 00:21:15,352
 thích các khóa học về cơ học cổ điển và vật lý hấp dẫn của họ, 
 
 332
-00:21:15,421 --> 00:21:19,002
+00:21:15,352 --> 00:21:18,971
 và thành thật mà nói, lý thuyết nhóm sẽ mang lại cho bạn một nền tảng thực sự tốt, 
 
 333
-00:21:19,002 --> 00:21:21,980
+00:21:18,971 --> 00:21:21,980
 nhưng cũng có nhiều khóa học tuyệt vời khác, đặc biệt là về toán học.
 
 334
 00:21:22,840 --> 00:21:24,000
-Nếu bạn đi đến rực rỡ.
+Nếu bạn đi đến Brilliant.org/3b1b,
 
 335
-00:21:24,000 --> 00:21:29,582
-org gạch chéo 3b1b, trang đó cho họ biết bạn đến từ đây và 200 người đầu tiên 
+00:21:24,000 --> 00:21:29,485
+trang đó cho họ biết bạn đến từ đây và 200 người đầu tiên truy cập 
 
 336
-00:21:29,582 --> 00:21:35,380
-truy cập liên kết đó sẽ được giảm giá 20% khi đăng ký Brilliant Premium hàng năm.
+00:21:29,485 --> 00:21:35,380
+liên kết đó sẽ được giảm giá 20% khi đăng ký Brilliant Premium hàng năm.
 
 337
-00:21:36,080 --> 00:21:38,334
+00:21:36,080 --> 00:21:38,289
 Đó là gói đăng ký mà tôi đang sử dụng và thực sự 
 
 338
-00:21:38,334 --> 00:21:40,680
-rất thú vị khi có một kho các câu đố và vấn đề này.
+00:21:38,289 --> 00:21:40,680
+rất thú vị khi có một kho các câu đố và bài toán này.
 
 339
 00:21:41,660 --> 00:21:44,353
@@ -1363,14 +1363,14 @@ Nhưng tất nhiên, đối với những ai muốn xem thụ động hơn,
 trên MinutePhysics.
 
 342
-00:21:49,480 --> 00:21:52,436
+00:21:49,480 --> 00:21:52,473
 Nếu vì lý do nào đó mà bạn không theo dõi MinutePhysics những ngày này và tôi 
 
 343
-00:21:52,436 --> 00:21:55,619
+00:21:52,473 --> 00:21:55,698
 không biết tại sao bạn lại không theo dõi, thì các video ở đó thực sự rất đỉnh cao, 
 
 344
-00:21:55,619 --> 00:21:58,500
-vì vậy hãy dành chút thời gian để tìm hiểu phần còn lại của kênh của anh ấy.
+00:21:55,698 --> 00:21:58,500
+vậy hãy dành chút thời gian để tìm hiểu phần còn lại của kênh của anh ấy.
 

@@ -1,10 +1,10 @@
 1
-00:00:14,499 --> 00:00:18,362
+00:00:14,500 --> 00:00:18,362
 Trong các video trước, tôi đã nói về đạo hàm của các hàm đơn giản và 
 
 2
 00:00:18,362 --> 00:00:22,169
-mục tiêu là giúp bạn có được một hình ảnh hoặc trực giác rõ ràng để 
+mục tiêu là giúp bạn có được một hình ảnh hoặc trực quan rõ ràng để 
 
 3
 00:00:22,169 --> 00:00:26,200
@@ -27,16 +27,16 @@ vì vậy bước tiếp theo của chúng ta là hiểu cách bạn lấy đạ
 phức tạp hơn. 
 
 8
-00:00:41,280 --> 00:00:45,238
+00:00:41,280 --> 00:00:44,135
 Một lần nữa, tôi không muốn những thứ này là thứ để ghi nhớ, 
 
 9
-00:00:45,238 --> 00:00:50,040
+00:00:44,135 --> 00:00:47,600
 tôi muốn bạn có một bức tranh rõ ràng trong đầu về nguồn gốc của mỗi thứ. 
 
 10
-00:00:50,340 --> 00:00:53,600
-Điều này thực sự tóm tắt thành ba cách cơ bản để kết hợp các chức năng. 
+00:00:49,520 --> 00:00:53,600
+Điều này thực sự tóm tắt thành ba cách cơ bản để kết hợp các hàm số. 
 
 11
 00:00:54,100 --> 00:00:56,984
@@ -55,180 +55,180 @@ Chắc chắn, bạn có thể nói là trừ chúng, nhưng thực ra đó
 chỉ là nhân số giây với số âm và cộng chúng lại với nhau. 
 
 15
-00:01:08,240 --> 00:01:11,701
+00:01:08,240 --> 00:01:11,679
 Tương tự như vậy, các hàm chia không thực sự thêm bất cứ thứ gì, 
 
 16
-00:01:11,701 --> 00:01:16,014
-bởi vì điều đó giống như việc cắm một cái vào bên trong hàm 1 trên x rồi nhân cả 
+00:01:11,679 --> 00:01:15,860
+bởi vì điều đó giống như việc thay một cái vào bên trong hàm 1 trên x rồi nhân 
 
 17
-00:01:16,014 --> 00:01:16,760
-hai với nhau. 
+00:01:15,860 --> 00:01:16,760
+cả hai với nhau. 
 
 18
-00:01:17,660 --> 00:01:20,464
-Vì vậy, thực sự, hầu hết các chức năng bạn gặp đều liên quan 
+00:01:17,660 --> 00:01:21,947
+Vậy thực ra hầu hết các hàm bạn gặp đều liên quan đến việc xếp ba loại kết hợp khác 
 
 19
-00:01:20,464 --> 00:01:23,084
-đến việc xếp ba loại kết hợp khác nhau này lại với nhau, 
+00:01:21,947 --> 00:01:26,440
+nhau này lại với nhau, dù thực sự không có giới hạn nào về độ kỳ quái có thể trở thành. 
 
 20
-00:01:23,084 --> 00:01:26,440
-mặc dù thực sự không có giới hạn nào về mức độ quái dị có thể trở thành. 
-
-21
-00:01:27,100 --> 00:01:32,419
+00:01:27,100 --> 00:01:31,315
 Nhưng miễn là bạn biết cách hoạt động của đạo hàm chỉ với ba loại kết hợp đó, 
 
+21
+00:01:31,315 --> 00:01:36,179
+bạn sẽ luôn có thể thực hiện từng bước và bóc tách từng lớp để có bất kỳ kiểu biểu đạt kỳ 
+
 22
-00:01:32,419 --> 00:01:38,353
-bạn sẽ luôn có thể thực hiện từng bước và bóc tách từng lớp để có bất kỳ kiểu biểu đạt 
+00:01:36,179 --> 00:01:36,720
+quái nào. 
 
 23
-00:01:38,353 --> 00:01:39,240
-quái dị nào. 
-
-24
-00:01:39,240 --> 00:01:44,177
+00:01:38,720 --> 00:01:43,937
 Câu hỏi là, nếu bạn biết đạo hàm của hai hàm số, thì đạo hàm của tổng, 
 
-25
-00:01:44,177 --> 00:01:48,420
+24
+00:01:43,937 --> 00:01:48,420
 tích của chúng và thành phần hàm số giữa chúng là bao nhiêu? 
 
-26
+25
 00:01:50,320 --> 00:01:54,260
 Quy tắc tính tổng là dễ nhất, nếu nói thành tiếng hơi khó hiểu. 
 
-27
+26
 00:01:54,840 --> 00:01:58,600
 Đạo hàm của tổng hai hàm số là tổng của các đạo hàm của chúng. 
 
-28
+27
 00:01:59,800 --> 00:02:05,031
 Nhưng cũng đáng để khởi động với ví dụ này bằng cách thực sự suy nghĩ xem việc lấy 
 
-29
+28
 00:02:05,031 --> 00:02:10,199
 đạo hàm của tổng hai hàm có ý nghĩa gì, vì các mẫu đạo hàm của tích và hàm hợp sẽ 
 
-30
+29
 00:02:10,199 --> 00:02:15,620
 không đơn giản như vậy, và chúng sẽ yêu cầu loại phép tính này. suy nghĩ sâu sắc hơn. 
 
-31
+30
 00:02:16,700 --> 00:02:21,200
 Ví dụ, hãy nghĩ về hàm f(x) này bằng sin x cộng x bình. 
 
-32
+31
 00:02:22,200 --> 00:02:25,023
 Đó là một hàm trong đó, với mỗi đầu vào, bạn cộng 
 
-33
+32
 00:02:25,023 --> 00:02:27,960
 các giá trị sin của x và x bình phương tại điểm đó. 
 
-34
+33
 00:02:29,760 --> 00:02:36,001
 Ví dụ: giả sử tại x bằng 0.5, chiều cao của đồ thị hình sin được cho bởi thanh 
 
-35
+34
 00:02:36,001 --> 00:02:42,560
 dọc này và chiều cao của parabol bình phương x được cho bởi thanh dọc nhỏ hơn này. 
 
-36
+35
 00:02:44,380 --> 00:02:47,320
 Và tổng của chúng là độ dài bạn có được bằng cách xếp chúng lại với nhau. 
 
-37
-00:02:48,520 --> 00:02:53,857
-Đối với đạo hàm, bạn muốn hỏi điều gì xảy ra khi bạn nhích nhẹ đầu vào đó, 
+36
+00:02:48,520 --> 00:02:53,946
+Đối với đạo hàm, bạn muốn hỏi điều gì xảy ra khi bạn di chuyển nhẹ đầu vào đó, 
 
-38
-00:02:53,857 --> 00:02:56,420
+37
+00:02:53,946 --> 00:02:56,420
 có thể tăng nó lên 0.5 cộng với dx. 
 
-39
+38
 00:02:57,560 --> 00:03:02,920
 Sự khác biệt về giá trị của f giữa hai vị trí đó là cái mà chúng ta gọi là df. 
 
-40
+39
 00:03:04,360 --> 00:03:09,115
 Và khi bạn hình dung nó như thế này, tôi nghĩ bạn sẽ đồng ý rằng tổng sự thay đổi 
 
-41
+40
 00:03:09,115 --> 00:03:12,420
 về chiều cao là bất kể sự thay đổi của đồ thị sin là gì, 
 
-42
+41
 00:03:12,420 --> 00:03:17,234
 cái mà chúng ta có thể gọi là d sin của x, cộng với bất kể thay đổi nào của x bình 
 
-43
+42
 00:03:17,234 --> 00:03:18,800
 phương là, dx bình phương. 
 
-44
+43
 00:03:22,240 --> 00:03:27,540
 Bây giờ chúng ta biết rằng đạo hàm của sin là cosin, và hãy nhớ điều đó có nghĩa là gì. 
 
-45
+44
 00:03:27,920 --> 00:03:33,300
 Nó có nghĩa là sự thay đổi nhỏ này, d sin(x), bằng khoảng cos(x nhân dx). 
 
+45
+00:03:33,780 --> 00:03:38,531
+Nó tỷ lệ thuận với mức độ tác động dx ban đầu của chúng ta và 
+
 46
-00:03:33,780 --> 00:03:38,603
-Nó tỷ lệ thuận với kích thước của cú dịch chuyển dx ban đầu của chúng ta 
+00:03:38,531 --> 00:03:43,360
+hằng số tỷ lệ bằng cosin của bất kỳ đầu vào nào mà ta bắt đầu. 
 
 47
-00:03:38,603 --> 00:03:43,360
-và hằng số tỷ lệ bằng cosin của bất kỳ đầu vào nào mà chúng ta bắt đầu. 
-
-48
 00:03:43,980 --> 00:03:47,877
 Tương tự như vậy, vì đạo hàm của x bình phương là 2x, 
 
-49
+48
 00:03:47,877 --> 00:03:53,940
 nên sự thay đổi về chiều cao của đồ thị x bình phương là 2x bất kể dx là bao nhiêu. 
 
-50
+49
 00:03:55,600 --> 00:04:00,426
 Vì vậy, sắp xếp lại df chia cho dx, tỷ lệ của sự thay đổi nhỏ 
 
-51
+50
 00:04:00,426 --> 00:04:04,630
 của hàm tổng này với sự thay đổi nhỏ của x gây ra nó, 
 
-52
+51
 00:04:04,630 --> 00:04:10,080
 thực sự là cosin của x cộng 2x, tổng các đạo hàm của các phần của nó. 
 
+52
+00:04:11,520 --> 00:04:15,414
+Nhưng như tôi đã nói, mọi thứ có một chút khác biệt đối với các tích 
+
 53
-00:04:11,520 --> 00:04:15,247
-Nhưng như tôi đã nói, mọi thứ có một chút khác biệt đối với các sản 
+00:04:15,414 --> 00:04:19,140
+và hãy cùng suy nghĩ lại lý do tại sao xét về những tác động nhỏ. 
 
 54
-00:04:15,247 --> 00:04:19,140
-phẩm và hãy cùng suy nghĩ lại lý do tại sao xét về những tác động nhỏ. 
-
-55
 00:04:20,060 --> 00:04:21,567
 Trong trường hợp này, tôi không nghĩ đồ thị là 
 
-56
+55
 00:04:21,567 --> 00:04:23,140
 lựa chọn tốt nhất để chúng ta hình dung mọi thứ. 
 
-57
-00:04:23,820 --> 00:04:27,377
+56
+00:04:23,820 --> 00:04:27,105
 Khá phổ biến trong toán học, thực sự ở nhiều cấp độ toán học, 
 
+57
+00:04:27,105 --> 00:04:31,133
+nếu bạn đang xử lý tích của hai thứ, sẽ giúp hiểu rằng nó như một loại vùng 
+
 58
-00:04:27,377 --> 00:04:32,140
-nếu bạn đang xử lý tích của hai thứ, sẽ giúp hiểu nó như một loại lĩnh vực nào đó. 
+00:04:31,133 --> 00:04:32,140
+không gian nào đó. 
 
 59
 00:04:33,080 --> 00:04:36,060
@@ -287,35 +287,35 @@ Và đối với đạo hàm, hãy nghĩ xem một sự thay đổi nhỏ
 của x x dx ảnh hưởng đến diện tích đó như thế nào. 
 
 73
-00:05:33,840 --> 00:05:39,640
+00:05:33,840 --> 00:05:36,280
 Sự thay đổi dẫn đến diện tích df là gì? 
 
 74
-00:05:39,940 --> 00:05:45,653
-Cú dịch chuyển dx làm cho chiều rộng đó thay đổi một số d sin nhỏ của x, 
+00:05:39,000 --> 00:05:43,744
+Sự di chuyển dx đối với chiều rộng đó làm thay đổi một số d sin nhỏ của x, 
 
 75
-00:05:45,653 --> 00:05:50,820
+00:05:43,744 --> 00:05:47,920
 và nó làm cho chiều cao thay đổi một lượng dx bình phương nào đó. 
 
 76
-00:05:50,820 --> 00:05:55,023
+00:05:50,180 --> 00:05:54,174
 Điều này mang lại cho chúng ta ba đoạn nhỏ về diện tích mới, 
 
 77
-00:05:55,023 --> 00:05:59,846
+00:05:54,174 --> 00:05:58,757
 một hình chữ nhật mỏng ở phía dưới có diện tích là chiều rộng, sin x, 
 
 78
-00:05:59,846 --> 00:06:04,807
+00:05:58,757 --> 00:06:03,472
 nhân chiều cao mỏng của nó, dx bình phương, và hình chữ nhật mỏng ở bên 
 
 79
-00:06:04,807 --> 00:06:10,940
+00:06:03,472 --> 00:06:09,300
 phải có diện tích là chiều cao, x bình phương, nhân với chiều rộng mỏng của nó, d sin x. 
 
 80
-00:06:10,940 --> 00:06:14,140
+00:06:10,740 --> 00:06:14,140
 Ngoài ra còn có một chút ở góc, nhưng chúng ta có thể bỏ qua nó. 
 
 81
@@ -335,31 +335,31 @@ Toàn bộ cách thiết lập này rất giống với những gì tôi đã tr
 với sơ đồ x bình phương. 
 
 85
-00:06:29,460 --> 00:06:35,131
+00:06:29,460 --> 00:06:34,520
 Và cũng giống như vậy, hãy nhớ rằng tôi đang sử dụng những thay đổi mạnh mẽ ở đây để vẽ 
 
 86
-00:06:35,131 --> 00:06:38,805
+00:06:34,520 --> 00:06:37,798
 mọi thứ sao cho chúng ta có thể thực sự nhìn thấy chúng, 
 
 87
-00:06:38,805 --> 00:06:42,221
+00:06:37,798 --> 00:06:40,846
 nhưng về nguyên tắc dx là một cái gì đó rất rất nhỏ, 
 
 88
-00:06:42,221 --> 00:06:46,540
+00:06:40,846 --> 00:06:44,700
 và điều đó có nghĩa là dx bình phương và d sin x cũng rất rất nhỏ. 
 
 89
-00:06:46,880 --> 00:06:52,551
+00:06:45,980 --> 00:06:51,998
 Vì vậy, áp dụng những gì chúng ta biết về đạo hàm của sin và x bình phương, 
 
 90
-00:06:52,551 --> 00:06:57,102
+00:06:51,998 --> 00:06:56,828
 sự thay đổi nhỏ dx bình phương đó sẽ bằng khoảng 2x nhân dx, 
 
 91
-00:06:57,102 --> 00:07:01,580
+00:06:56,828 --> 00:07:01,580
 và sự thay đổi nhỏ d sin của x sẽ bằng cosin của x nhân dx. 
 
 92
@@ -379,12 +379,12 @@ Và không có điều gì chúng ta làm ở đây là cụ thể cho sin hoặ
 Cách suy luận tương tự này sẽ áp dụng được cho hai hàm bất kỳ, g và h. 
 
 96
-00:07:27,000 --> 00:07:30,232
-Và đôi khi mọi người thích ghi nhớ mẫu này với một cách ghi 
+00:07:27,000 --> 00:07:30,240
+Và đôi khi người ta thích nhớ khuôn mẫu này với một cách ghi nhớ 
 
 97
-00:07:30,232 --> 00:07:33,680
-nhớ nhất định mà bạn hát trong đầu, left d right, right d left. 
+00:07:30,240 --> 00:07:33,680
+nhất định rằng bạn như đang hát trong đầu, trái d phải, phải d trái. 
 
 98
 00:07:34,400 --> 00:07:37,853
@@ -399,28 +399,28 @@ trái d phải có nghĩa là bạn lấy hàm bên trái, sin x, nhân đạo h
 trong trường hợp này là 2x. 
 
 101
-00:07:45,480 --> 00:07:50,328
+00:07:45,480 --> 00:07:49,481
 Sau đó, bạn cộng vào bên phải d bên trái, hàm bên phải đó, 
 
 102
-00:07:50,328 --> 00:07:54,520
+00:07:49,481 --> 00:07:52,940
 x bình phương, nhân đạo hàm của bên trái, cosin x. 
 
 103
-00:07:54,520 --> 00:07:57,417
+00:07:54,360 --> 00:07:57,341
 Ngoài bối cảnh được trình bày như một quy tắc cần ghi nhớ, 
 
 104
-00:07:57,417 --> 00:08:00,020
+00:07:57,341 --> 00:08:00,020
 tôi nghĩ điều này bạn sẽ cảm thấy khá lạ phải không? 
 
 105
-00:08:00,740 --> 00:08:03,452
+00:08:00,740 --> 00:08:03,498
 Nhưng khi bạn thực sự nghĩ về chiếc hộp có thể điều chỉnh này, 
 
 106
-00:08:03,452 --> 00:08:05,820
-bạn có thể thấy mỗi thuật ngữ đó đại diện cho điều gì. 
+00:08:03,498 --> 00:08:05,820
+bạn có thể thấy mỗi số hạng đó đại diện cho điều gì. 
 
 107
 00:08:06,580 --> 00:08:11,010
@@ -451,12 +451,12 @@ trong trường hợp này là 2 nhân cosin x.
 Tôi sẽ để bạn tạm dừng, suy ngẫm và xác minh điều đó có ý nghĩa. 
 
 114
-00:08:41,920 --> 00:08:47,468
+00:08:41,919 --> 00:08:47,468
 Ngoài phép cộng và phép nhân, một cách phổ biến khác để kết hợp các hàm, và tin tôi đi, 
 
 115
 00:08:47,468 --> 00:08:52,260
-cách này luôn xuất hiện, là lồng cái này vào trong hàm kia, tức là hợp hàm. 
+cách này luôn xuất hiện, là lồng cái này vào trong hàm kia, tức là hàm hợp. 
 
 116
 00:08:53,220 --> 00:08:57,780
@@ -471,354 +471,362 @@ Ví dụ, có thể chúng ta lấy hàm x bình phương và đẩy nó vào b�
 Bạn nghĩ đạo hàm của hàm số mới đó là gì? 
 
 119
-00:09:05,300 --> 00:09:08,777
-Để suy nghĩ kỹ điều này, tôi sẽ chọn một cách khác để hình dung mọi thứ, 
+00:09:05,300 --> 00:09:08,793
+Nghĩ kỹ về điều này, tôi sẽ chọn một cách khác để hình dung mọi thứ, 
 
 120
-00:09:08,777 --> 00:09:12,540
-chỉ để nhấn mạnh rằng trong môn toán sáng tạo, chúng ta có rất nhiều lựa chọn. 
+00:09:08,793 --> 00:09:12,540
+chỉ cần nhấn mạnh rằng trong sáng tạo toán học, ta có rất nhiều lựa chọn. 
 
 121
-00:09:13,320 --> 00:09:18,330
+00:09:13,320 --> 00:09:18,473
 Tôi sẽ đặt ba dòng số khác nhau, dòng trên cùng sẽ chứa giá trị của x, 
 
 122
-00:09:18,330 --> 00:09:21,718
+00:09:18,473 --> 00:09:21,958
 dòng thứ hai sẽ chứa giá trị của x bình phương, 
 
 123
-00:09:21,718 --> 00:09:25,529
+00:09:21,958 --> 00:09:25,878
 và dòng thứ ba sẽ chứa giá trị sin của x bình phương, 
 
 124
-00:09:25,529 --> 00:09:29,834
+00:09:25,878 --> 00:09:30,306
 tức là hàm số x bình phương sẽ đưa bạn từ dòng 1 đến dòng 2, 
 
 125
-00:09:29,834 --> 00:09:32,940
+00:09:30,306 --> 00:09:33,500
 và hàm sin sẽ đưa bạn từ dòng 2 đến dòng 3. 
 
 126
-00:09:32,940 --> 00:09:39,239
+00:09:34,840 --> 00:09:40,530
 Khi tôi dịch chuyển xung quanh giá trị này của x, có thể di chuyển nó lên giá trị 3, 
 
 127
-00:09:39,239 --> 00:09:43,834
+00:09:40,530 --> 00:09:44,680
 giá trị thứ hai đó vẫn được gắn với bất kỳ x bình phương nào, 
 
 128
-00:09:43,834 --> 00:09:50,208
+00:09:44,680 --> 00:09:50,437
 trong trường hợp này là di chuyển lên 9, và giá trị đáy đó, là sin của x bình phương, 
 
 129
-00:09:50,208 --> 00:09:52,580
+00:09:50,437 --> 00:09:52,580
 sẽ đi tới bất kỳ sin nào của 9. 
 
 130
-00:09:54,900 --> 00:10:00,400
-Vì vậy, đối với đạo hàm, hãy bắt đầu lại bằng cách dịch chuyển giá trị x đó một chút dx. 
+00:09:54,900 --> 00:09:57,591
+Vì vậy, đối với đạo hàm, hãy bắt đầu lại bằng 
 
 131
+00:09:57,591 --> 00:10:00,400
+cách tác động vào giá trị x đó với một chút dx. 
+
+132
 00:10:01,540 --> 00:10:05,815
 Tôi luôn nghĩ sẽ hữu ích nếu coi x bắt đầu từ một số cụ thể thực tế nào đó, 
 
-132
+133
 00:10:05,815 --> 00:10:07,840
 có thể là 1.5 trong trường hợp này. 
 
-133
-00:10:08,760 --> 00:10:12,470
-Kết quả là sự dịch chuyển đến giá trị thứ hai đó, 
-
 134
-00:10:12,470 --> 00:10:18,260
-sự thay đổi trong x bình phương gây ra bởi một dx như vậy, là dx bình phương. 
+00:10:08,760 --> 00:10:11,437
+Kết quả của tác động nhỏ đến giá trị thứ hai đó, 
 
 135
-00:10:18,260 --> 00:10:21,279
-Chúng ta có thể mở rộng giá trị này thành 2x nhân dx, 
+00:10:11,437 --> 00:10:15,700
+sự thay đổi trong x bình phương gây ra bởi một dx như vậy, là dx bình phương. 
 
 136
-00:10:21,279 --> 00:10:24,746
-đối với đầu vào cụ thể của chúng ta sẽ là 2 nhân 1.5 nhân dx, 
+00:10:16,960 --> 00:10:20,409
+Chúng ta có thể mở rộng giá trị này thành 2x nhân dx, 
 
 137
-00:10:24,746 --> 00:10:29,780
-nhưng nó giúp giữ cho mọi thứ được viết dưới dạng dx bình phương, ít nhất là vào lúc này. 
+00:10:20,409 --> 00:10:24,370
+đối với đầu vào cụ thể của chúng ta sẽ là 2 nhân 1.5 nhân dx, 
 
 138
-00:10:29,780 --> 00:10:35,525
-Trên thực tế, tôi sẽ tiến thêm một bước nữa, đặt tên mới cho x bình phương này, 
+00:10:24,370 --> 00:10:30,120
+nhưng nó giúp giữ cho mọi thứ được viết dưới dạng dx bình phương, ít nhất là vào lúc này. 
 
 139
-00:10:35,525 --> 00:10:41,200
-có thể là h, để thay vì viết dx bình phương cho cú hích này, chúng ta viết dh. 
+00:10:31,020 --> 00:10:35,985
+Trên thực tế, tôi sẽ tiến thêm một bước nữa, đặt tên mới cho x bình phương này, 
 
 140
+00:10:35,985 --> 00:10:41,200
+có thể là h, để thay vì viết dx bình phương cho tác động nhỏ này, chúng ta viết dh. 
+
+141
 00:10:42,620 --> 00:10:47,260
 Điều này giúp bạn dễ dàng nghĩ về giá trị thứ ba đó, giá trị hiện được chốt ở sin h. 
 
-141
-00:10:48,200 --> 00:10:52,660
-Sự thay đổi của nó là d sin h, sự thay đổi nhỏ gây ra bởi lực đẩy dh. 
-
 142
-00:10:52,660 --> 00:10:58,978
-Nhân tiện, việc nó di chuyển sang trái trong khi điểm dh chuyển sang phải 
+00:10:48,200 --> 00:10:53,680
+Sự thay đổi của nó là d sin h, sự thay đổi nhỏ gây ra bởi sự tác động nhỏ dh. 
 
 143
-00:10:58,978 --> 00:11:05,040
-chỉ có nghĩa là sự thay đổi này, d sin h, sẽ là một loại số âm nào đó. 
+00:10:55,000 --> 00:11:00,123
+Nhân tiện, việc nó di chuyển sang trái trong khi điểm dh chuyển sang phải 
 
 144
+00:11:00,123 --> 00:11:05,040
+chỉ có nghĩa là sự thay đổi này, d sin h, sẽ là một loại số âm nào đó. 
+
+145
 00:11:06,140 --> 00:11:09,640
 Một lần nữa, chúng ta có thể sử dụng kiến thức về đạo hàm của sin. 
 
-145
+146
 00:11:10,500 --> 00:11:14,420
 Sin d của h này sẽ bằng cosin của h nhân dh. 
 
-146
-00:11:15,240 --> 00:11:17,600
+147
+00:11:15,240 --> 00:11:18,640
 Đó chính là ý nghĩa của việc đạo hàm của sin là cosin. 
 
-147
-00:11:17,600 --> 00:11:22,294
+148
+00:11:19,540 --> 00:11:23,662
 Mở ra, chúng ta có thể thay thế h đó bằng x bình một lần nữa, 
 
-148
-00:11:22,294 --> 00:11:28,200
+149
+00:11:23,662 --> 00:11:28,849
 vì vậy chúng ta biết rằng lực đẩy phía dưới sẽ có kích thước cosine là x bình 
 
-149
-00:11:28,200 --> 00:11:29,260
+150
+00:11:28,849 --> 00:11:29,780
 nhân dx bình. 
 
-150
-00:11:29,260 --> 00:11:32,480
-Trên thực tế, chúng ta hãy mở rộng mọi thứ hơn nữa. 
-
 151
-00:11:32,840 --> 00:11:38,100
-Lực đẩy trung gian dx bình phương đó sẽ bằng khoảng 2x nhân dx. 
+00:11:31,040 --> 00:11:32,480
+Thực tế, ta mở rộng hơn với nhiều thứ nữa.
 
 152
+00:11:32,840 --> 00:11:38,100
+Tác động trung gian dx bình phương đó sẽ bằng khoảng 2x nhân dx. 
+
+153
 00:11:39,060 --> 00:11:41,253
 Luôn luôn là một thói quen tốt để nhắc nhở bản 
 
-153
+154
 00:11:41,253 --> 00:11:43,680
 thân ý nghĩa thực sự của cách diễn đạt như thế này. 
 
-154
-00:11:44,340 --> 00:11:49,030
+155
+00:11:44,340 --> 00:11:49,066
 Trong trường hợp này, nơi chúng ta bắt đầu ở x bằng 1.5 ở trên cùng, 
 
-155
-00:11:49,030 --> 00:11:54,809
-toàn bộ biểu thức này cho chúng ta biết rằng kích thước của cú dịch chuyển trên dòng 
-
 156
-00:11:54,809 --> 00:11:58,888
-thứ ba đó sẽ vào khoảng cosin bằng 1.5 bình phương 2 lần 1. 
+00:11:49,066 --> 00:11:55,026
+toàn bộ biểu thức này cho chúng ta biết rằng kích thước của tác động nhỏ trên dòng thứ 
 
 157
-00:11:58,888 --> 00:12:02,220
-Gấp 5 lần bất kể kích thước của dx là bao nhiêu. 
+00:11:55,026 --> 00:11:58,863
+ba đó sẽ vào khoảng cosin bằng 1.5 bình phương 2 lần 1. 
 
 158
+00:11:58,863 --> 00:12:02,220
+Gấp 5 lần bất kể kích thước của dx là bao nhiêu. 
+
+159
 00:12:02,720 --> 00:12:07,920
 Nó tỷ lệ thuận với kích thước của dx, và đạo hàm này cho chúng ta hằng số tỷ lệ đó. 
 
-159
-00:12:10,920 --> 00:12:12,560
-Hãy chú ý những gì chúng tôi đã đưa ra ở đây. 
-
 160
-00:12:12,960 --> 00:12:21,478
-Chúng ta có đạo hàm của hàm bên ngoài, và nó vẫn lấy hàm bên trong không thay đổi, 
+00:12:10,920 --> 00:12:12,560
+Hãy chú ý những gì chúng ta đã đưa ra ở đây. 
 
 161
-00:12:21,478 --> 00:12:26,200
-rồi nhân nó với đạo hàm của hàm bên trong đó. 
+00:12:12,960 --> 00:12:19,561
+Chúng ta có đạo hàm của hàm bên ngoài, và nó vẫn lấy hàm bên trong không thay đổi, 
 
 162
-00:12:26,500 --> 00:12:29,220
-Không có gì đặc biệt về sin của x hoặc x bình phương. 
+00:12:19,561 --> 00:12:23,220
+rồi nhân nó với đạo hàm của hàm bên trong đó. 
 
 163
-00:12:29,740 --> 00:12:35,750
-Nếu bạn có bất kỳ hai hàm số nào, g của x và h của x, 
+00:12:25,820 --> 00:12:29,220
+Không có gì đặc biệt về sin của x hoặc x bình phương. 
 
 164
-00:12:35,750 --> 00:12:44,988
-thì đạo hàm của thành phần của chúng, g của h của x, là đạo hàm của g tính theo h, 
+00:12:29,740 --> 00:12:34,408
+Nếu bạn có bất kỳ hai hàm số nào, g của x và h của x, 
 
 165
-00:12:44,988 --> 00:12:47,660
-nhân với đạo hàm của h. 
+00:12:34,408 --> 00:12:41,584
+thì đạo hàm của thành phần của chúng, g của h của x, là đạo hàm của g tính theo h, 
 
 166
-00:12:47,660 --> 00:12:52,220
-Mô hình này là những gì chúng ta thường gọi là quy tắc dây chuyền. 
+00:12:41,584 --> 00:12:43,660
+nhân với đạo hàm của h. 
 
 167
-00:12:52,220 --> 00:12:57,680
-Đối với đạo hàm của g, tôi viết nó là dg dh thay vì dg dx. 
+00:12:47,140 --> 00:12:50,900
+Mô hình này là những gì chúng ta thường gọi là quy tắc dây chuyền. 
 
 168
-00:12:58,680 --> 00:13:02,445
-Ở cấp độ biểu tượng, đây là lời nhắc nhở rằng thứ 
+00:12:52,040 --> 00:12:57,680
+Đối với đạo hàm của g, tôi viết nó là dg dh thay vì dg dx. 
 
 169
-00:13:02,445 --> 00:13:06,060
-bạn cắm vào đạo hàm vẫn sẽ là hàm trung gian h. 
+00:12:58,680 --> 00:13:02,443
+Ở mức độ tượng trưng, đây là lời nhắc nhở rằng thứ 
 
 170
+00:13:02,443 --> 00:13:06,060
+bạn thay vào đạo hàm vẫn sẽ là hàm trung gian h. 
+
+171
 00:13:07,020 --> 00:13:09,713
 Nhưng hơn thế nữa, nó là sự phản ánh quan trọng 
 
-171
+172
 00:13:09,713 --> 00:13:12,520
 về ý nghĩa thực sự của đạo hàm này của hàm ngoài. 
 
-172
+173
 00:13:13,200 --> 00:13:16,240
 Hãy nhớ rằng, trong thiết lập ba dòng của chúng ta, 
 
-173
-00:13:16,240 --> 00:13:19,924
-khi chúng ta lấy đạo hàm của sin ở đáy đó, chúng ta đã mở rộng 
-
 174
-00:13:19,924 --> 00:13:23,900
-kích thước của cú dịch chuyển đó, d sin, thành cosin của h nhân dh. 
+00:13:16,240 --> 00:13:19,105
+khi chúng ta lấy đạo hàm của sin ở dưới cùng đó, 
 
 175
-00:13:24,940 --> 00:13:27,747
-Điều này là do chúng ta không biết ngay được kích 
+00:13:19,105 --> 00:13:23,900
+chúng ta đã mở rộng mức độ của tác động nhỏ đó, d sin, thành cosin của h nhân dh. 
 
 176
-00:13:27,747 --> 00:13:30,780
-thước của lực đẩy đáy đó phụ thuộc vào x như thế nào. 
+00:13:24,940 --> 00:13:27,365
+Điều này là do ta không biết ngay được mức độ của 
 
 177
-00:13:30,780 --> 00:13:35,620
-Nhưng chúng ta có thể lấy đạo hàm theo biến trung gian h. 
+00:13:27,365 --> 00:13:29,840
+tác động dưới cùng đó phụ thuộc vào x như thế nào. 
 
 178
-00:13:35,620 --> 00:13:40,427
-Nghĩa là, tìm ra cách biểu diễn kích thước của cú dịch chuyển đó trên dòng 
+00:13:30,420 --> 00:13:37,360
+Nhưng chúng ta có thể lấy đạo hàm theo biến trung gian h. 
 
 179
-00:13:40,427 --> 00:13:45,300
-thứ ba bằng bội số của dh, kích thước của cú dịch chuyển trên dòng thứ hai. 
+00:13:38,100 --> 00:13:43,523
+Nghĩa là, tìm ra cách biểu diễn mức độ tác động đó trên dòng thứ ba bằng bội số của dh, 
 
 180
-00:13:45,300 --> 00:13:50,700
-Chỉ sau đó chúng tôi mới khám phá thêm bằng cách tìm ra dh là gì. 
+00:13:43,523 --> 00:13:45,680
+mức độ tác động trên dòng thứ hai. 
 
 181
+00:13:46,580 --> 00:13:50,700
+Chỉ sau đó chúng ta mới khám phá thêm bằng cách tìm ra dh là gì. 
+
+182
 00:13:53,320 --> 00:13:57,024
 Trong biểu thức quy tắc dây chuyền này, chúng ta đang xem xét tỷ lệ 
 
-182
+183
 00:13:57,024 --> 00:13:59,748
 giữa một thay đổi nhỏ trong g, kết quả cuối cùng, 
 
-183
+184
 00:13:59,748 --> 00:14:04,380
 với một thay đổi nhỏ trong h gây ra sự thay đổi đó, h là giá trị chúng ta thế vào g. 
 
-184
-00:14:05,320 --> 00:14:08,885
+185
+00:14:05,320 --> 00:14:08,289
 Sau đó nhân số đó với sự thay đổi nhỏ của h, chia 
 
-185
-00:14:08,885 --> 00:14:12,380
+186
+00:14:08,289 --> 00:14:11,200
 cho sự thay đổi nhỏ của x gây ra sự thay đổi đó. 
 
-186
-00:14:12,380 --> 00:14:18,287
-Lưu ý, những dh đó bị loại bỏ và cho chúng ta một tỷ lệ giữa sự thay đổi ở đầu ra cuối 
-
 187
-00:14:18,287 --> 00:14:24,060
-cùng đó và sự thay đổi ở đầu vào mà nó xảy ra thông qua một chuỗi sự kiện nhất định. 
+00:14:12,300 --> 00:14:15,663
+Lưu ý, những dh đó bị loại bỏ và cho chúng ta một tỷ lệ giữa 
 
 188
-00:14:24,060 --> 00:14:27,529
-Việc hủy bỏ dh không chỉ là một thủ thuật ký hiệu, 
+00:14:15,663 --> 00:14:18,916
+sự thay đổi ở đầu ra cuối cùng đó và sự thay đổi ở đầu vào 
 
 189
-00:14:27,529 --> 00:14:31,746
-nó còn phản ánh chân thực những gì đang diễn ra với những tác 
+00:14:18,916 --> 00:14:22,280
+mà nó xảy ra thông qua một dây chuyền các sự kiện nhất định. 
 
 190
-00:14:31,746 --> 00:14:36,780
-động nhỏ làm nền tảng cho mọi thứ chúng ta làm với các công cụ phái sinh. 
+00:14:23,860 --> 00:14:26,987
+Sự triệt tiêu của dh không chỉ là một thủ thuật ký hiệu, 
 
 191
-00:14:36,780 --> 00:14:39,910
-Đó là ba công cụ cơ bản cần có trong tay để xử 
+00:14:26,987 --> 00:14:30,388
+nó còn phản ánh chân thực những gì đang diễn ra với những tác 
 
 192
-00:14:39,910 --> 00:14:43,240
-lý đạo hàm của các hàm kết hợp nhiều thứ nhỏ hơn. 
+00:14:30,388 --> 00:14:33,900
+động nhỏ làm nền tảng cho mọi thứ chúng ta làm với các đạo hàm. 
 
 193
+00:14:36,300 --> 00:14:39,636
+Đó là ba công cụ cơ bản cần có trong tay để xử lý 
+
+194
+00:14:39,636 --> 00:14:43,240
+đạo hàm của các hàm là kết hợp của nhiều thứ nhỏ hơn. 
+
+195
 00:14:43,840 --> 00:14:47,380
 Bạn có quy tắc tổng, quy tắc tích và quy tắc dây chuyền. 
 
-194
-00:14:48,400 --> 00:14:51,722
-Và tôi thành thật với bạn, có một sự khác biệt lớn giữa việc biết 
-
-195
-00:14:51,722 --> 00:14:54,340
-quy tắc dây chuyền là gì và quy tắc sản phẩm là gì, 
-
 196
-00:14:54,340 --> 00:14:58,620
-với việc thực sự thông thạo việc áp dụng chúng trong những tình huống khó khăn nhất. 
+00:14:48,400 --> 00:14:51,806
+Và thú thật với bạn, có một sự khác biệt lớn trong cách hiểu 
 
 197
-00:14:59,480 --> 00:15:04,572
-Việc xem video, bất kỳ video nào về cơ chế tính toán sẽ không bao giờ thay thế được việc 
+00:14:51,806 --> 00:14:55,325
+giữa quy tắc dây chuyền và quy tắc tích, và sự thông thạo thực 
 
 198
-00:15:04,572 --> 00:15:09,722
-tự mình thực hành các cơ chế đó và xây dựng cơ bắp để tự mình thực hiện các phép tính này.
+00:14:55,325 --> 00:14:58,620
+sự khi áp dụng chúng trong những tình huống khó khăn nhất. 
 
 199
-00:15:09,722 --> 00:15:09,780
- 
+00:14:59,480 --> 00:15:03,214
+Việc xem video, bất kỳ video nào về cơ chế của các phép giải tích 
 
 200
-00:15:09,780 --> 00:15:14,029
-Tôi thực sự mong muốn có thể đề nghị làm điều đó cho bạn, nhưng tôi e rằng, 
+00:15:03,214 --> 00:15:06,892
+sẽ không bao giờ thay thế được việc tự mình thực hành các cơ chế 
 
 201
-00:15:14,029 --> 00:15:17,440
-bạn của tôi, quả bóng đang ở phía bạn để tìm cách thực hành. 
+00:15:06,892 --> 00:15:10,400
+đó và xây dựng cơ bắp để tự mình thực hiện các phép tính này. 
 
 202
+00:15:11,240 --> 00:15:14,679
+Tôi thực sự mong muốn có thể đề nghị làm điều đó cho bạn, nhưng tôi e rằng, 
+
+203
+00:15:14,679 --> 00:15:17,440
+bạn của tôi, quả bóng đang ở phía bạn để tìm cách thực hành. 
+
+204
 00:15:18,040 --> 00:15:21,260
 Những gì tôi có thể đưa ra, và những gì tôi hy vọng mình đã đưa ra, 
 
-203
+205
 00:15:21,260 --> 00:15:23,960
 là để cho bạn thấy những quy tắc này thực sự đến từ đâu. 
 
-204
+206
 00:15:24,140 --> 00:15:27,261
 Để cho thấy rằng chúng không chỉ là thứ cần ghi nhớ và rèn giũa, 
 
-205
+207
 00:15:27,261 --> 00:15:30,670
 mà chúng còn là những khuôn mẫu tự nhiên, những thứ mà bạn cũng có thể 
 
-206
+208
 00:15:30,670 --> 00:15:34,560
 khám phá ra chỉ bằng cách kiên nhẫn suy nghĩ xem đạo hàm thực sự có nghĩa là gì. 
 

@@ -1,18 +1,18 @@
 1
-00:00:12,139 --> 00:00:16,221
-Bây giờ chúng ta đã biết đạo hàm nghĩa là gì và nó liên quan gì đến tỷ lệ thay đổi, 
+00:00:12,140 --> 00:00:16,134
+Bây giờ ta đã biết ý nghĩa đạo hàm nghĩa và nó liên quan gì đến tỷ lệ thay đổi, 
 
 2
-00:00:16,221 --> 00:00:19,380
+00:00:16,134 --> 00:00:19,380
 bước tiếp theo của chúng ta là học cách tính toán những thứ này. 
 
 3
-00:00:19,840 --> 00:00:23,586
-Như trong trường hợp, nếu tôi đưa cho bạn một loại hàm nào đó có công thức rõ ràng, 
+00:00:19,840 --> 00:00:23,609
+Trong trường hợp, nếu tôi cho bạn một loại hàm nào đó có công thức rõ ràng, 
 
 4
-00:00:23,586 --> 00:00:26,040
-bạn sẽ muốn tìm ra công thức cho đạo hàm của nó là gì. 
+00:00:23,609 --> 00:00:26,040
+bạn sẽ muốn tìm ra công thức cho đạo hàm của nó. 
 
 5
 00:00:26,700 --> 00:00:30,197
@@ -36,945 +36,925 @@ các hàm trừu tượng thay vì nghĩ về các bài toán tốc độ thay �
 
 10
 00:00:45,277 --> 00:00:48,557
-những thứ mà chúng ta muốn sử dụng phép tính để phân tích, 
+những thứ mà chúng ta muốn sử dụng giải tích để phân tích, 
 
 11
 00:00:48,557 --> 00:00:53,560
 được mô hình hóa bằng đa thức, hàm lượng giác, hàm mũ và các hàm thuần túy khác tương tự. 
 
 12
-00:00:53,980 --> 00:00:58,304
-Vì vậy, nếu bạn thành thạo một số ý tưởng về tốc độ thay đổi đối với những loại hàm trừu 
+00:00:53,980 --> 00:00:58,285
+Vậy nếu bạn thành thạo các ý tưởng về tốc độ thay đổi với những loại hàm trừu tượng 
 
 13
-00:00:58,304 --> 00:01:02,580
-tượng thuần túy đó, nó sẽ mang lại cho bạn một ngôn ngữ để nói dễ dàng hơn về tốc độ mà 
+00:00:58,285 --> 00:01:02,692
+thuần túy đó, nó sẽ mang lại cho bạn một ngôn ngữ để nói dễ dàng hơn về tốc độ mà mọi 
 
 14
-00:01:02,580 --> 00:01:06,808
-mọi thứ thay đổi trong các tình huống cụ thể mà bạn có thể sử dụng phép tính để lập mô 
+00:01:02,692 --> 00:01:07,100
+thứ thay đổi trong các tình huống cụ thể mà bạn có thể dùng giải tích để mô hình hóa. 
 
 15
-00:01:06,808 --> 00:01:07,100
-hình. 
+00:01:07,920 --> 00:01:11,945
+Nhưng quá trình này quá dễ khiến bạn cảm thấy giống như chỉ ghi nhớ một danh sách các 
 
 16
-00:01:07,920 --> 00:01:11,967
-Nhưng quá trình này quá dễ khiến bạn cảm thấy giống như chỉ ghi nhớ một danh sách các quy 
+00:01:11,945 --> 00:01:14,565
+quy tắc, và nếu điều đó xảy ra, nếu bạn có cảm giác đó, 
 
 17
-00:01:11,967 --> 00:01:14,306
-tắc, và nếu điều đó xảy ra, nếu bạn có cảm giác đó, 
+00:01:14,565 --> 00:01:18,590
+bạn cũng dễ dàng quên đi sự thật rằng các đạo hàm về cơ bản chỉ là xét những thay đổi 
 
 18
-00:01:14,306 --> 00:01:18,128
-bạn cũng dễ dàng quên đi sự thật rằng các công cụ phái sinh về cơ bản chỉ là xem xét 
+00:01:18,590 --> 00:01:22,522
+nhỏ trong một đại lượng nào đó và điều đó liên quan như thế nào đến một sự thay đổi 
 
 19
-00:01:18,128 --> 00:01:22,176
-những thay đổi nhỏ trong một đại lượng nào đó và điều đó liên quan như thế nào đến một sự 
+00:01:22,522 --> 00:01:24,020
+nhỏ dẫn đến một đại lượng khác. 
 
 20
-00:01:22,176 --> 00:01:24,020
-thay đổi nhỏ dẫn đến một đại lượng khác. 
+00:01:24,780 --> 00:01:28,703
+Vậy trong video này và video tiếp, mục đích của tôi là chỉ cho bạn cách bạn có thể 
 
 21
-00:01:24,780 --> 00:01:28,720
-Vì vậy, trong video này và video tiếp theo, mục đích của tôi là chỉ cho bạn cách bạn 
+00:01:28,703 --> 00:01:31,729
+suy nghĩ về một vài quy tắc này một cách trực quan và hình học, 
 
 22
-00:01:28,720 --> 00:01:32,011
-có thể suy nghĩ về một vài quy tắc này một cách trực quan và hình học, 
+00:01:31,729 --> 00:01:35,747
+và tôi thực sự muốn khuyến khích bạn là đừng bao giờ quên rằng những tác động nhỏ là 
 
 23
-00:01:32,011 --> 00:01:35,951
-và tôi thực sự muốn khuyến khích bạn đừng bao giờ quên rằng những cú hích nhỏ là cốt 
+00:01:35,747 --> 00:01:36,740
+cốt lõi của đạo hàm. 
 
 24
-00:01:35,951 --> 00:01:36,740
-lõi của đạo hàm. 
+00:01:37,920 --> 00:01:41,280
+Cùng bắt đầu với một hàm đơn giản như f của x bằng x bình. 
 
 25
-00:01:37,920 --> 00:01:41,280
-Hãy bắt đầu với một hàm đơn giản như f(x = x bình). 
-
-26
 00:01:41,620 --> 00:01:42,740
 Điều gì sẽ xảy ra nếu tôi hỏi bạn đạo hàm của nó? 
 
-27
+26
 00:01:43,520 --> 00:01:46,969
 Nghĩa là, nếu bạn xét một giá trị x nào đó, như x bằng 2, 
 
-28
+27
 00:01:46,969 --> 00:01:50,775
 và so sánh nó với một giá trị lớn hơn một chút, chỉ dx lớn hơn, 
 
-29
+28
 00:01:50,775 --> 00:01:54,700
 thì sự thay đổi tương ứng trong giá trị của hàm, df là bao nhiêu? 
 
-30
+29
 00:01:55,620 --> 00:01:58,780
 Và cụ thể, df chia cho dx bằng bao nhiêu, tốc độ mà 
 
-31
+30
 00:01:58,780 --> 00:02:01,940
 hàm số này thay đổi trên mỗi đơn vị thay đổi của x? 
 
+31
+00:02:03,160 --> 00:02:07,234
+Bước đầu tiên theo trực quan, ta biết rằng bạn có thể coi tỷ lệ df 
+
 32
-00:02:03,160 --> 00:02:07,482
-Bước đầu tiên về trực giác, chúng ta biết rằng bạn có thể coi tỷ lệ 
+00:02:07,234 --> 00:02:11,308
+dx này là hệ số góc của đường tiếp tuyến với đồ thị x bình phương, 
 
 33
-00:02:07,482 --> 00:02:11,931
-df dx này là hệ số góc của đường tiếp tuyến với đồ thị x bình phương, 
-
-34
-00:02:11,931 --> 00:02:16,000
+00:02:11,308 --> 00:02:15,200
 và từ đó bạn có thể thấy rằng hệ số góc thường tăng khi x tăng. 
 
-35
-00:02:16,000 --> 00:02:18,400
+34
+00:02:15,840 --> 00:02:18,400
 Tại 0, đường tiếp tuyến phẳng và độ dốc bằng 0. 
 
-36
+35
 00:02:19,000 --> 00:02:21,260
 Tại x bằng 1, nó dốc hơn một chút. 
 
-37
+36
 00:02:22,600 --> 00:02:24,400
 Tại x bằng 2, nó vẫn dốc hơn. 
 
-38
+37
 00:02:25,120 --> 00:02:27,604
 Nhưng nhìn vào đồ thị nói chung không phải là cách 
 
-39
+38
 00:02:27,604 --> 00:02:30,040
 tốt nhất để hiểu công thức chính xác của đạo hàm. 
 
+39
+00:02:30,720 --> 00:02:34,733
+Với điều đó, tốt nhất bạn nên xét theo nghĩa đen hơn x bình phương thực sự có nghĩa là 
+
 40
-00:02:30,720 --> 00:02:33,385
-Để làm được điều đó, tốt nhất bạn nên xem xét theo nghĩa đen hơn 
+00:02:34,733 --> 00:02:38,840
+gì, và trong trường hợp này ta tiếp tục và hình dung một hình vuông có độ dài cạnh là x. 
 
 41
-00:02:33,385 --> 00:02:36,174
-x bình phương thực sự có nghĩa là gì, và trong trường hợp này chúng 
-
-42
-00:02:36,174 --> 00:02:38,840
-ta hãy tiếp tục và hình dung một hình vuông có độ dài cạnh là x. 
-
-43
 00:02:39,920 --> 00:02:43,279
 Nếu bạn tăng x thêm một chút, một chút dx, thì diện 
 
-44
+42
 00:02:43,279 --> 00:02:46,380
 tích của hình vuông đó sẽ thay đổi như thế nào? 
 
-45
+43
 00:02:47,720 --> 00:02:51,480
 Sự thay đổi nhỏ về diện tích đó chính là ý nghĩa của df trong bối cảnh này. 
 
+44
+00:02:52,020 --> 00:02:55,318
+Đó là sự tăng nhỏ của giá trị f của x bằng x bình 
+
+45
+00:02:55,318 --> 00:02:58,420
+gây ra bởi việc tăng x bởi tác động nhỏ dx đó. 
+
 46
-00:02:52,020 --> 00:02:55,254
-Đó là sự tăng nhỏ của giá trị f(x bằng x bình) 
-
-47
-00:02:55,254 --> 00:02:58,420
-gây ra bởi việc tăng x bởi lực đẩy nhỏ dx đó. 
-
-48
 00:02:59,360 --> 00:03:02,857
 Bây giờ bạn có thể thấy rằng có ba phần diện tích mới trong sơ đồ này, 
 
-49
+47
 00:03:02,857 --> 00:03:05,320
 hai hình chữ nhật mỏng và một hình vuông cực nhỏ. 
 
-50
-00:03:06,240 --> 00:03:09,569
+48
+00:03:06,240 --> 00:03:10,137
 Hai hình chữ nhật mỏng đều có chiều dài các cạnh là x và dx, 
 
-51
-00:03:09,569 --> 00:03:12,680
+49
+00:03:10,137 --> 00:03:13,780
 vì vậy chúng chiếm 2 lần x nhân dx đơn vị diện tích mới. 
 
-52
-00:03:12,680 --> 00:03:21,549
+50
+00:03:18,240 --> 00:03:23,332
 Ví dụ: giả sử x là 3 và dx là 0.01, thì diện tích mới của hai hình chữ nhật mỏng 
 
-53
-00:03:21,549 --> 00:03:30,200
+51
+00:03:23,332 --> 00:03:28,300
 này sẽ là 2 nhân 3 nhân 0.01, tức là 0.06, gấp khoảng 6 lần kích thước của dx. 
 
-54
-00:03:30,200 --> 00:03:33,579
+52
+00:03:29,700 --> 00:03:33,329
 Hình vuông nhỏ đó có diện tích là dx bình phương, 
 
-55
-00:03:33,579 --> 00:03:36,960
+53
+00:03:33,329 --> 00:03:36,960
 nhưng bạn nên nghĩ nó rất nhỏ, nhỏ không đáng kể. 
 
-56
+54
 00:03:37,700 --> 00:03:42,550
 Ví dụ: nếu dx bằng 0.01, đó sẽ chỉ là 0.0001, và hãy nhớ rằng tôi đang vẽ 
 
-57
+55
 00:03:42,550 --> 00:03:47,662
 dx với một chút chiều rộng ở đây chỉ để chúng ta có thể thực sự nhìn thấy nó, 
 
-58
+56
 00:03:47,662 --> 00:03:52,578
 nhưng hãy luôn nhớ về nguyên tắc dx nên được coi là một lượng thực sự nhỏ, 
 
-59
+57
 00:03:52,578 --> 00:03:57,231
 và đối với những lượng thực sự nhỏ đó thì tốt nguyên tắc nhỏ là bạn có 
 
-60
+58
 00:03:57,231 --> 00:04:01,820
 thể bỏ qua bất cứ thứ gì bao gồm dx được nâng lên lũy thừa lớn hơn 1. 
 
-61
+59
 00:04:02,400 --> 00:04:05,880
 Nghĩa là, một thay đổi nhỏ bình phương là một thay đổi không đáng kể. 
 
-62
+60
 00:04:07,500 --> 00:04:12,867
 Điều này để lại cho chúng ta kết quả là df chỉ là bội số của dx, và bội số đó, 
 
-63
+61
 00:04:12,867 --> 00:04:18,100
 2x, mà bạn cũng có thể viết là df chia cho dx, là đạo hàm của x bình phương. 
 
-64
+62
 00:04:19,040 --> 00:04:22,798
 Ví dụ: nếu bạn bắt đầu ở x bằng 3, thì khi bạn tăng nhẹ x, 
 
-65
+63
 00:04:22,798 --> 00:04:28,086
 tốc độ thay đổi về diện tích trên một đơn vị thay đổi của chiều dài được thêm vào, 
 
-66
+64
 00:04:28,086 --> 00:04:31,080
 dx bình phương trên dx, sẽ là 2 nhân 3 hoặc 6, 
 
-67
+65
 00:04:31,080 --> 00:04:36,113
 và nếu thay vào đó bạn đã bắt đầu ở x bằng 5, thì tốc độ thay đổi sẽ là 10 đơn 
 
-68
+66
 00:04:36,113 --> 00:04:38,980
 vị diện tích trên một đơn vị thay đổi của x. 
 
-69
-00:04:41,219 --> 00:04:45,420
-Hãy tiếp tục và thử một hàm đơn giản khác, f(x = x mũ ba). 
+67
+00:04:41,220 --> 00:04:45,420
+Hãy tiếp tục và thử một hàm đơn giản khác, f của x bằng x mũ ba.
 
-70
+68
 00:04:45,940 --> 00:04:48,176
 Đây sẽ là cách nhìn hình học của nội dung mà tôi 
 
-71
+69
 00:04:48,176 --> 00:04:50,140
 đã trải qua bằng đại số trong video trước. 
 
-72
+70
 00:04:51,020 --> 00:04:55,460
 Điều thú vị ở đây là chúng ta có thể coi x lập phương là thể tích của một 
 
-73
+71
 00:04:55,460 --> 00:05:00,140
 khối lập phương thực tế có cạnh dài là x, và khi bạn tăng x lên một chút xíu, 
 
-74
+72
 00:05:00,140 --> 00:05:04,520
 một dx nhỏ, kết quả là thể tích tăng lên là thứ tôi có ở đây, màu vàng . 
 
-75
+73
 00:05:04,860 --> 00:05:08,791
-Điều đó biểu thị toàn bộ thể tích trong một hình lập phương có độ dài cạnh x cộng 
+Nó biểu diễn toàn bộ thể tích trong một hình lập phương có độ dài cạnh x cộng dx, 
 
-76
+74
 00:05:08,791 --> 00:05:12,580
-dx chưa có trong hình lập phương ban đầu, hình lập phương có chiều dài cạnh x. 
+nó chưa có trong hình lập phương ban đầu, hình lập phương có chiều dài cạnh x. 
 
-77
+75
 00:05:13,580 --> 00:05:18,506
 Thật thú vị khi nghĩ tập sách mới này được chia thành nhiều thành phần, 
 
-78
+76
 00:05:18,506 --> 00:05:24,527
 nhưng hầu như tất cả đều xuất phát từ ba mặt vuông này, hay nói chính xác hơn một chút, 
 
-79
+77
 00:05:24,527 --> 00:05:30,616
 khi dx tiến đến 0, ba ô vuông đó bao gồm một phần ngày càng gần hơn với 100 % khối lượng 
 
-80
+78
 00:05:30,616 --> 00:05:31,780
 màu vàng mới đó. 
 
-81
+79
 00:05:33,840 --> 00:05:38,285
 Mỗi hình vuông mỏng đó có thể tích bằng x bình nhân dx, 
 
-82
+80
 00:05:38,285 --> 00:05:41,540
 diện tích mặt nhân với độ dày nhỏ đó dx. 
 
-83
-00:05:42,220 --> 00:05:44,218
-Vì vậy, tổng cộng điều này mang lại cho chúng 
+81
+00:05:42,220 --> 00:05:46,260
+Vậy tổng này cho chúng ta 3x bình phương dx của sự thay đổi về thể tích. 
 
-84
-00:05:44,218 --> 00:05:46,260
-ta sự thay đổi âm lượng gấp 3 lần bình phương. 
-
-85
+82
 00:05:47,300 --> 00:05:50,972
 Và để chắc chắn rằng có những phần thể tích khác ở đây dọc theo các 
 
-86
+83
 00:05:50,972 --> 00:05:54,752
 cạnh và phần nhỏ ở góc, nhưng tất cả thể tích đó sẽ tỷ lệ với dx bình 
 
-87
+84
 00:05:54,752 --> 00:05:58,640
 phương hoặc dx lập phương, vì vậy chúng ta có thể yên tâm bỏ qua chúng. 
 
-88
+85
 00:05:59,460 --> 00:06:03,923
 Một lần nữa, điều này cuối cùng là do chúng sẽ bị chia cho dx, 
 
-89
+86
 00:06:03,923 --> 00:06:10,300
 và nếu vẫn còn dx thì những số hạng đó sẽ không tồn tại trong quá trình để dx tiến tới 0. 
 
-90
+87
 00:06:11,280 --> 00:06:14,017
 Điều này có nghĩa là đạo hàm của x lập phương, 
 
-91
+88
 00:06:14,017 --> 00:06:19,200
 tốc độ mà x lập phương thay đổi trên mỗi đơn vị thay đổi của x, là 3 nhân x bình phương. 
 
-92
-00:06:20,640 --> 00:06:25,084
-Điều đó có nghĩa là xét về mặt trực giác đồ họa thì độ dốc của 
+89
+00:06:20,640 --> 00:06:25,045
+Nghĩa là xét về mặt trực quan của đồ thị thì độ dốc của đồ 
 
-93
-00:06:25,084 --> 00:06:29,600
-đồ thị x lập phương tại mỗi điểm x chính xác là 3x bình phương. 
+90
+00:06:25,045 --> 00:06:29,600
+thị x lập phương tại mỗi điểm x chính xác là 3x bình phương. 
 
-94
-00:06:34,080 --> 00:06:38,768
+91
+00:06:34,080 --> 00:06:38,786
 Và lý luận về độ dốc đó, sẽ hợp lý khi đạo hàm này cao ở bên trái và sau đó bằng 0 ở 
 
-95
-00:06:38,768 --> 00:06:42,187
+92
+00:06:38,786 --> 00:06:42,219
 gốc tọa độ và sau đó lại cao khi bạn di chuyển sang bên phải, 
 
-96
-00:06:42,187 --> 00:06:46,765
-nhưng chỉ nghĩ về mặt biểu đồ sẽ không bao giờ đưa chúng ta đến được điểm số lượng 
+93
+00:06:42,219 --> 00:06:46,760
+nhưng chỉ nghĩ về mặt đồ thị sẽ không bao giờ đưa chúng ta đến được điểm số lượng 
 
-97
-00:06:46,765 --> 00:06:48,200
+94
+00:06:46,760 --> 00:06:48,200
 chính xác 3x bình phương. 
 
+95
+00:06:48,880 --> 00:06:53,060
+Để làm được điều đó, ta phải xét trực tiếp hơn nhiều về ý nghĩa thực sự của x lập phương. 
+
+96
+00:06:54,260 --> 00:06:57,660
+Trên thực tế bây giờ, không nhất thiết phải nghĩ đến bình phương mỗi 
+
+97
+00:06:57,660 --> 00:07:01,159
+khi bạn lấy đạo hàm của x bình phương, cũng không nhất thiết phải nghĩ 
+
 98
-00:06:48,880 --> 00:06:50,991
-Để làm được điều đó, chúng ta phải xem xét trực 
+00:07:01,159 --> 00:07:04,560
+đến lập phương này bất cứ khi nào bạn lấy đạo hàm của x bình phương. 
 
 99
-00:06:50,991 --> 00:06:53,060
-tiếp hơn nhiều về ý nghĩa thực sự của x cubed. 
+00:07:04,880 --> 00:07:08,400
+Cả hai đều thuộc một mẫu khá dễ nhận biết đối với các số hạng đa thức. 
 
 100
-00:06:54,260 --> 00:06:57,599
-Bây giờ, trong thực tế, bạn không nhất thiết phải nghĩ đến bình phương 
-
-101
-00:06:57,599 --> 00:07:01,079
-mỗi khi bạn lấy đạo hàm của x bình phương, bạn cũng không nhất thiết phải 
-
-102
-00:07:01,079 --> 00:07:04,560
-nghĩ đến lập phương này bất cứ khi nào bạn lấy đạo hàm của x bình phương. 
-
-103
-00:07:04,880 --> 00:07:08,400
-Cả hai đều thuộc một mẫu khá dễ nhận biết đối với các thuật ngữ đa thức. 
-
-104
 00:07:09,200 --> 00:07:13,569
 Đạo hàm của x mũ thứ tư hóa ra là lập phương 4x, 
 
-105
+101
 00:07:13,569 --> 00:07:17,760
 đạo hàm của x mũ thứ năm là 5x mũ thứ tư, v.v. 
 
-106
+102
 00:07:18,880 --> 00:07:22,540
 Tóm lại, bạn có thể viết cái này dưới dạng đạo hàm 
 
-107
+103
 00:07:22,540 --> 00:07:26,560
 của x mũ n với mọi lũy thừa n bằng n nhân x mũ n trừ 1. 
 
-108
+104
 00:07:27,300 --> 00:07:30,560
-Đây chính là điều được biết đến trong kinh doanh với tên gọi quy tắc quyền lực. 
+Vế phải ở đây là điều sẽ được biết khi làm việc với quy tắc lũy thừa. 
 
-109
-00:07:31,740 --> 00:07:35,784
-Trong thực tế, tất cả chúng ta đều nhanh chóng cảm thấy mệt mỏi và nghĩ về điều này 
+105
+00:07:31,740 --> 00:07:35,995
+Thực tế tất cả chúng ta đều nhanh chóng cảm thấy mệt mỏi và nghĩ về điều này một cách 
 
-110
-00:07:35,784 --> 00:07:40,118
-một cách tượng trưng như số mũ nhảy xuống phía trước để lại phía sau một ít hơn chính nó, 
+106
+00:07:35,995 --> 00:07:40,004
+tượng trưng như số mũ nhảy xuống phía trước để lại phía sau một ít hơn chính nó, 
 
-111
-00:07:40,118 --> 00:07:44,260
+107
+00:07:40,004 --> 00:07:44,260
 hiếm khi dừng lại để nghĩ về những thú vui hình học làm nền tảng cho các đạo hàm này. 
 
+108
+00:07:45,240 --> 00:07:49,156
+Đó là điều xảy ra khi những thứ này có xu hướng rơi vào giữa những lần tính dài hơn nhiều.
+
+109
+00:07:49,156 --> 00:07:49,200
+ 
+
+110
+00:07:50,640 --> 00:07:52,971
+Nhưng thay vì vứt bỏ tất cả vào những mẫu ký hiệu, 
+
+111
+00:07:52,971 --> 00:07:56,308
+ta dành một chút thời gian và nghĩ xem tại sao điều này lại đúng với các 
+
 112
-00:07:45,240 --> 00:07:47,220
-Đó là điều xảy ra khi những thứ này có xu hướng 
-
-113
-00:07:47,220 --> 00:07:49,200
-rơi vào giữa những lần tính toán dài hơn nhiều. 
-
-114
-00:07:50,640 --> 00:07:53,094
-Nhưng thay vì vứt bỏ tất cả vào những khuôn mẫu tượng trưng, 
-
-115
-00:07:53,094 --> 00:07:56,434
-chúng ta hãy dành một chút thời gian và nghĩ xem tại sao điều này lại đúng với các 
-
-116
-00:07:56,434 --> 00:07:57,360
+00:07:56,308 --> 00:07:57,360
 lũy thừa ngoài 2 và 3. 
 
-117
-00:07:58,440 --> 00:08:02,585
-Khi bạn dịch chuyển đầu vào x đó, tăng nó lên một chút lên x cộng dx, 
+113
+00:07:58,440 --> 00:08:02,527
+Khi bạn tác động đầu vào x đó, tăng nó lên một chút lên x cộng dx, 
 
-118
-00:08:02,585 --> 00:08:06,730
-việc tính ra giá trị chính xác của đầu ra được dịch chuyển đó sẽ liên 
+114
+00:08:02,527 --> 00:08:06,615
+việc tính ra giá trị chính xác của đầu ra được tác động đó sẽ liên 
 
-119
-00:08:06,730 --> 00:08:10,520
+115
+00:08:06,615 --> 00:08:10,520
 quan đến việc nhân n số hạng x cộng dx riêng biệt này với nhau. 
 
-120
+116
 00:08:11,340 --> 00:08:14,900
 Việc mở rộng hoàn toàn sẽ thực sự phức tạp nhưng một phần quan 
 
-121
+117
 00:08:14,900 --> 00:08:18,460
 điểm của đạo hàm là hầu hết sự phức tạp đó có thể được bỏ qua. 
 
-122
+118
 00:08:19,280 --> 00:08:22,020
-Số hạng đầu tiên trong bản khai triển của bạn là x mũ n. 
+Số hạng đầu tiên trong sự khai triển của bạn là x mũ n. 
 
-123
+119
 00:08:22,680 --> 00:08:25,682
 Điều này tương tự với diện tích của hình vuông ban đầu hoặc thể 
 
-124
+120
 00:08:25,682 --> 00:08:28,920
 tích của hình lập phương ban đầu trong các ví dụ trước của chúng ta. 
 
-125
+121
 00:08:30,820 --> 00:08:33,376
 Đối với các số hạng tiếp theo trong khai triển, 
 
-126
+122
 00:08:33,376 --> 00:08:36,039
 bạn có thể chọn hầu hết là x với một dx duy nhất. 
 
-127
+123
 00:08:41,720 --> 00:08:46,740
 Vì có n dấu ngoặc đơn khác nhau mà từ đó bạn có thể chọn dx đơn lẻ đó, 
 
-128
+124
 00:08:46,740 --> 00:08:50,488
 điều này mang lại cho chúng ta n số hạng riêng biệt, 
 
-129
+125
 00:08:50,488 --> 00:08:56,640
 tất cả đều bao gồm n trừ 1 x nhân a dx, cho ra giá trị của x lũy thừa n trừ 1 nhân dx. 
 
-130
+126
 00:08:57,580 --> 00:09:03,343
 Điều này tương tự với việc phần lớn diện tích mới trong hình vuông đến từ hai thanh đó, 
 
-131
+127
 00:09:03,343 --> 00:09:08,780
 mỗi thanh có diện tích x nhân dx, hoặc phần lớn thể tích mới trong hình lập phương 
 
-132
+128
 00:09:08,780 --> 00:09:13,300
 đến từ ba ô vuông mỏng đó, mỗi ô có một thể tích của x bình nhân dx. 
 
-133
-00:09:14,540 --> 00:09:18,720
+129
+00:09:14,540 --> 00:09:18,734
 Sẽ có nhiều số hạng khác trong phần mở rộng này nhưng tất cả chúng đều 
 
-134
-00:09:18,720 --> 00:09:23,135
+130
+00:09:18,734 --> 00:09:23,165
 chỉ là bội số của dx bình phương nên chúng ta có thể yên tâm bỏ qua chúng, 
 
-135
-00:09:23,135 --> 00:09:27,315
+131
+00:09:23,165 --> 00:09:27,360
 và điều đó có nghĩa là tất cả ngoại trừ một phần không đáng kể của mức 
 
-136
-00:09:27,315 --> 00:09:31,260
-tăng sản lượng đều đến từ n bản sao của x này sang n trừ 1 lần dx. 
+132
+00:09:27,360 --> 00:09:31,260
+tăng ở đầu ra đều đến từ n bản sao của x này sang n trừ 1 lần dx. 
 
-137
+133
 00:09:31,940 --> 00:09:37,520
 Đó chính là ý nghĩa của đạo hàm của x mũ n bằng n nhân x mũ n trừ 1. 
 
-138
+134
 00:09:38,960 --> 00:09:43,344
 Và mặc dù như tôi đã nói trong thực tế, bạn sẽ thấy mình thực hiện đạo hàm này 
 
-139
+135
 00:09:43,344 --> 00:09:48,173
 một cách nhanh chóng và mang tính biểu tượng, tưởng tượng số mũ nhảy xuống phía trước, 
 
-140
+136
 00:09:48,173 --> 00:09:52,280
 thỉnh thoảng bạn chỉ cần lùi lại và nhớ tại sao các quy tắc này lại đúng. 
 
-141
+137
 00:09:52,820 --> 00:09:56,957
 Không chỉ vì nó đẹp và không chỉ vì nó giúp nhắc nhở chúng ta rằng toán học 
 
-142
+138
 00:09:56,957 --> 00:10:00,551
 thực sự có ý nghĩa và không chỉ là một đống công thức để ghi nhớ, 
 
-143
+139
 00:10:00,551 --> 00:10:04,797
 mà bởi vì nó rèn luyện khả năng suy nghĩ rất quan trọng về đạo hàm dưới những 
 
-144
+140
 00:10:04,797 --> 00:10:05,560
 tác động nhỏ. 
 
-145
-00:10:07,500 --> 00:10:11,240
+141
+00:10:07,500 --> 00:10:11,640
 Một ví dụ khác hãy nghĩ về hàm f của x bằng 1 chia cho x. 
 
-146
-00:10:11,240 --> 00:10:15,778
+142
+00:10:12,700 --> 00:10:16,525
 Bây giờ, một mặt bạn có thể thử áp dụng quy tắc lũy thừa một 
 
-147
-00:10:15,778 --> 00:10:20,540
+143
+00:10:16,525 --> 00:10:20,540
 cách mù quáng vì 1 chia cho x cũng giống như viết x thành âm 1. 
 
-148
+144
 00:10:21,100 --> 00:10:24,967
 Điều đó sẽ liên quan đến việc để âm 1 nhảy xuống phía trước, 
 
-149
+145
 00:10:24,967 --> 00:10:27,440
 để lại 1 ít hơn chính nó, tức là âm 2. 
 
-150
-00:10:28,240 --> 00:10:30,947
-Nhưng hãy vui vẻ một chút và xem liệu chúng ta có thể suy luận về vấn đề 
+146
+00:10:28,240 --> 00:10:30,832
+Nhưng hãy vui vẻ một chút và xem liệu ta có thể suy luận về vấn đề 
 
-151
-00:10:30,947 --> 00:10:33,580
+147
+00:10:30,832 --> 00:10:33,580
 này về mặt hình học thay vì chỉ áp dụng một số công thức nào đó không. 
 
-152
+148
 00:10:34,860 --> 00:10:40,180
 Giá trị 1 trên x hỏi số nào nhân với x bằng 1. 
 
-153
+149
 00:10:40,960 --> 00:10:42,820
 Vì vậy, đây là cách tôi muốn hình dung nó. 
 
-154
+150
 00:10:42,820 --> 00:10:48,120
 Hãy tưởng tượng một vũng nước nhỏ hình chữ nhật có hai chiều có diện tích là 1. 
 
-155
+151
 00:10:48,960 --> 00:10:52,194
 Và giả sử chiều rộng của nó là x có nghĩa là chiều 
 
-156
+152
 00:10:52,194 --> 00:10:55,620
 cao phải bằng 1 trên x vì tổng diện tích của nó là 1. 
 
-157
+153
 00:10:56,360 --> 00:11:01,040
 Vì vậy, nếu x bị kéo dài ra thành 2 thì chiều cao đó bị buộc phải giảm xuống còn 1 nửa. 
 
-158
+154
 00:11:01,780 --> 00:11:05,920
 Và nếu bạn tăng x lên 3 thì cạnh kia phải giảm xuống còn 1 phần ba. 
 
-159
+155
 00:11:07,040 --> 00:11:10,680
 Nhân tiện, đây là một cách hay để suy nghĩ về đồ thị 1 trên x. 
 
-160
-00:11:11,280 --> 00:11:15,738
+156
+00:11:11,280 --> 00:11:15,719
 Nếu bạn coi chiều rộng x của vũng nước này nằm trong mặt phẳng xy thì kết quả 
 
-161
-00:11:15,738 --> 00:11:19,796
+157
+00:11:15,719 --> 00:11:19,760
 đầu ra tương ứng 1 chia cho x, chiều cao của đồ thị phía trên điểm đó, 
 
-162
-00:11:19,796 --> 00:11:24,940
-là bất kể chiều cao của vũng nước của bạn phải bằng bao nhiêu để duy trì diện tích là 1 . 
+158
+00:11:19,760 --> 00:11:24,883
+là bất kể chiều cao của vùng trũng của bạn phải bằng bao nhiêu để duy trì diện tích là 1 .
 
-163
+159
+00:11:24,883 --> 00:11:24,940
+ 
+
+160
 00:11:26,360 --> 00:11:29,319
 Vì vậy, hãy nhớ đến hình ảnh này đối với đạo hàm, 
 
-164
+161
 00:11:29,319 --> 00:11:33,580
 hãy tưởng tượng đẩy giá trị của x lên một lượng rất nhỏ, một số dx nhỏ. 
 
-165
-00:11:34,580 --> 00:11:37,376
+162
+00:11:34,580 --> 00:11:37,349
 Chiều cao của hình chữ nhật này phải thay đổi như 
 
-166
-00:11:37,376 --> 00:11:40,340
-thế nào để diện tích của vũng nước không đổi bằng 1? 
+163
+00:11:37,349 --> 00:11:40,340
+thế nào để diện tích của vùng trũng không đổi bằng 1? 
 
-167
+164
 00:11:41,340 --> 00:11:46,020
 Tức là tăng chiều rộng lên dx sẽ thêm một số vùng mới ở bên phải ở đây. 
 
-168
-00:11:46,260 --> 00:11:50,626
-Vì vậy chiều cao của vũng nước phải giảm đi khoảng d 1 trên x sao 
+165
+00:11:46,260 --> 00:11:50,395
+Vì vậy chiều cao của vùng trũng phải giảm đi khoảng d 1 trên x 
 
-169
-00:11:50,626 --> 00:11:54,860
-cho diện tích bị mất ở phần trên đó sẽ bằng diện tích thu được. 
+166
+00:11:50,395 --> 00:11:54,860
+sao cho diện tích bị mất ở phần trên đó sẽ bằng diện tích thu được. 
 
-170
+167
 00:11:56,100 --> 00:12:02,251
 Nhân tiện, bạn nên coi d 1 trên x là một số âm vì nó làm giảm chiều cao của hình chữ nhật.
 
-171
+168
 00:12:02,251 --> 00:12:02,320
  
 
-172
+169
 00:12:03,540 --> 00:12:04,400
 Và bạn biết những gì? 
 
-173
+170
 00:12:04,840 --> 00:12:06,988
 Tôi sẽ để lại vài bước cuối cùng ở đây cho bạn, 
 
-174
+171
 00:12:06,988 --> 00:12:09,720
 để bạn tạm dừng, suy ngẫm và tìm ra cách diễn đạt cuối cùng. 
 
-175
+172
 00:12:10,560 --> 00:12:14,091
 Và khi bạn suy luận ra d của 1 trên x chia cho dx sẽ bằng bao nhiêu, 
 
-176
+173
 00:12:14,091 --> 00:12:17,827
 tôi muốn bạn so sánh nó với kết quả bạn sẽ nhận được nếu bạn áp dụng một 
 
-177
+174
 00:12:17,827 --> 00:12:21,820
 cách mù quáng quy tắc lũy thừa thuần túy mang tính biểu tượng cho x với âm 1. 
 
-178
+175
 00:12:23,980 --> 00:12:26,176
 Và trong khi tôi đang khuyến khích bạn tạm dừng và suy ngẫm 
 
-179
+176
 00:12:26,176 --> 00:12:28,520
 thì đây là một thử thách thú vị khác nếu bạn cảm thấy sẵn sàng. 
 
-180
+177
 00:12:29,060 --> 00:12:33,420
 Hãy xem liệu bạn có thể suy luận xem đạo hàm của căn bậc hai của x sẽ là bao nhiêu không. 
 
-181
+178
 00:12:36,400 --> 00:12:40,430
 Để kết thúc mọi thứ, tôi muốn giải quyết thêm một loại hàm, 
 
-182
+179
 00:12:40,430 --> 00:12:44,260
 hàm lượng giác và đặc biệt là hãy tập trung vào hàm sin. 
 
-183
+180
 00:12:45,320 --> 00:12:49,581
 Vì vậy, trong phần này, tôi giả sử rằng bạn đã quen với cách suy nghĩ về hàm lượng 
 
-184
+181
 00:12:49,581 --> 00:12:54,100
 giác bằng cách sử dụng đường tròn đơn vị, đường tròn có bán kính 1 có tâm ở gốc tọa độ. 
 
-185
+182
 00:12:55,240 --> 00:12:58,145
 Đối với một giá trị nhất định của theta như nói 0.8, 
 
-186
+183
 00:12:58,145 --> 00:13:01,764
 bạn tưởng tượng mình đang đi vòng quanh vòng tròn bắt đầu từ điểm 
 
-187
+184
 00:13:01,764 --> 00:13:06,480
 ngoài cùng bên phải cho đến khi bạn đi qua khoảng cách bằng 0.8 trong chiều dài cung. 
 
-188
+185
 00:13:06,760 --> 00:13:10,323
 Điều này cũng tương tự như khi nói rằng góc ở đây chính 
 
-189
+186
 00:13:10,323 --> 00:13:13,760
 xác là theta radian vì đường tròn có bán kính bằng 1. 
 
-190
+187
 00:13:14,760 --> 00:13:19,229
 Khi đó, sin theta có nghĩa là chiều cao của điểm đó phía trên 
 
-191
+188
 00:13:19,229 --> 00:13:24,419
 trục x và khi giá trị theta của bạn tăng lên và bạn đi quanh vòng tròn, 
 
-192
+189
 00:13:24,419 --> 00:13:28,240
 chiều cao của bạn dao động lên xuống giữa âm 1 và 1. 
 
-193
+190
 00:13:29,020 --> 00:13:34,345
 Vì vậy, khi bạn vẽ đồ thị sin của theta theo theta bạn sẽ có được dạng sóng này, 
 
-194
+191
 00:13:34,345 --> 00:13:35,660
 dạng sóng tinh túy. 
 
-195
-00:13:37,600 --> 00:13:40,390
-Và chỉ cần nhìn vào biểu đồ này, chúng ta có thể 
+192
+00:13:37,600 --> 00:13:40,361
+Và chỉ cần nhìn vào đồ thị này, chúng ta có thể 
 
-196
-00:13:40,390 --> 00:13:43,180
+193
+00:13:40,361 --> 00:13:43,180
 bắt đầu cảm nhận được hình dạng đạo hàm của sin. 
 
-197
+194
 00:13:44,020 --> 00:13:49,159
 Độ dốc tại 0 là giá trị dương vì sin theta đang tăng ở đó và khi chúng ta di 
 
-198
+195
 00:13:49,159 --> 00:13:54,500
 chuyển sang bên phải và sin theta tiến đến đỉnh của nó thì độ dốc giảm xuống 0. 
 
-199
+196
 00:13:55,720 --> 00:13:59,266
 Sau đó, độ dốc âm trong một thời gian ngắn trong khi 
 
-200
+197
 00:13:59,266 --> 00:14:03,080
 sin giảm dần trước khi trở về 0 khi đồ thị sin cân bằng. 
 
-201
-00:14:04,460 --> 00:14:08,178
+198
+00:14:04,460 --> 00:14:08,191
 Và khi bạn tiếp tục suy nghĩ kỹ về điều này và rút ra nếu bạn đã quen 
 
-202
-00:14:08,178 --> 00:14:11,790
-với biểu đồ hàm lượng giác, bạn có thể đoán rằng đồ thị đạo hàm này 
+199
+00:14:08,191 --> 00:14:11,763
+với đồ thị hàm lượng giác, bạn có thể đoán rằng đồ thị đạo hàm này 
 
-203
-00:14:11,790 --> 00:14:15,349
+200
+00:14:11,763 --> 00:14:15,335
 phải chính xác là cosin theta vì tất cả các đỉnh và thung lũng đều 
 
-204
-00:14:15,349 --> 00:14:19,280
+201
+00:14:15,335 --> 00:14:19,280
 thẳng hàng với nơi các đỉnh và thung lũng đối với hàm cosin phải như vậy. 
 
-205
+202
 00:14:20,340 --> 00:14:23,982
 Và cảnh báo spoiler rằng đạo hàm trên thực tế là cosin theta, 
 
-206
+203
 00:14:23,982 --> 00:14:27,860
 nhưng bạn có tò mò tại sao nó lại chính xác là cosin theta không? 
 
-207
+204
 00:14:28,240 --> 00:14:32,311
 Ý tôi là bạn có thể có tất cả các loại hàm với các đỉnh và đáy tại cùng một 
 
-208
+205
 00:14:32,311 --> 00:14:36,328
 điểm có hình dạng gần giống nhau, nhưng ai biết được có lẽ đạo hàm của sin 
 
-209
+206
 00:14:36,328 --> 00:14:40,400
 hóa ra lại là một loại hàm hoàn toàn mới tình cờ có một hình dạng tương tự. 
 
-210
-00:14:41,600 --> 00:14:46,226
+207
+00:14:41,600 --> 00:14:46,256
 Cũng giống như các ví dụ trước, việc hiểu chính xác hơn về đạo hàm đòi hỏi 
 
-211
-00:14:46,226 --> 00:14:51,100
-phải xem hàm số thực sự biểu diễn điều gì thay vì nhìn vào biểu đồ của hàm số. 
+208
+00:14:46,256 --> 00:14:51,100
+phải xem hàm số thực sự biểu diễn điều gì thay vì nhìn vào đồ thị của hàm số. 
 
-212
+209
 00:14:52,400 --> 00:14:56,347
 Vì vậy, hãy nghĩ lại việc đi vòng quanh vòng tròn đơn vị khi đi qua một 
 
-213
+210
 00:14:56,347 --> 00:15:00,240
 cung có chiều dài theta và nghĩ về sin theta là chiều cao của điểm đó. 
 
-214
-00:15:01,700 --> 00:15:06,107
-Bây giờ hãy phóng to điểm đó trên vòng tròn và xem xét một cú huých nhẹ của d theta 
+211
+00:15:01,700 --> 00:15:06,213
+Bây giờ hãy phóng to điểm đó trên vòng tròn và xét một tác động nhẹ của d theta dọc 
 
-215
-00:15:06,107 --> 00:15:10,620
-dọc theo chu vi của chúng, một bước nhỏ trong bước đi của bạn quanh vòng tròn đơn vị. 
+212
+00:15:06,213 --> 00:15:10,620
+theo chu vi của chúng, một bước nhỏ trong bước đi của bạn quanh vòng tròn đơn vị. 
 
-216
+213
 00:15:11,480 --> 00:15:14,640
 Bước nhỏ đó thay đổi sin theta bao nhiêu? 
 
-217
+214
 00:15:15,440 --> 00:15:20,420
 Việc tăng d theta của chiều dài cung sẽ làm tăng chiều cao phía trên trục x bao nhiêu? 
 
-218
-00:15:21,640 --> 00:15:23,616
-Khi phóng to đủ gần, vòng tròn về cơ bản trông 
+215
+00:15:21,640 --> 00:15:25,720
+Khi phóng đủ gần, vòng tròn về cơ bản trông như một đường thẳng trong vùng lân cận này. 
 
-219
-00:15:23,616 --> 00:15:25,720
-giống như một đường thẳng trong vùng lân cận này. 
-
-220
+216
 00:15:25,720 --> 00:15:30,245
 Vì vậy, chúng ta hãy tiếp tục và nghĩ về tam giác vuông này trong đó cạnh 
 
-221
+217
 00:15:30,245 --> 00:15:34,525
 huyền của tam giác vuông đó biểu thị lực đẩy d theta dọc theo chu vi, 
 
-222
+218
 00:15:34,525 --> 00:15:39,540
 và cạnh trái ở đây biểu thị sự thay đổi về chiều cao, kết quả là d sin của theta. 
 
-223
+219
 00:15:40,140 --> 00:15:44,581
 Bây giờ tam giác nhỏ này thực sự giống với tam giác lớn hơn ở đây với 
 
-224
+220
 00:15:44,581 --> 00:15:49,340
 góc xác định theta và cạnh huyền là bán kính của hình tròn có chiều dài 1. 
 
-225
+221
 00:15:50,960 --> 00:15:55,940
 Cụ thể là góc nhỏ này ở đây chính xác bằng theta radian. 
 
-226
+222
 00:15:57,420 --> 00:16:00,520
 Bây giờ hãy nghĩ xem đạo hàm của sin có nghĩa là gì. 
 
-227
+223
 00:16:01,220 --> 00:16:05,483
 Đó là tỷ lệ giữa d sin theta, sự thay đổi nhỏ về chiều cao, 
 
-228
+224
 00:16:05,483 --> 00:16:09,320
 chia cho d theta, sự thay đổi nhỏ về đầu vào của hàm. 
 
-229
+225
 00:16:10,520 --> 00:16:14,171
 Và từ hình ảnh chúng ta có thể thấy rằng đó là tỉ số 
 
-230
+226
 00:16:14,171 --> 00:16:17,960
 giữa độ dài cạnh kề với góc theta chia cho cạnh huyền. 
 
-231
+227
 00:16:18,800 --> 00:16:24,382
 Hãy xem, liền kề chia cho cạnh huyền, đó chính xác là ý nghĩa của cosin theta, 
 
-232
+228
 00:16:24,382 --> 00:16:26,220
 đó là định nghĩa của cos. 
 
-233
+229
 00:16:27,540 --> 00:16:30,175
 Vì vậy, điều này cho chúng ta hai cách suy nghĩ thực 
 
-234
+230
 00:16:30,175 --> 00:16:32,960
 sự hay khác nhau về đạo hàm của sin là cos như thế nào. 
 
-235
-00:16:33,140 --> 00:16:36,661
-Một trong số đó là nhìn vào biểu đồ và cảm nhận rõ ràng về hình dạng của 
+231
+00:16:33,140 --> 00:16:36,556
+Một trong số đó là nhìn vào đồ thị và cảm nhận rõ về hình dạng của 
 
-236
-00:16:36,661 --> 00:16:40,280
-sự vật dựa trên việc suy nghĩ về độ dốc của biểu đồ hình sin tại mỗi điểm. 
+232
+00:16:36,556 --> 00:16:40,280
+những thứ dựa trên việc nghĩ về độ dốc của đồ thị hình sin tại mỗi điểm. 
 
-237
+233
 00:16:41,100 --> 00:16:45,400
 Và cách còn lại là một cách lý luận chính xác hơn khi nhìn vào chính vòng tròn đơn vị. 
 
-238
-00:16:47,080 --> 00:16:49,364
-Đối với những người thích dừng lại và suy ngẫm, 
+234
+00:16:47,080 --> 00:16:50,525
+Với những ai thích dừng lại và suy ngẫm, hãy xem liệu bạn có thể thử 
 
-239
-00:16:49,364 --> 00:16:52,887
-hãy xem liệu bạn có thể thử lập luận tương tự để tìm ra đạo hàm của cosin 
+235
+00:16:50,525 --> 00:16:54,220
+lập luận tương tự để tìm ra đạo hàm của cosin theta bằng bao nhiêu không. 
 
-240
-00:16:52,887 --> 00:16:54,220
-theta bằng bao nhiêu không. 
-
-241
+236
 00:16:56,320 --> 00:16:59,546
 Trong video tiếp theo, tôi sẽ nói về cách bạn có thể lấy đạo 
 
-242
+237
 00:16:59,546 --> 00:17:02,720
 hàm của các hàm kết hợp các hàm đơn giản như những hàm này, 
 
-243
+238
 00:17:02,720 --> 00:17:06,000
 dưới dạng tổng hoặc tích hoặc tổ hợp hàm, những thứ tương tự. 
 
-244
+239
 00:17:06,560 --> 00:17:09,933
 Và tương tự như video này, mục tiêu là hiểu từng hình học theo 
 
-245
+240
 00:17:09,933 --> 00:17:13,359
 cách làm cho nó hợp lý về mặt trực quan và phần nào dễ nhớ hơn. 
 

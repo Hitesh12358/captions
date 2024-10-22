@@ -10,10 +10,10 @@
  },
  {
   "input": "But time and time again they come up in math, physics, and many fields of engineering because they're one of the most powerful tools that math has to offer for approximating functions.",
-  "translatedText": "Tuttavia, vengono sempre utilizzati in matematica, fisica e in molti campi dell'ingegneria perché sono uno degli strumenti più potenti che la matematica ha a disposizione per approssimare le funzioni.",
+  "translatedText": "Ma, vengono sempre usati in molte materie e in molti campi dell'ingegneria perché sono tra gli strumenti più potenti che la matematica ha a disposizione per semplificare le funzioni.",
   "model": "DeepL",
   "from_community_srt": "fisica, e molti campi dell'ingegneria perché sono uno degli strumenti più potenti che la matematica ha da offrire per le funzioni di approssimazione.",
-  "n_reviews": 0,
+  "n_reviews": 1,
   "start": 20.12,
   "end": 29.18
  },
@@ -23,7 +23,7 @@
   "model": "DeepL",
   "from_community_srt": "Una delle prime volte che ha cliccato per me come uno studente non era in una classe di calcolo, ma in una lezione di fisica.",
   "n_reviews": 0,
-  "start": 30.0,
+  "start": 30,
   "end": 35.42
  },
  {
@@ -33,7 +33,7 @@
   "from_community_srt": "Stavamo studiando alcuni problemi che dovevammo fare con l'energia potenziale di un pendolo, e per questo hai bisogno di un'espressione per quanto alto il peso del pendolo è sopra il suo punto più basso, che funziona per essere proporzionale a uno meno il coseno dell'angolo tra il pendolo e la verticale.",
   "n_reviews": 0,
   "start": 35.84,
-  "end": 53.0
+  "end": 53
  },
  {
   "input": "The specifics of the problem we were trying to solve are beyond the point here, but what I'll say is that this cosine function made the problem awkward and unwieldy, and made it less clear how pendulums relate to other oscillating phenomena.",
@@ -108,7 +108,7 @@
   "end": 152.66
  },
  {
-  "input": "First of all, at the input 0, the value of cosine of x is 1, so if our approximation is any good at all, it should also equal 1 at the input x equals 0.",
+  "input": "Well, first of all, at the input 0, the value of cosine of x is 1, so if our approximation is going to be any good at all, it should also equal 1 at the input x equals 0.",
   "translatedText": "Innanzitutto, in corrispondenza dell'ingresso 0, il valore del coseno di x è 1, quindi se la nostra approssimazione è buona, dovrebbe essere uguale a 1 anche in corrispondenza dell'ingresso x uguale a 0.",
   "model": "DeepL",
   "from_community_srt": "Bene, prima di tutto, all'ingresso 0 il valore di cos (x) è 1, quindi se la nostra approssimazione è andrà bene, dovrebbe anche uguale a 1 quando si inserisce 0.",
@@ -132,7 +132,7 @@
   "from_community_srt": "quindi possiamo imposta quello uguale a 1. Questo ci lascia liberi di scegliere costante c1 e c2 per rendere questa approssimazione buona come possiamo, ma non faremo nulla per loro cambia il fatto che il polinomio è uguale 1 a x = 0.",
   "n_reviews": 0,
   "start": 173.08,
-  "end": 184.0
+  "end": 184
  },
  {
   "input": "It would also be good if our approximation had the same tangent slope as cosine x at this point of interest.",
@@ -203,7 +203,7 @@
   "model": "DeepL",
   "from_community_srt": "e quindi la stessa pendenza tangente. Questo ci lascia liberi di cambiare c2, ma il valore e pendenza del nostro polinomio in x = 0 bloccato in posizione per abbinare quello di cos (x).",
   "n_reviews": 0,
-  "start": 233.0,
+  "start": 233,
   "end": 242.62
  },
  {
@@ -419,7 +419,7 @@
   "from_community_srt": "Bene, quando continui ad applicare la regola di potere sopra e finita, con quegli esponenti che saltano giù tutti davanti, si finisce con 1 * 2 * 3 * 4 * c4,",
   "n_reviews": 0,
   "start": 458.62,
-  "end": 471.0
+  "end": 471
  },
  {
   "input": "So if we want this to match the fourth derivative of cosine x, which is 1, c4 has to be 1 over 24.",
@@ -494,7 +494,7 @@
   "end": 547.78
  },
  {
-  "input": "The second thing to notice is that adding on new terms, like this c4 times x to the old terms should be, and that's really important.",
+  "input": "The second thing to notice is that adding on new terms, like this c4 times x to the fourth, doesn't mess up what the old terms should be, and that's really important.",
   "translatedText": "La seconda cosa da notare è che l'aggiunta di nuovi termini, come questo c4 volte x, ai vecchi termini dovrebbe essere, e questo è davvero importante.",
   "model": "DeepL",
   "from_community_srt": "24. La seconda cosa da notare è l'aggiunta nuovi termini, come questo c4x4, non pasticciano su quali vecchi termini dovrebbero essere,",
@@ -598,7 +598,7 @@
   "model": "DeepL",
   "from_community_srt": "E conoscendo i valori di tutti quelli di ordine superiore i derivati ​​sono molte informazioni su cos (x), anche se riguardava solo il collegamento in un singolo input, x = 0.",
   "n_reviews": 0,
-  "start": 662.0,
+  "start": 662,
   "end": 672.48
  },
  {
@@ -638,7 +638,7 @@
   "end": 713.16
  },
  {
-  "input": "More generally, and hence more abstractly, if we were dealing with some other function other than cosine, you would compute its derivative, its second derivative, and so on, getting as many terms as you'd like, and evaluate each one of them at x equals 0.",
+  "input": "More generally, and hence more abstractly, if we were dealing with some other function other than cosine, you would compute its derivative, its second derivative, and so on, getting as many terms as you'd like, and you would evaluate each one of them at x equals 0.",
   "translatedText": "Più in generale, e quindi in modo più astratto, se avessimo a che fare con qualche altra funzione diversa dal coseno, calcoleresti la sua derivata, la sua derivata seconda e così via, ottenendo tutti i termini che desideri, e valutando ognuno di essi a x uguale a 0.",
   "model": "DeepL",
   "from_community_srt": "Più in generale, e quindi in modo più astratto, se avessimo a che fare con qualche altra funzione di coseno, calcoleresti la sua derivata, seconda derivata, e così via, ottenendo altrettanti termini che vorresti e valuterai ognuno a x = 0.",
@@ -706,7 +706,7 @@
   "model": "DeepL",
   "from_community_srt": "Modifica del valore di un cambiamento in cui l'approssimazione si sta abbracciando la funzione originale;",
   "n_reviews": 0,
-  "start": 804.0,
+  "start": 804,
   "end": 813.74
  },
  {
@@ -737,7 +737,7 @@
   "end": 838.24
  },
  {
-  "input": "And what that means is our polynomial approximation should look like 1 plus 1 times x plus 1 over 2 times x2 plus 1 over 3 factorial times x3, and so on, depending on how many terms you want.",
+  "input": "And what that means is our polynomial approximation should look like 1 plus 1 times x plus 1 over 2 times x squared plus 1 over 3 factorial times x cubed, and so on, depending on how many terms you want.",
   "translatedText": "Questo significa che l'approssimazione del polinomio dovrebbe assomigliare a 1 più 1 volte x, più 1 su 2 volte x2, più 1 su 3 fattoriale x3 e così via, a seconda del numero di termini desiderati.",
   "model": "DeepL",
   "from_community_srt": "Questo significa che la nostra approssimazione polinomiale è simile 1 + x + ½ x2 + 1 / (3!) X3 + 1 / (4!) X4, e così via,",
@@ -962,7 +962,7 @@
   "end": 1110.16
  },
  {
-  "input": "As you add more and more polynomial terms, the total sum gets closer and closer to the value e, so you say that this infinite series converges to the number e, or that it equals the number e.",
+  "input": "As you add more and more polynomial terms, the total sum gets closer and closer to the value e, so you say that this infinite series converges to the number e, or what's saying the same thing, that it equals the number e.",
   "translatedText": "Aggiungendo sempre più termini polinomiali, la somma totale si avvicina sempre di più al valore e, per cui si dice che questa serie infinita converge al numero e, o che è uguale al numero e.",
   "model": "DeepL",
   "from_community_srt": "Mentre aggiungi sempre più termini polinomiali, la somma totale si avvicina sempre di più al valore e, quindi diciamo che la serie infinita converge al numero e. O, cosa sta dicendo la stessa cosa, che è uguale al numero e.",

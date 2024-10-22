@@ -4,7 +4,7 @@
   "translatedText": "Vamos prosseguir e abrir as coisas hoje com uma pergunta que pode parecer incrivelmente não relacionada ao título do vídeo. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 0.0,
+  "start": 0,
   "end": 6.36
  },
  {
@@ -77,14 +77,14 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 35.74,
-  "end": 47.0
+  "end": 47
  },
  {
   "input": "So don't worry about getting it right or wrong. ",
   "translatedText": "Portanto, não se preocupe em acertar ou errar. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 47.0,
+  "start": 47,
   "end": 48.58
  },
  {
@@ -392,7 +392,7 @@
   "end": 225.46
  },
  {
-  "input": "You know, we've got 1 trillion 751, 1 trillion 787. ",
+  "input": "You know, we've got one trillion seven hundred fifty one, one trillion seven eighty seven. ",
   "translatedText": "Você sabe, temos 1 trilhão 751, 1 trilhão 787. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -412,7 +412,7 @@
   "translatedText": "E o comprimento real dessa lista é 37. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 233.0,
+  "start": 233,
   "end": 236.56
  },
  {
@@ -440,7 +440,7 @@
   "end": 249.42
  },
  {
-  "input": "And it's about one in every 27. ",
+  "input": "And it's about one in every twenty-seven. ",
   "translatedText": "E é cerca de um em cada 27. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -460,7 +460,7 @@
   "translatedText": "Então vou digitar math dot log aqui, que usa um logaritmo natural desse número. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 265.0,
+  "start": 265,
   "end": 269.3
  },
  {
@@ -509,7 +509,7 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 301.2,
-  "end": 304.0
+  "end": 304
  },
  {
   "input": "So for example, the natural log of 10, it's around 2.3. ",
@@ -541,7 +541,7 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 322.38,
-  "end": 329.0
+  "end": 329
  },
  {
   "input": "If we went over and we took the natural log of a trillion, which was the number defining our range at the lower end of that range, you'd see that it's 27. ",
@@ -621,7 +621,7 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 378.86,
-  "end": 384.0
+  "end": 384
  },
  {
   "input": "So I'm going to play a game that will seem truly strange for a moment. ",
@@ -836,7 +836,7 @@
   "translatedText": "10 são expulsos, nós ignoramos isso completamente. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 513.0,
+  "start": 513,
   "end": 514.88
  },
  {
@@ -928,7 +928,7 @@
   "end": 573.76
  },
  {
-  "input": "There's a number of other formulas that get us something related to pi, which is evidently related to primes, in a way that's, um, I mean, you play the same game and you have this weird fashion of taking logarithms, and not just any logarithm, the log base e. ",
+  "input": "There's a number of other formulas that get us something related to prime, where we could, sorry, something related to pi, which is evidently related to primes, in a way that's, um, I mean, you play the same game and you have this weird fashion of taking logarithms, and not just any logarithm, the log base e. ",
   "translatedText": "Há uma série de outras fórmulas que nos dão algo relacionado a pi, que está evidentemente relacionado a primos, de uma forma que, hum, quero dizer, você joga o mesmo jogo e tem essa maneira estranha de calcular logaritmos, e não qualquer logaritmo, a base logarítmica e. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1308,7 +1308,7 @@
   "translatedText": "Pegue um mais meio mais um terço mais um quarto e assim por diante. ",
   "model": "google_nmt",
   "n_reviews": 0,
-  "start": 821.0,
+  "start": 821,
   "end": 824.38
  },
  {
@@ -1472,7 +1472,7 @@
   "end": 976.16
  },
  {
-  "input": "So if you're wondering how long do I have to go before this sum gets bigger than 10, you might have the instinct that, hmm, I'm going to have to add together, let's see, I have one and then the rest of them are halves, so I'm going to have to add together 18 different groups that each look like a half, so I might have to get up to the point where the size of my group is like two to the 17th, something like that. ",
+  "input": "if you were wondering, how long do I have to go before the sum gets bigger than 10, you might have the instinct that, hmm, I'm going to have to add together, let's see, I have 1 and then the rest of them are halves, so I'm going to have to add together 18 different groups that each look like a half, so I might have to get up to the point where the size of my group is like 2 to the 17th or 2 to the 18th, something like that. ",
   "translatedText": "Então, se você está se perguntando quanto tempo ainda tenho que passar antes que essa soma fique maior que 10, você pode ter o instinto de que, hmm, vou ter que somar, vamos ver, eu tenho um e depois o resto deles são metades, então terei que somar 18 grupos diferentes, cada um parecendo metade, então talvez tenha que chegar ao ponto em que o tamanho do meu grupo seja dois elevado a 17, algo como que. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1648,7 +1648,7 @@
   "end": 1186.98
  },
  {
-  "input": "And even that crazy idea, like mental thought for how you can get up to a big number, would take forever to get you to something of the size 10 to the 400,000. ",
+  "input": "and it would even, even that crazy idea, like mental thought for how you can get up to a big number, would take forever to get you to something of the size 10 to the 400,000. ",
   "translatedText": "E mesmo essa ideia maluca, como o pensamento mental sobre como você pode chegar a um número grande, levaria uma eternidade para chegar a algo do tamanho de 10 elevado a 400.000. ",
   "model": "google_nmt",
   "n_reviews": 0,
@@ -1685,7 +1685,7 @@
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 1217.42,
-  "end": 1221.0
+  "end": 1221
  },
  {
   "input": "This is the same statement as saying that n is about e to the power of a million. ",
