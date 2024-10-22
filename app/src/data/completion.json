@@ -46,6 +46,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -109,6 +110,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -178,6 +180,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -186,20 +189,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -251,6 +254,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -314,6 +318,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -383,6 +388,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -391,23 +397,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.009253427375029962
+    "total": 0.009073165802789118
   },
   "bangla": {
     "Calculus": {
@@ -456,6 +462,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -519,6 +526,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -588,6 +596,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -596,20 +605,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -661,6 +670,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -724,6 +734,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -793,6 +804,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -801,23 +813,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.00859142763288629
+    "total": 0.008424062159518375
   },
   "bulgarian": {
     "Calculus": {
@@ -866,6 +878,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -929,6 +942,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -998,6 +1012,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -1006,23 +1021,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.0042988265365400255
+    "total": 0.004215083162451584
   },
   "catalan": {
     "Calculus": {
@@ -1071,6 +1086,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -1134,6 +1150,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -1203,6 +1220,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -1211,20 +1229,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -1276,7 +1294,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
-      "total": 0.0032750533049040512
+      "mlp": 0,
+      "total": 0.002865671641791045
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -1339,6 +1358,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -1408,6 +1428,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -1416,23 +1437,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0.8888888888888888,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
-      "total": 0.0404040404040404
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0.8888888888888888,
+      "derivative-formulas-geometrically": 0,
+      "total": 0.03864734299516908
     },
-    "total": 0.011877808316957634
+    "total": 0.011646422440653264
   },
   "croatian": {
     "Calculus": {
@@ -1481,6 +1502,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -1544,6 +1566,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -1613,6 +1636,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -1621,20 +1645,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -1686,6 +1710,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -1749,6 +1774,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -1818,6 +1844,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -1826,23 +1853,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.001747608535688006
+    "total": 0.0017135642135642135
   },
   "danish": {
     "Calculus": {
@@ -1891,6 +1918,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -1954,6 +1982,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -2023,6 +2052,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -2031,20 +2061,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -2096,6 +2126,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -2159,6 +2190,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -2228,6 +2260,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -2236,23 +2269,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 1,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
-      "total": 0.045454545454545456
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 1,
+      "total": 0.043478260869565216
     },
-    "total": 0.033112582781456956
+    "total": 0.032467532467532464
   },
   "estonian": {
     "Calculus": {
@@ -2301,6 +2334,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -2364,6 +2398,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -2433,6 +2468,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -2441,20 +2477,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -2506,6 +2542,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -2569,6 +2606,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -2638,6 +2676,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -2646,20 +2685,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -2711,7 +2750,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0.024390243902439025,
       "attention": 0,
-      "total": 0.003484320557491289
+      "mlp": 0,
+      "total": 0.003048780487804878
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -2774,12 +2814,13 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0.7037037037037037,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.07818930041152264
+      "total": 0.07037037037037037
     },
     "Probability": {
       "clt": 0,
@@ -2843,6 +2884,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -2851,23 +2893,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0.013888888888888888,
-      "cube-shadow-puzzle": 0.7777777777777778,
-      "subset-sum": 0.4444444444444444,
-      "mandelbrot": 0.8333333333333334,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0.375,
       "eola-preview": 0.06451612903225806,
-      "visual-proofs": 0.5306122448979592,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0.375,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0.5306122448979592,
       "moser": 0,
-      "total": 0.13816240083521192
+      "harvey-mudd-speech": 0.013888888888888888,
+      "subset-sum": 0.4444444444444444,
+      "mandelbrot": 0.8333333333333334,
+      "cube-shadow-puzzle": 0.7777777777777778,
+      "derivative-formulas-geometrically": 0,
+      "total": 0.13215533992933312
     },
-    "total": 0.03987942715235747
+    "total": 0.03910255519484401
   },
   "georgian": {
     "Calculus": {
@@ -2916,6 +2958,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -2979,6 +3022,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -3048,6 +3092,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -3056,20 +3101,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -3121,7 +3166,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
-      "total": 0.007633587786259542
+      "mlp": 0,
+      "total": 0.006679389312977099
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -3184,12 +3230,13 @@
       "barber-pole-2": 0,
       "prism": 0.48677248677248675,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.11900468329931499
+      "total": 0.1071042149693835
     },
     "Probability": {
       "clt": 0,
@@ -3253,6 +3300,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -3261,23 +3309,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0.5555555555555556,
-      "subset-sum": 0,
-      "mandelbrot": 1,
-      "ego-and-math": 0.4827586206896552,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0.4827586206896552,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
-      "total": 0.0926506443747823
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 1,
+      "cube-shadow-puzzle": 0.5555555555555556,
+      "derivative-formulas-geometrically": 0,
+      "total": 0.08862235548892222
     },
-    "total": 0.05358057401250197
+    "total": 0.05253679659667401
   },
   "greek": {
     "Calculus": {
@@ -3326,6 +3374,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -3389,6 +3438,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -3458,6 +3508,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -3466,20 +3517,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -3531,6 +3582,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -3594,6 +3646,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -3663,6 +3716,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -3671,23 +3725,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.006622516556291391
+    "total": 0.006493506493506494
   },
   "hebrew": {
     "Calculus": {
@@ -3736,7 +3790,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0.6951219512195121,
       "attention": 0.7692307692307693,
-      "total": 0.5351536650104204
+      "mlp": 0,
+      "total": 0.46825945688411785
     },
     "Differential Equations": {
       "differential-equations": 0.6102564102564103,
@@ -3799,12 +3854,13 @@
       "barber-pole-2": 0.8309859154929577,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.1872131666402912
+      "total": 0.16849184997626207
     },
     "Probability": {
       "clt": 0.7149122807017544,
@@ -3868,6 +3924,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -3876,23 +3933,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.0689602326698635
+    "total": 0.06761685151395706
   },
   "hindi": {
     "Calculus": {
@@ -3941,6 +3998,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -4004,12 +4062,13 @@
       "barber-pole-2": 0,
       "prism": 0.06878306878306878,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.007642563198118753
+      "total": 0.006878306878306878
     },
     "Probability": {
       "clt": 0,
@@ -4073,6 +4132,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -4081,23 +4141,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0.4444444444444444,
-      "subset-sum": 0.4444444444444444,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
-      "total": 0.0404040404040404
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0.4444444444444444,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0.4444444444444444,
+      "derivative-formulas-geometrically": 0,
+      "total": 0.03864734299516908
     },
-    "total": 0.007723964067637821
+    "total": 0.007573497235151371
   },
   "hungarian": {
     "Calculus": {
@@ -4146,7 +4206,8 @@
       "backpropagation-calculus": 1,
       "gpt": 0,
       "attention": 0,
-      "total": 0.5702857142857143
+      "mlp": 0,
+      "total": 0.499
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -4209,12 +4270,13 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.1111111111111111
+      "total": 0.1
     },
     "Probability": {
       "clt": 0,
@@ -4278,6 +4340,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -4286,23 +4349,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.052927152317880796
+    "total": 0.0518961038961039
   },
   "indonesian": {
     "Calculus": {
@@ -4351,6 +4414,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -4414,12 +4478,13 @@
       "barber-pole-2": 0.007042253521126761,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.00952154876826502
+      "total": 0.008569393891438518
     },
     "Probability": {
       "clt": 0,
@@ -4483,6 +4548,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -4491,23 +4557,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.010262232503723046
+    "total": 0.01006231888352065
   },
   "italian": {
     "Calculus": {
@@ -4556,7 +4622,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
-      "total": 0.25448765877709
+      "mlp": 0,
+      "total": 0.22267670142995377
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -4619,6 +4686,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -4688,6 +4756,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -4696,23 +4765,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 1,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
-      "total": 0.045454545454545456
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 1,
+      "total": 0.043478260869565216
     },
-    "total": 0.1139104777489456
+    "total": 0.11169144246812197
   },
   "japanese": {
     "Calculus": {
@@ -4761,6 +4830,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -4824,6 +4894,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -4893,6 +4964,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -4901,23 +4973,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.011396376789064038
+    "total": 0.011174369449017335
   },
   "korean": {
     "Calculus": {
@@ -4966,7 +5038,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0.524390243902439,
       "attention": 0,
-      "total": 0.11671878075378354
+      "mlp": 0,
+      "total": 0.1021289331595606
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -5029,12 +5102,13 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.1111111111111111
+      "total": 0.1
     },
     "Probability": {
       "clt": 0,
@@ -5098,6 +5172,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -5106,23 +5181,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 1,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 1,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 1,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
-      "total": 0.09090909090909091
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 1,
+      "derivative-formulas-geometrically": 0,
+      "total": 0.08695652173913043
     },
-    "total": 0.026904937088504662
+    "total": 0.026380814937429897
   },
   "lithuanian": {
     "Calculus": {
@@ -5171,6 +5246,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -5234,6 +5310,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -5303,6 +5380,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -5311,20 +5389,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -5376,6 +5454,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -5439,6 +5518,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -5508,6 +5588,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -5516,20 +5597,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -5581,6 +5662,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -5644,6 +5726,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -5713,6 +5796,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -5721,23 +5805,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.0028632341284833443
+    "total": 0.0028074568402661365
   },
   "norwegian": {
     "Calculus": {
@@ -5786,6 +5870,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -5849,6 +5934,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -5918,6 +6004,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -5926,20 +6013,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -5991,6 +6078,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -6054,12 +6142,13 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.0387016229712859
+      "total": 0.03483146067415731
     },
     "Probability": {
       "clt": 0,
@@ -6123,6 +6212,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -6131,23 +6221,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.0023067192499441926
+    "total": 0.0022617831606595654
   },
   "polish": {
     "Calculus": {
@@ -6196,6 +6286,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -6259,6 +6350,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -6328,6 +6420,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -6336,23 +6429,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.006622516556291391
+    "total": 0.006493506493506494
   },
   "portuguese": {
     "Calculus": {
@@ -6401,7 +6494,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0.2621951219512195,
       "attention": 0,
-      "total": 0.10070617336489615
+      "mlp": 0,
+      "total": 0.08811790169428413
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -6464,12 +6558,13 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.024968789013732832
+      "total": 0.02247191011235955
     },
     "Probability": {
       "clt": 0,
@@ -6533,6 +6628,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -6541,23 +6637,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0.35374149659863946,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0.35374149659863946,
       "moser": 0,
-      "total": 0.016079158936301793
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
+      "total": 0.015380065069506064
     },
-    "total": 0.033567420538827455
+    "total": 0.03291350974911004
   },
   "romanian": {
     "Calculus": {
@@ -6606,6 +6702,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -6669,6 +6766,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -6738,6 +6836,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -6746,20 +6845,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -6811,7 +6910,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0.024390243902439025,
       "attention": 0,
-      "total": 0.003484320557491289
+      "mlp": 0,
+      "total": 0.003048780487804878
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -6874,12 +6974,13 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0.41975308641975306,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.10157056765462924
+      "total": 0.09141351088916631
     },
     "Probability": {
       "clt": 0,
@@ -6943,6 +7044,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -6951,23 +7053,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.03981553318605508
+    "total": 0.03903990591619687
   },
   "serbian": {
     "Calculus": {
@@ -7016,6 +7118,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7079,6 +7182,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -7148,6 +7252,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -7156,20 +7261,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -7221,6 +7326,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7284,6 +7390,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -7353,6 +7460,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -7361,20 +7469,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -7426,6 +7534,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7489,6 +7598,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -7558,6 +7668,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -7566,20 +7677,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -7631,6 +7742,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7694,12 +7806,13 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.026217228464419474
+      "total": 0.023595505617977526
     },
     "Probability": {
       "clt": 0,
@@ -7763,6 +7876,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -7771,23 +7885,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0.1111111111111111,
-      "mandelbrot": 0.5,
-      "ego-and-math": 0.12643678160919541,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0.375,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0.375,
+      "on-shorts": 0,
+      "ego-and-math": 0.12643678160919541,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
-      "total": 0.05461076280041797
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0.1111111111111111,
+      "mandelbrot": 0.5,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
+      "total": 0.052236381809095456
     },
-    "total": 0.038829604349544834
+    "total": 0.03807318348559266
   },
   "swedish": {
     "Calculus": {
@@ -7836,6 +7950,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -7899,6 +8014,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -7968,6 +8084,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -7976,20 +8093,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -8041,6 +8158,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -8104,6 +8222,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -8173,6 +8292,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -8181,20 +8301,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -8246,6 +8366,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -8309,6 +8430,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -8378,6 +8500,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -8386,20 +8509,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -8451,6 +8574,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -8514,6 +8638,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -8583,6 +8708,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -8591,23 +8717,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.0011195961004256579
+    "total": 0.001097785786781002
   },
   "thai": {
     "Calculus": {
@@ -8656,7 +8782,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0.0989010989010989,
-      "total": 0.014128728414442699
+      "mlp": 0,
+      "total": 0.012362637362637362
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -8719,6 +8846,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -8788,6 +8916,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -8796,23 +8925,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.008144725032142251
+    "total": 0.00798606155749013
   },
   "turkish": {
     "Calculus": {
@@ -8861,6 +8990,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -8924,6 +9054,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -8993,6 +9124,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -9001,23 +9133,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.003441669452723578
+    "total": 0.0033746239439042874
   },
   "ukrainian": {
     "Calculus": {
@@ -9066,6 +9198,7 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
+      "mlp": 0,
       "total": 0
     },
     "Differential Equations": {
@@ -9129,6 +9262,7 @@
       "barber-pole-2": 0,
       "prism": 0,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
@@ -9198,6 +9332,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -9206,20 +9341,20 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
     "total": 0
@@ -9271,7 +9406,8 @@
       "backpropagation-calculus": 0,
       "gpt": 0,
       "attention": 0,
-      "total": 0.0042643923240938165
+      "mlp": 0,
+      "total": 0.0037313432835820895
     },
     "Differential Equations": {
       "differential-equations": 0,
@@ -9334,12 +9470,13 @@
       "barber-pole-2": 0,
       "prism": 0.08994708994708994,
       "refractive-index-questions": 0,
+      "holograms": 0,
       "light-quantum-mechanics": 0,
       "feynmans-lost-lecture": 0,
       "brachistochrone": 0,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.009994121105232215
+      "total": 0.008994708994708995
     },
     "Probability": {
       "clt": 0,
@@ -9403,6 +9540,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -9411,23 +9549,23 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0,
       "total": 0
     },
-    "total": 0.0008866380348211933
+    "total": 0.0008693658653116896
   },
   "vietnamese": {
     "Calculus": {
@@ -9476,7 +9614,8 @@
       "backpropagation-calculus": 0.2898550724637681,
       "gpt": 0.2621951219512195,
       "attention": 0.3076923076923077,
-      "total": 0.30869358152118753
+      "mlp": 0,
+      "total": 0.2701068838310391
     },
     "Differential Equations": {
       "differential-equations": 0.46808510638297873,
@@ -9539,12 +9678,13 @@
       "barber-pole-2": 0.18309859154929578,
       "prism": 0.15873015873015872,
       "refractive-index-questions": 0.14814814814814814,
+      "holograms": 0,
       "light-quantum-mechanics": 0.1527777777777778,
       "feynmans-lost-lecture": 0.05,
       "brachistochrone": 0.08571428571428572,
       "snells-law": 0,
       "turbulence": 0,
-      "total": 0.11895597704226003
+      "total": 0.10706037933803403
     },
     "Probability": {
       "clt": 0.08333333333333333,
@@ -9608,6 +9748,7 @@
       "total": 0
     },
     "Miscellaneous": {
+      "manim-demo": 0,
       "qa1": 0,
       "qa2": 0,
       "qa3": 0,
@@ -9616,22 +9757,22 @@
       "binary-counting": 0,
       "eulers-formula-old": 0,
       "eulers-formula-poem": 0,
-      "harvey-mudd-speech": 0,
-      "cube-shadow-puzzle": 0,
-      "subset-sum": 0,
-      "mandelbrot": 0,
-      "ego-and-math": 0,
-      "how-they-fool-ya": 0,
-      "on-shorts": 0,
-      "newton-art-puzzle": 0,
       "eola-preview": 0.1935483870967742,
-      "visual-proofs": 0,
-      "derivative-formulas-geometrically": 0.23008849557522124,
+      "how-they-fool-ya": 0,
+      "newton-art-puzzle": 0,
+      "on-shorts": 0,
+      "ego-and-math": 0,
       "fourier-series-montage": 0,
       "qa4": 0,
+      "visual-proofs": 0,
       "moser": 0,
-      "total": 0.020053670105505374
+      "harvey-mudd-speech": 0,
+      "subset-sum": 0,
+      "mandelbrot": 0,
+      "cube-shadow-puzzle": 0,
+      "derivative-formulas-geometrically": 0.23008849557522124,
+      "total": 0.019181771405266012
     },
-    "total": 0.14455992650959765
+    "total": 0.14174382404512495
   }
 }
